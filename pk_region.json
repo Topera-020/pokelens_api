@@ -1,0 +1,64 @@
+{
+    "Sheet1": [
+        {
+            "generation_name": "generation-i",
+            "id": 1,
+            "name": "Kanto",
+            "releaseDate": "1996/10/15"
+        },
+        {
+            "generation_name": "generation-ii",
+            "id": 2,
+            "name": "Johto",
+            "releaseDate": "1999/11/21"
+        },
+        {
+            "generation_name": "generation-iii",
+            "id": 3,
+            "name": "Hoenn",
+            "releaseDate": "2002/11/21"
+        },
+        {
+            "generation_name": "generation-iv",
+            "id": 4,
+            "name": "Sinnoh",
+            "releaseDate": "2006/09/28"
+        },
+        {
+            "generation_name": "generation-v",
+            "id": 5,
+            "name": "Unova",
+            "releaseDate": "2010/09/18"
+        },
+        {
+            "generation_name": "generation-vi",
+            "id": 6,
+            "name": "Kalos",
+            "releaseDate": "2013/10/12"
+        },
+        {
+            "generation_name": "generation-vii",
+            "id": 7,
+            "name": "Alola",
+            "releaseDate": "2016/11/18"
+        },
+        {
+            "generation_name": "generation-viii",
+            "id": 8,
+            "name": "Galar",
+            "releaseDate": "2019/11/15"
+        },
+        {
+            "generation_name": "generation-ix",
+            "id": 9,
+            "name": "Hissui",
+            "releaseDate": "2022/01/28"
+        },
+        {
+            "generation_name": "generation-x",
+            "id": 10,
+            "name": "Paldea",
+            "releaseDate": "2022/11/18"
+        }
+    ]
+}

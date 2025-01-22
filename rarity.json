@@ -1,0 +1,180 @@
+{
+    "Sheet1": [
+        {
+            "name": "Common",
+            "id": 1,
+            "nomePt": "Comum"
+        },
+        {
+            "name": "Uncommon",
+            "id": 2,
+            "nomePt": "Incomum"
+        },
+        {
+            "name": "Rare",
+            "id": 3,
+            "nomePt": "Rara"
+        },
+        {
+            "name": "Promo",
+            "id": 4
+        },
+        {
+            "name": "Rare Holo",
+            "id": 5,
+            "nomePt": "Holo"
+        },
+        {
+            "name": "Rare Secret",
+            "id": 6,
+            "nomePt": "Secreta"
+        },
+        {
+            "name": "Rare Shining",
+            "id": 7,
+            "nomePt": "Shining"
+        },
+        {
+            "name": "Rare Holo EX",
+            "id": 8,
+            "nomePt": "Holo EX"
+        },
+        {
+            "name": "Rare Holo Star",
+            "id": 9,
+            "nomePt": "Holo Star"
+        },
+        {
+            "id": 10
+        },
+        {
+            "name": "Rare Holo LV.X",
+            "id": 11,
+            "nomePt": "Holo LV.X"
+        },
+        {
+            "name": "Rare Prime",
+            "id": 12,
+            "nomePt": "Prime"
+        },
+        {
+            "name": "LEGEND",
+            "id": 13
+        },
+        {
+            "name": "Rare Ultra",
+            "id": 14,
+            "nomePt": "Ultra Rara"
+        },
+        {
+            "name": "ACE SPEC",
+            "id": 15,
+            "nomePt": "ACE SPEC"
+        },
+        {
+            "name": "Rare BREAK",
+            "id": 16,
+            "nomePt": "BREAK"
+        },
+        {
+            "name": "Rare Holo GX",
+            "id": 17,
+            "nomePt": "GX"
+        },
+        {
+            "name": "Rare Rainbow",
+            "id": 18,
+            "nomePt": "Arco-ìris"
+        },
+        {
+            "name": "Rare Prism Star",
+            "id": 19,
+            "nomePt": "Estrela Prisma"
+        },
+        {
+            "name": "Rare Shiny",
+            "id": 20,
+            "nomePt": "Brilhante"
+        },
+        {
+            "name": "Rare Shiny GX",
+            "id": 21,
+            "nomePt": "Brilhante GX"
+        },
+        {
+            "name": "Rare Holo V",
+            "id": 22,
+            "nomePt": "V"
+        },
+        {
+            "name": "Rare Holo VMAX",
+            "id": 23,
+            "nomePt": "VMAX"
+        },
+        {
+            "name": "Classic Collection",
+            "id": 24,
+            "nomePt": "Coleção Clássica"
+        },
+        {
+            "name": "Radiant Rare",
+            "id": 25,
+            "nomePt": "Radiante"
+        },
+        {
+            "name": "Rare Holo VSTAR",
+            "id": 26,
+            "nomePt": "VSTAR"
+        },
+        {
+            "name": "Trainer Gallery Rare Holo",
+            "id": 27,
+            "nomePt": "Trainer Gallery"
+        },
+        {
+            "name": "Amazing Rare",
+            "id": 28,
+            "nomePt": "Amazing"
+        },
+        {
+            "name": "Hyper Rare",
+            "id": 29,
+            "nomePt": "Hiper"
+        },
+        {
+            "name": "Double Rare",
+            "id": 30,
+            "nomePt": "Double"
+        },
+        {
+            "name": "Illustration Rare",
+            "id": 31,
+            "nomePt": "Ilustração"
+        },
+        {
+            "name": "Ultra Rare",
+            "id": 32,
+            "nomePt": "Ultra Rara"
+        },
+        {
+            "name": "Special Illustration Rare",
+            "id": 33,
+            "nomePt": "Ilustração Especial"
+        },
+        {
+            "name": "Shiny Rare",
+            "id": 34,
+            "nomePt": "Shiny"
+        },
+        {
+            "name": "Shiny Ultra Rare",
+            "id": 35,
+            "nomePt": "Brilhante Ultra"
+        },
+        {
+            "name": "ACE SPEC Rare",
+            "id": 36,
+            "nomePt": "ACE SPEC"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "Sheet1": [
+        {
+            "name": "normal",
+            "id": 1,
+            "nomePt": "Normal"
+        },
+        {
+            "name": "fighting",
+            "id": 2,
+            "nomePt": "Lutador"
+        },
+        {
+            "name": "flying",
+            "id": 3,
+            "nomePt": "Voador"
+        },
+        {
+            "name": "poison",
+            "id": 4,
+            "nomePt": "Venenoso"
+        },
+        {
+            "name": "ground",
+            "id": 5,
+            "nomePt": "Terrestre"
+        },
+        {
+            "name": "rock",
+            "id": 6,
+            "nomePt": "Pedra"
+        },
+        {
+            "name": "bug",
+            "id": 7,
+            "nomePt": "Inseto"
+        },
+        {
+            "name": "ghost",
+            "id": 8,
+            "nomePt": "Fantasma"
+        },
+        {
+            "name": "steel",
+            "id": 9,
+            "nomePt": "Aço"
+        },
+        {
+            "name": "fire",
+            "id": 10,
+            "nomePt": "Fogo"
+        },
+        {
+            "name": "water",
+            "id": 11,
+            "nomePt": "Água"
+        },
+        {
+            "name": "grass",
+            "id": 12,
+            "nomePt": "Grama"
+        },
+        {
+            "name": "electric",
+            "id": 13,
+            "nomePt": "Elétrico"
+        },
+        {
+            "name": "psychic",
+            "id": 14,
+            "nomePt": "Psíquico"
+        },
+        {
+            "name": "ice",
+            "id": 15,
+            "nomePt": "Gelo"
+        },
+        {
+            "name": "dragon",
+            "id": 16,
+            "nomePt": "Dragão"
+        },
+        {
+            "name": "dark",
+            "id": 17,
+            "nomePt": "Sombrio"
+        },
+        {
+            "name": "fairy",
+            "id": 18,
+            "nomePt": "Fada"
+        }
+    ]
+}
