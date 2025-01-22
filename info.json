@@ -23,7 +23,7 @@
         "moeda_cores.json",
         "moeda_efeito.json",
         "moeda_tamanho.json",
-        "pk_region.json",
+        "regions.json",
         "pk_types.json",
         "pokedex.json",
         "rarity.json",
