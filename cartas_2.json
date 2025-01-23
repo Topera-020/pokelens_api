@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "seriesId": 2,
             "id": "gym1-15",
             "name": "Brock",
             "collectionId": "gym1",
@@ -14,7 +13,6 @@
             "myp": "g1_015"
         },
         {
-            "seriesId": 2,
             "id": "gym1-16",
             "name": "Erika",
             "collectionId": "gym1",
@@ -27,7 +25,6 @@
             "myp": "g1_016"
         },
         {
-            "seriesId": 2,
             "id": "gym1-17",
             "name": "Lt. Surge",
             "nomePt": "Cap. Surge",
@@ -41,7 +38,6 @@
             "myp": "g1_017"
         },
         {
-            "seriesId": 2,
             "id": "gym1-18",
             "name": "Misty",
             "collectionId": "gym1",
@@ -54,7 +50,6 @@
             "myp": "g1_018"
         },
         {
-            "seriesId": 2,
             "id": "gym1-19",
             "name": "The Rocket's Trap",
             "collectionId": "gym1",
@@ -68,7 +63,6 @@
             "myp": "g1_019"
         },
         {
-            "seriesId": 2,
             "id": "gym1-97",
             "name": "Blaine's Quiz #1",
             "collectionId": "gym1",
@@ -81,7 +75,6 @@
             "myp": "g1_097"
         },
         {
-            "seriesId": 2,
             "id": "gym1-98",
             "name": "Brock",
             "collectionId": "gym1",
@@ -94,7 +87,6 @@
             "myp": "g1_098"
         },
         {
-            "seriesId": 2,
             "id": "gym1-99",
             "name": "Charity",
             "collectionId": "gym1",
@@ -107,7 +99,6 @@
             "myp": "g1_099"
         },
         {
-            "seriesId": 2,
             "id": "gym1-100",
             "name": "Erika",
             "collectionId": "gym1",
@@ -120,7 +111,6 @@
             "myp": "g1_100"
         },
         {
-            "seriesId": 2,
             "id": "gym1-101",
             "name": "Lt. Surge",
             "nomePt": "Cap. Surge",
@@ -134,7 +124,6 @@
             "myp": "g1_101"
         },
         {
-            "seriesId": 2,
             "id": "gym1-102",
             "name": "Misty",
             "collectionId": "gym1",
@@ -147,7 +136,6 @@
             "myp": "g1_102"
         },
         {
-            "seriesId": 2,
             "id": "gym1-105",
             "name": "Blaine's Last Resort",
             "collectionId": "gym1",
@@ -160,7 +148,6 @@
             "myp": "g1_105"
         },
         {
-            "seriesId": 2,
             "id": "gym1-106",
             "name": "Brock's Training Method",
             "collectionId": "gym1",
@@ -173,7 +160,6 @@
             "myp": "g1_106"
         },
         {
-            "seriesId": 2,
             "id": "gym1-109",
             "name": "Erika's Maids",
             "collectionId": "gym1",
@@ -186,7 +172,6 @@
             "myp": "g1_109"
         },
         {
-            "seriesId": 2,
             "id": "gym1-110",
             "name": "Erika's Perfume",
             "collectionId": "gym1",
@@ -199,7 +184,6 @@
             "myp": "g1_110"
         },
         {
-            "seriesId": 2,
             "id": "gym1-111",
             "name": "Good Manners",
             "collectionId": "gym1",
@@ -212,7 +196,6 @@
             "myp": "g1_111"
         },
         {
-            "seriesId": 2,
             "id": "gym1-112",
             "name": "Lt. Surge's Treaty",
             "collectionId": "gym1",
@@ -225,7 +208,6 @@
             "myp": "g1_112"
         },
         {
-            "seriesId": 2,
             "id": "gym1-113",
             "name": "Minion of Team Rocket",
             "collectionId": "gym1",
@@ -239,7 +221,6 @@
             "myp": "g1_113"
         },
         {
-            "seriesId": 2,
             "id": "gym1-114",
             "name": "Misty's Wrath",
             "collectionId": "gym1",
@@ -252,7 +233,6 @@
             "myp": "g1_114"
         },
         {
-            "seriesId": 2,
             "id": "gym1-116",
             "name": "Recall",
             "collectionId": "gym1",
@@ -265,7 +245,6 @@
             "myp": "g1_116"
         },
         {
-            "seriesId": 2,
             "id": "gym1-117",
             "name": "Sabrina's ESP",
             "collectionId": "gym1",
@@ -278,7 +257,6 @@
             "myp": "g1_117"
         },
         {
-            "seriesId": 2,
             "id": "gym1-118",
             "name": "Secret Mission",
             "collectionId": "gym1",
@@ -291,7 +269,6 @@
             "myp": "g1_118"
         },
         {
-            "seriesId": 2,
             "id": "gym1-121",
             "name": "Blaine's Gamble",
             "collectionId": "gym1",
@@ -304,7 +281,6 @@
             "myp": "g1_121"
         },
         {
-            "seriesId": 2,
             "id": "gym1-122",
             "name": "Energy Flow",
             "collectionId": "gym1",
@@ -317,7 +293,6 @@
             "myp": "g1_122"
         },
         {
-            "seriesId": 2,
             "id": "gym1-123",
             "name": "Misty's Duel",
             "collectionId": "gym1",
@@ -330,7 +305,6 @@
             "myp": "g1_123"
         },
         {
-            "seriesId": 2,
             "id": "gym1-125",
             "name": "Sabrina's Gaze",
             "collectionId": "gym1",
@@ -343,7 +317,6 @@
             "myp": "g1_125"
         },
         {
-            "seriesId": 2,
             "id": "gym1-126",
             "name": "Trash Exchange",
             "collectionId": "gym1",
@@ -356,7 +329,6 @@
             "myp": "g1_126"
         },
         {
-            "seriesId": 2,
             "id": "gym2-17",
             "name": "Blaine",
             "collectionId": "gym2",
@@ -369,7 +341,6 @@
             "myp": "g2_017"
         },
         {
-            "seriesId": 2,
             "id": "gym2-18",
             "name": "Giovanni",
             "collectionId": "gym2",
@@ -382,7 +353,6 @@
             "myp": "g2_018"
         },
         {
-            "seriesId": 2,
             "id": "gym2-19",
             "name": "Koga",
             "collectionId": "gym2",
@@ -395,7 +365,6 @@
             "myp": "g2_019"
         },
         {
-            "seriesId": 2,
             "id": "gym2-20",
             "name": "Sabrina",
             "collectionId": "gym2",
@@ -408,7 +377,6 @@
             "myp": "g2_020"
         },
         {
-            "seriesId": 2,
             "id": "gym2-100",
             "name": "Blaine",
             "collectionId": "gym2",
@@ -421,7 +389,6 @@
             "myp": "g2_100"
         },
         {
-            "seriesId": 2,
             "id": "gym2-101",
             "name": "Brock's Protection",
             "collectionId": "gym2",
@@ -434,7 +401,6 @@
             "myp": "g2_101"
         },
         {
-            "seriesId": 2,
             "id": "gym2-103",
             "name": "Erika's Kindness",
             "collectionId": "gym2",
@@ -447,7 +413,6 @@
             "myp": "g2_103"
         },
         {
-            "seriesId": 2,
             "id": "gym2-104",
             "name": "Giovanni",
             "collectionId": "gym2",
@@ -460,7 +425,6 @@
             "myp": "g2_104"
         },
         {
-            "seriesId": 2,
             "id": "gym2-105",
             "name": "Giovanni's Last Resort",
             "collectionId": "gym2",
@@ -473,7 +437,6 @@
             "myp": "g2_105"
         },
         {
-            "seriesId": 2,
             "id": "gym2-106",
             "name": "Koga",
             "collectionId": "gym2",
@@ -486,7 +449,6 @@
             "myp": "g2_106"
         },
         {
-            "seriesId": 2,
             "id": "gym2-107",
             "name": "Lt. Surge's Secret Plan",
             "collectionId": "gym2",
@@ -499,7 +461,6 @@
             "myp": "g2_107"
         },
         {
-            "seriesId": 2,
             "id": "gym2-108",
             "name": "Misty's Wish",
             "collectionId": "gym2",
@@ -512,7 +473,6 @@
             "myp": "g2_108"
         },
         {
-            "seriesId": 2,
             "id": "gym2-110",
             "name": "Sabrina",
             "collectionId": "gym2",
@@ -525,7 +485,6 @@
             "myp": "g2_110"
         },
         {
-            "seriesId": 2,
             "id": "gym2-111",
             "name": "Blaine's Quiz #2",
             "collectionId": "gym2",
@@ -538,7 +497,6 @@
             "myp": "g2_111"
         },
         {
-            "seriesId": 2,
             "id": "gym2-112",
             "name": "Blaine's Quiz #3",
             "collectionId": "gym2",
@@ -551,7 +509,6 @@
             "myp": "g2_112"
         },
         {
-            "seriesId": 2,
             "id": "gym2-115",
             "name": "Koga's Ninja Trick",
             "collectionId": "gym2",
@@ -564,7 +521,6 @@
             "myp": "g2_115"
         },
         {
-            "seriesId": 2,
             "id": "gym2-116",
             "name": "Master Ball",
             "nomePt": "Bola Mestra",
@@ -578,7 +534,6 @@
             "myp": "g2_116"
         },
         {
-            "seriesId": 2,
             "id": "gym2-117",
             "name": "Max Revive",
             "nomePt": "Maximo Reviver",
@@ -592,7 +547,6 @@
             "myp": "g2_117"
         },
         {
-            "seriesId": 2,
             "id": "gym2-118",
             "name": "Misty's Tears",
             "collectionId": "gym2",
@@ -605,7 +559,6 @@
             "myp": "g2_118"
         },
         {
-            "seriesId": 2,
             "id": "gym2-120",
             "name": "Rocket's Secret Experiment",
             "collectionId": "gym2",
@@ -619,7 +572,6 @@
             "myp": "g2_120"
         },
         {
-            "seriesId": 2,
             "id": "gym2-121",
             "name": "Sabrina's Psychic Control",
             "collectionId": "gym2",
@@ -632,7 +584,6 @@
             "myp": "g2_121"
         },
         {
-            "seriesId": 2,
             "id": "gym2-124",
             "name": "Fervor",
             "collectionId": "gym2",
@@ -645,7 +596,6 @@
             "myp": "g2_124"
         },
         {
-            "seriesId": 2,
             "id": "gym2-125",
             "name": "Transparent Walls",
             "collectionId": "gym2",
@@ -658,7 +608,6 @@
             "myp": "g2_125"
         },
         {
-            "seriesId": 2,
             "id": "gym2-126",
             "name": "Warp Point",
             "collectionId": "gym2",
@@ -671,7 +620,6 @@
             "myp": "g2_126"
         },
         {
-            "seriesId": 2,
             "id": "gym1-1",
             "name": "Blaine's Moltres",
             "nomePt": "Moltres do Blaine",
@@ -689,7 +637,6 @@
             "myp": "g1_001"
         },
         {
-            "seriesId": 2,
             "id": "gym1-10",
             "name": "Misty's Tentacruel",
             "nomePt": "Tentacruel da Misty",
@@ -707,7 +654,6 @@
             "myp": "g1_010"
         },
         {
-            "seriesId": 2,
             "id": "gym1-103",
             "name": "No Removal Gym",
             "collectionId": "gym1",
@@ -721,7 +667,6 @@
             "myp": "g1_103"
         },
         {
-            "seriesId": 2,
             "id": "gym1-104",
             "name": "The Rocket's Training Gym",
             "collectionId": "gym1",
@@ -735,7 +680,6 @@
             "myp": "g1_104"
         },
         {
-            "seriesId": 2,
             "id": "gym1-107",
             "name": "Celadon City Gym",
             "collectionId": "gym1",
@@ -749,7 +693,6 @@
             "myp": "g1_107"
         },
         {
-            "seriesId": 2,
             "id": "gym1-108",
             "name": "Cerulean City Gym",
             "collectionId": "gym1",
@@ -763,7 +706,6 @@
             "myp": "g1_108"
         },
         {
-            "seriesId": 2,
             "id": "gym1-11",
             "name": "Rocket's Hitmonchan",
             "collectionId": "gym1",
@@ -780,7 +722,6 @@
             "myp": "g1_011"
         },
         {
-            "seriesId": 2,
             "id": "gym1-115",
             "name": "Pewter City Gym",
             "collectionId": "gym1",
@@ -794,7 +735,6 @@
             "myp": "g1_115"
         },
         {
-            "seriesId": 2,
             "id": "gym1-119",
             "name": "Tickling Machine",
             "collectionId": "gym1",
@@ -808,7 +748,6 @@
             "myp": "g1_119"
         },
         {
-            "seriesId": 2,
             "id": "gym1-12",
             "name": "Rocket's Moltres",
             "collectionId": "gym1",
@@ -825,7 +764,6 @@
             "myp": "g1_012"
         },
         {
-            "seriesId": 2,
             "id": "gym1-120",
             "name": "Vermilion City Gym",
             "collectionId": "gym1",
@@ -839,7 +777,6 @@
             "myp": "g1_120"
         },
         {
-            "seriesId": 2,
             "id": "gym1-124",
             "name": "Narrow Gym",
             "collectionId": "gym1",
@@ -853,7 +790,6 @@
             "myp": "g1_124"
         },
         {
-            "seriesId": 2,
             "id": "gym1-127",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
@@ -868,7 +804,6 @@
             "myp": "g1_127"
         },
         {
-            "seriesId": 2,
             "id": "gym1-128",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
@@ -883,7 +818,6 @@
             "myp": "g1_128"
         },
         {
-            "seriesId": 2,
             "id": "gym1-129",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
@@ -898,7 +832,6 @@
             "myp": "g1_129"
         },
         {
-            "seriesId": 2,
             "id": "gym1-13",
             "name": "Rocket's Scyther",
             "collectionId": "gym1",
@@ -915,7 +848,6 @@
             "myp": "g1_013"
         },
         {
-            "seriesId": 2,
             "id": "gym1-130",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
@@ -930,7 +862,6 @@
             "myp": "g1_130"
         },
         {
-            "seriesId": 2,
             "id": "gym1-131",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
@@ -945,7 +876,6 @@
             "myp": "g1_131"
         },
         {
-            "seriesId": 2,
             "id": "gym1-132",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
@@ -960,7 +890,6 @@
             "myp": "g1_132"
         },
         {
-            "seriesId": 2,
             "id": "gym1-14",
             "name": "Sabrina's Gengar",
             "nomePt": "Gengar da Sabrina",
@@ -978,7 +907,6 @@
             "myp": "g1_014"
         },
         {
-            "seriesId": 2,
             "id": "gym1-2",
             "name": "Brock's Rhydon",
             "nomePt": "Rhydon do Brock",
@@ -996,7 +924,6 @@
             "myp": "g1_002"
         },
         {
-            "seriesId": 2,
             "id": "gym1-20",
             "name": "Brock's Golem",
             "nomePt": "Golem do Brock",
@@ -1014,7 +941,6 @@
             "myp": "g1_020"
         },
         {
-            "seriesId": 2,
             "id": "gym1-21",
             "name": "Brock's Onix",
             "nomePt": "Onix do Brock",
@@ -1032,7 +958,6 @@
             "myp": "g1_021"
         },
         {
-            "seriesId": 2,
             "id": "gym1-22",
             "name": "Brock's Rhyhorn",
             "nomePt": "Rhyhorn do Brock",
@@ -1050,7 +975,6 @@
             "myp": "g1_022"
         },
         {
-            "seriesId": 2,
             "id": "gym1-23",
             "name": "Brock's Sandslash",
             "nomePt": "Sandslash do Brock",
@@ -1068,7 +992,6 @@
             "myp": "g1_023"
         },
         {
-            "seriesId": 2,
             "id": "gym1-24",
             "name": "Brock's Zubat",
             "nomePt": "Zubat do Brock",
@@ -1086,7 +1009,6 @@
             "myp": "g1_024"
         },
         {
-            "seriesId": 2,
             "id": "gym1-25",
             "name": "Erika's Clefairy",
             "nomePt": "Clefairy da Erika",
@@ -1104,7 +1026,6 @@
             "myp": "g1_025"
         },
         {
-            "seriesId": 2,
             "id": "gym1-26",
             "name": "Erika's Victreebel",
             "nomePt": "Victreebel da Erika",
@@ -1122,7 +1043,6 @@
             "myp": "g1_026"
         },
         {
-            "seriesId": 2,
             "id": "gym1-27",
             "name": "Lt. Surge's Electabuzz",
             "nomePt": "Electabuzz do Cap. Surge",
@@ -1140,7 +1060,6 @@
             "myp": "g1_027"
         },
         {
-            "seriesId": 2,
             "id": "gym1-28",
             "name": "Lt. Surge's Raichu",
             "nomePt": "Raichu do Cap. Surge",
@@ -1158,7 +1077,6 @@
             "myp": "g1_028"
         },
         {
-            "seriesId": 2,
             "id": "gym1-29",
             "name": "Misty's Cloyster",
             "nomePt": "Cloyster da Misty",
@@ -1176,7 +1094,6 @@
             "myp": "g1_029"
         },
         {
-            "seriesId": 2,
             "id": "gym1-3",
             "name": "Erika's Clefable",
             "nomePt": "Clefable da Erika",
@@ -1194,7 +1111,6 @@
             "myp": "g1_003"
         },
         {
-            "seriesId": 2,
             "id": "gym1-30",
             "name": "Misty's Goldeen",
             "nomePt": "Goldeen da Misty",
@@ -1212,7 +1128,6 @@
             "myp": "g1_030"
         },
         {
-            "seriesId": 2,
             "id": "gym1-31",
             "name": "Misty's Poliwrath",
             "nomePt": "Poliwrath da Misty",
@@ -1230,7 +1145,6 @@
             "myp": "g1_031"
         },
         {
-            "seriesId": 2,
             "id": "gym1-32",
             "name": "Misty's Tentacool",
             "nomePt": "Tentacool da Misty",
@@ -1248,7 +1162,6 @@
             "myp": "g1_032"
         },
         {
-            "seriesId": 2,
             "id": "gym1-33",
             "name": "Rocket's Snorlax",
             "collectionId": "gym1",
@@ -1265,7 +1178,6 @@
             "myp": "g1_033"
         },
         {
-            "seriesId": 2,
             "id": "gym1-34",
             "name": "Sabrina's Venomoth",
             "nomePt": "Venomoth da Sabrina",
@@ -1283,7 +1195,6 @@
             "myp": "g1_034"
         },
         {
-            "seriesId": 2,
             "id": "gym1-35",
             "name": "Blaine's Growlithe",
             "nomePt": "Growlithe do Blaine",
@@ -1301,7 +1212,6 @@
             "myp": "g1_035"
         },
         {
-            "seriesId": 2,
             "id": "gym1-36",
             "name": "Blaine's Kangaskhan",
             "nomePt": "Kangaskhan do Blaine",
@@ -1319,7 +1229,6 @@
             "myp": "g1_036"
         },
         {
-            "seriesId": 2,
             "id": "gym1-37",
             "name": "Blaine's Magmar",
             "nomePt": "Magmar do Blaine",
@@ -1337,7 +1246,6 @@
             "myp": "g1_037"
         },
         {
-            "seriesId": 2,
             "id": "gym1-38",
             "name": "Brock's Geodude",
             "nomePt": "Geodude do Brock",
@@ -1355,7 +1263,6 @@
             "myp": "g1_038"
         },
         {
-            "seriesId": 2,
             "id": "gym1-39",
             "name": "Brock's Golbat",
             "nomePt": "Golbat do Brock",
@@ -1373,7 +1280,6 @@
             "myp": "g1_039"
         },
         {
-            "seriesId": 2,
             "id": "gym1-4",
             "name": "Erika's Dragonair",
             "nomePt": "Dragonair da Erika",
@@ -1391,7 +1297,6 @@
             "myp": "g1_004"
         },
         {
-            "seriesId": 2,
             "id": "gym1-40",
             "name": "Brock's Graveler",
             "nomePt": "Graveler do Brock",
@@ -1409,7 +1314,6 @@
             "myp": "g1_040"
         },
         {
-            "seriesId": 2,
             "id": "gym1-41",
             "name": "Brock's Lickitung",
             "nomePt": "Lickitung do Brock",
@@ -1427,7 +1331,6 @@
             "myp": "g1_041"
         },
         {
-            "seriesId": 2,
             "id": "gym1-42",
             "name": "Erika's Dratini",
             "nomePt": "Dratini da Erika",
@@ -1445,7 +1348,6 @@
             "myp": "g1_042"
         },
         {
-            "seriesId": 2,
             "id": "gym1-43",
             "name": "Erika's Exeggcute",
             "nomePt": "Exeggcute da Erika",
@@ -1463,7 +1365,6 @@
             "myp": "g1_043"
         },
         {
-            "seriesId": 2,
             "id": "gym1-44",
             "name": "Erika's Exeggutor",
             "nomePt": "Exeggutor da Erika",
@@ -1481,7 +1382,6 @@
             "myp": "g1_044"
         },
         {
-            "seriesId": 2,
             "id": "gym1-45",
             "name": "Erika's Gloom",
             "nomePt": "Gloom da Erika",
@@ -1499,7 +1399,6 @@
             "myp": "g1_045"
         },
         {
-            "seriesId": 2,
             "id": "gym1-46",
             "name": "Erika's Gloom",
             "nomePt": "Gloom da Erika",
@@ -1517,7 +1416,6 @@
             "myp": "g1_046"
         },
         {
-            "seriesId": 2,
             "id": "gym1-47",
             "name": "Erika's Oddish",
             "nomePt": "Oddish da Erika",
@@ -1535,7 +1433,6 @@
             "myp": "g1_047"
         },
         {
-            "seriesId": 2,
             "id": "gym1-48",
             "name": "Erika's Weepinbell",
             "nomePt": "Weepinbell da Erika",
@@ -1553,7 +1450,6 @@
             "myp": "g1_048"
         },
         {
-            "seriesId": 2,
             "id": "gym1-49",
             "name": "Erika's Weepinbell",
             "nomePt": "Weepinbell da Erika",
@@ -1571,7 +1467,6 @@
             "myp": "g1_049"
         },
         {
-            "seriesId": 2,
             "id": "gym1-5",
             "name": "Erika's Vileplume",
             "nomePt": "Vileplume da Erika",
@@ -1589,7 +1484,6 @@
             "myp": "g1_005"
         },
         {
-            "seriesId": 2,
             "id": "gym1-50",
             "name": "Lt. Surge's Magnemite",
             "nomePt": "Magnemite do Cap. Surge",
@@ -1607,7 +1501,6 @@
             "myp": "g1_050"
         },
         {
-            "seriesId": 2,
             "id": "gym1-51",
             "name": "Lt. Surge's Raticate",
             "nomePt": "Raticate do Cap. Surge",
@@ -1625,7 +1518,6 @@
             "myp": "g1_051"
         },
         {
-            "seriesId": 2,
             "id": "gym1-52",
             "name": "Lt. Surge's Spearow",
             "nomePt": "Spearow do Cap. Surge",
@@ -1643,7 +1535,6 @@
             "myp": "g1_052"
         },
         {
-            "seriesId": 2,
             "id": "gym1-53",
             "name": "Misty's Poliwhirl",
             "nomePt": "Poliwhirl da Misty",
@@ -1661,7 +1552,6 @@
             "myp": "g1_053"
         },
         {
-            "seriesId": 2,
             "id": "gym1-54",
             "name": "Misty's Psyduck",
             "nomePt": "Psyduck da Misty",
@@ -1679,7 +1569,6 @@
             "myp": "g1_054"
         },
         {
-            "seriesId": 2,
             "id": "gym1-55",
             "name": "Misty's Seaking",
             "nomePt": "Seaking da Misty",
@@ -1697,7 +1586,6 @@
             "myp": "g1_055"
         },
         {
-            "seriesId": 2,
             "id": "gym1-56",
             "name": "Misty's Starmie",
             "nomePt": "Starmie da Misty",
@@ -1715,7 +1603,6 @@
             "myp": "g1_056"
         },
         {
-            "seriesId": 2,
             "id": "gym1-57",
             "name": "Misty's Tentacool",
             "nomePt": "Tentacool da Misty",
@@ -1733,7 +1620,6 @@
             "myp": "g1_057"
         },
         {
-            "seriesId": 2,
             "id": "gym1-58",
             "name": "Sabrina's Haunter",
             "nomePt": "Haunter da Sabrina",
@@ -1751,7 +1637,6 @@
             "myp": "g1_058"
         },
         {
-            "seriesId": 2,
             "id": "gym1-59",
             "name": "Sabrina's Jynx",
             "nomePt": "Jynx da Sabrina",
@@ -1769,7 +1654,6 @@
             "myp": "g1_059"
         },
         {
-            "seriesId": 2,
             "id": "gym1-6",
             "name": "Lt. Surge's Electabuzz",
             "nomePt": "Electabuzz do Cap. Surge",
@@ -1787,7 +1671,6 @@
             "myp": "g1_006"
         },
         {
-            "seriesId": 2,
             "id": "gym1-60",
             "name": "Sabrina's Slowbro",
             "nomePt": "Slowbro da Sabrina",
@@ -1805,7 +1688,6 @@
             "myp": "g1_060"
         },
         {
-            "seriesId": 2,
             "id": "gym1-61",
             "name": "Blaine's Charmander",
             "nomePt": "Charmander do Blaine",
@@ -1823,7 +1705,6 @@
             "myp": "g1_061"
         },
         {
-            "seriesId": 2,
             "id": "gym1-62",
             "name": "Blaine's Growlithe",
             "nomePt": "Growlithe do Blaine",
@@ -1841,7 +1722,6 @@
             "myp": "g1_062"
         },
         {
-            "seriesId": 2,
             "id": "gym1-63",
             "name": "Blaine's Ponyta",
             "nomePt": "Ponyta do Blaine",
@@ -1859,7 +1739,6 @@
             "myp": "g1_063"
         },
         {
-            "seriesId": 2,
             "id": "gym1-64",
             "name": "Blaine's Tauros",
             "nomePt": "Tauros do Blaine",
@@ -1877,7 +1756,6 @@
             "myp": "g1_064"
         },
         {
-            "seriesId": 2,
             "id": "gym1-65",
             "name": "Blaine's Vulpix",
             "nomePt": "Vulpix do Blaine",
@@ -1895,7 +1773,6 @@
             "myp": "g1_065"
         },
         {
-            "seriesId": 2,
             "id": "gym1-66",
             "name": "Brock's Geodude",
             "nomePt": "Geodude do Brock",
@@ -1913,7 +1790,6 @@
             "myp": "g1_066"
         },
         {
-            "seriesId": 2,
             "id": "gym1-67",
             "name": "Brock's Mankey",
             "nomePt": "Mankey do Brock",
@@ -1931,7 +1807,6 @@
             "myp": "g1_067"
         },
         {
-            "seriesId": 2,
             "id": "gym1-68",
             "name": "Brock's Mankey",
             "nomePt": "Mankey do Brock",
@@ -1949,7 +1824,6 @@
             "myp": "g1_068"
         },
         {
-            "seriesId": 2,
             "id": "gym1-69",
             "name": "Brock's Onix",
             "nomePt": "Onix do Brock",
@@ -1967,7 +1841,6 @@
             "myp": "g1_069"
         },
         {
-            "seriesId": 2,
             "id": "gym1-7",
             "name": "Lt. Surge's Fearow",
             "nomePt": "Fearow do Cap. Surge",
@@ -1985,7 +1858,6 @@
             "myp": "g1_007"
         },
         {
-            "seriesId": 2,
             "id": "gym1-70",
             "name": "Brock's Rhyhorn",
             "nomePt": "Rhyhorn do Brock",
@@ -2003,7 +1875,6 @@
             "myp": "g1_070"
         },
         {
-            "seriesId": 2,
             "id": "gym1-71",
             "name": "Brock's Sandshrew",
             "nomePt": "Sandshrew do Brock",
@@ -2021,7 +1892,6 @@
             "myp": "g1_071"
         },
         {
-            "seriesId": 2,
             "id": "gym1-72",
             "name": "Brock's Sandshrew",
             "nomePt": "Sandshrew do Brock",
@@ -2039,7 +1909,6 @@
             "myp": "g1_072"
         },
         {
-            "seriesId": 2,
             "id": "gym1-73",
             "name": "Brock's Vulpix",
             "nomePt": "Vulpix do Brock",
@@ -2057,7 +1926,6 @@
             "myp": "g1_073"
         },
         {
-            "seriesId": 2,
             "id": "gym1-74",
             "name": "Brock's Zubat",
             "nomePt": "Zubat do Brock",
@@ -2075,7 +1943,6 @@
             "myp": "g1_074"
         },
         {
-            "seriesId": 2,
             "id": "gym1-75",
             "name": "Erika's Bellsprout",
             "nomePt": "Bellsprout da Erika",
@@ -2093,7 +1960,6 @@
             "myp": "g1_075"
         },
         {
-            "seriesId": 2,
             "id": "gym1-76",
             "name": "Erika's Bellsprout",
             "nomePt": "Bellsprout da Erika",
@@ -2111,7 +1977,6 @@
             "myp": "g1_076"
         },
         {
-            "seriesId": 2,
             "id": "gym1-77",
             "name": "Erika's Exeggcute",
             "nomePt": "Exeggcute da Erika",
@@ -2129,7 +1994,6 @@
             "myp": "g1_077"
         },
         {
-            "seriesId": 2,
             "id": "gym1-78",
             "name": "Erika's Oddish",
             "nomePt": "Oddish da Erika",
@@ -2147,7 +2011,6 @@
             "myp": "g1_078"
         },
         {
-            "seriesId": 2,
             "id": "gym1-79",
             "name": "Erika's Tangela",
             "nomePt": "Tangela da Erika",
@@ -2165,7 +2028,6 @@
             "myp": "g1_079"
         },
         {
-            "seriesId": 2,
             "id": "gym1-8",
             "name": "Lt. Surge's Magneton",
             "nomePt": "Magneton do Cap. Surge",
@@ -2183,7 +2045,6 @@
             "myp": "g1_008"
         },
         {
-            "seriesId": 2,
             "id": "gym1-80",
             "name": "Lt. Surge's Magnemite",
             "nomePt": "Magnemite do Cap. Surge",
@@ -2201,7 +2062,6 @@
             "myp": "g1_080"
         },
         {
-            "seriesId": 2,
             "id": "gym1-81",
             "name": "Lt. Surge's Pikachu",
             "nomePt": "Pikachu do Cap. Surge",
@@ -2219,7 +2079,6 @@
             "myp": "g1_081"
         },
         {
-            "seriesId": 2,
             "id": "gym1-82",
             "name": "Lt. Surge's Rattata",
             "nomePt": "Rattata do Cap. Surge",
@@ -2237,7 +2096,6 @@
             "myp": "g1_082"
         },
         {
-            "seriesId": 2,
             "id": "gym1-83",
             "name": "Lt. Surge's Spearow",
             "nomePt": "Spearow do Cap. Surge",
@@ -2255,7 +2113,6 @@
             "myp": "g1_083"
         },
         {
-            "seriesId": 2,
             "id": "gym1-84",
             "name": "Lt. Surge's Voltorb",
             "nomePt": "Voltorb do Cap. Surge",
@@ -2273,7 +2130,6 @@
             "myp": "g1_084"
         },
         {
-            "seriesId": 2,
             "id": "gym1-85",
             "name": "Misty's Goldeen",
             "nomePt": "Goldeen da Misty",
@@ -2291,7 +2147,6 @@
             "myp": "g1_085"
         },
         {
-            "seriesId": 2,
             "id": "gym1-86",
             "name": "Misty's Horsea",
             "nomePt": "Horsea da Misty",
@@ -2309,7 +2164,6 @@
             "myp": "g1_086"
         },
         {
-            "seriesId": 2,
             "id": "gym1-87",
             "name": "Misty's Poliwag",
             "nomePt": "Poliwag da Misty",
@@ -2327,7 +2181,6 @@
             "myp": "g1_087"
         },
         {
-            "seriesId": 2,
             "id": "gym1-88",
             "name": "Misty's Seel",
             "nomePt": "Seel da Misty",
@@ -2345,7 +2198,6 @@
             "myp": "g1_088"
         },
         {
-            "seriesId": 2,
             "id": "gym1-89",
             "name": "Misty's Shellder",
             "nomePt": "Shellder da Misty",
@@ -2363,7 +2215,6 @@
             "myp": "g1_089"
         },
         {
-            "seriesId": 2,
             "id": "gym1-9",
             "name": "Misty's Seadra",
             "nomePt": "Seadra da Misty",
@@ -2381,7 +2232,6 @@
             "myp": "g1_009"
         },
         {
-            "seriesId": 2,
             "id": "gym1-90",
             "name": "Misty's Staryu",
             "nomePt": "Staryu da Misty",
@@ -2399,7 +2249,6 @@
             "myp": "g1_090"
         },
         {
-            "seriesId": 2,
             "id": "gym1-91",
             "name": "Sabrina's Abra",
             "nomePt": "Abra da Sabrina",
@@ -2417,7 +2266,6 @@
             "myp": "g1_091"
         },
         {
-            "seriesId": 2,
             "id": "gym1-92",
             "name": "Sabrina's Drowzee",
             "nomePt": "Drowzee da Sabrina",
@@ -2435,7 +2283,6 @@
             "myp": "g1_092"
         },
         {
-            "seriesId": 2,
             "id": "gym1-93",
             "name": "Sabrina's Gastly",
             "nomePt": "Gastly da Sabrina",
@@ -2453,7 +2300,6 @@
             "myp": "g1_093"
         },
         {
-            "seriesId": 2,
             "id": "gym1-94",
             "name": "Sabrina's Mr. Mime",
             "nomePt": "Mr. Mime da Sabrina",
@@ -2471,7 +2317,6 @@
             "myp": "g1_094"
         },
         {
-            "seriesId": 2,
             "id": "gym1-95",
             "name": "Sabrina's Slowpoke",
             "nomePt": "SlowPoké da Sabrina",
@@ -2489,7 +2334,6 @@
             "myp": "g1_095"
         },
         {
-            "seriesId": 2,
             "id": "gym1-96",
             "name": "Sabrina's Venonat",
             "nomePt": "Venonat da Sabrina",
@@ -2507,7 +2351,6 @@
             "myp": "g1_096"
         },
         {
-            "seriesId": 2,
             "id": "gym2-1",
             "name": "Blaine's Arcanine",
             "nomePt": "Arcanine do Blaine",
@@ -2525,7 +2368,6 @@
             "myp": "g2_001"
         },
         {
-            "seriesId": 2,
             "id": "gym2-10",
             "name": "Koga's Ditto",
             "nomePt": "Ditto do Koga",
@@ -2543,7 +2385,6 @@
             "myp": "g2_010"
         },
         {
-            "seriesId": 2,
             "id": "gym2-102",
             "name": "Chaos Gym",
             "collectionId": "gym2",
@@ -2557,7 +2398,6 @@
             "myp": "g2_102"
         },
         {
-            "seriesId": 2,
             "id": "gym2-109",
             "name": "Resistance Gym",
             "collectionId": "gym2",
@@ -2571,7 +2411,6 @@
             "myp": "g2_109"
         },
         {
-            "seriesId": 2,
             "id": "gym2-11",
             "name": "Lt. Surge's Raichu",
             "nomePt": "Raichu do Cap. Surge",
@@ -2589,7 +2428,6 @@
             "myp": "g2_011"
         },
         {
-            "seriesId": 2,
             "id": "gym2-113",
             "name": "Cinnabar City Gym",
             "collectionId": "gym2",
@@ -2603,7 +2441,6 @@
             "myp": "g2_113"
         },
         {
-            "seriesId": 2,
             "id": "gym2-114",
             "name": "Fuchsia City Gym",
             "collectionId": "gym2",
@@ -2617,7 +2454,6 @@
             "myp": "g2_114"
         },
         {
-            "seriesId": 2,
             "id": "gym2-119",
             "name": "Rocket's Minefield Gym",
             "collectionId": "gym2",
@@ -2631,7 +2467,6 @@
             "myp": "g2_119"
         },
         {
-            "seriesId": 2,
             "id": "gym2-12",
             "name": "Misty's Golduck",
             "nomePt": "Golduck da Misty",
@@ -2649,7 +2484,6 @@
             "myp": "g2_012"
         },
         {
-            "seriesId": 2,
             "id": "gym2-122",
             "name": "Saffron City Gym",
             "collectionId": "gym2",
@@ -2663,7 +2497,6 @@
             "myp": "g2_122"
         },
         {
-            "seriesId": 2,
             "id": "gym2-123",
             "name": "Viridian City Gym",
             "collectionId": "gym2",
@@ -2677,7 +2510,6 @@
             "myp": "g2_123"
         },
         {
-            "seriesId": 2,
             "id": "gym2-127",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
@@ -2692,7 +2524,6 @@
             "myp": "g2_127"
         },
         {
-            "seriesId": 2,
             "id": "gym2-128",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
@@ -2707,7 +2538,6 @@
             "myp": "g2_128"
         },
         {
-            "seriesId": 2,
             "id": "gym2-129",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
@@ -2722,7 +2552,6 @@
             "myp": "g2_129"
         },
         {
-            "seriesId": 2,
             "id": "gym2-13",
             "name": "Misty's Gyarados",
             "nomePt": "Gyarados da Misty",
@@ -2740,7 +2569,6 @@
             "myp": "g2_013"
         },
         {
-            "seriesId": 2,
             "id": "gym2-130",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
@@ -2755,7 +2583,6 @@
             "myp": "g2_130"
         },
         {
-            "seriesId": 2,
             "id": "gym2-131",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
@@ -2770,7 +2597,6 @@
             "myp": "g2_131"
         },
         {
-            "seriesId": 2,
             "id": "gym2-132",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
@@ -2785,7 +2611,6 @@
             "myp": "g2_132"
         },
         {
-            "seriesId": 2,
             "id": "gym2-14",
             "name": "Rocket's Mewtwo",
             "collectionId": "gym2",
@@ -2802,7 +2627,6 @@
             "myp": "g2_014"
         },
         {
-            "seriesId": 2,
             "id": "gym2-15",
             "name": "Rocket's Zapdos",
             "nomePt": "Zapdos da Equipe Rocket",
@@ -2820,7 +2644,6 @@
             "myp": "g2_015"
         },
         {
-            "seriesId": 2,
             "id": "gym2-16",
             "name": "Sabrina's Alakazam",
             "nomePt": "Alakazam da Sabrina",
@@ -2838,7 +2661,6 @@
             "myp": "g2_016"
         },
         {
-            "seriesId": 2,
             "id": "gym2-2",
             "name": "Blaine's Charizard",
             "nomePt": "Charizard do Blaine",
@@ -2856,7 +2678,6 @@
             "myp": "g2_002"
         },
         {
-            "seriesId": 2,
             "id": "gym2-21",
             "name": "Blaine's Ninetales",
             "nomePt": "Ninetales do Blaine",
@@ -2874,7 +2695,6 @@
             "myp": "g2_021"
         },
         {
-            "seriesId": 2,
             "id": "gym2-22",
             "name": "Brock's Dugtrio",
             "nomePt": "Dugtrio do Brock",
@@ -2892,7 +2712,6 @@
             "myp": "g2_022"
         },
         {
-            "seriesId": 2,
             "id": "gym2-23",
             "name": "Giovanni's Nidoqueen",
             "nomePt": "Nidoqueen do Giovanni",
@@ -2910,7 +2729,6 @@
             "myp": "g2_023"
         },
         {
-            "seriesId": 2,
             "id": "gym2-24",
             "name": "Giovanni's Pinsir",
             "nomePt": "Pinsir do Giovanni",
@@ -2928,7 +2746,6 @@
             "myp": "g2_024"
         },
         {
-            "seriesId": 2,
             "id": "gym2-25",
             "name": "Koga's Arbok",
             "nomePt": "Arbok do Koga",
@@ -2946,7 +2763,6 @@
             "myp": "g2_025"
         },
         {
-            "seriesId": 2,
             "id": "gym2-26",
             "name": "Koga's Muk",
             "nomePt": "Muk do Koga",
@@ -2964,7 +2780,6 @@
             "myp": "g2_026"
         },
         {
-            "seriesId": 2,
             "id": "gym2-27",
             "name": "Koga's Pidgeotto",
             "nomePt": "Pidgeotto do Koga",
@@ -2982,7 +2797,6 @@
             "myp": "g2_027"
         },
         {
-            "seriesId": 2,
             "id": "gym2-28",
             "name": "Lt. Surge's Jolteon",
             "nomePt": "Jolteon do Cap. Surge",
@@ -3000,7 +2814,6 @@
             "myp": "g2_028"
         },
         {
-            "seriesId": 2,
             "id": "gym2-29",
             "name": "Sabrina's Gengar",
             "nomePt": "Gengar da Sabrina",
@@ -3018,7 +2831,6 @@
             "myp": "g2_029"
         },
         {
-            "seriesId": 2,
             "id": "gym2-3",
             "name": "Brock's Ninetales",
             "nomePt": "Ninetales do Brock",
@@ -3036,7 +2848,6 @@
             "myp": "g2_003"
         },
         {
-            "seriesId": 2,
             "id": "gym2-30",
             "name": "Sabrina's Golduck",
             "nomePt": "Golduck da Sabrina",
@@ -3054,7 +2865,6 @@
             "myp": "g2_030"
         },
         {
-            "seriesId": 2,
             "id": "gym2-31",
             "name": "Blaine's Charmeleon",
             "nomePt": "Charmeleon do Blaine",
@@ -3072,7 +2882,6 @@
             "myp": "g2_031"
         },
         {
-            "seriesId": 2,
             "id": "gym2-32",
             "name": "Blaine's Dodrio",
             "nomePt": "Dodrio do Blaine",
@@ -3090,7 +2899,6 @@
             "myp": "g2_032"
         },
         {
-            "seriesId": 2,
             "id": "gym2-33",
             "name": "Blaine's Rapidash",
             "nomePt": "Rapidash do Blaine",
@@ -3108,7 +2916,6 @@
             "myp": "g2_033"
         },
         {
-            "seriesId": 2,
             "id": "gym2-34",
             "name": "Brock's Graveler",
             "nomePt": "Graveler do Brock",
@@ -3126,7 +2933,6 @@
             "myp": "g2_034"
         },
         {
-            "seriesId": 2,
             "id": "gym2-35",
             "name": "Brock's Primeape",
             "nomePt": "Primeape do Brock",
@@ -3144,7 +2950,6 @@
             "myp": "g2_035"
         },
         {
-            "seriesId": 2,
             "id": "gym2-36",
             "name": "Brock's Sandslash",
             "nomePt": "Sandslash do Brock",
@@ -3162,7 +2967,6 @@
             "myp": "g2_036"
         },
         {
-            "seriesId": 2,
             "id": "gym2-37",
             "name": "Brock's Vulpix",
             "nomePt": "Vulpix do Brock",
@@ -3180,7 +2984,6 @@
             "myp": "g2_037"
         },
         {
-            "seriesId": 2,
             "id": "gym2-38",
             "name": "Erika's Bellsprout",
             "nomePt": "Bellsprout da Erika",
@@ -3198,7 +3001,6 @@
             "myp": "g2_038"
         },
         {
-            "seriesId": 2,
             "id": "gym2-39",
             "name": "Erika's Bulbasaur",
             "nomePt": "Bulbasaur da Erika",
@@ -3216,7 +3018,6 @@
             "myp": "g2_039"
         },
         {
-            "seriesId": 2,
             "id": "gym2-4",
             "name": "Erika's Venusaur",
             "nomePt": "Venusaur da Erika",
@@ -3234,7 +3035,6 @@
             "myp": "g2_004"
         },
         {
-            "seriesId": 2,
             "id": "gym2-40",
             "name": "Erika's Clefairy",
             "nomePt": "Clefairy da Erika",
@@ -3252,7 +3052,6 @@
             "myp": "g2_040"
         },
         {
-            "seriesId": 2,
             "id": "gym2-41",
             "name": "Erika's Ivysaur",
             "nomePt": "Ivysaur da Erika",
@@ -3270,7 +3069,6 @@
             "myp": "g2_041"
         },
         {
-            "seriesId": 2,
             "id": "gym2-42",
             "name": "Giovanni's Machoke",
             "nomePt": "Machoke do Giovanni",
@@ -3288,7 +3086,6 @@
             "myp": "g2_042"
         },
         {
-            "seriesId": 2,
             "id": "gym2-43",
             "name": "Giovanni's Meowth",
             "nomePt": "Meowth do Giovanni",
@@ -3306,7 +3103,6 @@
             "myp": "g2_043"
         },
         {
-            "seriesId": 2,
             "id": "gym2-44",
             "name": "Giovanni's Nidorina",
             "nomePt": "Nidorina do Giovanni",
@@ -3324,7 +3120,6 @@
             "myp": "g2_044"
         },
         {
-            "seriesId": 2,
             "id": "gym2-45",
             "name": "Giovanni's Nidorino",
             "nomePt": "Nidorino do Giovanni",
@@ -3342,7 +3137,6 @@
             "myp": "g2_045"
         },
         {
-            "seriesId": 2,
             "id": "gym2-46",
             "name": "Koga's Golbat",
             "nomePt": "Golbat do Koga",
@@ -3360,7 +3154,6 @@
             "myp": "g2_046"
         },
         {
-            "seriesId": 2,
             "id": "gym2-47",
             "name": "Koga's Kakuna",
             "nomePt": "Kakuna do Koga",
@@ -3378,7 +3171,6 @@
             "myp": "g2_047"
         },
         {
-            "seriesId": 2,
             "id": "gym2-48",
             "name": "Koga's Koffing",
             "nomePt": "Koffing do Koga",
@@ -3396,7 +3188,6 @@
             "myp": "g2_048"
         },
         {
-            "seriesId": 2,
             "id": "gym2-49",
             "name": "Koga's Pidgey",
             "nomePt": "Pidgey do Koga",
@@ -3414,7 +3205,6 @@
             "myp": "g2_049"
         },
         {
-            "seriesId": 2,
             "id": "gym2-5",
             "name": "Giovanni's Gyarados",
             "nomePt": "Gyarados do Giovanni",
@@ -3432,7 +3222,6 @@
             "myp": "g2_005"
         },
         {
-            "seriesId": 2,
             "id": "gym2-50",
             "name": "Koga's Weezing",
             "nomePt": "Weezing do Koga",
@@ -3450,7 +3239,6 @@
             "myp": "g2_050"
         },
         {
-            "seriesId": 2,
             "id": "gym2-51",
             "name": "Lt. Surge's Eevee",
             "nomePt": "Eevee do Cap. Surge",
@@ -3468,7 +3256,6 @@
             "myp": "g2_051"
         },
         {
-            "seriesId": 2,
             "id": "gym2-52",
             "name": "Lt. Surge's Electrode",
             "nomePt": "Electrode do Cap. Surge",
@@ -3486,7 +3273,6 @@
             "myp": "g2_052"
         },
         {
-            "seriesId": 2,
             "id": "gym2-53",
             "name": "Lt. Surge's Raticate",
             "nomePt": "Raticate do Cap. Surge",
@@ -3504,7 +3290,6 @@
             "myp": "g2_053"
         },
         {
-            "seriesId": 2,
             "id": "gym2-54",
             "name": "Misty's Dewgong",
             "nomePt": "Dewgong da Misty",
@@ -3522,7 +3307,6 @@
             "myp": "g2_054"
         },
         {
-            "seriesId": 2,
             "id": "gym2-55",
             "name": "Sabrina's Haunter",
             "nomePt": "Haunter da Sabrina",
@@ -3540,7 +3324,6 @@
             "myp": "g2_055"
         },
         {
-            "seriesId": 2,
             "id": "gym2-56",
             "name": "Sabrina's Hypno",
             "nomePt": "Hypno da Sabrina",
@@ -3558,7 +3341,6 @@
             "myp": "g2_056"
         },
         {
-            "seriesId": 2,
             "id": "gym2-57",
             "name": "Sabrina's Jynx",
             "nomePt": "Jynx da Sabrina",
@@ -3576,7 +3358,6 @@
             "myp": "g2_057"
         },
         {
-            "seriesId": 2,
             "id": "gym2-58",
             "name": "Sabrina's Kadabra",
             "nomePt": "Kadabra da Sabrina",
@@ -3594,7 +3375,6 @@
             "myp": "g2_058"
         },
         {
-            "seriesId": 2,
             "id": "gym2-59",
             "name": "Sabrina's Mr. Mime",
             "nomePt": "Mr. Mime da Sabrina",
@@ -3612,7 +3392,6 @@
             "myp": "g2_059"
         },
         {
-            "seriesId": 2,
             "id": "gym2-6",
             "name": "Giovanni's Machamp",
             "nomePt": "Machamp do Giovanni",
@@ -3630,7 +3409,6 @@
             "myp": "g2_006"
         },
         {
-            "seriesId": 2,
             "id": "gym2-60",
             "name": "Blaine's Charmander",
             "nomePt": "Charmander do Blaine",
@@ -3648,7 +3426,6 @@
             "myp": "g2_060"
         },
         {
-            "seriesId": 2,
             "id": "gym2-61",
             "name": "Blaine's Doduo",
             "nomePt": "Doduo do Blaine",
@@ -3666,7 +3443,6 @@
             "myp": "g2_061"
         },
         {
-            "seriesId": 2,
             "id": "gym2-62",
             "name": "Blaine's Growlithe",
             "nomePt": "Growlithe do Blaine",
@@ -3684,7 +3460,6 @@
             "myp": "g2_062"
         },
         {
-            "seriesId": 2,
             "id": "gym2-63",
             "name": "Blaine's Mankey",
             "nomePt": "Mankey do Blaine",
@@ -3702,7 +3477,6 @@
             "myp": "g2_063"
         },
         {
-            "seriesId": 2,
             "id": "gym2-64",
             "name": "Blaine's Ponyta",
             "nomePt": "Ponyta do Blaine",
@@ -3720,7 +3494,6 @@
             "myp": "g2_064"
         },
         {
-            "seriesId": 2,
             "id": "gym2-65",
             "name": "Blaine's Rhyhorn",
             "nomePt": "Rhyhorn do Blaine",
@@ -3738,7 +3511,6 @@
             "myp": "g2_065"
         },
         {
-            "seriesId": 2,
             "id": "gym2-66",
             "name": "Blaine's Vulpix",
             "nomePt": "Vulpix do Blaine",
@@ -3756,7 +3528,6 @@
             "myp": "g2_066"
         },
         {
-            "seriesId": 2,
             "id": "gym2-67",
             "name": "Brock's Diglett",
             "nomePt": "Diglett do Brock",
@@ -3774,7 +3545,6 @@
             "myp": "g2_067"
         },
         {
-            "seriesId": 2,
             "id": "gym2-68",
             "name": "Brock's Geodude",
             "nomePt": "Geodude do Brock",
@@ -3792,7 +3562,6 @@
             "myp": "g2_068"
         },
         {
-            "seriesId": 2,
             "id": "gym2-69",
             "name": "Erika's Jigglypuff",
             "nomePt": "Jigglypuff da Erika",
@@ -3810,7 +3579,6 @@
             "myp": "g2_069"
         },
         {
-            "seriesId": 2,
             "id": "gym2-7",
             "name": "Giovanni's Nidoking",
             "nomePt": "Nidoking do Giovanni",
@@ -3828,7 +3596,6 @@
             "myp": "g2_007"
         },
         {
-            "seriesId": 2,
             "id": "gym2-70",
             "name": "Erika's Oddish",
             "nomePt": "Oddish da Erika",
@@ -3846,7 +3613,6 @@
             "myp": "g2_070"
         },
         {
-            "seriesId": 2,
             "id": "gym2-71",
             "name": "Erika's Paras",
             "nomePt": "Paras da Erika",
@@ -3864,7 +3630,6 @@
             "myp": "g2_071"
         },
         {
-            "seriesId": 2,
             "id": "gym2-72",
             "name": "Giovanni's Machop",
             "nomePt": "Machop do Giovanni",
@@ -3882,7 +3647,6 @@
             "myp": "g2_072"
         },
         {
-            "seriesId": 2,
             "id": "gym2-73",
             "name": "Giovanni's Magikarp",
             "nomePt": "Magikarp do Giovanni",
@@ -3900,7 +3664,6 @@
             "myp": "g2_073"
         },
         {
-            "seriesId": 2,
             "id": "gym2-74",
             "name": "Giovanni's Meowth",
             "nomePt": "Meowth do Giovanni",
@@ -3918,7 +3681,6 @@
             "myp": "g2_074"
         },
         {
-            "seriesId": 2,
             "id": "gym2-75",
             "name": "Giovanni's Nidoran ♀",
             "collectionId": "gym2",
@@ -3936,7 +3698,6 @@
             "myp": "g2_075"
         },
         {
-            "seriesId": 2,
             "id": "gym2-76",
             "name": "Giovanni's Nidoran ♂",
             "collectionId": "gym2",
@@ -3954,7 +3715,6 @@
             "myp": "g2_076"
         },
         {
-            "seriesId": 2,
             "id": "gym2-77",
             "name": "Koga's Ekans",
             "nomePt": "Ekans do Koga",
@@ -3972,7 +3732,6 @@
             "myp": "g2_077"
         },
         {
-            "seriesId": 2,
             "id": "gym2-78",
             "name": "Koga's Grimer",
             "nomePt": "Grimer do Koga",
@@ -3990,7 +3749,6 @@
             "myp": "g2_078"
         },
         {
-            "seriesId": 2,
             "id": "gym2-79",
             "name": "Koga's Koffing",
             "nomePt": "Koffing do Koga",
@@ -4008,7 +3766,6 @@
             "myp": "g2_079"
         },
         {
-            "seriesId": 2,
             "id": "gym2-8",
             "name": "Giovanni's Persian",
             "nomePt": "Persian do Giovanni",
@@ -4026,7 +3783,6 @@
             "myp": "g2_008"
         },
         {
-            "seriesId": 2,
             "id": "gym2-80",
             "name": "Koga's Pidgey",
             "nomePt": "Pidgey do Koga",
@@ -4044,7 +3800,6 @@
             "myp": "g2_080"
         },
         {
-            "seriesId": 2,
             "id": "gym2-81",
             "name": "Koga's Tangela",
             "nomePt": "Tangela do Koga",
@@ -4062,7 +3817,6 @@
             "myp": "g2_081"
         },
         {
-            "seriesId": 2,
             "id": "gym2-82",
             "name": "Koga's Weedle",
             "nomePt": "Weedle do Koga",
@@ -4080,7 +3834,6 @@
             "myp": "g2_082"
         },
         {
-            "seriesId": 2,
             "id": "gym2-83",
             "name": "Koga's Zubat",
             "nomePt": "Zubat do Koga",
@@ -4097,7 +3850,6 @@
             "myp": "g2_083"
         },
         {
-            "seriesId": 2,
             "id": "gym2-84",
             "name": "Lt. Surge's Pikachu",
             "nomePt": "Pikachu do Cap. Surge",
@@ -4114,7 +3866,6 @@
             "myp": "g2_084"
         },
         {
-            "seriesId": 2,
             "id": "gym2-85",
             "name": "Lt. Surge's Rattata",
             "nomePt": "Rattata do Cap. Surge",
@@ -4131,7 +3882,6 @@
             "myp": "g2_085"
         },
         {
-            "seriesId": 2,
             "id": "gym2-86",
             "name": "Lt. Surge's Voltorb",
             "nomePt": "Voltorb do Cap. Surge",
@@ -4149,7 +3899,6 @@
             "myp": "g2_086"
         },
         {
-            "seriesId": 2,
             "id": "gym2-87",
             "name": "Misty's Horsea",
             "nomePt": "Horsea da Misty",
@@ -4166,7 +3915,6 @@
             "myp": "g2_087"
         },
         {
-            "seriesId": 2,
             "id": "gym2-88",
             "name": "Misty's Magikarp",
             "nomePt": "Magikarp da Misty",
@@ -4183,7 +3931,6 @@
             "myp": "g2_088"
         },
         {
-            "seriesId": 2,
             "id": "gym2-89",
             "name": "Misty's Poliwag",
             "nomePt": "Poliwag da Misty",
@@ -4200,7 +3947,6 @@
             "myp": "g2_089"
         },
         {
-            "seriesId": 2,
             "id": "gym2-9",
             "name": "Koga's Beedrill",
             "nomePt": "Beedrill do Koga",
@@ -4217,7 +3963,6 @@
             "myp": "g2_009"
         },
         {
-            "seriesId": 2,
             "id": "gym2-90",
             "name": "Misty's Psyduck",
             "nomePt": "Psyduck da Misty",
@@ -4234,7 +3979,6 @@
             "myp": "g2_090"
         },
         {
-            "seriesId": 2,
             "id": "gym2-91",
             "name": "Misty's Seel",
             "nomePt": "Seel da Misty",
@@ -4251,7 +3995,6 @@
             "myp": "g2_091"
         },
         {
-            "seriesId": 2,
             "id": "gym2-92",
             "name": "Misty's Staryu",
             "nomePt": "Staryu da Misty",
@@ -4268,7 +4011,6 @@
             "myp": "g2_092"
         },
         {
-            "seriesId": 2,
             "id": "gym2-93",
             "name": "Sabrina's Abra",
             "nomePt": "Abra da Sabrina",
@@ -4285,7 +4027,6 @@
             "myp": "g2_093"
         },
         {
-            "seriesId": 2,
             "id": "gym2-94",
             "name": "Sabrina's Abra",
             "nomePt": "Abra da Sabrina",
@@ -4302,7 +4043,6 @@
             "myp": "g2_094"
         },
         {
-            "seriesId": 2,
             "id": "gym2-95",
             "name": "Sabrina's Drowzee",
             "nomePt": "Drowzee da Sabrina",
@@ -4320,7 +4060,6 @@
             "myp": "g2_095"
         },
         {
-            "seriesId": 2,
             "id": "gym2-96",
             "name": "Sabrina's Gastly",
             "nomePt": "Gastly da Sabrina",
@@ -4337,7 +4076,6 @@
             "myp": "g2_096"
         },
         {
-            "seriesId": 2,
             "id": "gym2-97",
             "name": "Sabrina's Gastly",
             "nomePt": "Gastly da Sabrina",
@@ -4354,7 +4092,6 @@
             "myp": "g2_097"
         },
         {
-            "seriesId": 2,
             "id": "gym2-98",
             "name": "Sabrina's Porygon",
             "nomePt": "Porygon da Sabrina",
@@ -4371,7 +4108,6 @@
             "myp": "g2_098"
         },
         {
-            "seriesId": 2,
             "id": "gym2-99",
             "name": "Sabrina's Psyduck",
             "nomePt": "Psyduck da Sabrina",

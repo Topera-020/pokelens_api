@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "seriesId": 7,
             "id": "np-1",
             "name": "Kyogre ex",
             "collectionId": "np",
@@ -18,7 +17,6 @@
             "myp": "pr-np_001"
         },
         {
-            "seriesId": 7,
             "id": "np-10",
             "name": "Mudkip",
             "collectionId": "np",
@@ -35,7 +33,6 @@
             "myp": "pr-np_010"
         },
         {
-            "seriesId": 7,
             "id": "np-11",
             "name": "Marshtomp",
             "collectionId": "np",
@@ -52,7 +49,6 @@
             "myp": "pr-np_011"
         },
         {
-            "seriesId": 7,
             "id": "np-12",
             "name": "Pikachu",
             "collectionId": "np",
@@ -69,7 +65,6 @@
             "myp": "pr-np_012"
         },
         {
-            "seriesId": 7,
             "id": "np-13",
             "name": "Meowth",
             "collectionId": "np",
@@ -86,7 +81,6 @@
             "myp": "pr-np_013"
         },
         {
-            "seriesId": 7,
             "id": "np-14",
             "name": "Latias",
             "collectionId": "np",
@@ -103,7 +97,6 @@
             "myp": "pr-np_014"
         },
         {
-            "seriesId": 7,
             "id": "np-15",
             "name": "Latios",
             "collectionId": "np",
@@ -120,7 +113,6 @@
             "myp": "pr-np_015"
         },
         {
-            "seriesId": 7,
             "id": "np-16",
             "name": "Treecko",
             "collectionId": "np",
@@ -137,7 +129,6 @@
             "myp": "pr-np_016"
         },
         {
-            "seriesId": 7,
             "id": "np-17",
             "name": "Torchic",
             "collectionId": "np",
@@ -154,7 +145,6 @@
             "myp": "pr-np_017"
         },
         {
-            "seriesId": 7,
             "id": "np-18",
             "name": "Mudkip",
             "collectionId": "np",
@@ -171,7 +161,6 @@
             "myp": "pr-np_018"
         },
         {
-            "seriesId": 7,
             "id": "np-19",
             "name": "Whismur",
             "collectionId": "np",
@@ -188,7 +177,6 @@
             "myp": "pr-np_019"
         },
         {
-            "seriesId": 7,
             "id": "np-2",
             "name": "Groudon ex",
             "collectionId": "np",
@@ -205,7 +193,6 @@
             "myp": "pr-np_002"
         },
         {
-            "seriesId": 7,
             "id": "np-20",
             "name": "Ludicolo",
             "collectionId": "np",
@@ -222,7 +209,6 @@
             "myp": "pr-np_020"
         },
         {
-            "seriesId": 7,
             "id": "np-21",
             "name": "Jirachi",
             "collectionId": "np",
@@ -239,7 +225,6 @@
             "myp": "pr-np_021"
         },
         {
-            "seriesId": 7,
             "id": "np-22",
             "name": "Beldum",
             "collectionId": "np",
@@ -256,7 +241,6 @@
             "myp": "pr-np_022"
         },
         {
-            "seriesId": 7,
             "id": "np-23",
             "name": "Metang",
             "collectionId": "np",
@@ -273,7 +257,6 @@
             "myp": "pr-np_023"
         },
         {
-            "seriesId": 7,
             "id": "np-24",
             "name": "Chimecho",
             "collectionId": "np",
@@ -290,7 +273,6 @@
             "myp": "pr-np_024"
         },
         {
-            "seriesId": 7,
             "id": "np-25",
             "name": "Flygon",
             "collectionId": "np",
@@ -307,7 +289,6 @@
             "myp": "pr-np_025"
         },
         {
-            "seriesId": 7,
             "id": "np-26",
             "name": "Tropical Wind",
             "collectionId": "np",
@@ -321,7 +302,6 @@
             "myp": "pr-np_026"
         },
         {
-            "seriesId": 7,
             "id": "np-27",
             "name": "Tropical Tidal Wave",
             "collectionId": "np",
@@ -335,7 +315,6 @@
             "myp": "pr-np_027"
         },
         {
-            "seriesId": 7,
             "id": "np-28",
             "name": "Championship Arena",
             "collectionId": "np",
@@ -349,7 +328,6 @@
             "myp": "pr-np_028"
         },
         {
-            "seriesId": 7,
             "id": "np-29",
             "name": "Celebi",
             "collectionId": "np",
@@ -366,7 +344,6 @@
             "myp": "pr-np_029"
         },
         {
-            "seriesId": 7,
             "id": "np-3",
             "name": "Treecko",
             "collectionId": "np",
@@ -383,7 +360,6 @@
             "myp": "pr-np_003"
         },
         {
-            "seriesId": 7,
             "id": "np-30",
             "name": "Suicune",
             "collectionId": "np",
@@ -400,7 +376,6 @@
             "myp": "pr-np_030"
         },
         {
-            "seriesId": 7,
             "id": "np-31",
             "name": "Moltres ex",
             "collectionId": "np",
@@ -417,7 +392,6 @@
             "myp": "pr-np_031"
         },
         {
-            "seriesId": 7,
             "id": "np-32",
             "name": "Articuno ex",
             "collectionId": "np",
@@ -434,7 +408,6 @@
             "myp": "pr-np_032"
         },
         {
-            "seriesId": 7,
             "id": "np-33",
             "name": "Zapdos ex",
             "collectionId": "np",
@@ -451,7 +424,6 @@
             "myp": "pr-np_033"
         },
         {
-            "seriesId": 7,
             "id": "np-34",
             "name": "Typhlosion",
             "collectionId": "np",
@@ -468,7 +440,6 @@
             "myp": "pr-np_034"
         },
         {
-            "seriesId": 7,
             "id": "np-35",
             "name": "Pikachu",
             "collectionId": "np",
@@ -486,7 +457,6 @@
             "myp": "pr-np_035"
         },
         {
-            "seriesId": 7,
             "id": "np-36",
             "name": "Tropical Tidal Wave",
             "collectionId": "np",
@@ -500,7 +470,6 @@
             "myp": "pr-np_036"
         },
         {
-            "seriesId": 7,
             "id": "np-37",
             "name": "Kyogre ex",
             "collectionId": "np",
@@ -517,7 +486,6 @@
             "myp": "pr-np_037"
         },
         {
-            "seriesId": 7,
             "id": "np-38",
             "name": "Groudon ex",
             "collectionId": "np",
@@ -534,7 +502,6 @@
             "myp": "pr-np_038"
         },
         {
-            "seriesId": 7,
             "id": "np-39",
             "name": "Rayquaza ex",
             "collectionId": "np",
@@ -551,7 +518,6 @@
             "myp": "pr-np_039"
         },
         {
-            "seriesId": 7,
             "id": "np-4",
             "name": "Grovyle",
             "collectionId": "np",
@@ -568,7 +534,6 @@
             "myp": "pr-np_004"
         },
         {
-            "seriesId": 7,
             "id": "np-40",
             "name": "Mew",
             "collectionId": "np",
@@ -585,7 +550,6 @@
             "myp": "pr-np_040"
         },
         {
-            "seriesId": 7,
             "id": "np-5",
             "name": "Mudkip",
             "collectionId": "np",
@@ -602,7 +566,6 @@
             "myp": "pr-np_005"
         },
         {
-            "seriesId": 7,
             "id": "np-6",
             "name": "Torchic",
             "collectionId": "np",
@@ -619,7 +582,6 @@
             "myp": "pr-np_006"
         },
         {
-            "seriesId": 7,
             "id": "np-7",
             "name": "Treecko",
             "collectionId": "np",
@@ -636,7 +598,6 @@
             "myp": "pr-np_007"
         },
         {
-            "seriesId": 7,
             "id": "np-8",
             "name": "Torchic",
             "collectionId": "np",
@@ -653,7 +614,6 @@
             "myp": "pr-np_008"
         },
         {
-            "seriesId": 7,
             "id": "np-9",
             "name": "Combusken",
             "collectionId": "np",

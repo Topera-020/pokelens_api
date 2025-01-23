@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "seriesId": 8,
             "id": "pop4-8",
             "name": "Heal Energy",
             "collectionId": "pop4",
@@ -14,7 +13,6 @@
             "codigoLiga": "heal energy (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-10",
             "name": "Scramble Energy",
             "collectionId": "pop4",
@@ -27,7 +25,6 @@
             "codigoLiga": "scramble energy (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-4",
             "name": "Double Rainbow Energy",
             "nomePt": "Energia Dupla Arco-Iris",
@@ -41,7 +38,6 @@
             "codigoLiga": "double rainbow energy (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-8",
             "name": "Boost Energy",
             "collectionId": "pop5",
@@ -54,7 +50,6 @@
             "codigoLiga": "boost energy (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-9",
             "name": "Rainbow Energy",
             "nomePt": "Energia Arco-Iris",
@@ -68,7 +63,6 @@
             "codigoLiga": "rainbow energy (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-1",
             "name": "Blaziken",
             "collectionId": "pop1",
@@ -84,7 +78,6 @@
             "codigoLiga": "blaziken (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-10",
             "name": "Torkoal",
             "collectionId": "pop1",
@@ -100,7 +93,6 @@
             "codigoLiga": "torkoal (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-11",
             "name": "Larvitar",
             "collectionId": "pop1",
@@ -116,7 +108,6 @@
             "codigoLiga": "larvitar (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-12",
             "name": "Minun",
             "collectionId": "pop1",
@@ -132,7 +123,6 @@
             "codigoLiga": "minun (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-13",
             "name": "Plusle",
             "collectionId": "pop1",
@@ -148,7 +138,6 @@
             "codigoLiga": "plusle (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-14",
             "name": "Surskit",
             "collectionId": "pop1",
@@ -164,7 +153,6 @@
             "codigoLiga": "surskit (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-15",
             "name": "Swellow",
             "collectionId": "pop1",
@@ -180,7 +168,6 @@
             "codigoLiga": "swellow (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-16",
             "name": "Armaldo ex",
             "collectionId": "pop1",
@@ -196,7 +183,6 @@
             "codigoLiga": "armaldo ex (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-17",
             "name": "Tyranitar ex",
             "collectionId": "pop1",
@@ -212,7 +198,6 @@
             "codigoLiga": "tyranitar ex (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-2",
             "name": "Metagross",
             "collectionId": "pop1",
@@ -228,7 +213,6 @@
             "codigoLiga": "metagross (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-3",
             "name": "Rayquaza",
             "collectionId": "pop1",
@@ -244,7 +228,6 @@
             "codigoLiga": "rayquaza (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-4",
             "name": "Sceptile",
             "collectionId": "pop1",
@@ -260,7 +243,6 @@
             "codigoLiga": "sceptile (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-5",
             "name": "Swampert",
             "collectionId": "pop1",
@@ -276,7 +258,6 @@
             "codigoLiga": "swampert (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-6",
             "name": "Beautifly",
             "collectionId": "pop1",
@@ -292,7 +273,6 @@
             "codigoLiga": "beautifly (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-7",
             "name": "Masquerain",
             "collectionId": "pop1",
@@ -308,7 +288,6 @@
             "codigoLiga": "masquerain (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-8",
             "name": "Murkrow",
             "collectionId": "pop1",
@@ -324,7 +303,6 @@
             "codigoLiga": "murkrow (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop1-9",
             "name": "Pupitar",
             "collectionId": "pop1",
@@ -340,7 +318,6 @@
             "codigoLiga": "pupitar (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-1",
             "name": "Entei",
             "collectionId": "pop2",
@@ -356,7 +333,6 @@
             "codigoLiga": "entei (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-10",
             "name": "Pokémon Park",
             "collectionId": "pop2",
@@ -370,7 +346,6 @@
             "codigoLiga": "Pokémon park (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-11",
             "name": "TV Reporter",
             "nomePt": "Reporter Televisivo",
@@ -384,7 +359,6 @@
             "codigoLiga": "tv reporter (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-12",
             "name": "Bulbasaur",
             "collectionId": "pop2",
@@ -400,7 +374,6 @@
             "codigoLiga": "bulbasaur (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-13",
             "name": "Cacnea",
             "collectionId": "pop2",
@@ -416,7 +389,6 @@
             "codigoLiga": "cacnea (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-14",
             "name": "Luvdisc",
             "collectionId": "pop2",
@@ -432,7 +404,6 @@
             "codigoLiga": "luvdisc (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-15",
             "name": "Phanpy",
             "collectionId": "pop2",
@@ -448,7 +419,6 @@
             "codigoLiga": "phanpy (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-16",
             "name": "Pikachu",
             "collectionId": "pop2",
@@ -464,7 +434,6 @@
             "codigoLiga": "pikachu (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-17",
             "name": "Celebi ex",
             "collectionId": "pop2",
@@ -480,7 +449,6 @@
             "codigoLiga": "celebi ex (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-2",
             "name": "Pidgeot",
             "collectionId": "pop2",
@@ -496,7 +464,6 @@
             "codigoLiga": "pidgeot (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-3",
             "name": "Raikou",
             "collectionId": "pop2",
@@ -512,7 +479,6 @@
             "codigoLiga": "raikou (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-4",
             "name": "Suicune",
             "collectionId": "pop2",
@@ -528,7 +494,6 @@
             "codigoLiga": "suicune (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-5",
             "name": "Tauros",
             "collectionId": "pop2",
@@ -544,7 +509,6 @@
             "codigoLiga": "tauros (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-6",
             "name": "Venusaur",
             "collectionId": "pop2",
@@ -560,7 +524,6 @@
             "codigoLiga": "venusaur (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-7",
             "name": "Ivysaur",
             "collectionId": "pop2",
@@ -576,7 +539,6 @@
             "codigoLiga": "ivysaur (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-8",
             "name": "Mr. Briney's Compassion",
             "collectionId": "pop2",
@@ -589,7 +551,6 @@
             "codigoLiga": "mr. briney's compassion (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop2-9",
             "name": "Multi Technical Machine 01",
             "collectionId": "pop2",
@@ -602,7 +563,6 @@
             "codigoLiga": "multi technical machine 01 (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-1",
             "name": "Blastoise",
             "collectionId": "pop3",
@@ -618,7 +578,6 @@
             "codigoLiga": "blastoise (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-10",
             "name": "High Pressure System",
             "collectionId": "pop3",
@@ -631,7 +590,6 @@
             "codigoLiga": "high pressure system (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-11",
             "name": "Low Pressure System",
             "collectionId": "pop3",
@@ -644,7 +602,6 @@
             "codigoLiga": "low pressure system (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-12",
             "name": "Ditto",
             "collectionId": "pop3",
@@ -660,7 +617,6 @@
             "codigoLiga": "ditto (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-13",
             "name": "Eevee",
             "collectionId": "pop3",
@@ -676,7 +632,6 @@
             "codigoLiga": "eevee (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-14",
             "name": "Ivysaur",
             "collectionId": "pop3",
@@ -692,7 +647,6 @@
             "codigoLiga": "ivysaur (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-15",
             "name": "Marshtomp",
             "collectionId": "pop3",
@@ -708,7 +662,6 @@
             "codigoLiga": "marshtomp (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-16",
             "name": "Pichu Bros.",
             "collectionId": "pop3",
@@ -724,7 +677,6 @@
             "codigoLiga": "pichu bros. (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-17",
             "name": "Ho-Oh ex",
             "collectionId": "pop3",
@@ -740,7 +692,6 @@
             "codigoLiga": "ho-oh ex (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-2",
             "name": "Flareon",
             "collectionId": "pop3",
@@ -756,7 +707,6 @@
             "codigoLiga": "flareon (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-3",
             "name": "Jolteon",
             "collectionId": "pop3",
@@ -772,7 +722,6 @@
             "codigoLiga": "jolteon (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-4",
             "name": "Minun",
             "collectionId": "pop3",
@@ -788,7 +737,6 @@
             "codigoLiga": "minun (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-5",
             "name": "Plusle",
             "collectionId": "pop3",
@@ -804,7 +752,6 @@
             "codigoLiga": "plusle (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-6",
             "name": "Vaporeon",
             "collectionId": "pop3",
@@ -820,7 +767,6 @@
             "codigoLiga": "vaporeon (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-7",
             "name": "Combusken",
             "collectionId": "pop3",
@@ -836,7 +782,6 @@
             "codigoLiga": "combusken (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-8",
             "name": "Donphan",
             "collectionId": "pop3",
@@ -852,7 +797,6 @@
             "codigoLiga": "donphan (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop3-9",
             "name": "Forretress",
             "collectionId": "pop3",
@@ -868,7 +812,6 @@
             "codigoLiga": "forretress (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-1",
             "name": "Chimecho",
             "collectionId": "pop4",
@@ -885,7 +828,6 @@
             "codigoLiga": "chimecho (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-11",
             "name": "Mudkip",
             "collectionId": "pop4",
@@ -901,7 +843,6 @@
             "codigoLiga": "mudkip (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-12",
             "name": "Pidgey",
             "collectionId": "pop4",
@@ -917,7 +858,6 @@
             "codigoLiga": "pidgey (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-13",
             "name": "Pikachu",
             "collectionId": "pop4",
@@ -933,7 +873,6 @@
             "codigoLiga": "pikachu (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-14",
             "name": "Squirtle",
             "collectionId": "pop4",
@@ -949,7 +888,6 @@
             "codigoLiga": "squirtle (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-15",
             "name": "Treecko",
             "collectionId": "pop4",
@@ -966,7 +904,6 @@
             "codigoLiga": "treecko (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-16",
             "name": "Wobbuffet",
             "collectionId": "pop4",
@@ -982,7 +919,6 @@
             "codigoLiga": "wobbuffet (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-17",
             "name": "Deoxys ex",
             "collectionId": "pop4",
@@ -998,7 +934,6 @@
             "codigoLiga": "deoxys ex (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-2",
             "name": "Deoxys",
             "collectionId": "pop4",
@@ -1015,7 +950,6 @@
             "codigoLiga": "deoxys (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-3",
             "name": "Flygon",
             "collectionId": "pop4",
@@ -1031,7 +965,6 @@
             "codigoLiga": "flygon (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-4",
             "name": "Mew",
             "collectionId": "pop4",
@@ -1047,7 +980,6 @@
             "codigoLiga": "mew (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-5",
             "name": "Sceptile",
             "collectionId": "pop4",
@@ -1063,7 +995,6 @@
             "codigoLiga": "sceptile (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-6",
             "name": "Combusken",
             "collectionId": "pop4",
@@ -1079,7 +1010,6 @@
             "codigoLiga": "combusken (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-7",
             "name": "Grovyle",
             "collectionId": "pop4",
@@ -1095,7 +1025,6 @@
             "codigoLiga": "grovyle (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop4-9",
             "name": "Pokémon Fan Club",
             "nomePt": "Fa Clube Pokémon",
@@ -1110,7 +1039,6 @@
             "codigoLiga": "Pokémon fan club (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-1",
             "name": "Ho-Oh",
             "collectionId": "pop5",
@@ -1126,7 +1054,6 @@
             "codigoLiga": "ho-oh (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-10",
             "name": "Charmander",
             "collectionId": "pop5",
@@ -1143,7 +1070,6 @@
             "codigoLiga": "charmander (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-11",
             "name": "Meowth",
             "collectionId": "pop5",
@@ -1160,7 +1086,6 @@
             "codigoLiga": "meowth (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-12",
             "name": "Pikachu",
             "collectionId": "pop5",
@@ -1176,7 +1101,6 @@
             "codigoLiga": "pikachu (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-13",
             "name": "Pikachu",
             "collectionId": "pop5",
@@ -1193,7 +1117,6 @@
             "codigoLiga": "pikachu (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-14",
             "name": "Pelipper",
             "collectionId": "pop5",
@@ -1210,7 +1133,6 @@
             "codigoLiga": "pelipper (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-15",
             "name": "Zangoose",
             "collectionId": "pop5",
@@ -1227,7 +1149,6 @@
             "codigoLiga": "zangoose (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-16",
             "name": "Espeon ★",
             "collectionId": "pop5",
@@ -1244,7 +1165,6 @@
             "codigoLiga": "espeon star (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-17",
             "name": "Umbreon ★",
             "collectionId": "pop5",
@@ -1261,7 +1181,6 @@
             "codigoLiga": "umbreon star (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-2",
             "name": "Lugia",
             "collectionId": "pop5",
@@ -1277,7 +1196,6 @@
             "codigoLiga": "lugia (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-3",
             "name": "Mew",
             "collectionId": "pop5",
@@ -1294,7 +1212,6 @@
             "codigoLiga": "mew (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-5",
             "name": "Charmeleon",
             "collectionId": "pop5",
@@ -1311,7 +1228,6 @@
             "codigoLiga": "charmeleon (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-6",
             "name": "Bill's Maintenance",
             "nomePt": "Manutencao do Bill",
@@ -1325,7 +1241,6 @@
             "codigoLiga": "bill's maintenance (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop5-7",
             "name": "Rare Candy",
             "nomePt": "Doce Raro",
@@ -1339,7 +1254,6 @@
             "codigoLiga": "rare candy (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-1",
             "name": "Bastiodon",
             "collectionId": "pop6",
@@ -1355,7 +1269,6 @@
             "codigoLiga": "bastiodon (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-10",
             "name": "Staravia",
             "collectionId": "pop6",
@@ -1371,7 +1284,6 @@
             "codigoLiga": "staravia (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-11",
             "name": "Bidoof",
             "collectionId": "pop6",
@@ -1387,7 +1299,6 @@
             "codigoLiga": "bidoof (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-12",
             "name": "Buneary",
             "collectionId": "pop6",
@@ -1403,7 +1314,6 @@
             "codigoLiga": "buneary (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-13",
             "name": "Cherubi",
             "collectionId": "pop6",
@@ -1419,7 +1329,6 @@
             "codigoLiga": "cherubi (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-14",
             "name": "Chimchar",
             "collectionId": "pop6",
@@ -1435,7 +1344,6 @@
             "codigoLiga": "chimchar (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-15",
             "name": "Piplup",
             "collectionId": "pop6",
@@ -1451,7 +1359,6 @@
             "codigoLiga": "piplup (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-16",
             "name": "Starly",
             "collectionId": "pop6",
@@ -1467,7 +1374,6 @@
             "codigoLiga": "starly (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-17",
             "name": "Turtwig",
             "collectionId": "pop6",
@@ -1483,7 +1389,6 @@
             "codigoLiga": "turtwig (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-2",
             "name": "Lucario",
             "collectionId": "pop6",
@@ -1499,7 +1404,6 @@
             "codigoLiga": "lucario (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-3",
             "name": "Manaphy",
             "collectionId": "pop6",
@@ -1515,7 +1419,6 @@
             "codigoLiga": "manaphy (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-4",
             "name": "Pachirisu",
             "collectionId": "pop6",
@@ -1531,7 +1434,6 @@
             "codigoLiga": "pachirisu (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-5",
             "name": "Rampardos",
             "collectionId": "pop6",
@@ -1547,7 +1449,6 @@
             "codigoLiga": "rampardos (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-6",
             "name": "Drifloon",
             "collectionId": "pop6",
@@ -1563,7 +1464,6 @@
             "codigoLiga": "drifloon (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-7",
             "name": "Gible",
             "collectionId": "pop6",
@@ -1579,7 +1479,6 @@
             "codigoLiga": "gible (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-8",
             "name": "Riolu",
             "collectionId": "pop6",
@@ -1595,7 +1494,6 @@
             "codigoLiga": "riolu (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop6-9",
             "name": "Pikachu",
             "collectionId": "pop6",
@@ -1611,7 +1509,6 @@
             "codigoLiga": "pikachu (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-1",
             "name": "Ampharos",
             "collectionId": "pop7",
@@ -1627,7 +1524,6 @@
             "codigoLiga": "ampharos (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-10",
             "name": "Wormadam Sandy Cloak",
             "nomePt": "Wormadam Casca de Areia",
@@ -1644,7 +1540,6 @@
             "codigoLiga": "wormadam sandy cloak (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-11",
             "name": "Burmy Plant Cloak",
             "nomePt": "Burmy Casca de Planta",
@@ -1661,7 +1556,6 @@
             "codigoLiga": "burmy plant cloak (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-12",
             "name": "Burmy Sandy Cloak",
             "nomePt": "Burmy Casca de Areia",
@@ -1678,7 +1572,6 @@
             "codigoLiga": "burmy sandy cloak (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-13",
             "name": "Corsola",
             "collectionId": "pop7",
@@ -1694,7 +1587,6 @@
             "codigoLiga": "corsola (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-14",
             "name": "Mareep",
             "collectionId": "pop7",
@@ -1710,7 +1602,6 @@
             "codigoLiga": "mareep (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-15",
             "name": "Ralts",
             "collectionId": "pop7",
@@ -1726,7 +1617,6 @@
             "codigoLiga": "ralts (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-16",
             "name": "Sentret",
             "collectionId": "pop7",
@@ -1742,7 +1632,6 @@
             "codigoLiga": "sentret (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-17",
             "name": "Spinda",
             "collectionId": "pop7",
@@ -1758,7 +1647,6 @@
             "codigoLiga": "spinda (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-2",
             "name": "Gallade",
             "collectionId": "pop7",
@@ -1774,7 +1662,6 @@
             "codigoLiga": "gallade (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-3",
             "name": "Latias",
             "collectionId": "pop7",
@@ -1790,7 +1677,6 @@
             "codigoLiga": "latias (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-4",
             "name": "Latios",
             "collectionId": "pop7",
@@ -1806,7 +1692,6 @@
             "codigoLiga": "latios (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-5",
             "name": "Mothim",
             "collectionId": "pop7",
@@ -1822,7 +1707,6 @@
             "codigoLiga": "mothim (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-6",
             "name": "Delibird",
             "collectionId": "pop7",
@@ -1838,7 +1722,6 @@
             "codigoLiga": "delibird (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-7",
             "name": "Flaaffy",
             "collectionId": "pop7",
@@ -1854,7 +1737,6 @@
             "codigoLiga": "flaaffy (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-8",
             "name": "Kirlia",
             "collectionId": "pop7",
@@ -1870,7 +1752,6 @@
             "codigoLiga": "kirlia (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop7-9",
             "name": "Stantler",
             "collectionId": "pop7",
@@ -1886,7 +1767,6 @@
             "codigoLiga": "stantler (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-1",
             "name": "Heatran",
             "collectionId": "pop8",
@@ -1902,7 +1782,6 @@
             "codigoLiga": "heatran (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-10",
             "name": "Rare Candy",
             "nomePt": "Doce Raro",
@@ -1916,7 +1795,6 @@
             "codigoLiga": "rare candy (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-11",
             "name": "Roseanne's Research",
             "collectionId": "pop8",
@@ -1929,7 +1807,6 @@
             "codigoLiga": "roseanne's research (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-12",
             "name": "Chimchar",
             "collectionId": "pop8",
@@ -1945,7 +1822,6 @@
             "codigoLiga": "chimchar (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-13",
             "name": "Croagunk",
             "collectionId": "pop8",
@@ -1961,7 +1837,6 @@
             "codigoLiga": "croagunk (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-14",
             "name": "Happiny",
             "collectionId": "pop8",
@@ -1977,7 +1852,6 @@
             "codigoLiga": "happiny (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-15",
             "name": "Piplup",
             "collectionId": "pop8",
@@ -1993,7 +1867,6 @@
             "codigoLiga": "piplup (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-16",
             "name": "Riolu",
             "collectionId": "pop8",
@@ -2009,7 +1882,6 @@
             "codigoLiga": "riolu (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-17",
             "name": "Turtwig",
             "collectionId": "pop8",
@@ -2025,7 +1897,6 @@
             "codigoLiga": "turtwig (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-2",
             "name": "Lucario",
             "collectionId": "pop8",
@@ -2041,7 +1912,6 @@
             "codigoLiga": "lucario (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-3",
             "name": "Luxray",
             "collectionId": "pop8",
@@ -2057,7 +1927,6 @@
             "codigoLiga": "luxray (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-4",
             "name": "Probopass",
             "collectionId": "pop8",
@@ -2073,7 +1942,6 @@
             "codigoLiga": "probopass (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-5",
             "name": "Yanmega",
             "collectionId": "pop8",
@@ -2089,7 +1957,6 @@
             "codigoLiga": "yanmega (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-6",
             "name": "Cherrim",
             "collectionId": "pop8",
@@ -2105,7 +1972,6 @@
             "codigoLiga": "cherrim (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-7",
             "name": "Carnivine",
             "collectionId": "pop8",
@@ -2121,7 +1987,6 @@
             "codigoLiga": "carnivine (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-8",
             "name": "Luxio",
             "collectionId": "pop8",
@@ -2137,7 +2002,6 @@
             "codigoLiga": "luxio (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop8-9",
             "name": "Night Maintenance",
             "collectionId": "pop8",
@@ -2150,7 +2014,6 @@
             "codigoLiga": "night maintenance (9/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-1",
             "name": "Garchomp",
             "collectionId": "pop9",
@@ -2166,7 +2029,6 @@
             "codigoLiga": "garchomp (1/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-10",
             "name": "Pachirisu",
             "collectionId": "pop9",
@@ -2182,7 +2044,6 @@
             "codigoLiga": "pachirisu (10/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-11",
             "name": "Pichu",
             "collectionId": "pop9",
@@ -2198,7 +2059,6 @@
             "codigoLiga": "pichu (11/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-12",
             "name": "Buneary",
             "collectionId": "pop9",
@@ -2214,7 +2074,6 @@
             "codigoLiga": "buneary (12/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-13",
             "name": "Chimchar",
             "collectionId": "pop9",
@@ -2230,7 +2089,6 @@
             "codigoLiga": "chimchar (13/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-14",
             "name": "Gible",
             "collectionId": "pop9",
@@ -2246,7 +2104,6 @@
             "codigoLiga": "gible (14/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-15",
             "name": "Pikachu",
             "collectionId": "pop9",
@@ -2262,7 +2119,6 @@
             "codigoLiga": "pikachu (15/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-16",
             "name": "Piplup",
             "collectionId": "pop9",
@@ -2278,7 +2134,6 @@
             "codigoLiga": "piplup (16/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-17",
             "name": "Turtwig",
             "collectionId": "pop9",
@@ -2294,7 +2149,6 @@
             "codigoLiga": "turtwig (17/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-2",
             "name": "Manaphy",
             "collectionId": "pop9",
@@ -2310,7 +2164,6 @@
             "codigoLiga": "manaphy (2/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-3",
             "name": "Raichu",
             "collectionId": "pop9",
@@ -2326,7 +2179,6 @@
             "codigoLiga": "raichu (3/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-4",
             "name": "Regigigas",
             "collectionId": "pop9",
@@ -2342,7 +2194,6 @@
             "codigoLiga": "regigigas (4/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-5",
             "name": "Rotom",
             "collectionId": "pop9",
@@ -2358,7 +2209,6 @@
             "codigoLiga": "rotom (5/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-6",
             "name": "Buizel",
             "collectionId": "pop9",
@@ -2374,7 +2224,6 @@
             "codigoLiga": "buizel (6/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-7",
             "name": "Croagunk",
             "collectionId": "pop9",
@@ -2390,7 +2239,6 @@
             "codigoLiga": "croagunk (7/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-8",
             "name": "Gabite",
             "collectionId": "pop9",
@@ -2406,7 +2254,6 @@
             "codigoLiga": "gabite (8/17)"
         },
         {
-            "seriesId": 8,
             "id": "pop9-9",
             "name": "Lopunny",
             "collectionId": "pop9",

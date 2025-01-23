@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "seriesId": 3,
             "id": "neo1-19",
             "name": "Metal Energy",
             "nomePt": "Energia de Metal",
@@ -14,7 +13,6 @@
             "codigoLiga": "metal energy (19/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-85",
             "name": "Energy Charge",
             "collectionId": "neo1",
@@ -25,7 +23,6 @@
             "codigoLiga": "energy charge (85/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-87",
             "name": "Mary",
             "collectionId": "neo1",
@@ -36,7 +33,6 @@
             "codigoLiga": "mary (87/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-88",
             "name": "PokéGear",
             "collectionId": "neo1",
@@ -48,7 +44,6 @@
             "codigoLiga": "pokegear (88/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-89",
             "name": "Super Energy Retrieval",
             "collectionId": "neo1",
@@ -59,7 +54,6 @@
             "codigoLiga": "super energy retrieval (89/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-90",
             "name": "Time Capsule",
             "collectionId": "neo1",
@@ -70,7 +64,6 @@
             "codigoLiga": "time capsule (90/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-91",
             "name": "Bill's Teleporter",
             "collectionId": "neo1",
@@ -81,7 +74,6 @@
             "codigoLiga": "bill's teleporter (91/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-95",
             "name": "New Pokédex",
             "collectionId": "neo1",
@@ -93,7 +85,6 @@
             "codigoLiga": "new pokedex (95/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-96",
             "name": "Professor Elm",
             "collectionId": "neo1",
@@ -104,7 +95,6 @@
             "codigoLiga": "professor elm (96/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-98",
             "name": "Super Scoop Up",
             "nomePt": "Super-recolhida",
@@ -116,7 +106,6 @@
             "codigoLiga": "super scoop up (98/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-100",
             "name": "Double Gust",
             "collectionId": "neo1",
@@ -127,7 +116,6 @@
             "codigoLiga": "double gust (100/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-101",
             "name": "Moo-Moo Milk",
             "collectionId": "neo1",
@@ -139,7 +127,6 @@
             "codigoLiga": "moo-moo milk (101/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-102",
             "name": "Pokémon March",
             "collectionId": "neo1",
@@ -152,7 +139,6 @@
             "codigoLiga": "Pokémon march (102/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-103",
             "name": "Super Rod",
             "nomePt": "Supervara",
@@ -165,7 +151,6 @@
             "codigoLiga": "super rod (103/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-104",
             "name": "Darkness Energy",
             "nomePt": "Energia de Escuridao",
@@ -179,7 +164,6 @@
             "codigoLiga": "darkness energy (104/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-105",
             "name": "Recycle Energy",
             "collectionId": "neo1",
@@ -192,7 +176,6 @@
             "codigoLiga": "recycle energy (105/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-72",
             "name": "Fossil Egg",
             "collectionId": "neo2",
@@ -204,7 +187,6 @@
             "codigoLiga": "fossil egg (72/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-73",
             "name": "Hyper Devolution Spray",
             "collectionId": "neo2",
@@ -216,7 +198,6 @@
             "codigoLiga": "hyper devolution spray (73/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-74",
             "name": "Ruin Wall",
             "collectionId": "neo2",
@@ -227,7 +208,6 @@
             "codigoLiga": "ruin wall (74/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-75",
             "name": "Energy Ark",
             "collectionId": "neo2",
@@ -238,7 +218,6 @@
             "codigoLiga": "energy ark (75/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-62",
             "name": "Pokémon Breeder Fields",
             "collectionId": "neo3",
@@ -250,7 +229,6 @@
             "codigoLiga": "Pokémon breeder fields (62/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-64",
             "name": "Old Rod",
             "collectionId": "neo3",
@@ -261,7 +239,6 @@
             "codigoLiga": "old rod (64/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-16",
             "name": "Miracle Energy",
             "collectionId": "neo4",
@@ -273,7 +250,6 @@
             "codigoLiga": "miracle energy (16/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-94",
             "name": "Impostor Professor Oak's Invention",
             "collectionId": "neo4",
@@ -284,7 +260,6 @@
             "codigoLiga": "impostor professor oak's invention (94/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-98",
             "name": "Energy Amplifier",
             "collectionId": "neo4",
@@ -296,7 +271,6 @@
             "codigoLiga": "energy amplifier (98/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-101",
             "name": "Magnifier",
             "collectionId": "neo4",
@@ -308,7 +282,6 @@
             "codigoLiga": "magnifier (101/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-102",
             "name": "Pokémon Personality Test",
             "collectionId": "neo4",
@@ -321,7 +294,6 @@
             "codigoLiga": "Pokémon personality test (102/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-103",
             "name": "Team Rocket's Evil Deeds",
             "collectionId": "neo4",
@@ -334,7 +306,6 @@
             "codigoLiga": "team rocket's evil deeds (103/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-104",
             "name": "Heal Powder",
             "collectionId": "neo4",
@@ -346,7 +317,6 @@
             "codigoLiga": "heal powder (104/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-105",
             "name": "Mail from Bill",
             "collectionId": "neo4",
@@ -358,7 +328,6 @@
             "codigoLiga": "mail from bill (105/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-1",
             "name": "Ampharos",
             "collectionId": "neo1",
@@ -374,7 +343,6 @@
             "codigoLiga": "ampharos (1/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-10",
             "name": "Meganium",
             "collectionId": "neo1",
@@ -390,7 +358,6 @@
             "codigoLiga": "meganium (10/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-106",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
@@ -404,7 +371,6 @@
             "codigoLiga": "fighting energy (106/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-107",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
@@ -418,7 +384,6 @@
             "codigoLiga": "fire energy (107/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-108",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
@@ -432,7 +397,6 @@
             "codigoLiga": "grass energy (108/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-109",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
@@ -446,7 +410,6 @@
             "codigoLiga": "lightning energy (109/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-11",
             "name": "Meganium",
             "collectionId": "neo1",
@@ -462,7 +425,6 @@
             "codigoLiga": "meganium (11/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-110",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
@@ -476,7 +438,6 @@
             "codigoLiga": "psychic energy (110/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-111",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
@@ -490,7 +451,6 @@
             "codigoLiga": "water energy (111/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-12",
             "name": "Pichu",
             "collectionId": "neo1",
@@ -506,7 +466,6 @@
             "codigoLiga": "pichu (12/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-13",
             "name": "Skarmory",
             "collectionId": "neo1",
@@ -522,7 +481,6 @@
             "codigoLiga": "skarmory (13/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-14",
             "name": "Slowking",
             "collectionId": "neo1",
@@ -538,7 +496,6 @@
             "codigoLiga": "slowking (14/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-15",
             "name": "Steelix",
             "collectionId": "neo1",
@@ -554,7 +511,6 @@
             "codigoLiga": "steelix (15/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-16",
             "name": "Togetic",
             "collectionId": "neo1",
@@ -570,7 +526,6 @@
             "codigoLiga": "togetic (16/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-17",
             "name": "Typhlosion",
             "collectionId": "neo1",
@@ -586,7 +541,6 @@
             "codigoLiga": "typhlosion (17/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-18",
             "name": "Typhlosion",
             "collectionId": "neo1",
@@ -602,7 +556,6 @@
             "codigoLiga": "typhlosion (18/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-2",
             "name": "Azumarill",
             "collectionId": "neo1",
@@ -618,7 +571,6 @@
             "codigoLiga": "azumarill (2/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-20",
             "name": "Cleffa",
             "collectionId": "neo1",
@@ -634,7 +586,6 @@
             "codigoLiga": "cleffa (20/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-21",
             "name": "Donphan",
             "collectionId": "neo1",
@@ -650,7 +601,6 @@
             "codigoLiga": "donphan (21/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-22",
             "name": "Elekid",
             "collectionId": "neo1",
@@ -666,7 +616,6 @@
             "codigoLiga": "elekid (22/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-23",
             "name": "Magby",
             "collectionId": "neo1",
@@ -682,7 +631,6 @@
             "codigoLiga": "magby (23/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-24",
             "name": "Murkrow",
             "collectionId": "neo1",
@@ -698,7 +646,6 @@
             "codigoLiga": "murkrow (24/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-25",
             "name": "Sneasel",
             "collectionId": "neo1",
@@ -714,7 +661,6 @@
             "codigoLiga": "sneasel (25/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-26",
             "name": "Aipom",
             "collectionId": "neo1",
@@ -730,7 +676,6 @@
             "codigoLiga": "aipom (26/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-27",
             "name": "Ariados",
             "collectionId": "neo1",
@@ -746,7 +691,6 @@
             "codigoLiga": "ariados (27/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-28",
             "name": "Bayleef",
             "collectionId": "neo1",
@@ -762,7 +706,6 @@
             "codigoLiga": "bayleef (28/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-29",
             "name": "Bayleef",
             "collectionId": "neo1",
@@ -778,7 +721,6 @@
             "codigoLiga": "bayleef (29/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-3",
             "name": "Bellossom",
             "collectionId": "neo1",
@@ -794,7 +736,6 @@
             "codigoLiga": "bellossom (3/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-30",
             "name": "Clefairy",
             "collectionId": "neo1",
@@ -810,7 +751,6 @@
             "codigoLiga": "clefairy (30/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-31",
             "name": "Croconaw",
             "collectionId": "neo1",
@@ -826,7 +766,6 @@
             "codigoLiga": "croconaw (31/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-32",
             "name": "Croconaw",
             "collectionId": "neo1",
@@ -842,7 +781,6 @@
             "codigoLiga": "croconaw (32/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-33",
             "name": "Electabuzz",
             "collectionId": "neo1",
@@ -858,7 +796,6 @@
             "codigoLiga": "electabuzz (33/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-34",
             "name": "Flaaffy",
             "collectionId": "neo1",
@@ -874,7 +811,6 @@
             "codigoLiga": "flaaffy (34/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-35",
             "name": "Furret",
             "collectionId": "neo1",
@@ -890,7 +826,6 @@
             "codigoLiga": "furret (35/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-36",
             "name": "Gloom",
             "collectionId": "neo1",
@@ -906,7 +841,6 @@
             "codigoLiga": "gloom (36/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-37",
             "name": "Granbull",
             "collectionId": "neo1",
@@ -922,7 +856,6 @@
             "codigoLiga": "granbull (37/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-38",
             "name": "Lanturn",
             "collectionId": "neo1",
@@ -938,7 +871,6 @@
             "codigoLiga": "lanturn (38/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-39",
             "name": "Ledian",
             "collectionId": "neo1",
@@ -954,7 +886,6 @@
             "codigoLiga": "ledian (39/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-4",
             "name": "Feraligatr",
             "collectionId": "neo1",
@@ -970,7 +901,6 @@
             "codigoLiga": "feraligatr (4/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-40",
             "name": "Magmar",
             "collectionId": "neo1",
@@ -986,7 +916,6 @@
             "codigoLiga": "magmar (40/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-41",
             "name": "Miltank",
             "collectionId": "neo1",
@@ -1002,7 +931,6 @@
             "codigoLiga": "miltank (41/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-42",
             "name": "Noctowl",
             "collectionId": "neo1",
@@ -1018,7 +946,6 @@
             "codigoLiga": "noctowl (42/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-43",
             "name": "Phanpy",
             "collectionId": "neo1",
@@ -1034,7 +961,6 @@
             "codigoLiga": "phanpy (43/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-44",
             "name": "Piloswine",
             "collectionId": "neo1",
@@ -1050,7 +976,6 @@
             "codigoLiga": "piloswine (44/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-45",
             "name": "Quagsire",
             "collectionId": "neo1",
@@ -1066,7 +991,6 @@
             "codigoLiga": "quagsire (45/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-46",
             "name": "Quilava",
             "collectionId": "neo1",
@@ -1082,7 +1006,6 @@
             "codigoLiga": "quilava (46/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-47",
             "name": "Quilava",
             "collectionId": "neo1",
@@ -1098,7 +1021,6 @@
             "codigoLiga": "quilava (47/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-48",
             "name": "Seadra",
             "collectionId": "neo1",
@@ -1114,7 +1036,6 @@
             "codigoLiga": "seadra (48/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-49",
             "name": "Skiploom",
             "collectionId": "neo1",
@@ -1130,7 +1051,6 @@
             "codigoLiga": "skiploom (49/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-5",
             "name": "Feraligatr",
             "collectionId": "neo1",
@@ -1146,7 +1066,6 @@
             "codigoLiga": "feraligatr (5/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-50",
             "name": "Sunflora",
             "collectionId": "neo1",
@@ -1162,7 +1081,6 @@
             "codigoLiga": "sunflora (50/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-51",
             "name": "Togepi",
             "collectionId": "neo1",
@@ -1178,7 +1096,6 @@
             "codigoLiga": "togepi (51/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-52",
             "name": "Xatu",
             "collectionId": "neo1",
@@ -1194,7 +1111,6 @@
             "codigoLiga": "xatu (52/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-53",
             "name": "Chikorita",
             "collectionId": "neo1",
@@ -1210,7 +1126,6 @@
             "codigoLiga": "chikorita (53/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-54",
             "name": "Chikorita",
             "collectionId": "neo1",
@@ -1226,7 +1141,6 @@
             "codigoLiga": "chikorita (54/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-55",
             "name": "Chinchou",
             "collectionId": "neo1",
@@ -1242,7 +1156,6 @@
             "codigoLiga": "chinchou (55/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-56",
             "name": "Cyndaquil",
             "collectionId": "neo1",
@@ -1258,7 +1171,6 @@
             "codigoLiga": "cyndaquil (56/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-57",
             "name": "Cyndaquil",
             "collectionId": "neo1",
@@ -1274,7 +1186,6 @@
             "codigoLiga": "cyndaquil (57/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-58",
             "name": "Girafarig",
             "collectionId": "neo1",
@@ -1290,7 +1201,6 @@
             "codigoLiga": "girafarig (58/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-59",
             "name": "Gligar",
             "collectionId": "neo1",
@@ -1306,7 +1216,6 @@
             "codigoLiga": "gligar (59/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-6",
             "name": "Heracross",
             "collectionId": "neo1",
@@ -1322,7 +1231,6 @@
             "codigoLiga": "heracross (6/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-60",
             "name": "Hoothoot",
             "collectionId": "neo1",
@@ -1338,7 +1246,6 @@
             "codigoLiga": "hoothoot (60/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-61",
             "name": "Hoppip",
             "collectionId": "neo1",
@@ -1354,7 +1261,6 @@
             "codigoLiga": "hoppip (61/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-62",
             "name": "Horsea",
             "collectionId": "neo1",
@@ -1370,7 +1276,6 @@
             "codigoLiga": "horsea (62/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-63",
             "name": "Ledyba",
             "collectionId": "neo1",
@@ -1386,7 +1291,6 @@
             "codigoLiga": "ledyba (63/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-64",
             "name": "Mantine",
             "collectionId": "neo1",
@@ -1402,7 +1306,6 @@
             "codigoLiga": "mantine (64/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-65",
             "name": "Mareep",
             "collectionId": "neo1",
@@ -1418,7 +1321,6 @@
             "codigoLiga": "mareep (65/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-66",
             "name": "Marill",
             "collectionId": "neo1",
@@ -1434,7 +1336,6 @@
             "codigoLiga": "marill (66/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-67",
             "name": "Natu",
             "collectionId": "neo1",
@@ -1450,7 +1351,6 @@
             "codigoLiga": "natu (67/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-68",
             "name": "Oddish",
             "collectionId": "neo1",
@@ -1466,7 +1366,6 @@
             "codigoLiga": "oddish (68/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-69",
             "name": "Onix",
             "collectionId": "neo1",
@@ -1482,7 +1381,6 @@
             "codigoLiga": "onix (69/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-7",
             "name": "Jumpluff",
             "collectionId": "neo1",
@@ -1498,7 +1396,6 @@
             "codigoLiga": "jumpluff (7/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-70",
             "name": "Pikachu",
             "collectionId": "neo1",
@@ -1514,7 +1411,6 @@
             "codigoLiga": "pikachu (70/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-71",
             "name": "Sentret",
             "collectionId": "neo1",
@@ -1530,7 +1426,6 @@
             "codigoLiga": "sentret (71/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-72",
             "name": "Shuckle",
             "collectionId": "neo1",
@@ -1546,7 +1441,6 @@
             "codigoLiga": "shuckle (72/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-73",
             "name": "Slowpoke",
             "collectionId": "neo1",
@@ -1562,7 +1456,6 @@
             "codigoLiga": "slowpoke (73/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-74",
             "name": "Snubbull",
             "collectionId": "neo1",
@@ -1578,7 +1471,6 @@
             "codigoLiga": "snubbull (74/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-75",
             "name": "Spinarak",
             "collectionId": "neo1",
@@ -1594,7 +1486,6 @@
             "codigoLiga": "spinarak (75/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-76",
             "name": "Stantler",
             "collectionId": "neo1",
@@ -1610,7 +1501,6 @@
             "codigoLiga": "stantler (76/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-77",
             "name": "Sudowoodo",
             "collectionId": "neo1",
@@ -1626,7 +1516,6 @@
             "codigoLiga": "sudowoodo (77/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-78",
             "name": "Sunkern",
             "collectionId": "neo1",
@@ -1642,7 +1531,6 @@
             "codigoLiga": "sunkern (78/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-79",
             "name": "Swinub",
             "collectionId": "neo1",
@@ -1658,7 +1546,6 @@
             "codigoLiga": "swinub (79/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-8",
             "name": "Kingdra",
             "collectionId": "neo1",
@@ -1674,7 +1561,6 @@
             "codigoLiga": "kingdra (8/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-80",
             "name": "Totodile",
             "collectionId": "neo1",
@@ -1690,7 +1576,6 @@
             "codigoLiga": "totodile (80/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-81",
             "name": "Totodile",
             "collectionId": "neo1",
@@ -1706,7 +1591,6 @@
             "codigoLiga": "totodile (81/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-82",
             "name": "Wooper",
             "collectionId": "neo1",
@@ -1722,7 +1606,6 @@
             "codigoLiga": "wooper (82/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-83",
             "name": "Arcade Game",
             "collectionId": "neo1",
@@ -1735,7 +1618,6 @@
             "codigoLiga": "arcade game (83/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-84",
             "name": "Ecogym",
             "collectionId": "neo1",
@@ -1748,7 +1630,6 @@
             "codigoLiga": "ecogym (84/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-86",
             "name": "Focus Band",
             "collectionId": "neo1",
@@ -1761,7 +1642,6 @@
             "codigoLiga": "focus band (86/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-9",
             "name": "Lugia",
             "collectionId": "neo1",
@@ -1777,7 +1657,6 @@
             "codigoLiga": "lugia (9/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-92",
             "name": "Card-Flip Game",
             "collectionId": "neo1",
@@ -1790,7 +1669,6 @@
             "codigoLiga": "card-flip game (92/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-93",
             "name": "Gold Berry",
             "collectionId": "neo1",
@@ -1803,7 +1681,6 @@
             "codigoLiga": "gold berry (93/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-94",
             "name": "Miracle Berry",
             "collectionId": "neo1",
@@ -1816,7 +1693,6 @@
             "codigoLiga": "miracle berry (94/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-97",
             "name": "Sprout Tower",
             "collectionId": "neo1",
@@ -1829,7 +1705,6 @@
             "codigoLiga": "sprout tower (97/)"
         },
         {
-            "seriesId": 3,
             "id": "neo1-99",
             "name": "Berry",
             "collectionId": "neo1",
@@ -1842,7 +1717,6 @@
             "codigoLiga": "berry (99/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-1",
             "name": "Espeon",
             "collectionId": "neo2",
@@ -1858,7 +1732,6 @@
             "codigoLiga": "espeon (1/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-10",
             "name": "Scizor",
             "collectionId": "neo2",
@@ -1874,7 +1747,6 @@
             "codigoLiga": "scizor (10/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-11",
             "name": "Smeargle",
             "collectionId": "neo2",
@@ -1890,7 +1762,6 @@
             "codigoLiga": "smeargle (11/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-12",
             "name": "Tyranitar",
             "collectionId": "neo2",
@@ -1906,7 +1777,6 @@
             "codigoLiga": "tyranitar (12/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-13",
             "name": "Umbreon",
             "collectionId": "neo2",
@@ -1922,7 +1792,6 @@
             "codigoLiga": "umbreon (13/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-14",
             "name": "Unown A",
             "collectionId": "neo2",
@@ -1938,7 +1807,6 @@
             "codigoLiga": "unown a (14/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-15",
             "name": "Ursaring",
             "collectionId": "neo2",
@@ -1954,7 +1822,6 @@
             "codigoLiga": "ursaring (15/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-16",
             "name": "Wobbuffet",
             "collectionId": "neo2",
@@ -1970,7 +1837,6 @@
             "codigoLiga": "wobbuffet (16/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-17",
             "name": "Yanma",
             "collectionId": "neo2",
@@ -1986,7 +1852,6 @@
             "codigoLiga": "yanma (17/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-18",
             "name": "Beedrill",
             "collectionId": "neo2",
@@ -2002,7 +1867,6 @@
             "codigoLiga": "beedrill (18/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-19",
             "name": "Butterfree",
             "collectionId": "neo2",
@@ -2018,7 +1882,6 @@
             "codigoLiga": "butterfree (19/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-2",
             "name": "Forretress",
             "collectionId": "neo2",
@@ -2034,7 +1897,6 @@
             "codigoLiga": "forretress (2/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-20",
             "name": "Espeon",
             "collectionId": "neo2",
@@ -2050,7 +1912,6 @@
             "codigoLiga": "espeon (20/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-21",
             "name": "Forretress",
             "collectionId": "neo2",
@@ -2066,7 +1927,6 @@
             "codigoLiga": "forretress (21/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-22",
             "name": "Hitmontop",
             "collectionId": "neo2",
@@ -2082,7 +1942,6 @@
             "codigoLiga": "hitmontop (22/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-23",
             "name": "Houndoom",
             "collectionId": "neo2",
@@ -2098,7 +1957,6 @@
             "codigoLiga": "houndoom (23/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-24",
             "name": "Houndour",
             "collectionId": "neo2",
@@ -2114,7 +1972,6 @@
             "codigoLiga": "houndour (24/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-25",
             "name": "Kabutops",
             "collectionId": "neo2",
@@ -2130,7 +1987,6 @@
             "codigoLiga": "kabutops (25/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-26",
             "name": "Magnemite",
             "collectionId": "neo2",
@@ -2146,7 +2002,6 @@
             "codigoLiga": "magnemite (26/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-27",
             "name": "Politoed",
             "collectionId": "neo2",
@@ -2162,7 +2017,6 @@
             "codigoLiga": "politoed (27/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-28",
             "name": "Poliwrath",
             "collectionId": "neo2",
@@ -2178,7 +2032,6 @@
             "codigoLiga": "poliwrath (28/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-29",
             "name": "Scizor",
             "collectionId": "neo2",
@@ -2194,7 +2047,6 @@
             "codigoLiga": "scizor (29/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-3",
             "name": "Hitmontop",
             "collectionId": "neo2",
@@ -2210,7 +2062,6 @@
             "codigoLiga": "hitmontop (3/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-30",
             "name": "Smeargle",
             "collectionId": "neo2",
@@ -2226,7 +2077,6 @@
             "codigoLiga": "smeargle (30/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-31",
             "name": "Tyranitar",
             "collectionId": "neo2",
@@ -2242,7 +2092,6 @@
             "codigoLiga": "tyranitar (31/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-32",
             "name": "Umbreon",
             "collectionId": "neo2",
@@ -2258,7 +2107,6 @@
             "codigoLiga": "umbreon (32/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-33",
             "name": "Unown A",
             "collectionId": "neo2",
@@ -2274,7 +2122,6 @@
             "codigoLiga": "unown a (33/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-34",
             "name": "Ursaring",
             "collectionId": "neo2",
@@ -2290,7 +2137,6 @@
             "codigoLiga": "ursaring (34/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-35",
             "name": "Wobbuffet",
             "collectionId": "neo2",
@@ -2306,7 +2152,6 @@
             "codigoLiga": "wobbuffet (35/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-36",
             "name": "Yanma",
             "collectionId": "neo2",
@@ -2322,7 +2167,6 @@
             "codigoLiga": "yanma (36/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-37",
             "name": "Corsola",
             "collectionId": "neo2",
@@ -2338,7 +2182,6 @@
             "codigoLiga": "corsola (37/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-38",
             "name": "Eevee",
             "collectionId": "neo2",
@@ -2354,7 +2197,6 @@
             "codigoLiga": "eevee (38/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-39",
             "name": "Houndour",
             "collectionId": "neo2",
@@ -2370,7 +2212,6 @@
             "codigoLiga": "houndour (39/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-4",
             "name": "Houndoom",
             "collectionId": "neo2",
@@ -2386,7 +2227,6 @@
             "codigoLiga": "houndoom (4/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-40",
             "name": "Igglybuff",
             "collectionId": "neo2",
@@ -2402,7 +2242,6 @@
             "codigoLiga": "igglybuff (40/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-41",
             "name": "Kakuna",
             "collectionId": "neo2",
@@ -2418,7 +2257,6 @@
             "codigoLiga": "kakuna (41/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-42",
             "name": "Metapod",
             "collectionId": "neo2",
@@ -2434,7 +2272,6 @@
             "codigoLiga": "metapod (42/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-43",
             "name": "Omastar",
             "collectionId": "neo2",
@@ -2450,7 +2287,6 @@
             "codigoLiga": "omastar (43/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-44",
             "name": "Poliwhirl",
             "collectionId": "neo2",
@@ -2466,7 +2302,6 @@
             "codigoLiga": "poliwhirl (44/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-45",
             "name": "Pupitar",
             "collectionId": "neo2",
@@ -2482,7 +2317,6 @@
             "codigoLiga": "pupitar (45/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-46",
             "name": "Scyther",
             "collectionId": "neo2",
@@ -2498,7 +2332,6 @@
             "codigoLiga": "scyther (46/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-47",
             "name": "Unown D",
             "collectionId": "neo2",
@@ -2514,7 +2347,6 @@
             "codigoLiga": "unown d (47/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-48",
             "name": "Unown F",
             "collectionId": "neo2",
@@ -2530,7 +2362,6 @@
             "codigoLiga": "unown f (48/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-49",
             "name": "Unown M",
             "collectionId": "neo2",
@@ -2546,7 +2377,6 @@
             "codigoLiga": "unown m (49/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-5",
             "name": "Houndour",
             "collectionId": "neo2",
@@ -2562,7 +2392,6 @@
             "codigoLiga": "houndour (5/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-50",
             "name": "Unown N",
             "collectionId": "neo2",
@@ -2578,7 +2407,6 @@
             "codigoLiga": "unown n (50/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-51",
             "name": "Unown U",
             "collectionId": "neo2",
@@ -2594,7 +2422,6 @@
             "codigoLiga": "unown u (51/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-52",
             "name": "Xatu",
             "collectionId": "neo2",
@@ -2610,7 +2437,6 @@
             "codigoLiga": "xatu (52/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-53",
             "name": "Caterpie",
             "collectionId": "neo2",
@@ -2626,7 +2452,6 @@
             "codigoLiga": "caterpie (53/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-54",
             "name": "Dunsparce",
             "collectionId": "neo2",
@@ -2642,7 +2467,6 @@
             "codigoLiga": "dunsparce (54/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-55",
             "name": "Hoppip",
             "collectionId": "neo2",
@@ -2658,7 +2482,6 @@
             "codigoLiga": "hoppip (55/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-56",
             "name": "Kabuto",
             "collectionId": "neo2",
@@ -2674,7 +2497,6 @@
             "codigoLiga": "kabuto (56/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-57",
             "name": "Larvitar",
             "collectionId": "neo2",
@@ -2690,7 +2512,6 @@
             "codigoLiga": "larvitar (57/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-58",
             "name": "Mareep",
             "collectionId": "neo2",
@@ -2706,7 +2527,6 @@
             "codigoLiga": "mareep (58/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-59",
             "name": "Natu",
             "collectionId": "neo2",
@@ -2722,7 +2542,6 @@
             "codigoLiga": "natu (59/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-6",
             "name": "Kabutops",
             "collectionId": "neo2",
@@ -2738,7 +2557,6 @@
             "codigoLiga": "kabutops (6/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-60",
             "name": "Omanyte",
             "collectionId": "neo2",
@@ -2754,7 +2572,6 @@
             "codigoLiga": "omanyte (60/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-61",
             "name": "Pineco",
             "collectionId": "neo2",
@@ -2770,7 +2587,6 @@
             "codigoLiga": "pineco (61/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-62",
             "name": "Poliwag",
             "collectionId": "neo2",
@@ -2786,7 +2602,6 @@
             "codigoLiga": "poliwag (62/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-63",
             "name": "Sentret",
             "collectionId": "neo2",
@@ -2802,7 +2617,6 @@
             "codigoLiga": "sentret (63/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-64",
             "name": "Spinarak",
             "collectionId": "neo2",
@@ -2818,7 +2632,6 @@
             "codigoLiga": "spinarak (64/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-65",
             "name": "Teddiursa",
             "collectionId": "neo2",
@@ -2834,7 +2647,6 @@
             "codigoLiga": "teddiursa (65/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-66",
             "name": "Tyrogue",
             "collectionId": "neo2",
@@ -2850,7 +2662,6 @@
             "codigoLiga": "tyrogue (66/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-67",
             "name": "Unown E",
             "collectionId": "neo2",
@@ -2866,7 +2677,6 @@
             "codigoLiga": "unown e (67/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-68",
             "name": "Unown I",
             "collectionId": "neo2",
@@ -2882,7 +2692,6 @@
             "codigoLiga": "unown i (68/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-69",
             "name": "Unown O",
             "collectionId": "neo2",
@@ -2898,7 +2707,6 @@
             "codigoLiga": "unown o (69/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-7",
             "name": "Magnemite",
             "collectionId": "neo2",
@@ -2914,7 +2722,6 @@
             "codigoLiga": "magnemite (7/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-70",
             "name": "Weedle",
             "collectionId": "neo2",
@@ -2930,7 +2737,6 @@
             "codigoLiga": "weedle (70/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-71",
             "name": "Wooper",
             "collectionId": "neo2",
@@ -2946,7 +2752,6 @@
             "codigoLiga": "wooper (71/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-8",
             "name": "Politoed",
             "collectionId": "neo2",
@@ -2962,7 +2767,6 @@
             "codigoLiga": "politoed (8/)"
         },
         {
-            "seriesId": 3,
             "id": "neo2-9",
             "name": "Poliwrath",
             "collectionId": "neo2",
@@ -2978,7 +2782,6 @@
             "codigoLiga": "poliwrath (9/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-1",
             "name": "Ampharos",
             "collectionId": "neo3",
@@ -2994,7 +2797,6 @@
             "codigoLiga": "ampharos (1/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-10",
             "name": "Magneton",
             "collectionId": "neo3",
@@ -3010,7 +2812,6 @@
             "codigoLiga": "magneton (10/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-11",
             "name": "Misdreavus",
             "collectionId": "neo3",
@@ -3026,7 +2827,6 @@
             "codigoLiga": "misdreavus (11/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-12",
             "name": "Porygon2",
             "collectionId": "neo3",
@@ -3042,7 +2842,6 @@
             "codigoLiga": "porygon2 (12/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-13",
             "name": "Raikou",
             "collectionId": "neo3",
@@ -3058,7 +2857,6 @@
             "codigoLiga": "raikou (13/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-14",
             "name": "Suicune",
             "collectionId": "neo3",
@@ -3074,7 +2872,6 @@
             "codigoLiga": "suicune (14/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-15",
             "name": "Aerodactyl",
             "collectionId": "neo3",
@@ -3090,7 +2887,6 @@
             "codigoLiga": "aerodactyl (15/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-16",
             "name": "Celebi",
             "collectionId": "neo3",
@@ -3106,7 +2902,6 @@
             "codigoLiga": "celebi (16/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-17",
             "name": "Entei",
             "collectionId": "neo3",
@@ -3122,7 +2917,6 @@
             "codigoLiga": "entei (17/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-18",
             "name": "Ho-oh",
             "collectionId": "neo3",
@@ -3138,7 +2932,6 @@
             "codigoLiga": "ho-oh (18/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-19",
             "name": "Kingdra",
             "collectionId": "neo3",
@@ -3154,7 +2947,6 @@
             "codigoLiga": "kingdra (19/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-2",
             "name": "Blissey",
             "collectionId": "neo3",
@@ -3170,7 +2962,6 @@
             "codigoLiga": "blissey (2/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-20",
             "name": "Lugia",
             "collectionId": "neo3",
@@ -3186,7 +2977,6 @@
             "codigoLiga": "lugia (20/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-21",
             "name": "Raichu",
             "collectionId": "neo3",
@@ -3202,7 +2992,6 @@
             "codigoLiga": "raichu (21/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-22",
             "name": "Raikou",
             "collectionId": "neo3",
@@ -3218,7 +3007,6 @@
             "codigoLiga": "raikou (22/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-23",
             "name": "Skarmory",
             "collectionId": "neo3",
@@ -3234,7 +3022,6 @@
             "codigoLiga": "skarmory (23/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-24",
             "name": "Sneasel",
             "collectionId": "neo3",
@@ -3250,7 +3037,6 @@
             "codigoLiga": "sneasel (24/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-25",
             "name": "Starmie",
             "collectionId": "neo3",
@@ -3266,7 +3052,6 @@
             "codigoLiga": "starmie (25/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-26",
             "name": "Sudowoodo",
             "collectionId": "neo3",
@@ -3282,7 +3067,6 @@
             "codigoLiga": "sudowoodo (26/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-27",
             "name": "Suicune",
             "collectionId": "neo3",
@@ -3298,7 +3082,6 @@
             "codigoLiga": "suicune (27/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-28",
             "name": "Flaaffy",
             "collectionId": "neo3",
@@ -3314,7 +3097,6 @@
             "codigoLiga": "flaaffy (28/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-29",
             "name": "Golbat",
             "collectionId": "neo3",
@@ -3330,7 +3112,6 @@
             "codigoLiga": "golbat (29/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-3",
             "name": "Celebi",
             "collectionId": "neo3",
@@ -3346,7 +3127,6 @@
             "codigoLiga": "celebi (3/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-30",
             "name": "Graveler",
             "collectionId": "neo3",
@@ -3362,7 +3142,6 @@
             "codigoLiga": "graveler (30/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-31",
             "name": "Jynx",
             "collectionId": "neo3",
@@ -3378,7 +3157,6 @@
             "codigoLiga": "jynx (31/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-32",
             "name": "Lanturn",
             "collectionId": "neo3",
@@ -3394,7 +3172,6 @@
             "codigoLiga": "lanturn (32/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-33",
             "name": "Magcargo",
             "collectionId": "neo3",
@@ -3410,7 +3187,6 @@
             "codigoLiga": "magcargo (33/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-34",
             "name": "Octillery",
             "collectionId": "neo3",
@@ -3426,7 +3202,6 @@
             "codigoLiga": "octillery (34/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-35",
             "name": "Parasect",
             "collectionId": "neo3",
@@ -3442,7 +3217,6 @@
             "codigoLiga": "parasect (35/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-36",
             "name": "Piloswine",
             "collectionId": "neo3",
@@ -3458,7 +3232,6 @@
             "codigoLiga": "piloswine (36/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-37",
             "name": "Seaking",
             "collectionId": "neo3",
@@ -3474,7 +3247,6 @@
             "codigoLiga": "seaking (37/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-38",
             "name": "Stantler",
             "collectionId": "neo3",
@@ -3490,7 +3262,6 @@
             "codigoLiga": "stantler (38/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-39",
             "name": "Unown B",
             "collectionId": "neo3",
@@ -3506,7 +3277,6 @@
             "codigoLiga": "unown b (39/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-4",
             "name": "Crobat",
             "collectionId": "neo3",
@@ -3522,7 +3292,6 @@
             "codigoLiga": "crobat (4/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-40",
             "name": "Unown Y",
             "collectionId": "neo3",
@@ -3538,7 +3307,6 @@
             "codigoLiga": "unown y (40/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-41",
             "name": "Aipom",
             "collectionId": "neo3",
@@ -3554,7 +3322,6 @@
             "codigoLiga": "aipom (41/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-42",
             "name": "Chinchou",
             "collectionId": "neo3",
@@ -3570,7 +3337,6 @@
             "codigoLiga": "chinchou (42/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-43",
             "name": "Farfetch'd",
             "collectionId": "neo3",
@@ -3586,7 +3352,6 @@
             "codigoLiga": "farfetch'd (43/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-44",
             "name": "Geodude",
             "collectionId": "neo3",
@@ -3602,7 +3367,6 @@
             "codigoLiga": "geodude (44/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-45",
             "name": "Goldeen",
             "collectionId": "neo3",
@@ -3618,7 +3382,6 @@
             "codigoLiga": "goldeen (45/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-46",
             "name": "Murkrow",
             "collectionId": "neo3",
@@ -3634,7 +3397,6 @@
             "codigoLiga": "murkrow (46/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-47",
             "name": "Paras",
             "collectionId": "neo3",
@@ -3650,7 +3412,6 @@
             "codigoLiga": "paras (47/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-48",
             "name": "Quagsire",
             "collectionId": "neo3",
@@ -3666,7 +3427,6 @@
             "codigoLiga": "quagsire (48/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-49",
             "name": "Qwilfish",
             "collectionId": "neo3",
@@ -3682,7 +3442,6 @@
             "codigoLiga": "qwilfish (49/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-5",
             "name": "Delibird",
             "collectionId": "neo3",
@@ -3698,7 +3457,6 @@
             "codigoLiga": "delibird (5/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-50",
             "name": "Remoraid",
             "collectionId": "neo3",
@@ -3714,7 +3472,6 @@
             "codigoLiga": "remoraid (50/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-51",
             "name": "Shuckle",
             "collectionId": "neo3",
@@ -3730,7 +3487,6 @@
             "codigoLiga": "shuckle (51/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-52",
             "name": "Skiploom",
             "collectionId": "neo3",
@@ -3746,7 +3502,6 @@
             "codigoLiga": "skiploom (52/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-53",
             "name": "Slugma",
             "collectionId": "neo3",
@@ -3762,7 +3517,6 @@
             "codigoLiga": "slugma (53/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-54",
             "name": "Smoochum",
             "collectionId": "neo3",
@@ -3778,7 +3532,6 @@
             "codigoLiga": "smoochum (54/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-55",
             "name": "Snubbull",
             "collectionId": "neo3",
@@ -3794,7 +3547,6 @@
             "codigoLiga": "snubbull (55/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-56",
             "name": "Staryu",
             "collectionId": "neo3",
@@ -3810,7 +3562,6 @@
             "codigoLiga": "staryu (56/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-57",
             "name": "Swinub",
             "collectionId": "neo3",
@@ -3826,7 +3577,6 @@
             "codigoLiga": "swinub (57/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-58",
             "name": "Unown K",
             "collectionId": "neo3",
@@ -3842,7 +3592,6 @@
             "codigoLiga": "unown k (58/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-59",
             "name": "Zubat",
             "collectionId": "neo3",
@@ -3858,7 +3607,6 @@
             "codigoLiga": "zubat (59/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-6",
             "name": "Entei",
             "collectionId": "neo3",
@@ -3874,7 +3622,6 @@
             "codigoLiga": "entei (6/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-60",
             "name": "Balloon Berry",
             "collectionId": "neo3",
@@ -3887,7 +3634,6 @@
             "codigoLiga": "balloon berry (60/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-61",
             "name": "Healing Field",
             "collectionId": "neo3",
@@ -3900,7 +3646,6 @@
             "codigoLiga": "healing field (61/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-63",
             "name": "Rocket's Hideout",
             "collectionId": "neo3",
@@ -3913,7 +3658,6 @@
             "codigoLiga": "rocket's hideout (63/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-65",
             "name": "Shining Gyarados",
             "nomePt": "Gyarados Luminescente",
@@ -3930,7 +3674,6 @@
             "codigoLiga": "shining gyarados (65/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-66",
             "name": "Shining Magikarp",
             "nomePt": "Magikarp Luminescente",
@@ -3947,7 +3690,6 @@
             "codigoLiga": "shining magikarp (66/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-7",
             "name": "Ho-oh",
             "collectionId": "neo3",
@@ -3963,7 +3705,6 @@
             "codigoLiga": "ho-oh (7/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-8",
             "name": "Houndoom",
             "collectionId": "neo3",
@@ -3979,7 +3720,6 @@
             "codigoLiga": "houndoom (8/)"
         },
         {
-            "seriesId": 3,
             "id": "neo3-9",
             "name": "Jumpluff",
             "collectionId": "neo3",
@@ -3995,7 +3735,6 @@
             "codigoLiga": "jumpluff (9/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-1",
             "name": "Dark Ampharos",
             "collectionId": "neo4",
@@ -4011,7 +3750,6 @@
             "codigoLiga": "dark ampharos (1/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-10",
             "name": "Dark Typhlosion",
             "collectionId": "neo4",
@@ -4027,7 +3765,6 @@
             "codigoLiga": "dark typhlosion (10/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-100",
             "name": "Lucky Stadium",
             "collectionId": "neo4",
@@ -4040,7 +3777,6 @@
             "codigoLiga": "lucky stadium (100/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-106",
             "name": "Shining Celebi",
             "collectionId": "neo4",
@@ -4056,7 +3792,6 @@
             "codigoLiga": "shining celebi (106/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-107",
             "name": "Shining Charizard",
             "collectionId": "neo4",
@@ -4072,7 +3807,6 @@
             "codigoLiga": "shining charizard (107/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-108",
             "name": "Shining Kabutops",
             "collectionId": "neo4",
@@ -4088,7 +3822,6 @@
             "codigoLiga": "shining kabutops (108/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-109",
             "name": "Shining Mewtwo",
             "collectionId": "neo4",
@@ -4104,7 +3837,6 @@
             "codigoLiga": "shining mewtwo (109/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-11",
             "name": "Dark Tyranitar",
             "collectionId": "neo4",
@@ -4120,7 +3852,6 @@
             "codigoLiga": "dark tyranitar (11/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-110",
             "name": "Shining Noctowl",
             "collectionId": "neo4",
@@ -4136,7 +3867,6 @@
             "codigoLiga": "shining noctowl (110/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-111",
             "name": "Shining Raichu",
             "collectionId": "neo4",
@@ -4152,7 +3882,6 @@
             "codigoLiga": "shining raichu (111/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-112",
             "name": "Shining Steelix",
             "collectionId": "neo4",
@@ -4168,7 +3897,6 @@
             "codigoLiga": "shining steelix (112/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-113",
             "name": "Shining Tyranitar",
             "collectionId": "neo4",
@@ -4184,7 +3912,6 @@
             "codigoLiga": "shining tyranitar (113/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-12",
             "name": "Light Arcanine",
             "collectionId": "neo4",
@@ -4200,7 +3927,6 @@
             "codigoLiga": "light arcanine (12/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-13",
             "name": "Light Azumarill",
             "collectionId": "neo4",
@@ -4216,7 +3942,6 @@
             "codigoLiga": "light azumarill (13/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-14",
             "name": "Light Dragonite",
             "collectionId": "neo4",
@@ -4232,7 +3957,6 @@
             "codigoLiga": "light dragonite (14/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-15",
             "name": "Light Togetic",
             "collectionId": "neo4",
@@ -4248,7 +3972,6 @@
             "codigoLiga": "light togetic (15/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-17",
             "name": "Dark Ariados",
             "collectionId": "neo4",
@@ -4264,7 +3987,6 @@
             "codigoLiga": "dark ariados (17/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-18",
             "name": "Dark Magcargo",
             "collectionId": "neo4",
@@ -4280,7 +4002,6 @@
             "codigoLiga": "dark magcargo (18/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-19",
             "name": "Dark Omastar",
             "collectionId": "neo4",
@@ -4296,7 +4017,6 @@
             "codigoLiga": "dark omastar (19/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-2",
             "name": "Dark Crobat",
             "collectionId": "neo4",
@@ -4312,7 +4032,6 @@
             "codigoLiga": "dark crobat (2/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-20",
             "name": "Dark Slowking",
             "collectionId": "neo4",
@@ -4328,7 +4047,6 @@
             "codigoLiga": "dark slowking (20/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-21",
             "name": "Dark Ursaring",
             "collectionId": "neo4",
@@ -4344,7 +4062,6 @@
             "codigoLiga": "dark ursaring (21/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-22",
             "name": "Light Dragonair",
             "collectionId": "neo4",
@@ -4360,7 +4077,6 @@
             "codigoLiga": "light dragonair (22/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-23",
             "name": "Light Lanturn",
             "collectionId": "neo4",
@@ -4376,7 +4092,6 @@
             "codigoLiga": "light lanturn (23/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-24",
             "name": "Light Ledian",
             "collectionId": "neo4",
@@ -4392,7 +4107,6 @@
             "codigoLiga": "light ledian (24/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-25",
             "name": "Light Machamp",
             "collectionId": "neo4",
@@ -4408,7 +4122,6 @@
             "codigoLiga": "light machamp (25/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-26",
             "name": "Light Piloswine",
             "collectionId": "neo4",
@@ -4424,7 +4137,6 @@
             "codigoLiga": "light piloswine (26/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-27",
             "name": "Unown G",
             "collectionId": "neo4",
@@ -4440,7 +4152,6 @@
             "codigoLiga": "unown g (27/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-28",
             "name": "Unown H",
             "collectionId": "neo4",
@@ -4456,7 +4167,6 @@
             "codigoLiga": "unown h (28/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-29",
             "name": "Unown W",
             "collectionId": "neo4",
@@ -4472,7 +4182,6 @@
             "codigoLiga": "unown w (29/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-3",
             "name": "Dark Donphan",
             "collectionId": "neo4",
@@ -4488,7 +4197,6 @@
             "codigoLiga": "dark donphan (3/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-30",
             "name": "Unown X",
             "collectionId": "neo4",
@@ -4504,7 +4212,6 @@
             "codigoLiga": "unown x (30/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-31",
             "name": "Chansey",
             "collectionId": "neo4",
@@ -4520,7 +4227,6 @@
             "codigoLiga": "chansey (31/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-32",
             "name": "Dark Croconaw",
             "collectionId": "neo4",
@@ -4536,7 +4242,6 @@
             "codigoLiga": "dark croconaw (32/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-33",
             "name": "Dark Exeggutor",
             "collectionId": "neo4",
@@ -4552,7 +4257,6 @@
             "codigoLiga": "dark exeggutor (33/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-34",
             "name": "Dark Flaaffy",
             "collectionId": "neo4",
@@ -4568,7 +4272,6 @@
             "codigoLiga": "dark flaaffy (34/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-35",
             "name": "Dark Forretress",
             "collectionId": "neo4",
@@ -4584,7 +4287,6 @@
             "codigoLiga": "dark forretress (35/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-36",
             "name": "Dark Haunter",
             "collectionId": "neo4",
@@ -4600,7 +4302,6 @@
             "codigoLiga": "dark haunter (36/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-37",
             "name": "Dark Omanyte",
             "collectionId": "neo4",
@@ -4616,7 +4317,6 @@
             "codigoLiga": "dark omanyte (37/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-38",
             "name": "Dark Pupitar",
             "collectionId": "neo4",
@@ -4632,7 +4332,6 @@
             "codigoLiga": "dark pupitar (38/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-39",
             "name": "Dark Quilava",
             "collectionId": "neo4",
@@ -4648,7 +4347,6 @@
             "codigoLiga": "dark quilava (39/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-4",
             "name": "Dark Espeon",
             "collectionId": "neo4",
@@ -4664,7 +4362,6 @@
             "codigoLiga": "dark espeon (4/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-40",
             "name": "Dark Wigglytuff",
             "collectionId": "neo4",
@@ -4680,7 +4377,6 @@
             "codigoLiga": "dark wigglytuff (40/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-41",
             "name": "Heracross",
             "collectionId": "neo4",
@@ -4696,7 +4392,6 @@
             "codigoLiga": "heracross (41/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-42",
             "name": "Hitmonlee",
             "collectionId": "neo4",
@@ -4712,7 +4407,6 @@
             "codigoLiga": "hitmonlee (42/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-43",
             "name": "Houndour",
             "collectionId": "neo4",
@@ -4728,7 +4422,6 @@
             "codigoLiga": "houndour (43/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-44",
             "name": "Jigglypuff",
             "collectionId": "neo4",
@@ -4744,7 +4437,6 @@
             "codigoLiga": "jigglypuff (44/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-45",
             "name": "Light Dewgong",
             "collectionId": "neo4",
@@ -4760,7 +4452,6 @@
             "codigoLiga": "light dewgong (45/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-46",
             "name": "Light Flareon",
             "collectionId": "neo4",
@@ -4776,7 +4467,6 @@
             "codigoLiga": "light flareon (46/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-47",
             "name": "Light Golduck",
             "collectionId": "neo4",
@@ -4792,7 +4482,6 @@
             "codigoLiga": "light golduck (47/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-48",
             "name": "Light Jolteon",
             "collectionId": "neo4",
@@ -4808,7 +4497,6 @@
             "codigoLiga": "light jolteon (48/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-49",
             "name": "Light Machoke",
             "collectionId": "neo4",
@@ -4824,7 +4512,6 @@
             "codigoLiga": "light machoke (49/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-5",
             "name": "Dark Feraligatr",
             "collectionId": "neo4",
@@ -4840,7 +4527,6 @@
             "codigoLiga": "dark feraligatr (5/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-50",
             "name": "Light Ninetales",
             "collectionId": "neo4",
@@ -4856,7 +4542,6 @@
             "codigoLiga": "light ninetales (50/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-51",
             "name": "Light Slowbro",
             "collectionId": "neo4",
@@ -4872,7 +4557,6 @@
             "codigoLiga": "light slowbro (51/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-52",
             "name": "Light Vaporeon",
             "collectionId": "neo4",
@@ -4888,7 +4572,6 @@
             "codigoLiga": "light vaporeon (52/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-53",
             "name": "Light Venomoth",
             "collectionId": "neo4",
@@ -4904,7 +4587,6 @@
             "codigoLiga": "light venomoth (53/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-54",
             "name": "Light Wigglytuff",
             "collectionId": "neo4",
@@ -4920,7 +4602,6 @@
             "codigoLiga": "light wigglytuff (54/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-55",
             "name": "Scyther",
             "collectionId": "neo4",
@@ -4936,7 +4617,6 @@
             "codigoLiga": "scyther (55/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-56",
             "name": "Togepi",
             "collectionId": "neo4",
@@ -4952,7 +4632,6 @@
             "codigoLiga": "togepi (56/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-57",
             "name": "Unown C",
             "collectionId": "neo4",
@@ -4968,7 +4647,6 @@
             "codigoLiga": "unown c (57/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-58",
             "name": "Unown P",
             "collectionId": "neo4",
@@ -4984,7 +4662,6 @@
             "codigoLiga": "unown p (58/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-59",
             "name": "Unown Q",
             "collectionId": "neo4",
@@ -5000,7 +4677,6 @@
             "codigoLiga": "unown q (59/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-6",
             "name": "Dark Gengar",
             "collectionId": "neo4",
@@ -5016,7 +4692,6 @@
             "codigoLiga": "dark gengar (6/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-60",
             "name": "Unown Z",
             "collectionId": "neo4",
@@ -5032,7 +4707,6 @@
             "codigoLiga": "unown z (60/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-61",
             "name": "Cyndaquil",
             "collectionId": "neo4",
@@ -5048,7 +4722,6 @@
             "codigoLiga": "cyndaquil (61/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-62",
             "name": "Dark Octillery",
             "collectionId": "neo4",
@@ -5064,7 +4737,6 @@
             "codigoLiga": "dark octillery (62/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-63",
             "name": "Dratini",
             "collectionId": "neo4",
@@ -5080,7 +4752,6 @@
             "codigoLiga": "dratini (63/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-64",
             "name": "Exeggcute",
             "collectionId": "neo4",
@@ -5096,7 +4767,6 @@
             "codigoLiga": "exeggcute (64/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-65",
             "name": "Gastly",
             "collectionId": "neo4",
@@ -5112,7 +4782,6 @@
             "codigoLiga": "gastly (65/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-66",
             "name": "Girafarig",
             "collectionId": "neo4",
@@ -5128,7 +4797,6 @@
             "codigoLiga": "girafarig (66/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-67",
             "name": "Gligar",
             "collectionId": "neo4",
@@ -5144,7 +4812,6 @@
             "codigoLiga": "gligar (67/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-68",
             "name": "Growlithe",
             "collectionId": "neo4",
@@ -5160,7 +4827,6 @@
             "codigoLiga": "growlithe (68/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-69",
             "name": "Hitmonchan",
             "collectionId": "neo4",
@@ -5176,7 +4842,6 @@
             "codigoLiga": "hitmonchan (69/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-7",
             "name": "Dark Houndoom",
             "collectionId": "neo4",
@@ -5192,7 +4857,6 @@
             "codigoLiga": "dark houndoom (7/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-70",
             "name": "Larvitar",
             "collectionId": "neo4",
@@ -5208,7 +4872,6 @@
             "codigoLiga": "larvitar (70/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-71",
             "name": "Ledyba",
             "collectionId": "neo4",
@@ -5224,7 +4887,6 @@
             "codigoLiga": "ledyba (71/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-72",
             "name": "Light Sunflora",
             "collectionId": "neo4",
@@ -5240,7 +4902,6 @@
             "codigoLiga": "light sunflora (72/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-73",
             "name": "Machop",
             "collectionId": "neo4",
@@ -5256,7 +4917,6 @@
             "codigoLiga": "machop (73/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-74",
             "name": "Mantine",
             "collectionId": "neo4",
@@ -5272,7 +4932,6 @@
             "codigoLiga": "mantine (74/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-75",
             "name": "Mareep",
             "collectionId": "neo4",
@@ -5288,7 +4947,6 @@
             "codigoLiga": "mareep (75/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-76",
             "name": "Phanpy",
             "collectionId": "neo4",
@@ -5304,7 +4962,6 @@
             "codigoLiga": "phanpy (76/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-77",
             "name": "Pineco",
             "collectionId": "neo4",
@@ -5320,7 +4977,6 @@
             "codigoLiga": "pineco (77/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-78",
             "name": "Porygon",
             "collectionId": "neo4",
@@ -5336,7 +4992,6 @@
             "codigoLiga": "porygon (78/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-79",
             "name": "Psyduck",
             "collectionId": "neo4",
@@ -5352,7 +5007,6 @@
             "codigoLiga": "psyduck (79/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-8",
             "name": "Dark Porygon2",
             "collectionId": "neo4",
@@ -5368,7 +5022,6 @@
             "codigoLiga": "dark porygon2 (8/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-80",
             "name": "Remoraid",
             "collectionId": "neo4",
@@ -5384,7 +5037,6 @@
             "codigoLiga": "remoraid (80/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-81",
             "name": "Seel",
             "collectionId": "neo4",
@@ -5400,7 +5052,6 @@
             "codigoLiga": "seel (81/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-82",
             "name": "Slugma",
             "collectionId": "neo4",
@@ -5416,7 +5067,6 @@
             "codigoLiga": "slugma (82/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-83",
             "name": "Sunkern",
             "collectionId": "neo4",
@@ -5432,7 +5082,6 @@
             "codigoLiga": "sunkern (83/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-84",
             "name": "Swinub",
             "collectionId": "neo4",
@@ -5448,7 +5097,6 @@
             "codigoLiga": "swinub (84/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-85",
             "name": "Totodile",
             "collectionId": "neo4",
@@ -5464,7 +5112,6 @@
             "codigoLiga": "totodile (85/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-86",
             "name": "Unown L",
             "collectionId": "neo4",
@@ -5480,7 +5127,6 @@
             "codigoLiga": "unown l (86/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-87",
             "name": "Unown S",
             "collectionId": "neo4",
@@ -5496,7 +5142,6 @@
             "codigoLiga": "unown s (87/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-88",
             "name": "Unown T",
             "collectionId": "neo4",
@@ -5512,7 +5157,6 @@
             "codigoLiga": "unown t (88/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-89",
             "name": "Unown V",
             "collectionId": "neo4",
@@ -5528,7 +5172,6 @@
             "codigoLiga": "unown v (89/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-9",
             "name": "Dark Scizor",
             "collectionId": "neo4",
@@ -5544,7 +5187,6 @@
             "codigoLiga": "dark scizor (9/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-90",
             "name": "Venonat",
             "collectionId": "neo4",
@@ -5560,7 +5202,6 @@
             "codigoLiga": "venonat (90/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-91",
             "name": "Vulpix",
             "collectionId": "neo4",
@@ -5576,7 +5217,6 @@
             "codigoLiga": "vulpix (91/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-92",
             "name": "Broken Ground Gym",
             "collectionId": "neo4",
@@ -5589,7 +5229,6 @@
             "codigoLiga": "broken ground gym (92/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-93",
             "name": "EXP.ALL",
             "collectionId": "neo4",
@@ -5602,7 +5241,6 @@
             "codigoLiga": "exp.all (93/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-95",
             "name": "Radio Tower",
             "collectionId": "neo4",
@@ -5615,7 +5253,6 @@
             "codigoLiga": "radio tower (95/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-96",
             "name": "Thought Wave Machine",
             "collectionId": "neo4",
@@ -5628,7 +5265,6 @@
             "codigoLiga": "thought wave machine (96/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-97",
             "name": "Counterattack Claws",
             "collectionId": "neo4",
@@ -5641,7 +5277,6 @@
             "codigoLiga": "counterattack claws (97/)"
         },
         {
-            "seriesId": 3,
             "id": "neo4-99",
             "name": "Energy Stadium",
             "collectionId": "neo4",
@@ -5654,7 +5289,6 @@
             "codigoLiga": "energy stadium (99/)"
         },
         {
-            "seriesId": 3,
             "id": "16955",
             "name": "Venonat",
             "collectionId": "neo4",
@@ -5669,7 +5303,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 3,
             "id": "16956",
             "name": "Ledyba",
             "collectionId": "neo4",
@@ -5684,7 +5317,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 3,
             "id": "16957",
             "name": "Sunkern",
             "collectionId": "neo4",
@@ -5699,7 +5331,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 3,
             "id": "16958",
             "name": "Light Sunflora",
             "collectionId": "neo4",
@@ -5713,7 +5344,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 3,
             "id": "16959",
             "name": "Pineco",
             "collectionId": "neo4",
@@ -5728,7 +5358,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 3,
             "id": "16960",
             "name": "Light Venomoth",
             "collectionId": "neo4",
@@ -5742,7 +5371,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 3,
             "id": "16961",
             "name": "Scyther",
             "collectionId": "neo4",
@@ -5757,7 +5385,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 3,
             "id": "16962",
             "name": "Dark Forretress",
             "collectionId": "neo4",
@@ -5771,7 +5398,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 3,
             "id": "16963",
             "name": "Heracross",
             "collectionId": "neo4",
@@ -5786,7 +5412,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 3,
             "id": "16964",
             "name": "Light Lanturn",
             "collectionId": "neo4",
@@ -5800,7 +5425,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 3,
             "id": "16965",
             "name": "Dark Ariados",
             "collectionId": "neo4",
@@ -5814,7 +5438,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 3,
             "id": "16966",
             "name": "Dark Crobat",
             "collectionId": "neo4",
@@ -5828,7 +5451,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 3,
             "id": "16967",
             "name": "Shining Celebi",
             "collectionId": "neo4",
@@ -5842,7 +5464,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 3,
             "id": "16968",
             "name": "Vulpix",
             "collectionId": "neo4",
@@ -5857,7 +5478,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 3,
             "id": "16969",
             "name": "Growlithe",
             "collectionId": "neo4",
@@ -5872,7 +5492,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 3,
             "id": "16970",
             "name": "Cyndaquil",
             "collectionId": "neo4",
@@ -5887,7 +5506,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 3,
             "id": "16971",
             "name": "Slugma",
             "collectionId": "neo4",
@@ -5902,7 +5520,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 3,
             "id": "16972",
             "name": "Light Ninetales",
             "collectionId": "neo4",
@@ -5916,7 +5533,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 3,
             "id": "16973",
             "name": "Light Flareon",
             "collectionId": "neo4",
@@ -5930,7 +5546,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 3,
             "id": "16974",
             "name": "Dark Quilava",
             "collectionId": "neo4",
@@ -5944,7 +5559,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 3,
             "id": "16975",
             "name": "Light Arcanine",
             "collectionId": "neo4",
@@ -5958,7 +5572,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 3,
             "id": "16976",
             "name": "Dark Typhlosion",
             "collectionId": "neo4",
@@ -5972,7 +5585,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 3,
             "id": "16977",
             "name": "Dark Magcargo",
             "collectionId": "neo4",
@@ -5986,7 +5598,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 3,
             "id": "16978",
             "name": "Dark Houndoom",
             "collectionId": "neo4",
@@ -6000,7 +5611,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 3,
             "id": "16979",
             "name": "Shining Charizard",
             "collectionId": "neo4",
@@ -6014,7 +5624,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 3,
             "id": "16980",
             "name": "Psyduck",
             "collectionId": "neo4",
@@ -6029,7 +5638,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 3,
             "id": "16981",
             "name": "Seel",
             "collectionId": "neo4",
@@ -6044,7 +5652,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 3,
             "id": "16982",
             "name": "Totodile",
             "collectionId": "neo4",
@@ -6059,7 +5666,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 3,
             "id": "16983",
             "name": "Swinub",
             "collectionId": "neo4",
@@ -6074,7 +5680,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 3,
             "id": "16984",
             "name": "Remoraid",
             "collectionId": "neo4",
@@ -6089,7 +5694,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 3,
             "id": "16985",
             "name": "Mantine",
             "collectionId": "neo4",
@@ -6104,7 +5708,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 3,
             "id": "16986",
             "name": "Light Golduck",
             "collectionId": "neo4",
@@ -6118,7 +5721,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 3,
             "id": "16987",
             "name": "Light Dewgong",
             "collectionId": "neo4",
@@ -6132,7 +5734,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 3,
             "id": "16988",
             "name": "Light Vaporeon",
             "collectionId": "neo4",
@@ -6146,7 +5747,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 3,
             "id": "16989",
             "name": "Dark Omanyte",
             "collectionId": "neo4",
@@ -6160,7 +5760,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 3,
             "id": "16990",
             "name": "Dark Croconaw",
             "collectionId": "neo4",
@@ -6174,7 +5773,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 3,
             "id": "16991",
             "name": "Dark Octillery",
             "collectionId": "neo4",
@@ -6188,7 +5786,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 3,
             "id": "16992",
             "name": "Dark Omastar",
             "collectionId": "neo4",
@@ -6202,7 +5799,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 3,
             "id": "16993",
             "name": "Dark Feraligatr",
             "collectionId": "neo4",
@@ -6216,7 +5812,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 3,
             "id": "16994",
             "name": "Light Azumarill",
             "collectionId": "neo4",
@@ -6230,7 +5825,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 3,
             "id": "16995",
             "name": "Light Piloswine",
             "collectionId": "neo4",
@@ -6244,7 +5838,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 3,
             "id": "16996",
             "name": "Mareep",
             "collectionId": "neo4",
@@ -6259,7 +5852,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 3,
             "id": "16997",
             "name": "Light Jolteon",
             "collectionId": "neo4",
@@ -6273,7 +5865,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 3,
             "id": "16998",
             "name": "Dark Flaaffy",
             "collectionId": "neo4",
@@ -6287,7 +5878,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 3,
             "id": "16999",
             "name": "Light Lanturn",
             "collectionId": "neo4",
@@ -6301,7 +5891,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 3,
             "id": "17000",
             "name": "Dark Ampharos",
             "collectionId": "neo4",
@@ -6315,7 +5904,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 3,
             "id": "17001",
             "name": "Shining Raichu",
             "collectionId": "neo4",
@@ -6329,7 +5917,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 3,
             "id": "17002",
             "name": "Gastly",
             "collectionId": "neo4",
@@ -6344,7 +5931,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 3,
             "id": "17003",
             "name": "Exeggcute",
             "collectionId": "neo4",
@@ -6359,7 +5945,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 3,
             "id": "17004",
             "name": "Unown [L]",
             "collectionId": "neo4",
@@ -6374,7 +5959,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 3,
             "id": "17005",
             "name": "Unown [S]",
             "collectionId": "neo4",
@@ -6389,7 +5973,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 3,
             "id": "17006",
             "name": "Unown [T]",
             "collectionId": "neo4",
@@ -6404,7 +5987,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 3,
             "id": "17007",
             "name": "Unown [V]",
             "collectionId": "neo4",
@@ -6419,7 +6001,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 3,
             "id": "17008",
             "name": "Light Slowbro",
             "collectionId": "neo4",
@@ -6433,7 +6014,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 3,
             "id": "17009",
             "name": "Dark Haunter",
             "collectionId": "neo4",
@@ -6447,7 +6027,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 3,
             "id": "17010",
             "name": "Dark Exeggutor",
             "collectionId": "neo4",
@@ -6461,7 +6040,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 3,
             "id": "17011",
             "name": "Unown [C]",
             "collectionId": "neo4",
@@ -6476,7 +6054,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 3,
             "id": "17012",
             "name": "Unown [P]",
             "collectionId": "neo4",
@@ -6491,7 +6068,6 @@
             "numeroLiga": "(58/)"
         },
         {
-            "seriesId": 3,
             "id": "17013",
             "name": "Unown [Q]",
             "collectionId": "neo4",
@@ -6506,7 +6082,6 @@
             "numeroLiga": "(59/)"
         },
         {
-            "seriesId": 3,
             "id": "17014",
             "name": "Unown [Z]",
             "collectionId": "neo4",
@@ -6521,7 +6096,6 @@
             "numeroLiga": "(60/)"
         },
         {
-            "seriesId": 3,
             "id": "17015",
             "name": "Dark Slowking",
             "collectionId": "neo4",
@@ -6535,7 +6109,6 @@
             "numeroLiga": "(61/)"
         },
         {
-            "seriesId": 3,
             "id": "17016",
             "name": "Unown [G]",
             "collectionId": "neo4",
@@ -6550,7 +6123,6 @@
             "numeroLiga": "(62/)"
         },
         {
-            "seriesId": 3,
             "id": "17017",
             "name": "Unown [H]",
             "collectionId": "neo4",
@@ -6565,7 +6137,6 @@
             "numeroLiga": "(63/)"
         },
         {
-            "seriesId": 3,
             "id": "17018",
             "name": "Unown [W]",
             "collectionId": "neo4",
@@ -6580,7 +6151,6 @@
             "numeroLiga": "(64/)"
         },
         {
-            "seriesId": 3,
             "id": "17019",
             "name": "Unown [X]",
             "collectionId": "neo4",
@@ -6595,7 +6165,6 @@
             "numeroLiga": "(65/)"
         },
         {
-            "seriesId": 3,
             "id": "17020",
             "name": "Dark Gengar",
             "collectionId": "neo4",
@@ -6609,7 +6178,6 @@
             "numeroLiga": "(66/)"
         },
         {
-            "seriesId": 3,
             "id": "17021",
             "name": "Dark Espeon",
             "collectionId": "neo4",
@@ -6623,7 +6191,6 @@
             "numeroLiga": "(67/)"
         },
         {
-            "seriesId": 3,
             "id": "17022",
             "name": "Shining Mewtwo",
             "collectionId": "neo4",
@@ -6637,7 +6204,6 @@
             "numeroLiga": "(68/)"
         },
         {
-            "seriesId": 3,
             "id": "17023",
             "name": "Machop",
             "collectionId": "neo4",
@@ -6652,7 +6218,6 @@
             "numeroLiga": "(69/)"
         },
         {
-            "seriesId": 3,
             "id": "17024",
             "name": "Hitmonchan",
             "collectionId": "neo4",
@@ -6667,7 +6232,6 @@
             "numeroLiga": "(70/)"
         },
         {
-            "seriesId": 3,
             "id": "17025",
             "name": "Gligar",
             "collectionId": "neo4",
@@ -6682,7 +6246,6 @@
             "numeroLiga": "(71/)"
         },
         {
-            "seriesId": 3,
             "id": "17026",
             "name": "Phanpy",
             "collectionId": "neo4",
@@ -6697,7 +6260,6 @@
             "numeroLiga": "(72/)"
         },
         {
-            "seriesId": 3,
             "id": "17027",
             "name": "Larvitar",
             "collectionId": "neo4",
@@ -6712,7 +6274,6 @@
             "numeroLiga": "(73/)"
         },
         {
-            "seriesId": 3,
             "id": "17028",
             "name": "Light Machoke",
             "collectionId": "neo4",
@@ -6726,7 +6287,6 @@
             "numeroLiga": "(74/)"
         },
         {
-            "seriesId": 3,
             "id": "17029",
             "name": "Hitmonlee",
             "collectionId": "neo4",
@@ -6741,7 +6301,6 @@
             "numeroLiga": "(75/)"
         },
         {
-            "seriesId": 3,
             "id": "17030",
             "name": "Dark Pupitar",
             "collectionId": "neo4",
@@ -6755,7 +6314,6 @@
             "numeroLiga": "(76/)"
         },
         {
-            "seriesId": 3,
             "id": "17031",
             "name": "Light Machamp",
             "collectionId": "neo4",
@@ -6769,7 +6327,6 @@
             "numeroLiga": "(77/)"
         },
         {
-            "seriesId": 3,
             "id": "17032",
             "name": "Dark Donphan",
             "collectionId": "neo4",
@@ -6783,7 +6340,6 @@
             "numeroLiga": "(78/)"
         },
         {
-            "seriesId": 3,
             "id": "17033",
             "name": "Dark Tyranitar",
             "collectionId": "neo4",
@@ -6797,7 +6353,6 @@
             "numeroLiga": "(79/)"
         },
         {
-            "seriesId": 3,
             "id": "17034",
             "name": "Shining Kabutops",
             "collectionId": "neo4",
@@ -6811,7 +6366,6 @@
             "numeroLiga": "(80/)"
         },
         {
-            "seriesId": 3,
             "id": "17035",
             "name": "Houndour",
             "collectionId": "neo4",
@@ -6826,7 +6380,6 @@
             "numeroLiga": "(81/)"
         },
         {
-            "seriesId": 3,
             "id": "17036",
             "name": "Shining Tyranitar",
             "collectionId": "neo4",
@@ -6840,7 +6393,6 @@
             "numeroLiga": "(82/)"
         },
         {
-            "seriesId": 3,
             "id": "17037",
             "name": "Dark Scizor",
             "collectionId": "neo4",
@@ -6854,7 +6406,6 @@
             "numeroLiga": "(83/)"
         },
         {
-            "seriesId": 3,
             "id": "17038",
             "name": "Shining Steelix",
             "collectionId": "neo4",
@@ -6868,7 +6419,6 @@
             "numeroLiga": "(84/)"
         },
         {
-            "seriesId": 3,
             "id": "17039",
             "name": "Jigglypuff",
             "collectionId": "neo4",
@@ -6883,7 +6433,6 @@
             "numeroLiga": "(85/)"
         },
         {
-            "seriesId": 3,
             "id": "17040",
             "name": "Porygon",
             "collectionId": "neo4",
@@ -6898,7 +6447,6 @@
             "numeroLiga": "(86/)"
         },
         {
-            "seriesId": 3,
             "id": "17041",
             "name": "Dratini",
             "collectionId": "neo4",
@@ -6913,7 +6461,6 @@
             "numeroLiga": "(87/)"
         },
         {
-            "seriesId": 3,
             "id": "17042",
             "name": "Togepi",
             "collectionId": "neo4",
@@ -6928,7 +6475,6 @@
             "numeroLiga": "(88/)"
         },
         {
-            "seriesId": 3,
             "id": "17043",
             "name": "Girafarig",
             "collectionId": "neo4",
@@ -6943,7 +6489,6 @@
             "numeroLiga": "(89/)"
         },
         {
-            "seriesId": 3,
             "id": "17044",
             "name": "Light Wigglytuff",
             "collectionId": "neo4",
@@ -6957,7 +6502,6 @@
             "numeroLiga": "(90/)"
         },
         {
-            "seriesId": 3,
             "id": "17045",
             "name": "Dark Wigglytuff",
             "collectionId": "neo4",
@@ -6971,7 +6515,6 @@
             "numeroLiga": "(91/)"
         },
         {
-            "seriesId": 3,
             "id": "17046",
             "name": "Chansey",
             "collectionId": "neo4",
@@ -6986,7 +6529,6 @@
             "numeroLiga": "(92/)"
         },
         {
-            "seriesId": 3,
             "id": "17047",
             "name": "Light Dragonair",
             "collectionId": "neo4",
@@ -7000,7 +6542,6 @@
             "numeroLiga": "(93/)"
         },
         {
-            "seriesId": 3,
             "id": "17048",
             "name": "Light Dragonite",
             "collectionId": "neo4",
@@ -7014,7 +6555,6 @@
             "numeroLiga": "(94/)"
         },
         {
-            "seriesId": 3,
             "id": "17049",
             "name": "Light Togetic",
             "collectionId": "neo4",
@@ -7028,7 +6568,6 @@
             "numeroLiga": "(95/)"
         },
         {
-            "seriesId": 3,
             "id": "17050",
             "name": "Dark Ursaring",
             "collectionId": "neo4",
@@ -7042,7 +6581,6 @@
             "numeroLiga": "(96/)"
         },
         {
-            "seriesId": 3,
             "id": "17051",
             "name": "Dark Porygon2",
             "collectionId": "neo4",
@@ -7056,7 +6594,6 @@
             "numeroLiga": "(97/)"
         },
         {
-            "seriesId": 3,
             "id": "17052",
             "name": "Shining Noctowl",
             "collectionId": "neo4",
@@ -7070,7 +6607,6 @@
             "numeroLiga": "(98/)"
         },
         {
-            "seriesId": 3,
             "id": "17053",
             "name": "Heal Powder",
             "collectionId": "neo4",
@@ -7082,7 +6618,6 @@
             "numeroLiga": "(99/)"
         },
         {
-            "seriesId": 3,
             "id": "17054",
             "name": "Mail from Bill",
             "collectionId": "neo4",
@@ -7094,7 +6629,6 @@
             "numeroLiga": "(100/)"
         },
         {
-            "seriesId": 3,
             "id": "17055",
             "name": "Energy Stadium",
             "collectionId": "neo4",
@@ -7107,7 +6641,6 @@
             "numeroLiga": "(101/)"
         },
         {
-            "seriesId": 3,
             "id": "17056",
             "name": "Energy Amplifier",
             "collectionId": "neo4",
@@ -7119,7 +6652,6 @@
             "numeroLiga": "(102/)"
         },
         {
-            "seriesId": 3,
             "id": "17057",
             "name": "Counterattack Claws",
             "collectionId": "neo4",
@@ -7132,7 +6664,6 @@
             "numeroLiga": "(103/)"
         },
         {
-            "seriesId": 3,
             "id": "17058",
             "name": "Magnifier",
             "collectionId": "neo4",
@@ -7144,7 +6675,6 @@
             "numeroLiga": "(104/)"
         },
         {
-            "seriesId": 3,
             "id": "17059",
             "name": "Pokémon Personality Test",
             "collectionId": "neo4",
@@ -7156,7 +6686,6 @@
             "numeroLiga": "(105/)"
         },
         {
-            "seriesId": 3,
             "id": "17060",
             "name": "Lucky Stadium",
             "collectionId": "neo4",
@@ -7169,7 +6698,6 @@
             "numeroLiga": "(106/)"
         },
         {
-            "seriesId": 3,
             "id": "17061",
             "name": "Team Rocket's Evil Deeds",
             "collectionId": "neo4",
@@ -7181,7 +6709,6 @@
             "numeroLiga": "(107/)"
         },
         {
-            "seriesId": 3,
             "id": "17062",
             "name": "Thought Wave Machine",
             "collectionId": "neo4",
@@ -7193,7 +6720,6 @@
             "numeroLiga": "(108/)"
         },
         {
-            "seriesId": 3,
             "id": "17063",
             "name": "EXP.ALL",
             "collectionId": "neo4",
@@ -7206,7 +6732,6 @@
             "numeroLiga": "(109/)"
         },
         {
-            "seriesId": 3,
             "id": "17064",
             "name": "Broken Ground Gym",
             "collectionId": "neo4",
@@ -7219,7 +6744,6 @@
             "numeroLiga": "(110/)"
         },
         {
-            "seriesId": 3,
             "id": "17065",
             "name": "Impostor Professor Oak's Invention",
             "collectionId": "neo4",
@@ -7231,7 +6755,6 @@
             "numeroLiga": "(111/)"
         },
         {
-            "seriesId": 3,
             "id": "17066",
             "name": "Radio Tower",
             "collectionId": "neo4",
@@ -7244,7 +6767,6 @@
             "numeroLiga": "(112/)"
         },
         {
-            "seriesId": 3,
             "id": "17067",
             "name": "Miracle Energy",
             "collectionId": "neo4",
@@ -7257,7 +6779,6 @@
             "numeroLiga": "(113/)"
         },
         {
-            "seriesId": 3,
             "id": "17068",
             "name": "Zubat",
             "collectionId": "neo3",
@@ -7272,7 +6793,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 3,
             "id": "17069",
             "name": "Paras",
             "collectionId": "neo3",
@@ -7287,7 +6807,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 3,
             "id": "17070",
             "name": "Skiploom",
             "collectionId": "neo3",
@@ -7302,7 +6821,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 3,
             "id": "17071",
             "name": "Golbat",
             "collectionId": "neo3",
@@ -7317,7 +6835,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 3,
             "id": "17072",
             "name": "Parasect",
             "collectionId": "neo3",
@@ -7332,7 +6849,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 3,
             "id": "17073",
             "name": "Crobat",
             "collectionId": "neo3",
@@ -7347,7 +6863,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 3,
             "id": "17074",
             "name": "Jumpluff",
             "collectionId": "neo3",
@@ -7362,7 +6877,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 3,
             "id": "17075",
             "name": "Slugma",
             "collectionId": "neo3",
@@ -7377,7 +6891,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 3,
             "id": "17076",
             "name": "Magcargo",
             "collectionId": "neo3",
@@ -7392,7 +6905,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 3,
             "id": "17077",
             "name": "Entei",
             "collectionId": "neo3",
@@ -7406,7 +6918,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 3,
             "id": "17078",
             "name": "Ho-oh",
             "collectionId": "neo3",
@@ -7420,7 +6931,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 3,
             "id": "17079",
             "name": "Goldeen",
             "collectionId": "neo3",
@@ -7434,7 +6944,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 3,
             "id": "17080",
             "name": "Staryu",
             "collectionId": "neo3",
@@ -7448,7 +6957,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 3,
             "id": "17081",
             "name": "Quagsire",
             "collectionId": "neo3",
@@ -7463,7 +6971,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 3,
             "id": "17082",
             "name": "Qwilfish",
             "collectionId": "neo3",
@@ -7478,7 +6985,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 3,
             "id": "17083",
             "name": "Remoraid",
             "collectionId": "neo3",
@@ -7493,7 +6999,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 3,
             "id": "17084",
             "name": "Seaking",
             "collectionId": "neo3",
@@ -7508,7 +7013,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 3,
             "id": "17085",
             "name": "Jynx",
             "collectionId": "neo3",
@@ -7523,7 +7027,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 3,
             "id": "17086",
             "name": "Octillery",
             "collectionId": "neo3",
@@ -7538,7 +7041,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 3,
             "id": "17087",
             "name": "Kingdra",
             "collectionId": "neo3",
@@ -7553,7 +7055,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 3,
             "id": "17088",
             "name": "Suicune",
             "collectionId": "neo3",
@@ -7568,7 +7069,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 3,
             "id": "17089",
             "name": "Shining Magikarp",
             "collectionId": "neo3",
@@ -7582,7 +7082,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 3,
             "id": "17090",
             "name": "Shining Gyarados",
             "collectionId": "neo3",
@@ -7595,7 +7094,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 3,
             "id": "17091",
             "name": "Chinchou",
             "collectionId": "neo3",
@@ -7609,7 +7107,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 3,
             "id": "17092",
             "name": "Raichu",
             "collectionId": "neo3",
@@ -7623,7 +7120,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 3,
             "id": "17093",
             "name": "Lanturn",
             "collectionId": "neo3",
@@ -7637,7 +7133,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 3,
             "id": "17094",
             "name": "Flaaffy",
             "collectionId": "neo3",
@@ -7651,7 +7146,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 3,
             "id": "17095",
             "name": "Ampharos",
             "collectionId": "neo3",
@@ -7666,7 +7160,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 3,
             "id": "17096",
             "name": "Raikou",
             "collectionId": "neo3",
@@ -7680,7 +7173,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 3,
             "id": "17097",
             "name": "Unown [K]",
             "collectionId": "neo3",
@@ -7695,7 +7187,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 3,
             "id": "17098",
             "name": "Smoochum",
             "collectionId": "neo3",
@@ -7710,7 +7201,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 3,
             "id": "17099",
             "name": "Unown [B]",
             "collectionId": "neo3",
@@ -7725,7 +7215,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 3,
             "id": "17100",
             "name": "Unown [Y]",
             "collectionId": "neo3",
@@ -7740,7 +7229,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 3,
             "id": "17101",
             "name": "Starmie",
             "collectionId": "neo3",
@@ -7755,7 +7243,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 3,
             "id": "17102",
             "name": "Misdreavus",
             "collectionId": "neo3",
@@ -7770,7 +7257,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 3,
             "id": "17103",
             "name": "Celebi",
             "collectionId": "neo3",
@@ -7785,7 +7271,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 3,
             "id": "17104",
             "name": "Geodude",
             "collectionId": "neo3",
@@ -7800,7 +7285,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 3,
             "id": "17105",
             "name": "Swinub",
             "collectionId": "neo3",
@@ -7815,7 +7299,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 3,
             "id": "17106",
             "name": "Graveler",
             "collectionId": "neo3",
@@ -7830,7 +7313,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 3,
             "id": "17107",
             "name": "Shuckle",
             "collectionId": "neo3",
@@ -7845,7 +7327,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 3,
             "id": "17108",
             "name": "Piloswine",
             "collectionId": "neo3",
@@ -7860,7 +7341,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 3,
             "id": "17109",
             "name": "Aerodactyl",
             "collectionId": "neo3",
@@ -7874,7 +7354,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 3,
             "id": "17110",
             "name": "Murkrow",
             "collectionId": "neo3",
@@ -7889,7 +7368,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 3,
             "id": "17111",
             "name": "Houndoom",
             "collectionId": "neo3",
@@ -7904,7 +7382,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 3,
             "id": "17112",
             "name": "Magneton",
             "collectionId": "neo3",
@@ -7919,7 +7396,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 3,
             "id": "17113",
             "name": "Farfetch'd",
             "collectionId": "neo3",
@@ -7934,7 +7410,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 3,
             "id": "17114",
             "name": "Aipom",
             "collectionId": "neo3",
@@ -7949,7 +7424,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 3,
             "id": "17115",
             "name": "Snubbull",
             "collectionId": "neo3",
@@ -7964,7 +7438,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 3,
             "id": "17116",
             "name": "Stantler",
             "collectionId": "neo3",
@@ -7979,7 +7452,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 3,
             "id": "17117",
             "name": "Delibird",
             "collectionId": "neo3",
@@ -7994,7 +7466,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 3,
             "id": "17118",
             "name": "Porygon2",
             "collectionId": "neo3",
@@ -8009,7 +7480,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 3,
             "id": "17119",
             "name": "Blissey",
             "collectionId": "neo3",
@@ -8024,7 +7494,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 3,
             "id": "17120",
             "name": "Old Rod",
             "collectionId": "neo3",
@@ -8036,7 +7505,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 3,
             "id": "17121",
             "name": "Healing Field",
             "collectionId": "neo3",
@@ -8049,7 +7517,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 3,
             "id": "17122",
             "name": "Balloon Berry",
             "collectionId": "neo3",
@@ -8062,7 +7529,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 3,
             "id": "17123",
             "name": "Pokémon Breeder Fields",
             "collectionId": "neo3",
@@ -8074,7 +7540,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 3,
             "id": "17124",
             "name": "Rocket's Hideout",
             "collectionId": "neo3",
@@ -8087,7 +7552,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 3,
             "id": "17125",
             "name": "Caterpie",
             "collectionId": "neo2",
@@ -8102,7 +7566,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 3,
             "id": "17126",
             "name": "Weedle",
             "collectionId": "neo2",
@@ -8117,7 +7580,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 3,
             "id": "17127",
             "name": "Spinarak",
             "collectionId": "neo2",
@@ -8132,7 +7594,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 3,
             "id": "17128",
             "name": "Hoppip",
             "collectionId": "neo2",
@@ -8147,7 +7608,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 3,
             "id": "17129",
             "name": "Pineco",
             "collectionId": "neo2",
@@ -8162,7 +7622,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 3,
             "id": "17130",
             "name": "Metapod",
             "collectionId": "neo2",
@@ -8177,7 +7636,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 3,
             "id": "17131",
             "name": "Kakuna",
             "collectionId": "neo2",
@@ -8192,7 +7650,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 3,
             "id": "17132",
             "name": "Scyther",
             "collectionId": "neo2",
@@ -8207,7 +7664,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 3,
             "id": "17133",
             "name": "Butterfree",
             "collectionId": "neo2",
@@ -8222,7 +7678,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 3,
             "id": "17134",
             "name": "Beedrill",
             "collectionId": "neo2",
@@ -8236,7 +7691,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 3,
             "id": "17135",
             "name": "Yanma",
             "collectionId": "neo2",
@@ -8250,7 +7704,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 3,
             "id": "17136",
             "name": "Houndour",
             "collectionId": "neo2",
@@ -8264,7 +7717,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 3,
             "id": "17137",
             "name": "Poliwag",
             "collectionId": "neo2",
@@ -8278,7 +7730,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 3,
             "id": "17138",
             "name": "Kabuto",
             "collectionId": "neo2",
@@ -8292,7 +7743,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 3,
             "id": "17139",
             "name": "Wooper",
             "collectionId": "neo2",
@@ -8307,7 +7757,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 3,
             "id": "17140",
             "name": "Poliwhirl",
             "collectionId": "neo2",
@@ -8322,7 +7771,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 3,
             "id": "17141",
             "name": "Corsola",
             "collectionId": "neo2",
@@ -8337,7 +7785,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 3,
             "id": "17142",
             "name": "Kabutops",
             "collectionId": "neo2",
@@ -8351,7 +7798,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 3,
             "id": "17143",
             "name": "Politoed",
             "collectionId": "neo2",
@@ -8366,7 +7812,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 3,
             "id": "17144",
             "name": "Mareep",
             "collectionId": "neo2",
@@ -8381,7 +7826,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 3,
             "id": "17145",
             "name": "Dark Raichu",
             "collectionId": "neo2",
@@ -8395,7 +7839,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 3,
             "id": "17146",
             "name": "Natu",
             "collectionId": "neo2",
@@ -8409,7 +7852,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 3,
             "id": "17147",
             "name": "Unown [I]",
             "collectionId": "neo2",
@@ -8423,7 +7865,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 3,
             "id": "17148",
             "name": "Xatu",
             "collectionId": "neo2",
@@ -8437,7 +7878,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 3,
             "id": "17149",
             "name": "Unown [F]",
             "collectionId": "neo2",
@@ -8451,7 +7891,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 3,
             "id": "17150",
             "name": "Unown [D]",
             "collectionId": "neo2",
@@ -8465,7 +7904,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 3,
             "id": "17151",
             "name": "Unown [M]",
             "collectionId": "neo2",
@@ -8479,7 +7917,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 3,
             "id": "17152",
             "name": "Unown [U]",
             "collectionId": "neo2",
@@ -8493,7 +7930,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 3,
             "id": "17153",
             "name": "Espeon",
             "collectionId": "neo2",
@@ -8507,7 +7943,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 3,
             "id": "17154",
             "name": "Unown [A]",
             "collectionId": "neo2",
@@ -8522,7 +7957,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 3,
             "id": "17155",
             "name": "Wobbuffet",
             "collectionId": "neo2",
@@ -8537,7 +7971,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 3,
             "id": "17156",
             "name": "Omanyte",
             "collectionId": "neo2",
@@ -8551,7 +7984,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 3,
             "id": "17157",
             "name": "Tyrogue",
             "collectionId": "neo2",
@@ -8566,7 +7998,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 3,
             "id": "17158",
             "name": "Larvitar",
             "collectionId": "neo2",
@@ -8581,7 +8012,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 3,
             "id": "17159",
             "name": "Omastar",
             "collectionId": "neo2",
@@ -8595,7 +8025,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 3,
             "id": "17160",
             "name": "Pupitar",
             "collectionId": "neo2",
@@ -8610,7 +8039,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 3,
             "id": "17161",
             "name": "Poliwrath",
             "collectionId": "neo2",
@@ -8625,7 +8053,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 3,
             "id": "17162",
             "name": "Hitmontop",
             "collectionId": "neo2",
@@ -8639,7 +8066,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 3,
             "id": "17163",
             "name": "Houndour",
             "collectionId": "neo2",
@@ -8653,7 +8079,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 3,
             "id": "17164",
             "name": "Umbreon",
             "collectionId": "neo2",
@@ -8667,7 +8092,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 3,
             "id": "17165",
             "name": "Houndoom",
             "collectionId": "neo2",
@@ -8681,7 +8105,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 3,
             "id": "17166",
             "name": "Tyranitar",
             "collectionId": "neo2",
@@ -8696,7 +8119,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 3,
             "id": "17167",
             "name": "Magnemite",
             "collectionId": "neo2",
@@ -8711,7 +8133,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 3,
             "id": "17168",
             "name": "Forretress",
             "collectionId": "neo2",
@@ -8726,7 +8147,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 3,
             "id": "17169",
             "name": "Scizor",
             "collectionId": "neo2",
@@ -8741,7 +8161,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 3,
             "id": "17170",
             "name": "Sentret",
             "collectionId": "neo2",
@@ -8756,7 +8175,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 3,
             "id": "17171",
             "name": "Dunsparce",
             "collectionId": "neo2",
@@ -8771,7 +8189,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 3,
             "id": "17172",
             "name": "Teddiursa",
             "collectionId": "neo2",
@@ -8786,7 +8203,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 3,
             "id": "17173",
             "name": "Eevee",
             "collectionId": "neo2",
@@ -8801,7 +8217,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 3,
             "id": "17174",
             "name": "Igglybuff",
             "collectionId": "neo2",
@@ -8816,7 +8231,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 3,
             "id": "17175",
             "name": "Ursaring",
             "collectionId": "neo2",
@@ -8831,7 +8245,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 3,
             "id": "17176",
             "name": "Smeargle",
             "collectionId": "neo2",
@@ -8846,7 +8259,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 3,
             "id": "17177",
             "name": "Energy Ark",
             "collectionId": "neo2",
@@ -8858,7 +8270,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 3,
             "id": "17178",
             "name": "Ruin Wall",
             "collectionId": "neo2",
@@ -8870,7 +8281,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 3,
             "id": "17179",
             "name": "Fossil Egg",
             "collectionId": "neo2",
@@ -8882,7 +8292,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 3,
             "id": "17180",
             "name": "Hyper Devolution Spray",
             "collectionId": "neo2",
@@ -8894,7 +8303,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 3,
             "id": "17181",
             "name": "Oddish",
             "collectionId": "neo1",
@@ -8909,7 +8317,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 3,
             "id": "17182",
             "name": "Chikorita",
             "collectionId": "neo1",
@@ -8924,7 +8331,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 3,
             "id": "17183",
             "name": "Ledyba",
             "collectionId": "neo1",
@@ -8939,7 +8345,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 3,
             "id": "17184",
             "name": "Spinarak",
             "collectionId": "neo1",
@@ -8954,7 +8359,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 3,
             "id": "17185",
             "name": "Hoppip",
             "collectionId": "neo1",
@@ -8969,7 +8373,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 3,
             "id": "17186",
             "name": "Sunkern",
             "collectionId": "neo1",
@@ -8984,7 +8387,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 3,
             "id": "17187",
             "name": "Shuckle",
             "collectionId": "neo1",
@@ -8999,7 +8401,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 3,
             "id": "17188",
             "name": "Gloom",
             "collectionId": "neo1",
@@ -9014,7 +8415,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 3,
             "id": "17189",
             "name": "Bayleef",
             "collectionId": "neo1",
@@ -9029,7 +8429,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 3,
             "id": "17190",
             "name": "Ledian",
             "collectionId": "neo1",
@@ -9044,7 +8443,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 3,
             "id": "17191",
             "name": "Ariados",
             "collectionId": "neo1",
@@ -9059,7 +8457,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 3,
             "id": "17192",
             "name": "Skiploom",
             "collectionId": "neo1",
@@ -9074,7 +8471,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 3,
             "id": "17193",
             "name": "Sunflora",
             "collectionId": "neo1",
@@ -9088,7 +8484,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 3,
             "id": "17194",
             "name": "Meganium",
             "collectionId": "neo1",
@@ -9102,7 +8497,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 3,
             "id": "17195",
             "name": "Bellossom",
             "collectionId": "neo1",
@@ -9116,7 +8510,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 3,
             "id": "17196",
             "name": "Jumpluff",
             "collectionId": "neo1",
@@ -9130,7 +8523,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 3,
             "id": "17197",
             "name": "Heracross",
             "collectionId": "neo1",
@@ -9145,7 +8537,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 3,
             "id": "17198",
             "name": "Cyndaquil",
             "collectionId": "neo1",
@@ -9160,7 +8551,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 3,
             "id": "17199",
             "name": "Magmar",
             "collectionId": "neo1",
@@ -9175,7 +8565,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 3,
             "id": "17200",
             "name": "Quilava",
             "collectionId": "neo1",
@@ -9190,7 +8579,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 3,
             "id": "17201",
             "name": "Typhlosion",
             "collectionId": "neo1",
@@ -9205,7 +8593,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 3,
             "id": "17202",
             "name": "Magby",
             "collectionId": "neo1",
@@ -9220,7 +8607,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 3,
             "id": "17203",
             "name": "Horsea",
             "collectionId": "neo1",
@@ -9234,7 +8620,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 3,
             "id": "17204",
             "name": "Totodile",
             "collectionId": "neo1",
@@ -9248,7 +8633,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 3,
             "id": "17205",
             "name": "Marill",
             "collectionId": "neo1",
@@ -9262,7 +8646,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 3,
             "id": "17206",
             "name": "Wooper",
             "collectionId": "neo1",
@@ -9276,7 +8659,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 3,
             "id": "17207",
             "name": "Swinub",
             "collectionId": "neo1",
@@ -9291,7 +8673,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 3,
             "id": "17208",
             "name": "Mantine",
             "collectionId": "neo1",
@@ -9306,7 +8687,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 3,
             "id": "17209",
             "name": "Seadra",
             "collectionId": "neo1",
@@ -9321,7 +8701,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 3,
             "id": "17210",
             "name": "Croconaw",
             "collectionId": "neo1",
@@ -9336,7 +8715,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 3,
             "id": "17211",
             "name": "Quagsire",
             "collectionId": "neo1",
@@ -9351,7 +8729,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 3,
             "id": "17212",
             "name": "Piloswine",
             "collectionId": "neo1",
@@ -9366,7 +8743,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 3,
             "id": "17213",
             "name": "Feraligatr",
             "collectionId": "neo1",
@@ -9381,7 +8757,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 3,
             "id": "17214",
             "name": "Azumarill",
             "collectionId": "neo1",
@@ -9396,7 +8771,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 3,
             "id": "17215",
             "name": "Kingdra",
             "collectionId": "neo1",
@@ -9411,7 +8785,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 3,
             "id": "17216",
             "name": "Pikachu",
             "collectionId": "neo1",
@@ -9426,7 +8799,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 3,
             "id": "17217",
             "name": "Chinchou",
             "collectionId": "neo1",
@@ -9441,7 +8813,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 3,
             "id": "17218",
             "name": "Mareep",
             "collectionId": "neo1",
@@ -9456,7 +8827,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 3,
             "id": "17219",
             "name": "Electabuzz",
             "collectionId": "neo1",
@@ -9471,7 +8841,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 3,
             "id": "17220",
             "name": "Lanturn",
             "collectionId": "neo1",
@@ -9486,7 +8855,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 3,
             "id": "17221",
             "name": "Flaaffy",
             "collectionId": "neo1",
@@ -9501,7 +8869,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 3,
             "id": "17222",
             "name": "Pichu",
             "collectionId": "neo1",
@@ -9516,7 +8883,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 3,
             "id": "17223",
             "name": "Ampharos",
             "collectionId": "neo1",
@@ -9531,7 +8897,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 3,
             "id": "17224",
             "name": "Elekid",
             "collectionId": "neo1",
@@ -9546,7 +8911,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 3,
             "id": "17225",
             "name": "Slowpoke",
             "collectionId": "neo1",
@@ -9561,7 +8925,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 3,
             "id": "17226",
             "name": "Natu",
             "collectionId": "neo1",
@@ -9576,7 +8939,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 3,
             "id": "17227",
             "name": "Girafarig",
             "collectionId": "neo1",
@@ -9591,7 +8953,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 3,
             "id": "17228",
             "name": "Xatu",
             "collectionId": "neo1",
@@ -9606,7 +8967,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 3,
             "id": "17229",
             "name": "Slowking",
             "collectionId": "neo1",
@@ -9621,7 +8981,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 3,
             "id": "17230",
             "name": "Onix",
             "collectionId": "neo1",
@@ -9636,7 +8995,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 3,
             "id": "17231",
             "name": "Sudowoodo",
             "collectionId": "neo1",
@@ -9651,7 +9009,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 3,
             "id": "17232",
             "name": "Gligar",
             "collectionId": "neo1",
@@ -9666,7 +9023,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 3,
             "id": "17233",
             "name": "Phanpy",
             "collectionId": "neo1",
@@ -9681,7 +9037,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 3,
             "id": "17234",
             "name": "Donphan",
             "collectionId": "neo1",
@@ -9696,7 +9051,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 3,
             "id": "17235",
             "name": "Murkrow",
             "collectionId": "neo1",
@@ -9711,7 +9065,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 3,
             "id": "17236",
             "name": "Sneasel",
             "collectionId": "neo1",
@@ -9726,7 +9079,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 3,
             "id": "17237",
             "name": "Steelix",
             "collectionId": "neo1",
@@ -9741,7 +9093,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 3,
             "id": "17238",
             "name": "Skarmory",
             "collectionId": "neo1",
@@ -9756,7 +9107,6 @@
             "numeroLiga": "(58/)"
         },
         {
-            "seriesId": 3,
             "id": "17239",
             "name": "Sentret",
             "collectionId": "neo1",
@@ -9771,7 +9121,6 @@
             "numeroLiga": "(59/)"
         },
         {
-            "seriesId": 3,
             "id": "17240",
             "name": "Hoothoot",
             "collectionId": "neo1",
@@ -9786,7 +9135,6 @@
             "numeroLiga": "(60/)"
         },
         {
-            "seriesId": 3,
             "id": "17241",
             "name": "Snubbull",
             "collectionId": "neo1",
@@ -9801,7 +9149,6 @@
             "numeroLiga": "(61/)"
         },
         {
-            "seriesId": 3,
             "id": "17242",
             "name": "Stantler",
             "collectionId": "neo1",
@@ -9816,7 +9163,6 @@
             "numeroLiga": "(62/)"
         },
         {
-            "seriesId": 3,
             "id": "17243",
             "name": "Clefairy",
             "collectionId": "neo1",
@@ -9831,7 +9177,6 @@
             "numeroLiga": "(63/)"
         },
         {
-            "seriesId": 3,
             "id": "17244",
             "name": "Furret",
             "collectionId": "neo1",
@@ -9846,7 +9191,6 @@
             "numeroLiga": "(64/)"
         },
         {
-            "seriesId": 3,
             "id": "17245",
             "name": "Noctowl",
             "collectionId": "neo1",
@@ -9861,7 +9205,6 @@
             "numeroLiga": "(65/)"
         },
         {
-            "seriesId": 3,
             "id": "17246",
             "name": "Togepi",
             "collectionId": "neo1",
@@ -9876,7 +9219,6 @@
             "numeroLiga": "(66/)"
         },
         {
-            "seriesId": 3,
             "id": "17247",
             "name": "Aipom",
             "collectionId": "neo1",
@@ -9891,7 +9233,6 @@
             "numeroLiga": "(67/)"
         },
         {
-            "seriesId": 3,
             "id": "17248",
             "name": "Granbull",
             "collectionId": "neo1",
@@ -9906,7 +9247,6 @@
             "numeroLiga": "(68/)"
         },
         {
-            "seriesId": 3,
             "id": "17249",
             "name": "Miltank",
             "collectionId": "neo1",
@@ -9921,7 +9261,6 @@
             "numeroLiga": "(69/)"
         },
         {
-            "seriesId": 3,
             "id": "17250",
             "name": "Cleffa",
             "collectionId": "neo1",
@@ -9936,7 +9275,6 @@
             "numeroLiga": "(70/)"
         },
         {
-            "seriesId": 3,
             "id": "17251",
             "name": "Togetic",
             "collectionId": "neo1",
@@ -9951,7 +9289,6 @@
             "numeroLiga": "(71/)"
         },
         {
-            "seriesId": 3,
             "id": "17252",
             "name": "Lugia",
             "collectionId": "neo1",
@@ -9966,7 +9303,6 @@
             "numeroLiga": "(72/)"
         },
         {
-            "seriesId": 3,
             "id": "17253",
             "name": "Berry",
             "collectionId": "neo1",
@@ -9979,7 +9315,6 @@
             "numeroLiga": "(73/)"
         },
         {
-            "seriesId": 3,
             "id": "17254",
             "name": "Super Rod",
             "collectionId": "neo1",
@@ -9991,7 +9326,6 @@
             "numeroLiga": "(74/)"
         },
         {
-            "seriesId": 3,
             "id": "17255",
             "name": "Double Gust",
             "collectionId": "neo1",
@@ -10003,7 +9337,6 @@
             "numeroLiga": "(75/)"
         },
         {
-            "seriesId": 3,
             "id": "17256",
             "name": "Pokémon March",
             "collectionId": "neo1",
@@ -10015,7 +9348,6 @@
             "numeroLiga": "(76/)"
         },
         {
-            "seriesId": 3,
             "id": "17257",
             "name": "Moo-Moo Milk",
             "collectionId": "neo1",
@@ -10027,7 +9359,6 @@
             "numeroLiga": "(77/)"
         },
         {
-            "seriesId": 3,
             "id": "17258",
             "name": "Professor Elm",
             "collectionId": "neo1",
@@ -10039,7 +9370,6 @@
             "numeroLiga": "(78/)"
         },
         {
-            "seriesId": 3,
             "id": "17259",
             "name": "Gold Berry",
             "collectionId": "neo1",
@@ -10052,7 +9382,6 @@
             "numeroLiga": "(79/)"
         },
         {
-            "seriesId": 3,
             "id": "17260",
             "name": "Card-Flip Game",
             "collectionId": "neo1",
@@ -10065,7 +9394,6 @@
             "numeroLiga": "(80/)"
         },
         {
-            "seriesId": 3,
             "id": "17261",
             "name": "Miracle Berry",
             "collectionId": "neo1",
@@ -10078,7 +9406,6 @@
             "numeroLiga": "(81/)"
         },
         {
-            "seriesId": 3,
             "id": "17262",
             "name": "New Pokédex",
             "collectionId": "neo1",
@@ -10090,7 +9417,6 @@
             "numeroLiga": "(82/)"
         },
         {
-            "seriesId": 3,
             "id": "17263",
             "name": "Super Scoop Up",
             "collectionId": "neo1",
@@ -10102,7 +9428,6 @@
             "numeroLiga": "(83/)"
         },
         {
-            "seriesId": 3,
             "id": "17264",
             "name": "Bill's Teleporter",
             "collectionId": "neo1",
@@ -10114,7 +9439,6 @@
             "numeroLiga": "(84/)"
         },
         {
-            "seriesId": 3,
             "id": "17265",
             "name": "Sprout Tower",
             "collectionId": "neo1",
@@ -10127,7 +9451,6 @@
             "numeroLiga": "(85/)"
         },
         {
-            "seriesId": 3,
             "id": "17266",
             "name": "Ecogym",
             "collectionId": "neo1",
@@ -10140,7 +9463,6 @@
             "numeroLiga": "(86/)"
         },
         {
-            "seriesId": 3,
             "id": "17267",
             "name": "Energy Charge",
             "collectionId": "neo1",
@@ -10152,7 +9474,6 @@
             "numeroLiga": "(87/)"
         },
         {
-            "seriesId": 3,
             "id": "17268",
             "name": "Focus Band",
             "collectionId": "neo1",
@@ -10165,7 +9486,6 @@
             "numeroLiga": "(88/)"
         },
         {
-            "seriesId": 3,
             "id": "17269",
             "name": "Mary",
             "collectionId": "neo1",
@@ -10177,7 +9497,6 @@
             "numeroLiga": "(89/)"
         },
         {
-            "seriesId": 3,
             "id": "17270",
             "name": "Arcade Game",
             "collectionId": "neo1",
@@ -10190,7 +9509,6 @@
             "numeroLiga": "(90/)"
         },
         {
-            "seriesId": 3,
             "id": "17271",
             "name": "Time Capsule",
             "collectionId": "neo1",
@@ -10202,7 +9520,6 @@
             "numeroLiga": "(91/)"
         },
         {
-            "seriesId": 3,
             "id": "17272",
             "name": "Super Energy Retrieval",
             "collectionId": "neo1",
@@ -10214,7 +9531,6 @@
             "numeroLiga": "(92/)"
         },
         {
-            "seriesId": 3,
             "id": "17273",
             "name": "PokéGear",
             "collectionId": "neo1",
@@ -10226,7 +9542,6 @@
             "numeroLiga": "(93/)"
         },
         {
-            "seriesId": 3,
             "id": "17274",
             "name": "Darkness Energy",
             "collectionId": "neo1",
@@ -10239,7 +9554,6 @@
             "numeroLiga": "(94/)"
         },
         {
-            "seriesId": 3,
             "id": "17275",
             "name": "Metal Energy",
             "collectionId": "neo1",
@@ -10252,7 +9566,6 @@
             "numeroLiga": "(95/)"
         },
         {
-            "seriesId": 3,
             "id": "17276",
             "name": "Recycle Energy",
             "collectionId": "neo1",
@@ -10265,7 +9578,6 @@
             "numeroLiga": "(96/)"
         },
         {
-            "seriesId": 3,
             "id": "23924",
             "name": "Meganium",
             "collectionId": "npf1",
@@ -10276,7 +9588,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/9e/78/aa/9e78aa1476e8a66006ef735a9393cebfd814b8df72f457b732dfc628a5ad2228.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23925",
             "name": "Bayleef",
             "collectionId": "npf1",
@@ -10287,7 +9598,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/93/6d/21/936d216e376e98e55f7ef2df179e6ab86b792d79c195f353f69101ffc0204fec.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23926",
             "name": "Chikorita",
             "collectionId": "npf1",
@@ -10298,7 +9608,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/d2/93/8c/d2938cef5682c3cb73b59b3698c93e131c631d38ff1a06cb1ef4f22b66dce31e.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23927",
             "name": "Cyndaquil",
             "collectionId": "npf1",
@@ -10309,7 +9618,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/22/33/86/22338667b7b9db1ea55d47860f21222c42cf110f5ae8d966f4f9c92c6184601d.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23928",
             "name": "Quilava",
             "collectionId": "npf1",
@@ -10320,7 +9628,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/0f/7b/46/0f7b4626da710cae250d684db395090f95a69bd52ff2e43fa3cb2312583f20c8.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23929",
             "name": "Typhlosion",
             "collectionId": "npf1",
@@ -10331,7 +9638,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/66/62/51/666251c72fd85097e75a5e2493fa7a1127a566451b0c0235d76766df0900adc8.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23930",
             "name": "Feraligatr",
             "collectionId": "npf1",
@@ -10342,7 +9648,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/ee/1d/f9/ee1df97df64155c4cc78086ecf71f5ba68d383b0e61472865d4a816a856d59a3.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23931",
             "name": "Croconaw",
             "collectionId": "npf1",
@@ -10353,7 +9658,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/24/c9/bc/24c9bc6ad67065e31af06a765adfba701161a1feb7e9cc12d9c8139cff71c6ad.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23932",
             "name": "Totodile",
             "collectionId": "npf1",
@@ -10364,7 +9668,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/9f/c9/83/9fc983e2bbc2d75f0827c6c7d6eae4354ddb28c1235b568a47d2283e55e4cc8b.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23933",
             "name": "Unown N",
             "collectionId": "npf2",
@@ -10375,7 +9678,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/37/59/75/375975311dcf72b991a64b5a95478fab694076a82087c5629b938858f1316714.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23934",
             "name": "Unown E",
             "collectionId": "npf2",
@@ -10386,7 +9688,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/a5/66/80/a56680eeb43e84b10d49f0595c53e34f276f4d1a7bb8c6003b8d42f36df889f3.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23935",
             "name": "Unown O",
             "collectionId": "npf2",
@@ -10397,7 +9698,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/35/a4/83/35a483fa751d84725219f4bcd109d8ad547b293612f8e546978df56be83ba099.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23936",
             "name": "Espeon",
             "collectionId": "npf2",
@@ -10408,7 +9708,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/8d/f7/d1/8df7d1466074fb35d1471e70680c9ec22da5a34cc6057db809e36428d502c938.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23937",
             "name": "Umbreon",
             "collectionId": "npf2",
@@ -10419,7 +9718,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/74/b1/6c/74b16cf4b1950b7e139ebacfc9d40f20e303ab8531a69dc8c019e8cafa5ad9cb.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23938",
             "name": "Eevee",
             "collectionId": "npf2",
@@ -10430,7 +9728,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/4b/10/81/4b10815845c2a6cd8d2b04acd7ba9ee2aed45d98d15f1b76b7c271082570a28b.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23939",
             "name": "Pichu",
             "collectionId": "npf2",
@@ -10441,7 +9738,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/dc/bd/f0/dcbdf0cebef954d290e44621ca7ec36811155d2b7f0cc81c5817f30af9766bc9.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23940",
             "name": "Entei",
             "collectionId": "npf2",
@@ -10452,7 +9748,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/b0/04/d6/b004d6ead6a84708721ef594d8eb0dbe750a45d355c3cb4e5cbffa00cce08aff.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23941",
             "name": "Charizard",
             "collectionId": "npf2",
@@ -10463,7 +9758,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/48/8c/3a/488c3a190eff7e2664074538a5668f63c937f2c85a8b480120de0e35c55ca720.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23942",
             "name": "Sudowoodo",
             "collectionId": "npf3",
@@ -10474,7 +9768,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/12/33/b0/1233b0ff56110b29c4be7cc61e994fe3f0223111d08139aa675410e7ac8c5f1e.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23943",
             "name": "Celebi",
             "collectionId": "npf3",
@@ -10485,7 +9778,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/fc/a9/ed/fca9ed89017202973886fe57d07045fa08211698d042a47ce5326d4b2d97cf4b.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23944",
             "name": "Sneasel",
             "collectionId": "npf3",
@@ -10496,7 +9788,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/10/a0/7a/10a07a16bbd0cc66e45dd4cb5c12cda8e29d1cd06d8d96b3b53dbf0c362b0371.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23945",
             "name": "Raikou",
             "collectionId": "npf3",
@@ -10507,7 +9798,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/3c/96/f6/3c96f6cccbb618e3b121b12a0a1d105551912c36b1ccdfa4d04f073d2bb4e6dd.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23946",
             "name": "Entei",
             "collectionId": "npf3",
@@ -10518,7 +9808,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/6a/a6/a4/6aa6a47da96c9786680d4513b37276352bf41a582af6b7b24b107b9faf051050.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23947",
             "name": "Suicune",
             "collectionId": "npf3",
@@ -10529,7 +9818,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/3c/5a/5c/3c5a5c0468d00c2eb7cd1a18c1f782790328b8f4c8e083889e6c5b7be40d8d67.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23948",
             "name": "Ho-Oh",
             "collectionId": "npf3",
@@ -10540,7 +9828,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/2e/52/a3/2e52a3cc0768d42ce652899f7cca1ca2e5e155a8a5e8d28fc4dc44707c060129.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23949",
             "name": "Lugia",
             "collectionId": "npf3",
@@ -10551,7 +9838,6 @@
             "smallImage": "https://static.tcgcollector.com/content/images/1f/f4/2d/1ff42d724059b242a0dcc18ad1ad6ce1af59c1061c72f96ec1c8cd4bf607cc19.jpg"
         },
         {
-            "seriesId": 3,
             "id": "23950",
             "name": "Skarmory",
             "collectionId": "npf3",

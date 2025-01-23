@@ -1,7 +1,6 @@
 {
     "data": [
         {
-            "seriesId": 12,
             "id": "col1-1",
             "name": "Clefable",
             "collectionId": "col1",
@@ -18,7 +17,6 @@
             "myp": "cl_001"
         },
         {
-            "seriesId": 12,
             "id": "col1-10",
             "name": "Houndoom",
             "collectionId": "col1",
@@ -35,7 +33,6 @@
             "myp": "cl_010"
         },
         {
-            "seriesId": 12,
             "id": "col1-11",
             "name": "Jirachi",
             "collectionId": "col1",
@@ -52,7 +49,6 @@
             "myp": "cl_011"
         },
         {
-            "seriesId": 12,
             "id": "col1-12",
             "name": "Kyogre",
             "collectionId": "col1",
@@ -69,7 +65,6 @@
             "myp": "cl_012"
         },
         {
-            "seriesId": 12,
             "id": "col1-13",
             "name": "Leafeon",
             "collectionId": "col1",
@@ -86,7 +81,6 @@
             "myp": "cl_013"
         },
         {
-            "seriesId": 12,
             "id": "col1-14",
             "name": "Lucario",
             "collectionId": "col1",
@@ -103,7 +97,6 @@
             "myp": "cl_014"
         },
         {
-            "seriesId": 12,
             "id": "col1-15",
             "name": "Lugia",
             "collectionId": "col1",
@@ -120,7 +113,6 @@
             "myp": "cl_015"
         },
         {
-            "seriesId": 12,
             "id": "col1-16",
             "name": "Magmortar",
             "collectionId": "col1",
@@ -137,7 +129,6 @@
             "myp": "cl_016"
         },
         {
-            "seriesId": 12,
             "id": "col1-17",
             "name": "Ninetales",
             "collectionId": "col1",
@@ -154,7 +145,6 @@
             "myp": "cl_017"
         },
         {
-            "seriesId": 12,
             "id": "col1-18",
             "name": "Pachirisu",
             "collectionId": "col1",
@@ -171,7 +161,6 @@
             "myp": "cl_018"
         },
         {
-            "seriesId": 12,
             "id": "col1-19",
             "name": "Palkia",
             "collectionId": "col1",
@@ -188,7 +177,6 @@
             "myp": "cl_019"
         },
         {
-            "seriesId": 12,
             "id": "col1-2",
             "name": "Deoxys",
             "collectionId": "col1",
@@ -205,7 +193,6 @@
             "myp": "cl_002"
         },
         {
-            "seriesId": 12,
             "id": "col1-20",
             "name": "Rayquaza",
             "collectionId": "col1",
@@ -222,7 +209,6 @@
             "myp": "cl_020"
         },
         {
-            "seriesId": 12,
             "id": "col1-21",
             "name": "Smeargle",
             "collectionId": "col1",
@@ -239,7 +225,6 @@
             "myp": "cl_021"
         },
         {
-            "seriesId": 12,
             "id": "col1-22",
             "name": "Umbreon",
             "collectionId": "col1",
@@ -256,7 +241,6 @@
             "myp": "cl_022"
         },
         {
-            "seriesId": 12,
             "id": "col1-23",
             "name": "Ampharos",
             "collectionId": "col1",
@@ -273,7 +257,6 @@
             "myp": "cl_023"
         },
         {
-            "seriesId": 12,
             "id": "col1-24",
             "name": "Cleffa",
             "collectionId": "col1",
@@ -290,7 +273,6 @@
             "myp": "cl_024"
         },
         {
-            "seriesId": 12,
             "id": "col1-25",
             "name": "Feraligatr",
             "collectionId": "col1",
@@ -307,7 +289,6 @@
             "myp": "cl_025"
         },
         {
-            "seriesId": 12,
             "id": "col1-26",
             "name": "Granbull",
             "collectionId": "col1",
@@ -324,7 +305,6 @@
             "myp": "cl_026"
         },
         {
-            "seriesId": 12,
             "id": "col1-27",
             "name": "Meganium",
             "collectionId": "col1",
@@ -341,7 +321,6 @@
             "myp": "cl_027"
         },
         {
-            "seriesId": 12,
             "id": "col1-28",
             "name": "Mismagius",
             "collectionId": "col1",
@@ -358,7 +337,6 @@
             "myp": "cl_028"
         },
         {
-            "seriesId": 12,
             "id": "col1-29",
             "name": "Mr. Mime",
             "collectionId": "col1",
@@ -375,7 +353,6 @@
             "myp": "cl_029"
         },
         {
-            "seriesId": 12,
             "id": "col1-3",
             "name": "Dialga",
             "collectionId": "col1",
@@ -392,7 +369,6 @@
             "myp": "cl_003"
         },
         {
-            "seriesId": 12,
             "id": "col1-30",
             "name": "Pidgeot",
             "collectionId": "col1",
@@ -409,7 +385,6 @@
             "myp": "cl_030"
         },
         {
-            "seriesId": 12,
             "id": "col1-31",
             "name": "Skarmory",
             "collectionId": "col1",
@@ -426,7 +401,6 @@
             "myp": "cl_031"
         },
         {
-            "seriesId": 12,
             "id": "col1-32",
             "name": "Slowking",
             "collectionId": "col1",
@@ -443,7 +417,6 @@
             "myp": "cl_032"
         },
         {
-            "seriesId": 12,
             "id": "col1-33",
             "name": "Snorlax",
             "collectionId": "col1",
@@ -460,7 +433,6 @@
             "myp": "cl_033"
         },
         {
-            "seriesId": 12,
             "id": "col1-34",
             "name": "Tangrowth",
             "collectionId": "col1",
@@ -477,7 +449,6 @@
             "myp": "cl_034"
         },
         {
-            "seriesId": 12,
             "id": "col1-35",
             "name": "Typhlosion",
             "collectionId": "col1",
@@ -494,7 +465,6 @@
             "myp": "cl_035"
         },
         {
-            "seriesId": 12,
             "id": "col1-36",
             "name": "Tyrogue",
             "collectionId": "col1",
@@ -511,7 +481,6 @@
             "myp": "cl_036"
         },
         {
-            "seriesId": 12,
             "id": "col1-37",
             "name": "Ursaring",
             "collectionId": "col1",
@@ -528,7 +497,6 @@
             "myp": "cl_037"
         },
         {
-            "seriesId": 12,
             "id": "col1-38",
             "name": "Weezing",
             "collectionId": "col1",
@@ -545,7 +513,6 @@
             "myp": "cl_038"
         },
         {
-            "seriesId": 12,
             "id": "col1-39",
             "name": "Zangoose",
             "collectionId": "col1",
@@ -562,7 +529,6 @@
             "myp": "cl_039"
         },
         {
-            "seriesId": 12,
             "id": "col1-4",
             "name": "Espeon",
             "collectionId": "col1",
@@ -579,7 +545,6 @@
             "myp": "cl_004"
         },
         {
-            "seriesId": 12,
             "id": "col1-40",
             "name": "Bayleef",
             "collectionId": "col1",
@@ -596,7 +561,6 @@
             "myp": "cl_040"
         },
         {
-            "seriesId": 12,
             "id": "col1-41",
             "name": "Croconaw",
             "collectionId": "col1",
@@ -613,7 +577,6 @@
             "myp": "cl_041"
         },
         {
-            "seriesId": 12,
             "id": "col1-42",
             "name": "Donphan",
             "collectionId": "col1",
@@ -630,7 +593,6 @@
             "myp": "cl_042"
         },
         {
-            "seriesId": 12,
             "id": "col1-43",
             "name": "Flaaffy",
             "collectionId": "col1",
@@ -647,7 +609,6 @@
             "myp": "cl_043"
         },
         {
-            "seriesId": 12,
             "id": "col1-44",
             "name": "Flareon",
             "collectionId": "col1",
@@ -664,7 +625,6 @@
             "myp": "cl_044"
         },
         {
-            "seriesId": 12,
             "id": "col1-45",
             "name": "Jolteon",
             "collectionId": "col1",
@@ -681,7 +641,6 @@
             "myp": "cl_045"
         },
         {
-            "seriesId": 12,
             "id": "col1-46",
             "name": "Magby",
             "collectionId": "col1",
@@ -698,7 +657,6 @@
             "myp": "cl_046"
         },
         {
-            "seriesId": 12,
             "id": "col1-47",
             "name": "Mime Jr.",
             "collectionId": "col1",
@@ -715,7 +673,6 @@
             "myp": "cl_047"
         },
         {
-            "seriesId": 12,
             "id": "col1-48",
             "name": "Pidgeotto",
             "collectionId": "col1",
@@ -732,7 +689,6 @@
             "myp": "cl_048"
         },
         {
-            "seriesId": 12,
             "id": "col1-49",
             "name": "Quilava",
             "collectionId": "col1",
@@ -749,7 +705,6 @@
             "myp": "cl_049"
         },
         {
-            "seriesId": 12,
             "id": "col1-5",
             "name": "Forretress",
             "collectionId": "col1",
@@ -766,7 +721,6 @@
             "myp": "cl_005"
         },
         {
-            "seriesId": 12,
             "id": "col1-50",
             "name": "Riolu",
             "collectionId": "col1",
@@ -783,7 +737,6 @@
             "myp": "cl_050"
         },
         {
-            "seriesId": 12,
             "id": "col1-51",
             "name": "Seviper",
             "collectionId": "col1",
@@ -800,7 +753,6 @@
             "myp": "cl_051"
         },
         {
-            "seriesId": 12,
             "id": "col1-52",
             "name": "Vaporeon",
             "collectionId": "col1",
@@ -817,7 +769,6 @@
             "myp": "cl_052"
         },
         {
-            "seriesId": 12,
             "id": "col1-53",
             "name": "Chikorita",
             "collectionId": "col1",
@@ -834,7 +785,6 @@
             "myp": "cl_053"
         },
         {
-            "seriesId": 12,
             "id": "col1-54",
             "name": "Clefairy",
             "collectionId": "col1",
@@ -851,7 +801,6 @@
             "myp": "cl_054"
         },
         {
-            "seriesId": 12,
             "id": "col1-55",
             "name": "Cyndaquil",
             "collectionId": "col1",
@@ -868,7 +817,6 @@
             "myp": "cl_055"
         },
         {
-            "seriesId": 12,
             "id": "col1-56",
             "name": "Eevee",
             "collectionId": "col1",
@@ -885,7 +833,6 @@
             "myp": "cl_056"
         },
         {
-            "seriesId": 12,
             "id": "col1-57",
             "name": "Hitmonchan",
             "collectionId": "col1",
@@ -902,7 +849,6 @@
             "myp": "cl_057"
         },
         {
-            "seriesId": 12,
             "id": "col1-58",
             "name": "Hitmonlee",
             "collectionId": "col1",
@@ -919,7 +865,6 @@
             "myp": "cl_058"
         },
         {
-            "seriesId": 12,
             "id": "col1-59",
             "name": "Houndour",
             "collectionId": "col1",
@@ -936,7 +881,6 @@
             "myp": "cl_059"
         },
         {
-            "seriesId": 12,
             "id": "col1-6",
             "name": "Groudon",
             "collectionId": "col1",
@@ -953,7 +897,6 @@
             "myp": "cl_006"
         },
         {
-            "seriesId": 12,
             "id": "col1-60",
             "name": "Koffing",
             "collectionId": "col1",
@@ -970,7 +913,6 @@
             "myp": "cl_060"
         },
         {
-            "seriesId": 12,
             "id": "col1-61",
             "name": "Magikarp",
             "collectionId": "col1",
@@ -987,7 +929,6 @@
             "myp": "cl_061"
         },
         {
-            "seriesId": 12,
             "id": "col1-62",
             "name": "Magmar",
             "collectionId": "col1",
@@ -1004,7 +945,6 @@
             "myp": "cl_062"
         },
         {
-            "seriesId": 12,
             "id": "col1-63",
             "name": "Mareep",
             "collectionId": "col1",
@@ -1021,7 +961,6 @@
             "myp": "cl_063"
         },
         {
-            "seriesId": 12,
             "id": "col1-64",
             "name": "Mawile",
             "collectionId": "col1",
@@ -1038,7 +977,6 @@
             "myp": "cl_064"
         },
         {
-            "seriesId": 12,
             "id": "col1-65",
             "name": "Misdreavus",
             "collectionId": "col1",
@@ -1055,7 +993,6 @@
             "myp": "cl_065"
         },
         {
-            "seriesId": 12,
             "id": "col1-66",
             "name": "Phanpy",
             "collectionId": "col1",
@@ -1072,7 +1009,6 @@
             "myp": "cl_066"
         },
         {
-            "seriesId": 12,
             "id": "col1-67",
             "name": "Pidgey",
             "collectionId": "col1",
@@ -1089,7 +1025,6 @@
             "myp": "cl_067"
         },
         {
-            "seriesId": 12,
             "id": "col1-68",
             "name": "Pineco",
             "collectionId": "col1",
@@ -1106,7 +1041,6 @@
             "myp": "cl_068"
         },
         {
-            "seriesId": 12,
             "id": "col1-69",
             "name": "Relicanth",
             "collectionId": "col1",
@@ -1123,7 +1057,6 @@
             "myp": "cl_069"
         },
         {
-            "seriesId": 12,
             "id": "col1-7",
             "name": "Gyarados",
             "collectionId": "col1",
@@ -1140,7 +1073,6 @@
             "myp": "cl_007"
         },
         {
-            "seriesId": 12,
             "id": "col1-70",
             "name": "Slowpoke",
             "collectionId": "col1",
@@ -1157,7 +1089,6 @@
             "myp": "cl_070"
         },
         {
-            "seriesId": 12,
             "id": "col1-71",
             "name": "Snubbull",
             "collectionId": "col1",
@@ -1174,7 +1105,6 @@
             "myp": "cl_071"
         },
         {
-            "seriesId": 12,
             "id": "col1-72",
             "name": "Tangela",
             "collectionId": "col1",
@@ -1191,7 +1121,6 @@
             "myp": "cl_072"
         },
         {
-            "seriesId": 12,
             "id": "col1-73",
             "name": "Teddiursa",
             "collectionId": "col1",
@@ -1208,7 +1137,6 @@
             "myp": "cl_073"
         },
         {
-            "seriesId": 12,
             "id": "col1-74",
             "name": "Totodile",
             "collectionId": "col1",
@@ -1225,7 +1153,6 @@
             "myp": "cl_074"
         },
         {
-            "seriesId": 12,
             "id": "col1-75",
             "name": "Vulpix",
             "collectionId": "col1",
@@ -1242,7 +1169,6 @@
             "myp": "cl_075"
         },
         {
-            "seriesId": 12,
             "id": "col1-76",
             "name": "Cheerleader's Cheer",
             "collectionId": "col1",
@@ -1256,7 +1182,6 @@
             "myp": "cl_076"
         },
         {
-            "seriesId": 12,
             "id": "col1-77",
             "name": "Copycat",
             "nomePt": "Imitadora",
@@ -1271,7 +1196,6 @@
             "myp": "cl_077"
         },
         {
-            "seriesId": 12,
             "id": "col1-78",
             "name": "Dual Ball",
             "collectionId": "col1",
@@ -1285,7 +1209,6 @@
             "myp": "cl_078"
         },
         {
-            "seriesId": 12,
             "id": "col1-79",
             "name": "Interviewer's Questions",
             "collectionId": "col1",
@@ -1299,7 +1222,6 @@
             "myp": "cl_079"
         },
         {
-            "seriesId": 12,
             "id": "col1-8",
             "name": "Hitmontop",
             "collectionId": "col1",
@@ -1316,7 +1238,6 @@
             "myp": "cl_008"
         },
         {
-            "seriesId": 12,
             "id": "col1-80",
             "name": "Lost Remover",
             "collectionId": "col1",
@@ -1330,7 +1251,6 @@
             "myp": "cl_080"
         },
         {
-            "seriesId": 12,
             "id": "col1-81",
             "name": "Lost World",
             "collectionId": "col1",
@@ -1344,7 +1264,6 @@
             "myp": "cl_081"
         },
         {
-            "seriesId": 12,
             "id": "col1-82",
             "name": "Professor Elm's Training Method",
             "collectionId": "col1",
@@ -1358,7 +1277,6 @@
             "myp": "cl_082"
         },
         {
-            "seriesId": 12,
             "id": "col1-83",
             "name": "Professor Oak's New Theory",
             "collectionId": "col1",
@@ -1372,7 +1290,6 @@
             "myp": "cl_083"
         },
         {
-            "seriesId": 12,
             "id": "col1-84",
             "name": "Research Record",
             "collectionId": "col1",
@@ -1386,7 +1303,6 @@
             "myp": "cl_084"
         },
         {
-            "seriesId": 12,
             "id": "col1-85",
             "name": "Sage's Training",
             "collectionId": "col1",
@@ -1400,7 +1316,6 @@
             "myp": "cl_085"
         },
         {
-            "seriesId": 12,
             "id": "col1-88",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
@@ -1416,7 +1331,6 @@
             "myp": "cl_088"
         },
         {
-            "seriesId": 12,
             "id": "col1-89",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
@@ -1432,7 +1346,6 @@
             "myp": "cl_089"
         },
         {
-            "seriesId": 12,
             "id": "col1-9",
             "name": "Ho-Oh",
             "collectionId": "col1",
@@ -1449,7 +1362,6 @@
             "myp": "cl_009"
         },
         {
-            "seriesId": 12,
             "id": "col1-90",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
@@ -1465,7 +1377,6 @@
             "myp": "cl_090"
         },
         {
-            "seriesId": 12,
             "id": "col1-91",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
@@ -1481,7 +1392,6 @@
             "myp": "cl_091"
         },
         {
-            "seriesId": 12,
             "id": "col1-92",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
@@ -1497,7 +1407,6 @@
             "myp": "cl_092"
         },
         {
-            "seriesId": 12,
             "id": "col1-93",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
@@ -1513,7 +1422,6 @@
             "myp": "cl_093"
         },
         {
-            "seriesId": 12,
             "id": "col1-94",
             "name": "Darkness Energy",
             "nomePt": "Energia de Escuridao",
@@ -1529,7 +1437,6 @@
             "myp": "cl_094"
         },
         {
-            "seriesId": 12,
             "id": "col1-95",
             "name": "Metal Energy",
             "nomePt": "Energia de Metal",
@@ -1545,7 +1452,6 @@
             "myp": "cl_095"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL1",
             "name": "Deoxys",
             "collectionId": "col2",
@@ -1563,7 +1469,6 @@
             "myp": "cl_001"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL10",
             "name": "Rayquaza",
             "collectionId": "col2",
@@ -1581,7 +1486,6 @@
             "myp": "cl_010"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL11",
             "name": "Suicune",
             "collectionId": "col2",
@@ -1599,7 +1503,6 @@
             "myp": "cl_011"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL2",
             "name": "Dialga",
             "collectionId": "col2",
@@ -1617,7 +1520,6 @@
             "myp": "cl_002"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL3",
             "name": "Entei",
             "collectionId": "col2",
@@ -1635,7 +1537,6 @@
             "myp": "cl_003"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL4",
             "name": "Groudon",
             "collectionId": "col2",
@@ -1653,7 +1554,6 @@
             "myp": "cl_004"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL5",
             "name": "Ho-Oh",
             "collectionId": "col2",
@@ -1671,7 +1571,6 @@
             "myp": "cl_005"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL6",
             "name": "Kyogre",
             "collectionId": "col2",
@@ -1689,7 +1588,6 @@
             "myp": "cl_006"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL7",
             "name": "Lugia",
             "collectionId": "col2",
@@ -1707,7 +1605,6 @@
             "myp": "cl_007"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL8",
             "name": "Palkia",
             "collectionId": "col2",
@@ -1725,7 +1622,6 @@
             "myp": "cl_008"
         },
         {
-            "seriesId": 12,
             "id": "col1-SL9",
             "name": "Raikou",
             "collectionId": "col2",
@@ -1743,7 +1639,6 @@
             "myp": "cl_009"
         },
         {
-            "seriesId": 12,
             "id": "col1-86",
             "name": "Darkness Energy",
             "nomePt": "Energia de Escuridao",
@@ -1758,7 +1653,6 @@
             "myp": "cl_086"
         },
         {
-            "seriesId": 12,
             "id": "col1-87",
             "name": "Metal Energy",
             "nomePt": "Energia de Metal",
@@ -1773,7 +1667,6 @@
             "myp": "cl_087"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-103",
             "name": "Double Colorless Energy",
             "nomePt": "Energia Incolor Dupla",
@@ -1788,7 +1681,6 @@
             "myp": "hs_103"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-104",
             "name": "Rainbow Energy",
             "nomePt": "Energia Arco-Iris",
@@ -1803,7 +1695,6 @@
             "myp": "hs_104"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-79",
             "name": "Darkness Energy",
             "nomePt": "Energia de Escuridao",
@@ -1818,7 +1709,6 @@
             "myp": "ud_079"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-80",
             "name": "Metal Energy",
             "nomePt": "Energia de Metal",
@@ -1833,7 +1723,6 @@
             "myp": "ud_080"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-90",
             "name": "Rescue Energy",
             "collectionId": "hgss4",
@@ -1847,7 +1736,6 @@
             "myp": "tm_090"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-1",
             "name": "Arcanine",
             "collectionId": "hgss1",
@@ -1864,7 +1752,6 @@
             "myp": "hs_001"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-10",
             "name": "Raichu",
             "collectionId": "hgss1",
@@ -1881,7 +1768,6 @@
             "myp": "hs_010"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-100",
             "name": "Professor Elm's Training Method",
             "collectionId": "hgss1",
@@ -1895,7 +1781,6 @@
             "myp": "hs_100"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-101",
             "name": "Professor Oak's New Theory",
             "collectionId": "hgss1",
@@ -1909,7 +1794,6 @@
             "myp": "hs_101"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-102",
             "name": "Switch",
             "nomePt": "Substituicao",
@@ -1924,7 +1808,6 @@
             "myp": "hs_102"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-105",
             "name": "Ampharos",
             "collectionId": "hgss1",
@@ -1941,7 +1824,6 @@
             "myp": "hs_105"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-106",
             "name": "Blissey",
             "collectionId": "hgss1",
@@ -1958,7 +1840,6 @@
             "myp": "hs_106"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-107",
             "name": "Donphan",
             "collectionId": "hgss1",
@@ -1975,7 +1856,6 @@
             "myp": "hs_107"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-108",
             "name": "Feraligatr",
             "collectionId": "hgss1",
@@ -1992,7 +1872,6 @@
             "myp": "hs_108"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-109",
             "name": "Meganium",
             "collectionId": "hgss1",
@@ -2009,7 +1888,6 @@
             "myp": "hs_109"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-11",
             "name": "Shuckle",
             "collectionId": "hgss1",
@@ -2026,7 +1904,6 @@
             "myp": "hs_011"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-110",
             "name": "Typhlosion",
             "collectionId": "hgss1",
@@ -2043,7 +1920,6 @@
             "myp": "hs_110"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-111",
             "name": "Ho-Oh LEGEND",
             "collectionId": "hgss1",
@@ -2060,7 +1936,6 @@
             "myp": "hs_111"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-112",
             "name": "Ho-Oh LEGEND",
             "collectionId": "hgss1",
@@ -2077,7 +1952,6 @@
             "myp": "hs_112"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-113",
             "name": "Lugia LEGEND",
             "collectionId": "hgss1",
@@ -2094,7 +1968,6 @@
             "myp": "hs_113"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-114",
             "name": "Lugia LEGEND",
             "collectionId": "hgss1",
@@ -2111,7 +1984,6 @@
             "myp": "hs_114"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-115",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
@@ -2127,7 +1999,6 @@
             "myp": "hs_115"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-116",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
@@ -2143,7 +2014,6 @@
             "myp": "hs_116"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-117",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
@@ -2159,7 +2029,6 @@
             "myp": "hs_117"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-118",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
@@ -2175,7 +2044,6 @@
             "myp": "hs_118"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-119",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
@@ -2191,7 +2059,6 @@
             "myp": "hs_119"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-12",
             "name": "Slowking",
             "collectionId": "hgss1",
@@ -2208,7 +2075,6 @@
             "myp": "hs_012"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-120",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
@@ -2224,7 +2090,6 @@
             "myp": "hs_120"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-121",
             "name": "Darkness Energy",
             "nomePt": "Energia de Escuridao",
@@ -2240,7 +2105,6 @@
             "myp": "hs_121"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-122",
             "name": "Metal Energy",
             "nomePt": "Energia de Metal",
@@ -2256,7 +2120,6 @@
             "myp": "hs_122"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-123",
             "name": "Gyarados",
             "collectionId": "hgss1",
@@ -2273,7 +2136,6 @@
             "myp": "hs_123"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-13",
             "name": "Wobbuffet",
             "collectionId": "hgss1",
@@ -2290,7 +2152,6 @@
             "myp": "hs_013"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-14",
             "name": "Ampharos",
             "collectionId": "hgss1",
@@ -2307,7 +2168,6 @@
             "myp": "hs_014"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-15",
             "name": "Ariados",
             "collectionId": "hgss1",
@@ -2324,7 +2184,6 @@
             "myp": "hs_015"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-16",
             "name": "Butterfree",
             "collectionId": "hgss1",
@@ -2341,7 +2200,6 @@
             "myp": "hs_016"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-17",
             "name": "Cleffa",
             "collectionId": "hgss1",
@@ -2358,7 +2216,6 @@
             "myp": "hs_017"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-18",
             "name": "Exeggutor",
             "collectionId": "hgss1",
@@ -2375,7 +2232,6 @@
             "myp": "hs_018"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-19",
             "name": "Farfetch'd",
             "collectionId": "hgss1",
@@ -2392,7 +2248,6 @@
             "myp": "hs_019"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-2",
             "name": "Azumarill",
             "collectionId": "hgss1",
@@ -2409,7 +2264,6 @@
             "myp": "hs_002"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-20",
             "name": "Feraligatr",
             "collectionId": "hgss1",
@@ -2426,7 +2280,6 @@
             "myp": "hs_020"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-21",
             "name": "Furret",
             "collectionId": "hgss1",
@@ -2443,7 +2296,6 @@
             "myp": "hs_021"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-22",
             "name": "Granbull",
             "collectionId": "hgss1",
@@ -2460,7 +2312,6 @@
             "myp": "hs_022"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-23",
             "name": "Hypno",
             "collectionId": "hgss1",
@@ -2477,7 +2328,6 @@
             "myp": "hs_023"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-24",
             "name": "Lapras",
             "collectionId": "hgss1",
@@ -2494,7 +2344,6 @@
             "myp": "hs_024"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-25",
             "name": "Ledian",
             "collectionId": "hgss1",
@@ -2511,7 +2360,6 @@
             "myp": "hs_025"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-26",
             "name": "Meganium",
             "collectionId": "hgss1",
@@ -2528,7 +2376,6 @@
             "myp": "hs_026"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-27",
             "name": "Persian",
             "collectionId": "hgss1",
@@ -2545,7 +2392,6 @@
             "myp": "hs_027"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-28",
             "name": "Pichu",
             "collectionId": "hgss1",
@@ -2562,7 +2408,6 @@
             "myp": "hs_028"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-29",
             "name": "Sandslash",
             "collectionId": "hgss1",
@@ -2579,7 +2424,6 @@
             "myp": "hs_029"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-3",
             "name": "Clefable",
             "collectionId": "hgss1",
@@ -2596,7 +2440,6 @@
             "myp": "hs_003"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-30",
             "name": "Smoochum",
             "collectionId": "hgss1",
@@ -2613,7 +2456,6 @@
             "myp": "hs_030"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-31",
             "name": "Sunflora",
             "collectionId": "hgss1",
@@ -2630,7 +2472,6 @@
             "myp": "hs_031"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-32",
             "name": "Typhlosion",
             "collectionId": "hgss1",
@@ -2647,7 +2488,6 @@
             "myp": "hs_032"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-33",
             "name": "Tyrogue",
             "collectionId": "hgss1",
@@ -2664,7 +2504,6 @@
             "myp": "hs_033"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-34",
             "name": "Weezing",
             "collectionId": "hgss1",
@@ -2681,7 +2520,6 @@
             "myp": "hs_034"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-35",
             "name": "Bayleef",
             "collectionId": "hgss1",
@@ -2698,7 +2536,6 @@
             "myp": "hs_035"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-36",
             "name": "Blissey",
             "collectionId": "hgss1",
@@ -2715,7 +2552,6 @@
             "myp": "hs_036"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-37",
             "name": "Corsola",
             "collectionId": "hgss1",
@@ -2732,7 +2568,6 @@
             "myp": "hs_037"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-38",
             "name": "Croconaw",
             "collectionId": "hgss1",
@@ -2749,7 +2584,6 @@
             "myp": "hs_038"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-39",
             "name": "Delibird",
             "collectionId": "hgss1",
@@ -2766,7 +2600,6 @@
             "myp": "hs_039"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-4",
             "name": "Gyarados",
             "collectionId": "hgss1",
@@ -2783,7 +2616,6 @@
             "myp": "hs_004"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-40",
             "name": "Donphan",
             "collectionId": "hgss1",
@@ -2800,7 +2632,6 @@
             "myp": "hs_040"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-41",
             "name": "Dunsparce",
             "collectionId": "hgss1",
@@ -2817,7 +2648,6 @@
             "myp": "hs_041"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-42",
             "name": "Flaaffy",
             "collectionId": "hgss1",
@@ -2834,7 +2664,6 @@
             "myp": "hs_042"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-43",
             "name": "Heracross",
             "collectionId": "hgss1",
@@ -2851,7 +2680,6 @@
             "myp": "hs_043"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-44",
             "name": "Igglybuff",
             "collectionId": "hgss1",
@@ -2868,7 +2696,6 @@
             "myp": "hs_044"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-45",
             "name": "Mantine",
             "collectionId": "hgss1",
@@ -2885,7 +2712,6 @@
             "myp": "hs_045"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-46",
             "name": "Metapod",
             "collectionId": "hgss1",
@@ -2902,7 +2728,6 @@
             "myp": "hs_046"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-47",
             "name": "Miltank",
             "collectionId": "hgss1",
@@ -2919,7 +2744,6 @@
             "myp": "hs_047"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-48",
             "name": "Parasect",
             "collectionId": "hgss1",
@@ -2936,7 +2760,6 @@
             "myp": "hs_048"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-49",
             "name": "Quilava",
             "collectionId": "hgss1",
@@ -2953,7 +2776,6 @@
             "myp": "hs_049"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-5",
             "name": "Hitmontop",
             "collectionId": "hgss1",
@@ -2970,7 +2792,6 @@
             "myp": "hs_005"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-50",
             "name": "Qwilfish",
             "collectionId": "hgss1",
@@ -2987,7 +2808,6 @@
             "myp": "hs_050"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-51",
             "name": "Skiploom",
             "collectionId": "hgss1",
@@ -3004,7 +2824,6 @@
             "myp": "hs_051"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-52",
             "name": "Slowbro",
             "collectionId": "hgss1",
@@ -3021,7 +2840,6 @@
             "myp": "hs_052"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-53",
             "name": "Starmie",
             "collectionId": "hgss1",
@@ -3038,7 +2856,6 @@
             "myp": "hs_053"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-54",
             "name": "Unown",
             "collectionId": "hgss1",
@@ -3055,7 +2872,6 @@
             "myp": "hs_054"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-55",
             "name": "Unown",
             "collectionId": "hgss1",
@@ -3072,7 +2888,6 @@
             "myp": "hs_055"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-56",
             "name": "Wigglytuff",
             "collectionId": "hgss1",
@@ -3089,7 +2904,6 @@
             "myp": "hs_056"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-57",
             "name": "Caterpie",
             "collectionId": "hgss1",
@@ -3106,7 +2920,6 @@
             "myp": "hs_057"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-58",
             "name": "Chansey",
             "collectionId": "hgss1",
@@ -3123,7 +2936,6 @@
             "myp": "hs_058"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-59",
             "name": "Chikorita",
             "collectionId": "hgss1",
@@ -3140,7 +2952,6 @@
             "myp": "hs_059"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-6",
             "name": "Jumpluff",
             "collectionId": "hgss1",
@@ -3157,7 +2968,6 @@
             "myp": "hs_006"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-60",
             "name": "Clefairy",
             "collectionId": "hgss1",
@@ -3174,7 +2984,6 @@
             "myp": "hs_060"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-61",
             "name": "Cyndaquil",
             "collectionId": "hgss1",
@@ -3191,7 +3000,6 @@
             "myp": "hs_061"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-62",
             "name": "Drowzee",
             "collectionId": "hgss1",
@@ -3208,7 +3016,6 @@
             "myp": "hs_062"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-63",
             "name": "Exeggcute",
             "collectionId": "hgss1",
@@ -3225,7 +3032,6 @@
             "myp": "hs_063"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-64",
             "name": "Girafarig",
             "collectionId": "hgss1",
@@ -3242,7 +3048,6 @@
             "myp": "hs_064"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-65",
             "name": "Growlithe",
             "collectionId": "hgss1",
@@ -3259,7 +3064,6 @@
             "myp": "hs_065"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-66",
             "name": "Hoothoot",
             "collectionId": "hgss1",
@@ -3276,7 +3080,6 @@
             "myp": "hs_066"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-67",
             "name": "Hoppip",
             "collectionId": "hgss1",
@@ -3293,7 +3096,6 @@
             "myp": "hs_067"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-68",
             "name": "Jigglypuff",
             "collectionId": "hgss1",
@@ -3310,7 +3112,6 @@
             "myp": "hs_068"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-69",
             "name": "Jynx",
             "collectionId": "hgss1",
@@ -3327,7 +3128,6 @@
             "myp": "hs_069"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-7",
             "name": "Ninetales",
             "collectionId": "hgss1",
@@ -3344,7 +3144,6 @@
             "myp": "hs_007"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-70",
             "name": "Koffing",
             "collectionId": "hgss1",
@@ -3361,7 +3160,6 @@
             "myp": "hs_070"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-71",
             "name": "Ledyba",
             "collectionId": "hgss1",
@@ -3378,7 +3176,6 @@
             "myp": "hs_071"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-72",
             "name": "Magikarp",
             "collectionId": "hgss1",
@@ -3395,7 +3192,6 @@
             "myp": "hs_072"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-73",
             "name": "Mareep",
             "collectionId": "hgss1",
@@ -3412,7 +3208,6 @@
             "myp": "hs_073"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-74",
             "name": "Marill",
             "collectionId": "hgss1",
@@ -3429,7 +3224,6 @@
             "myp": "hs_074"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-75",
             "name": "Meowth",
             "collectionId": "hgss1",
@@ -3446,7 +3240,6 @@
             "myp": "hs_075"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-76",
             "name": "Paras",
             "collectionId": "hgss1",
@@ -3463,7 +3256,6 @@
             "myp": "hs_076"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-77",
             "name": "Phanpy",
             "collectionId": "hgss1",
@@ -3480,7 +3272,6 @@
             "myp": "hs_077"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-78",
             "name": "Pikachu",
             "collectionId": "hgss1",
@@ -3497,7 +3288,6 @@
             "myp": "hs_078"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-79",
             "name": "Sandshrew",
             "collectionId": "hgss1",
@@ -3514,7 +3304,6 @@
             "myp": "hs_079"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-8",
             "name": "Noctowl",
             "collectionId": "hgss1",
@@ -3531,7 +3320,6 @@
             "myp": "hs_008"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-80",
             "name": "Sentret",
             "collectionId": "hgss1",
@@ -3548,7 +3336,6 @@
             "myp": "hs_080"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-81",
             "name": "Slowpoke",
             "collectionId": "hgss1",
@@ -3565,7 +3352,6 @@
             "myp": "hs_081"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-82",
             "name": "Snubbull",
             "collectionId": "hgss1",
@@ -3582,7 +3368,6 @@
             "myp": "hs_082"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-83",
             "name": "Spinarak",
             "collectionId": "hgss1",
@@ -3599,7 +3384,6 @@
             "myp": "hs_083"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-84",
             "name": "Staryu",
             "collectionId": "hgss1",
@@ -3616,7 +3400,6 @@
             "myp": "hs_084"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-85",
             "name": "Sunkern",
             "collectionId": "hgss1",
@@ -3633,7 +3416,6 @@
             "myp": "hs_085"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-86",
             "name": "Totodile",
             "collectionId": "hgss1",
@@ -3650,7 +3432,6 @@
             "myp": "hs_086"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-87",
             "name": "Vulpix",
             "collectionId": "hgss1",
@@ -3667,7 +3448,6 @@
             "myp": "hs_087"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-88",
             "name": "Wooper",
             "collectionId": "hgss1",
@@ -3684,7 +3464,6 @@
             "myp": "hs_088"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-89",
             "name": "Bill",
             "collectionId": "hgss1",
@@ -3698,7 +3477,6 @@
             "myp": "hs_089"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-9",
             "name": "Quagsire",
             "collectionId": "hgss1",
@@ -3715,7 +3493,6 @@
             "myp": "hs_009"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-90",
             "name": "Copycat",
             "nomePt": "Imitadora",
@@ -3730,7 +3507,6 @@
             "myp": "hs_090"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-91",
             "name": "Energy Switch",
             "nomePt": "Substituicao de Energia",
@@ -3745,7 +3521,6 @@
             "myp": "hs_091"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-92",
             "name": "Fisherman",
             "nomePt": "Pescador",
@@ -3760,7 +3535,6 @@
             "myp": "hs_092"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-93",
             "name": "Full Heal",
             "nomePt": "Cura Total",
@@ -3775,7 +3549,6 @@
             "myp": "hs_093"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-94",
             "name": "Moomoo Milk",
             "collectionId": "hgss1",
@@ -3789,7 +3562,6 @@
             "myp": "hs_094"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-95",
             "name": "Poké Ball",
             "collectionId": "hgss1",
@@ -3804,7 +3576,6 @@
             "myp": "hs_095"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-96",
             "name": "Pokégear 3.0",
             "collectionId": "hgss1",
@@ -3819,7 +3590,6 @@
             "myp": "hs_096"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-97",
             "name": "Pokémon Collector",
             "collectionId": "hgss1",
@@ -3834,7 +3604,6 @@
             "myp": "hs_097"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-98",
             "name": "Pokémon Communication",
             "nomePt": "Comunicacao Pokémon",
@@ -3850,7 +3619,6 @@
             "myp": "hs_098"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-99",
             "name": "Pokémon Reversal",
             "collectionId": "hgss1",
@@ -3865,7 +3633,6 @@
             "myp": "hs_099"
         },
         {
-            "seriesId": 12,
             "id": "hgss1-ONE",
             "name": "Alph Lithograph",
             "nomePt": "Litografia Alfa",
@@ -3881,7 +3648,6 @@
             "myp": "hs_000"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-1",
             "name": "Jirachi",
             "collectionId": "hgss2",
@@ -3898,7 +3664,6 @@
             "myp": "ul_001"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-10",
             "name": "Torterra",
             "collectionId": "hgss2",
@@ -3915,7 +3680,6 @@
             "myp": "ul_010"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-11",
             "name": "Xatu",
             "collectionId": "hgss2",
@@ -3932,7 +3696,6 @@
             "myp": "ul_011"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-12",
             "name": "Beedrill",
             "collectionId": "hgss2",
@@ -3949,7 +3712,6 @@
             "myp": "ul_012"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-13",
             "name": "Blastoise",
             "collectionId": "hgss2",
@@ -3966,7 +3728,6 @@
             "myp": "ul_013"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-14",
             "name": "Crobat",
             "collectionId": "hgss2",
@@ -3983,7 +3744,6 @@
             "myp": "ul_014"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-15",
             "name": "Fearow",
             "collectionId": "hgss2",
@@ -4000,7 +3760,6 @@
             "myp": "ul_015"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-16",
             "name": "Floatzel",
             "collectionId": "hgss2",
@@ -4017,7 +3776,6 @@
             "myp": "ul_016"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-17",
             "name": "Kingdra",
             "collectionId": "hgss2",
@@ -4034,7 +3792,6 @@
             "myp": "ul_017"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-18",
             "name": "Lanturn",
             "collectionId": "hgss2",
@@ -4051,7 +3808,6 @@
             "myp": "ul_018"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-19",
             "name": "Lucario",
             "collectionId": "hgss2",
@@ -4068,7 +3824,6 @@
             "myp": "ul_019"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-2",
             "name": "Magmortar",
             "collectionId": "hgss2",
@@ -4085,7 +3840,6 @@
             "myp": "ul_002"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-20",
             "name": "Ninetales",
             "collectionId": "hgss2",
@@ -4102,7 +3856,6 @@
             "myp": "ul_020"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-21",
             "name": "Poliwrath",
             "collectionId": "hgss2",
@@ -4119,7 +3872,6 @@
             "myp": "ul_021"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-22",
             "name": "Primeape",
             "collectionId": "hgss2",
@@ -4136,7 +3888,6 @@
             "myp": "ul_022"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-23",
             "name": "Roserade",
             "collectionId": "hgss2",
@@ -4153,7 +3904,6 @@
             "myp": "ul_023"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-24",
             "name": "Steelix",
             "collectionId": "hgss2",
@@ -4170,7 +3920,6 @@
             "myp": "ul_024"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-25",
             "name": "Torkoal",
             "collectionId": "hgss2",
@@ -4187,7 +3936,6 @@
             "myp": "ul_025"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-26",
             "name": "Tyranitar",
             "collectionId": "hgss2",
@@ -4204,7 +3952,6 @@
             "myp": "ul_026"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-27",
             "name": "Ursaring",
             "collectionId": "hgss2",
@@ -4221,7 +3968,6 @@
             "myp": "ul_027"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-28",
             "name": "Cherrim",
             "collectionId": "hgss2",
@@ -4238,7 +3984,6 @@
             "myp": "ul_028"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-29",
             "name": "Dunsparce",
             "collectionId": "hgss2",
@@ -4255,7 +4000,6 @@
             "myp": "ul_029"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-3",
             "name": "Manaphy",
             "collectionId": "hgss2",
@@ -4272,7 +4016,6 @@
             "myp": "ul_003"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-30",
             "name": "Golbat",
             "collectionId": "hgss2",
@@ -4289,7 +4032,6 @@
             "myp": "ul_030"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-31",
             "name": "Grotle",
             "collectionId": "hgss2",
@@ -4306,7 +4048,6 @@
             "myp": "ul_031"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-32",
             "name": "Kakuna",
             "collectionId": "hgss2",
@@ -4323,7 +4064,6 @@
             "myp": "ul_032"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-33",
             "name": "Metang",
             "collectionId": "hgss2",
@@ -4340,7 +4080,6 @@
             "myp": "ul_033"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-34",
             "name": "Minun",
             "collectionId": "hgss2",
@@ -4357,7 +4096,6 @@
             "myp": "ul_034"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-35",
             "name": "Numel",
             "collectionId": "hgss2",
@@ -4374,7 +4112,6 @@
             "myp": "ul_035"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-36",
             "name": "Plusle",
             "collectionId": "hgss2",
@@ -4391,7 +4128,6 @@
             "myp": "ul_036"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-37",
             "name": "Poliwhirl",
             "collectionId": "hgss2",
@@ -4408,7 +4144,6 @@
             "myp": "ul_037"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-38",
             "name": "Pupitar",
             "collectionId": "hgss2",
@@ -4425,7 +4160,6 @@
             "myp": "ul_038"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-39",
             "name": "Pupitar",
             "collectionId": "hgss2",
@@ -4442,7 +4176,6 @@
             "myp": "ul_039"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-4",
             "name": "Metagross",
             "collectionId": "hgss2",
@@ -4459,7 +4192,6 @@
             "myp": "ul_004"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-40",
             "name": "Seadra",
             "collectionId": "hgss2",
@@ -4476,7 +4208,6 @@
             "myp": "ul_040"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-41",
             "name": "Tauros",
             "collectionId": "hgss2",
@@ -4493,7 +4224,6 @@
             "myp": "ul_041"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-42",
             "name": "Wartortle",
             "collectionId": "hgss2",
@@ -4510,7 +4240,6 @@
             "myp": "ul_042"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-43",
             "name": "Aipom",
             "collectionId": "hgss2",
@@ -4527,7 +4256,6 @@
             "myp": "ul_043"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-44",
             "name": "Beldum",
             "collectionId": "hgss2",
@@ -4544,7 +4272,6 @@
             "myp": "ul_044"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-45",
             "name": "Buizel",
             "collectionId": "hgss2",
@@ -4561,7 +4288,6 @@
             "myp": "ul_045"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-46",
             "name": "Carnivine",
             "collectionId": "hgss2",
@@ -4578,7 +4304,6 @@
             "myp": "ul_046"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-47",
             "name": "Cherubi",
             "collectionId": "hgss2",
@@ -4595,7 +4320,6 @@
             "myp": "ul_047"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-48",
             "name": "Chinchou",
             "collectionId": "hgss2",
@@ -4612,7 +4336,6 @@
             "myp": "ul_048"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-49",
             "name": "Horsea",
             "collectionId": "hgss2",
@@ -4629,7 +4352,6 @@
             "myp": "ul_049"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-5",
             "name": "Mismagius",
             "collectionId": "hgss2",
@@ -4646,7 +4368,6 @@
             "myp": "ul_005"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-50",
             "name": "Larvitar",
             "collectionId": "hgss2",
@@ -4663,7 +4384,6 @@
             "myp": "ul_050"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-51",
             "name": "Larvitar",
             "collectionId": "hgss2",
@@ -4680,7 +4400,6 @@
             "myp": "ul_051"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-52",
             "name": "Magmar",
             "collectionId": "hgss2",
@@ -4697,7 +4416,6 @@
             "myp": "ul_052"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-53",
             "name": "Mankey",
             "collectionId": "hgss2",
@@ -4714,7 +4432,6 @@
             "myp": "ul_053"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-54",
             "name": "Misdreavus",
             "collectionId": "hgss2",
@@ -4731,7 +4448,6 @@
             "myp": "ul_054"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-55",
             "name": "Natu",
             "collectionId": "hgss2",
@@ -4748,7 +4464,6 @@
             "myp": "ul_055"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-56",
             "name": "Onix",
             "collectionId": "hgss2",
@@ -4765,7 +4480,6 @@
             "myp": "ul_056"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-57",
             "name": "Onix",
             "collectionId": "hgss2",
@@ -4782,7 +4496,6 @@
             "myp": "ul_057"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-58",
             "name": "Poliwag",
             "collectionId": "hgss2",
@@ -4799,7 +4512,6 @@
             "myp": "ul_058"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-59",
             "name": "Remoraid",
             "collectionId": "hgss2",
@@ -4816,7 +4528,6 @@
             "myp": "ul_059"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-6",
             "name": "Octillery",
             "collectionId": "hgss2",
@@ -4833,7 +4544,6 @@
             "myp": "ul_006"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-60",
             "name": "Riolu",
             "collectionId": "hgss2",
@@ -4850,7 +4560,6 @@
             "myp": "ul_060"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-61",
             "name": "Roselia",
             "collectionId": "hgss2",
@@ -4867,7 +4576,6 @@
             "myp": "ul_061"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-62",
             "name": "Spearow",
             "collectionId": "hgss2",
@@ -4884,7 +4592,6 @@
             "myp": "ul_062"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-63",
             "name": "Squirtle",
             "collectionId": "hgss2",
@@ -4901,7 +4608,6 @@
             "myp": "ul_063"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-64",
             "name": "Stantler",
             "collectionId": "hgss2",
@@ -4918,7 +4624,6 @@
             "myp": "ul_064"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-65",
             "name": "Teddiursa",
             "collectionId": "hgss2",
@@ -4935,7 +4640,6 @@
             "myp": "ul_065"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-66",
             "name": "Tropius",
             "collectionId": "hgss2",
@@ -4952,7 +4656,6 @@
             "myp": "ul_066"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-67",
             "name": "Turtwig",
             "collectionId": "hgss2",
@@ -4969,7 +4672,6 @@
             "myp": "ul_067"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-68",
             "name": "Vulpix",
             "collectionId": "hgss2",
@@ -4986,7 +4688,6 @@
             "myp": "ul_068"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-69",
             "name": "Weedle",
             "collectionId": "hgss2",
@@ -5003,7 +4704,6 @@
             "myp": "ul_069"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-7",
             "name": "Politoed",
             "collectionId": "hgss2",
@@ -5020,7 +4720,6 @@
             "myp": "ul_007"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-70",
             "name": "Zubat",
             "collectionId": "hgss2",
@@ -5037,7 +4736,6 @@
             "myp": "ul_070"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-71",
             "name": "Cheerleader's Cheer",
             "collectionId": "hgss2",
@@ -5051,7 +4749,6 @@
             "myp": "ul_071"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-72",
             "name": "Dual Ball",
             "collectionId": "hgss2",
@@ -5065,7 +4762,6 @@
             "myp": "ul_072"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-73",
             "name": "Emcee's Chatter",
             "collectionId": "hgss2",
@@ -5079,7 +4775,6 @@
             "myp": "ul_073"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-74",
             "name": "Energy Returner",
             "collectionId": "hgss2",
@@ -5093,7 +4788,6 @@
             "myp": "ul_074"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-75",
             "name": "Engineer's Adjustments",
             "collectionId": "hgss2",
@@ -5107,7 +4801,6 @@
             "myp": "ul_075"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-76",
             "name": "Good Rod",
             "nomePt": "Vara boa",
@@ -5122,7 +4815,6 @@
             "myp": "ul_076"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-77",
             "name": "Interviewer's Questions",
             "collectionId": "hgss2",
@@ -5136,7 +4828,6 @@
             "myp": "ul_077"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-78",
             "name": "Judge",
             "nomePt": "Juiz",
@@ -5151,7 +4842,6 @@
             "myp": "ul_078"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-79",
             "name": "Life Herb",
             "nomePt": "Erva da Vida",
@@ -5166,7 +4856,6 @@
             "myp": "ul_079"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-8",
             "name": "Shaymin",
             "collectionId": "hgss2",
@@ -5183,7 +4872,6 @@
             "myp": "ul_008"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-80",
             "name": "PlusPower",
             "collectionId": "hgss2",
@@ -5197,7 +4885,6 @@
             "myp": "ul_080"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-81",
             "name": "Pokémon Circulator",
             "collectionId": "hgss2",
@@ -5212,7 +4899,6 @@
             "myp": "ul_081"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-82",
             "name": "Rare Candy",
             "nomePt": "Doce Raro",
@@ -5227,7 +4913,6 @@
             "myp": "ul_082"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-83",
             "name": "Super Scoop Up",
             "nomePt": "Super-recolhida",
@@ -5242,7 +4927,6 @@
             "myp": "ul_083"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-84",
             "name": "Crobat",
             "collectionId": "hgss2",
@@ -5259,7 +4943,6 @@
             "myp": "ul_084"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-85",
             "name": "Kingdra",
             "collectionId": "hgss2",
@@ -5276,7 +4959,6 @@
             "myp": "ul_085"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-86",
             "name": "Lanturn",
             "collectionId": "hgss2",
@@ -5293,7 +4975,6 @@
             "myp": "ul_086"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-87",
             "name": "Steelix",
             "collectionId": "hgss2",
@@ -5310,7 +4991,6 @@
             "myp": "ul_087"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-88",
             "name": "Tyranitar",
             "collectionId": "hgss2",
@@ -5327,7 +5007,6 @@
             "myp": "ul_088"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-89",
             "name": "Ursaring",
             "collectionId": "hgss2",
@@ -5344,7 +5023,6 @@
             "myp": "ul_089"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-9",
             "name": "Sudowoodo",
             "collectionId": "hgss2",
@@ -5361,7 +5039,6 @@
             "myp": "ul_009"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-90",
             "name": "Entei & Raikou LEGEND",
             "collectionId": "hgss2",
@@ -5378,7 +5055,6 @@
             "myp": "ul_090"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-91",
             "name": "Entei & Raikou LEGEND",
             "collectionId": "hgss2",
@@ -5395,7 +5071,6 @@
             "myp": "ul_091"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-92",
             "name": "Raikou & Suicune LEGEND",
             "collectionId": "hgss2",
@@ -5412,7 +5087,6 @@
             "myp": "ul_092"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-93",
             "name": "Raikou & Suicune LEGEND",
             "collectionId": "hgss2",
@@ -5429,7 +5103,6 @@
             "myp": "ul_093"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-94",
             "name": "Suicune & Entei LEGEND",
             "collectionId": "hgss2",
@@ -5446,7 +5119,6 @@
             "myp": "ul_094"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-95",
             "name": "Suicune & Entei LEGEND",
             "collectionId": "hgss2",
@@ -5463,7 +5135,6 @@
             "myp": "ul_095"
         },
         {
-            "seriesId": 12,
             "id": "hgss2-TWO",
             "name": "Alph Lithograph",
             "nomePt": "Litografia Alfa",
@@ -5479,7 +5150,6 @@
             "myp": "ul_000"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-1",
             "name": "Bellossom",
             "collectionId": "hgss3",
@@ -5496,7 +5166,6 @@
             "myp": "ud_001"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-10",
             "name": "Umbreon",
             "collectionId": "hgss3",
@@ -5513,7 +5182,6 @@
             "myp": "ud_010"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-11",
             "name": "Dodrio",
             "collectionId": "hgss3",
@@ -5530,7 +5198,6 @@
             "myp": "ud_011"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-12",
             "name": "Drifblim",
             "collectionId": "hgss3",
@@ -5547,7 +5214,6 @@
             "myp": "ud_012"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-13",
             "name": "Forretress",
             "collectionId": "hgss3",
@@ -5564,7 +5230,6 @@
             "myp": "ud_013"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-14",
             "name": "Hariyama",
             "collectionId": "hgss3",
@@ -5581,7 +5246,6 @@
             "myp": "ud_014"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-15",
             "name": "Honchkrow",
             "collectionId": "hgss3",
@@ -5598,7 +5262,6 @@
             "myp": "ud_015"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-16",
             "name": "Honchkrow",
             "collectionId": "hgss3",
@@ -5615,7 +5278,6 @@
             "myp": "ud_016"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-17",
             "name": "Leafeon",
             "collectionId": "hgss3",
@@ -5632,7 +5294,6 @@
             "myp": "ud_017"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-18",
             "name": "Metagross",
             "collectionId": "hgss3",
@@ -5649,7 +5310,6 @@
             "myp": "ud_018"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-19",
             "name": "Mismagius",
             "collectionId": "hgss3",
@@ -5666,7 +5326,6 @@
             "myp": "ud_019"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-2",
             "name": "Espeon",
             "collectionId": "hgss3",
@@ -5683,7 +5342,6 @@
             "myp": "ud_002"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-20",
             "name": "Rotom",
             "collectionId": "hgss3",
@@ -5700,7 +5358,6 @@
             "myp": "ud_020"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-21",
             "name": "Skarmory",
             "collectionId": "hgss3",
@@ -5717,7 +5374,6 @@
             "myp": "ud_021"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-22",
             "name": "Tropius",
             "collectionId": "hgss3",
@@ -5734,7 +5390,6 @@
             "myp": "ud_022"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-23",
             "name": "Vespiquen",
             "collectionId": "hgss3",
@@ -5751,7 +5406,6 @@
             "myp": "ud_023"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-24",
             "name": "Vileplume",
             "collectionId": "hgss3",
@@ -5768,7 +5422,6 @@
             "myp": "ud_024"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-25",
             "name": "Weavile",
             "collectionId": "hgss3",
@@ -5785,7 +5438,6 @@
             "myp": "ud_025"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-26",
             "name": "Flareon",
             "collectionId": "hgss3",
@@ -5802,7 +5454,6 @@
             "myp": "ud_026"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-27",
             "name": "Gloom",
             "collectionId": "hgss3",
@@ -5819,7 +5470,6 @@
             "myp": "ud_027"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-28",
             "name": "Jolteon",
             "collectionId": "hgss3",
@@ -5836,7 +5486,6 @@
             "myp": "ud_028"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-29",
             "name": "Lairon",
             "collectionId": "hgss3",
@@ -5853,7 +5502,6 @@
             "myp": "ud_029"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-3",
             "name": "Forretress",
             "collectionId": "hgss3",
@@ -5870,7 +5518,6 @@
             "myp": "ud_003"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-30",
             "name": "Metang",
             "collectionId": "hgss3",
@@ -5887,7 +5534,6 @@
             "myp": "ud_030"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-31",
             "name": "Muk",
             "collectionId": "hgss3",
@@ -5904,7 +5550,6 @@
             "myp": "ud_031"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-32",
             "name": "Pinsir",
             "collectionId": "hgss3",
@@ -5921,7 +5566,6 @@
             "myp": "ud_032"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-33",
             "name": "Raichu",
             "collectionId": "hgss3",
@@ -5938,7 +5582,6 @@
             "myp": "ud_033"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-34",
             "name": "Raticate",
             "collectionId": "hgss3",
@@ -5955,7 +5598,6 @@
             "myp": "ud_034"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-35",
             "name": "Sableye",
             "collectionId": "hgss3",
@@ -5972,7 +5614,6 @@
             "myp": "ud_035"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-36",
             "name": "Scyther",
             "collectionId": "hgss3",
@@ -5989,7 +5630,6 @@
             "myp": "ud_036"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-37",
             "name": "Skuntank",
             "collectionId": "hgss3",
@@ -6006,7 +5646,6 @@
             "myp": "ud_037"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-38",
             "name": "Slowbro",
             "collectionId": "hgss3",
@@ -6023,7 +5662,6 @@
             "myp": "ud_038"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-39",
             "name": "Togetic",
             "collectionId": "hgss3",
@@ -6040,7 +5678,6 @@
             "myp": "ud_039"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-4",
             "name": "Gliscor",
             "collectionId": "hgss3",
@@ -6057,7 +5694,6 @@
             "myp": "ud_004"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-40",
             "name": "Unown",
             "collectionId": "hgss3",
@@ -6074,7 +5710,6 @@
             "myp": "ud_040"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-41",
             "name": "Vaporeon",
             "collectionId": "hgss3",
@@ -6091,7 +5726,6 @@
             "myp": "ud_041"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-42",
             "name": "Aron",
             "collectionId": "hgss3",
@@ -6108,7 +5742,6 @@
             "myp": "ud_042"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-43",
             "name": "Beldum",
             "collectionId": "hgss3",
@@ -6125,7 +5758,6 @@
             "myp": "ud_043"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-44",
             "name": "Combee",
             "collectionId": "hgss3",
@@ -6142,7 +5774,6 @@
             "myp": "ud_044"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-45",
             "name": "Doduo",
             "collectionId": "hgss3",
@@ -6159,7 +5790,6 @@
             "myp": "ud_045"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-46",
             "name": "Drifloon",
             "collectionId": "hgss3",
@@ -6176,7 +5806,6 @@
             "myp": "ud_046"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-47",
             "name": "Eevee",
             "collectionId": "hgss3",
@@ -6193,7 +5822,6 @@
             "myp": "ud_047"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-48",
             "name": "Eevee",
             "collectionId": "hgss3",
@@ -6210,7 +5838,6 @@
             "myp": "ud_048"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-49",
             "name": "Gligar",
             "collectionId": "hgss3",
@@ -6227,7 +5854,6 @@
             "myp": "ud_049"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-5",
             "name": "Houndoom",
             "collectionId": "hgss3",
@@ -6244,7 +5870,6 @@
             "myp": "ud_005"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-50",
             "name": "Grimer",
             "collectionId": "hgss3",
@@ -6261,7 +5886,6 @@
             "myp": "ud_050"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-51",
             "name": "Hitmonchan",
             "collectionId": "hgss3",
@@ -6278,7 +5902,6 @@
             "myp": "ud_051"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-52",
             "name": "Hitmonlee",
             "collectionId": "hgss3",
@@ -6295,7 +5918,6 @@
             "myp": "ud_052"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-53",
             "name": "Houndour",
             "collectionId": "hgss3",
@@ -6312,7 +5934,6 @@
             "myp": "ud_053"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-54",
             "name": "Houndour",
             "collectionId": "hgss3",
@@ -6329,7 +5950,6 @@
             "myp": "ud_054"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-55",
             "name": "Makuhita",
             "collectionId": "hgss3",
@@ -6346,7 +5966,6 @@
             "myp": "ud_055"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-56",
             "name": "Mawile",
             "collectionId": "hgss3",
@@ -6363,7 +5982,6 @@
             "myp": "ud_056"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-57",
             "name": "Misdreavus",
             "collectionId": "hgss3",
@@ -6380,7 +5998,6 @@
             "myp": "ud_057"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-58",
             "name": "Murkrow",
             "collectionId": "hgss3",
@@ -6397,7 +6014,6 @@
             "myp": "ud_058"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-59",
             "name": "Murkrow",
             "collectionId": "hgss3",
@@ -6414,7 +6030,6 @@
             "myp": "ud_059"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-6",
             "name": "Magcargo",
             "collectionId": "hgss3",
@@ -6431,7 +6046,6 @@
             "myp": "ud_006"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-60",
             "name": "Oddish",
             "collectionId": "hgss3",
@@ -6448,7 +6062,6 @@
             "myp": "ud_060"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-61",
             "name": "Pikachu",
             "collectionId": "hgss3",
@@ -6465,7 +6078,6 @@
             "myp": "ud_061"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-62",
             "name": "Pineco",
             "collectionId": "hgss3",
@@ -6482,7 +6094,6 @@
             "myp": "ud_062"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-63",
             "name": "Pineco",
             "collectionId": "hgss3",
@@ -6499,7 +6110,6 @@
             "myp": "ud_063"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-64",
             "name": "Rattata",
             "collectionId": "hgss3",
@@ -6516,7 +6126,6 @@
             "myp": "ud_064"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-65",
             "name": "Scyther",
             "collectionId": "hgss3",
@@ -6533,7 +6142,6 @@
             "myp": "ud_065"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-66",
             "name": "Slowpoke",
             "collectionId": "hgss3",
@@ -6550,7 +6158,6 @@
             "myp": "ud_066"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-67",
             "name": "Slugma",
             "collectionId": "hgss3",
@@ -6567,7 +6174,6 @@
             "myp": "ud_067"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-68",
             "name": "Sneasel",
             "collectionId": "hgss3",
@@ -6584,7 +6190,6 @@
             "myp": "ud_068"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-69",
             "name": "Stunky",
             "collectionId": "hgss3",
@@ -6601,7 +6206,6 @@
             "myp": "ud_069"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-7",
             "name": "Scizor",
             "collectionId": "hgss3",
@@ -6618,7 +6222,6 @@
             "myp": "ud_007"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-70",
             "name": "Togepi",
             "collectionId": "hgss3",
@@ -6635,7 +6238,6 @@
             "myp": "ud_070"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-71",
             "name": "Burned Tower",
             "collectionId": "hgss3",
@@ -6649,7 +6251,6 @@
             "myp": "ud_071"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-72",
             "name": "Defender",
             "collectionId": "hgss3",
@@ -6663,7 +6264,6 @@
             "myp": "ud_072"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-73",
             "name": "Energy Exchanger",
             "collectionId": "hgss3",
@@ -6677,7 +6277,6 @@
             "myp": "ud_073"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-74",
             "name": "Flower Shop Lady",
             "collectionId": "hgss3",
@@ -6691,7 +6290,6 @@
             "myp": "ud_074"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-75",
             "name": "Legend Box",
             "collectionId": "hgss3",
@@ -6705,7 +6303,6 @@
             "myp": "ud_075"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-76",
             "name": "Ruins of Alph",
             "collectionId": "hgss3",
@@ -6719,7 +6316,6 @@
             "myp": "ud_076"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-77",
             "name": "Sage's Training",
             "collectionId": "hgss3",
@@ -6733,7 +6329,6 @@
             "myp": "ud_077"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-78",
             "name": "Team Rocket's Trickery",
             "collectionId": "hgss3",
@@ -6747,7 +6342,6 @@
             "myp": "ud_078"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-8",
             "name": "Smeargle",
             "collectionId": "hgss3",
@@ -6764,7 +6358,6 @@
             "myp": "ud_008"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-81",
             "name": "Espeon",
             "collectionId": "hgss3",
@@ -6781,7 +6374,6 @@
             "myp": "ud_081"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-82",
             "name": "Houndoom",
             "collectionId": "hgss3",
@@ -6798,7 +6390,6 @@
             "myp": "ud_082"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-83",
             "name": "Raichu",
             "collectionId": "hgss3",
@@ -6815,7 +6406,6 @@
             "myp": "ud_083"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-84",
             "name": "Scizor",
             "collectionId": "hgss3",
@@ -6832,7 +6422,6 @@
             "myp": "ud_084"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-85",
             "name": "Slowking",
             "collectionId": "hgss3",
@@ -6849,7 +6438,6 @@
             "myp": "ud_085"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-86",
             "name": "Umbreon",
             "collectionId": "hgss3",
@@ -6866,7 +6454,6 @@
             "myp": "ud_086"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-87",
             "name": "Kyogre & Groudon LEGEND",
             "collectionId": "hgss3",
@@ -6883,7 +6470,6 @@
             "myp": "ud_087"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-88",
             "name": "Kyogre & Groudon LEGEND",
             "collectionId": "hgss3",
@@ -6900,7 +6486,6 @@
             "myp": "ud_088"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-89",
             "name": "Rayquaza & Deoxys LEGEND",
             "collectionId": "hgss3",
@@ -6917,7 +6502,6 @@
             "myp": "ud_089"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-9",
             "name": "Togekiss",
             "collectionId": "hgss3",
@@ -6934,7 +6518,6 @@
             "myp": "ud_009"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-90",
             "name": "Rayquaza & Deoxys LEGEND",
             "collectionId": "hgss3",
@@ -6951,7 +6534,6 @@
             "myp": "ud_090"
         },
         {
-            "seriesId": 12,
             "id": "hgss3-THREE",
             "name": "Alph Lithograph",
             "nomePt": "Litografia Alfa",
@@ -6967,7 +6549,6 @@
             "myp": "ud_000"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-1",
             "name": "Aggron",
             "collectionId": "hgss4",
@@ -6984,7 +6565,6 @@
             "myp": "tm_001"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-10",
             "name": "Spiritomb",
             "collectionId": "hgss4",
@@ -7001,7 +6581,6 @@
             "myp": "tm_010"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-100",
             "name": "Darkrai & Cresselia LEGEND",
             "collectionId": "hgss4",
@@ -7018,7 +6597,6 @@
             "myp": "tm_100"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-101",
             "name": "Palkia & Dialga LEGEND",
             "collectionId": "hgss4",
@@ -7035,7 +6613,6 @@
             "myp": "tm_101"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-102",
             "name": "Palkia & Dialga LEGEND",
             "collectionId": "hgss4",
@@ -7052,7 +6629,6 @@
             "myp": "tm_102"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-11",
             "name": "Venomoth",
             "collectionId": "hgss4",
@@ -7069,7 +6645,6 @@
             "myp": "tm_011"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-12",
             "name": "Victreebel",
             "collectionId": "hgss4",
@@ -7086,7 +6661,6 @@
             "myp": "tm_012"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-13",
             "name": "Ambipom",
             "collectionId": "hgss4",
@@ -7103,7 +6677,6 @@
             "myp": "tm_013"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-14",
             "name": "Banette",
             "collectionId": "hgss4",
@@ -7120,7 +6693,6 @@
             "myp": "tm_014"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-15",
             "name": "Bronzong",
             "collectionId": "hgss4",
@@ -7137,7 +6709,6 @@
             "myp": "tm_015"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-16",
             "name": "Carnivine",
             "collectionId": "hgss4",
@@ -7154,7 +6725,6 @@
             "myp": "tm_016"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-17",
             "name": "Ditto",
             "collectionId": "hgss4",
@@ -7171,7 +6741,6 @@
             "myp": "tm_017"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-18",
             "name": "Dragonite",
             "collectionId": "hgss4",
@@ -7188,7 +6757,6 @@
             "myp": "tm_018"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-19",
             "name": "Dugtrio",
             "collectionId": "hgss4",
@@ -7205,7 +6773,6 @@
             "myp": "tm_019"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-2",
             "name": "Altaria",
             "collectionId": "hgss4",
@@ -7222,7 +6789,6 @@
             "myp": "tm_002"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-20",
             "name": "Electivire",
             "collectionId": "hgss4",
@@ -7239,7 +6805,6 @@
             "myp": "tm_020"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-21",
             "name": "Elekid",
             "collectionId": "hgss4",
@@ -7256,7 +6821,6 @@
             "myp": "tm_021"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-22",
             "name": "Golduck",
             "collectionId": "hgss4",
@@ -7273,7 +6837,6 @@
             "myp": "tm_022"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-23",
             "name": "Grumpig",
             "collectionId": "hgss4",
@@ -7290,7 +6853,6 @@
             "myp": "tm_023"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-24",
             "name": "Kricketune",
             "collectionId": "hgss4",
@@ -7307,7 +6869,6 @@
             "myp": "tm_024"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-25",
             "name": "Lunatone",
             "collectionId": "hgss4",
@@ -7324,7 +6885,6 @@
             "myp": "tm_025"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-26",
             "name": "Machamp",
             "collectionId": "hgss4",
@@ -7341,7 +6901,6 @@
             "myp": "tm_026"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-27",
             "name": "Magmortar",
             "collectionId": "hgss4",
@@ -7358,7 +6917,6 @@
             "myp": "tm_027"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-28",
             "name": "Nidoqueen",
             "collectionId": "hgss4",
@@ -7375,7 +6933,6 @@
             "myp": "tm_028"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-29",
             "name": "Pidgeot",
             "collectionId": "hgss4",
@@ -7392,7 +6949,6 @@
             "myp": "tm_029"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-3",
             "name": "Celebi",
             "collectionId": "hgss4",
@@ -7409,7 +6965,6 @@
             "myp": "tm_003"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-30",
             "name": "Sharpedo",
             "collectionId": "hgss4",
@@ -7426,7 +6981,6 @@
             "myp": "tm_030"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-31",
             "name": "Wailord",
             "collectionId": "hgss4",
@@ -7443,7 +6997,6 @@
             "myp": "tm_031"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-32",
             "name": "Dragonair",
             "collectionId": "hgss4",
@@ -7460,7 +7013,6 @@
             "myp": "tm_032"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-33",
             "name": "Electabuzz",
             "collectionId": "hgss4",
@@ -7477,7 +7029,6 @@
             "myp": "tm_033"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-34",
             "name": "Electrode",
             "collectionId": "hgss4",
@@ -7494,7 +7045,6 @@
             "myp": "tm_034"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-35",
             "name": "Haunter",
             "collectionId": "hgss4",
@@ -7511,7 +7061,6 @@
             "myp": "tm_035"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-36",
             "name": "Kangaskhan",
             "collectionId": "hgss4",
@@ -7528,7 +7077,6 @@
             "myp": "tm_036"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-37",
             "name": "Lairon",
             "collectionId": "hgss4",
@@ -7545,7 +7093,6 @@
             "myp": "tm_037"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-38",
             "name": "Lickilicky",
             "collectionId": "hgss4",
@@ -7562,7 +7109,6 @@
             "myp": "tm_038"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-39",
             "name": "Luvdisc",
             "collectionId": "hgss4",
@@ -7579,7 +7125,6 @@
             "myp": "tm_039"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-4",
             "name": "Drapion",
             "collectionId": "hgss4",
@@ -7596,7 +7141,6 @@
             "myp": "tm_004"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-40",
             "name": "Machoke",
             "collectionId": "hgss4",
@@ -7613,7 +7157,6 @@
             "myp": "tm_040"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-41",
             "name": "Magby",
             "collectionId": "hgss4",
@@ -7630,7 +7173,6 @@
             "myp": "tm_041"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-42",
             "name": "Magmar",
             "collectionId": "hgss4",
@@ -7647,7 +7189,6 @@
             "myp": "tm_042"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-43",
             "name": "Magneton",
             "collectionId": "hgss4",
@@ -7664,7 +7205,6 @@
             "myp": "tm_043"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-44",
             "name": "Marowak",
             "collectionId": "hgss4",
@@ -7681,7 +7221,6 @@
             "myp": "tm_044"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-45",
             "name": "Nidorina",
             "collectionId": "hgss4",
@@ -7698,7 +7237,6 @@
             "myp": "tm_045"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-46",
             "name": "Nidorino",
             "collectionId": "hgss4",
@@ -7715,7 +7253,6 @@
             "myp": "tm_046"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-47",
             "name": "Pidgeotto",
             "collectionId": "hgss4",
@@ -7732,7 +7269,6 @@
             "myp": "tm_047"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-48",
             "name": "Piloswine",
             "collectionId": "hgss4",
@@ -7749,7 +7285,6 @@
             "myp": "tm_048"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-49",
             "name": "Porygon2",
             "collectionId": "hgss4",
@@ -7766,7 +7301,6 @@
             "myp": "tm_049"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-5",
             "name": "Mamoswine",
             "collectionId": "hgss4",
@@ -7783,7 +7317,6 @@
             "myp": "tm_005"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-50",
             "name": "Tentacruel",
             "collectionId": "hgss4",
@@ -7800,7 +7333,6 @@
             "myp": "tm_050"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-51",
             "name": "Unown",
             "collectionId": "hgss4",
@@ -7817,7 +7349,6 @@
             "myp": "tm_051"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-52",
             "name": "Wailmer",
             "collectionId": "hgss4",
@@ -7834,7 +7365,6 @@
             "myp": "tm_052"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-53",
             "name": "Weepinbell",
             "collectionId": "hgss4",
@@ -7851,7 +7381,6 @@
             "myp": "tm_053"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-54",
             "name": "Yanmega",
             "collectionId": "hgss4",
@@ -7868,7 +7397,6 @@
             "myp": "tm_054"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-55",
             "name": "Aipom",
             "collectionId": "hgss4",
@@ -7885,7 +7413,6 @@
             "myp": "tm_055"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-56",
             "name": "Aron",
             "collectionId": "hgss4",
@@ -7902,7 +7429,6 @@
             "myp": "tm_056"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-57",
             "name": "Bellsprout",
             "collectionId": "hgss4",
@@ -7919,7 +7445,6 @@
             "myp": "tm_057"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-58",
             "name": "Bronzor",
             "collectionId": "hgss4",
@@ -7936,7 +7461,6 @@
             "myp": "tm_058"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-59",
             "name": "Carvanha",
             "collectionId": "hgss4",
@@ -7953,7 +7477,6 @@
             "myp": "tm_059"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-6",
             "name": "Nidoking",
             "collectionId": "hgss4",
@@ -7970,7 +7493,6 @@
             "myp": "tm_006"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-60",
             "name": "Cubone",
             "collectionId": "hgss4",
@@ -7987,7 +7509,6 @@
             "myp": "tm_060"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-61",
             "name": "Diglett",
             "collectionId": "hgss4",
@@ -8004,7 +7525,6 @@
             "myp": "tm_061"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-62",
             "name": "Dratini",
             "collectionId": "hgss4",
@@ -8021,7 +7541,6 @@
             "myp": "tm_062"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-63",
             "name": "Gastly",
             "collectionId": "hgss4",
@@ -8038,7 +7557,6 @@
             "myp": "tm_063"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-64",
             "name": "Illumise",
             "collectionId": "hgss4",
@@ -8055,7 +7573,6 @@
             "myp": "tm_064"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-65",
             "name": "Kricketot",
             "collectionId": "hgss4",
@@ -8072,7 +7589,6 @@
             "myp": "tm_065"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-66",
             "name": "Lickitung",
             "collectionId": "hgss4",
@@ -8089,7 +7605,6 @@
             "myp": "tm_066"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-67",
             "name": "Machop",
             "collectionId": "hgss4",
@@ -8106,7 +7621,6 @@
             "myp": "tm_067"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-68",
             "name": "Magnemite",
             "collectionId": "hgss4",
@@ -8123,7 +7637,6 @@
             "myp": "tm_068"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-69",
             "name": "Nidoran ♀",
             "collectionId": "hgss4",
@@ -8141,7 +7654,6 @@
             "myp": "tm_069"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-7",
             "name": "Porygon-Z",
             "collectionId": "hgss4",
@@ -8158,7 +7670,6 @@
             "myp": "tm_007"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-70",
             "name": "Nidoran ♂",
             "collectionId": "hgss4",
@@ -8176,7 +7687,6 @@
             "myp": "tm_070"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-71",
             "name": "Pidgey",
             "collectionId": "hgss4",
@@ -8193,7 +7703,6 @@
             "myp": "tm_071"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-72",
             "name": "Ponyta",
             "collectionId": "hgss4",
@@ -8210,7 +7719,6 @@
             "myp": "tm_072"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-73",
             "name": "Porygon",
             "collectionId": "hgss4",
@@ -8227,7 +7735,6 @@
             "myp": "tm_073"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-74",
             "name": "Psyduck",
             "collectionId": "hgss4",
@@ -8244,7 +7751,6 @@
             "myp": "tm_074"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-75",
             "name": "Shuppet",
             "collectionId": "hgss4",
@@ -8261,7 +7767,6 @@
             "myp": "tm_075"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-76",
             "name": "Skorupi",
             "collectionId": "hgss4",
@@ -8278,7 +7783,6 @@
             "myp": "tm_076"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-77",
             "name": "Spoink",
             "collectionId": "hgss4",
@@ -8295,7 +7799,6 @@
             "myp": "tm_077"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-78",
             "name": "Swablu",
             "collectionId": "hgss4",
@@ -8312,7 +7815,6 @@
             "myp": "tm_078"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-79",
             "name": "Swinub",
             "collectionId": "hgss4",
@@ -8329,7 +7831,6 @@
             "myp": "tm_079"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-8",
             "name": "Rapidash",
             "collectionId": "hgss4",
@@ -8346,7 +7847,6 @@
             "myp": "tm_008"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-80",
             "name": "Tentacool",
             "collectionId": "hgss4",
@@ -8363,7 +7863,6 @@
             "myp": "tm_080"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-81",
             "name": "Venonat",
             "collectionId": "hgss4",
@@ -8380,7 +7879,6 @@
             "myp": "tm_081"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-82",
             "name": "Volbeat",
             "collectionId": "hgss4",
@@ -8397,7 +7895,6 @@
             "myp": "tm_082"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-83",
             "name": "Voltorb",
             "collectionId": "hgss4",
@@ -8414,7 +7911,6 @@
             "myp": "tm_083"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-84",
             "name": "Yanma",
             "collectionId": "hgss4",
@@ -8431,7 +7927,6 @@
             "myp": "tm_084"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-85",
             "name": "Black Belt",
             "nomePt": "Faixa Preta",
@@ -8446,7 +7941,6 @@
             "myp": "tm_085"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-86",
             "name": "Indigo Plateau",
             "collectionId": "hgss4",
@@ -8460,7 +7954,6 @@
             "myp": "tm_086"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-87",
             "name": "Junk Arm",
             "collectionId": "hgss4",
@@ -8474,7 +7967,6 @@
             "myp": "tm_087"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-88",
             "name": "Seeker",
             "nomePt": "Explorador",
@@ -8489,7 +7981,6 @@
             "myp": "tm_088"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-89",
             "name": "Twins",
             "collectionId": "hgss4",
@@ -8503,7 +7994,6 @@
             "myp": "tm_089"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-9",
             "name": "Solrock",
             "collectionId": "hgss4",
@@ -8520,7 +8010,6 @@
             "myp": "tm_009"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-91",
             "name": "Absol",
             "collectionId": "hgss4",
@@ -8537,7 +8026,6 @@
             "myp": "tm_091"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-92",
             "name": "Celebi",
             "collectionId": "hgss4",
@@ -8554,7 +8042,6 @@
             "myp": "tm_092"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-93",
             "name": "Electrode",
             "collectionId": "hgss4",
@@ -8571,7 +8058,6 @@
             "myp": "tm_093"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-94",
             "name": "Gengar",
             "collectionId": "hgss4",
@@ -8588,7 +8074,6 @@
             "myp": "tm_094"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-95",
             "name": "Machamp",
             "collectionId": "hgss4",
@@ -8605,7 +8090,6 @@
             "myp": "tm_095"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-96",
             "name": "Magnezone",
             "collectionId": "hgss4",
@@ -8622,7 +8106,6 @@
             "myp": "tm_096"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-97",
             "name": "Mew",
             "collectionId": "hgss4",
@@ -8639,7 +8122,6 @@
             "myp": "tm_097"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-98",
             "name": "Yanmega",
             "collectionId": "hgss4",
@@ -8656,7 +8138,6 @@
             "myp": "tm_098"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-99",
             "name": "Darkrai & Cresselia LEGEND",
             "collectionId": "hgss4",
@@ -8673,7 +8154,6 @@
             "myp": "tm_099"
         },
         {
-            "seriesId": 12,
             "id": "hgss4-FOUR",
             "name": "Alph Lithograph",
             "nomePt": "Litografia Alfa",
@@ -8689,7 +8169,6 @@
             "myp": "tm_000"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS01",
             "name": "Ho-Oh",
             "collectionId": "hsp",
@@ -8707,7 +8186,6 @@
             "myp": "pr-hs_001"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS02",
             "name": "Lugia",
             "collectionId": "hsp",
@@ -8725,7 +8203,6 @@
             "myp": "pr-hs_002"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS03",
             "name": "Pikachu",
             "collectionId": "hsp",
@@ -8743,7 +8220,6 @@
             "myp": "pr-hs_003"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS04",
             "name": "Wobbuffet",
             "collectionId": "hsp",
@@ -8761,7 +8237,6 @@
             "myp": "pr-hs_004"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS05",
             "name": "Hoothoot",
             "collectionId": "hsp",
@@ -8779,7 +8254,6 @@
             "myp": "pr-hs_005"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS06",
             "name": "Noctowl",
             "collectionId": "hsp",
@@ -8797,7 +8271,6 @@
             "myp": "pr-hs_006"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS07",
             "name": "Feraligatr",
             "collectionId": "hsp",
@@ -8815,7 +8288,6 @@
             "myp": "pr-hs_007"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS08",
             "name": "Meganium",
             "collectionId": "hsp",
@@ -8833,7 +8305,6 @@
             "myp": "pr-hs_008"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS09",
             "name": "Typhlosion",
             "collectionId": "hsp",
@@ -8851,7 +8322,6 @@
             "myp": "pr-hs_009"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS10",
             "name": "Latias",
             "collectionId": "hsp",
@@ -8869,7 +8339,6 @@
             "myp": "pr-hs_010"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS11",
             "name": "Latios",
             "collectionId": "hsp",
@@ -8887,7 +8356,6 @@
             "myp": "pr-hs_011"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS12",
             "name": "Cleffa",
             "collectionId": "hsp",
@@ -8905,7 +8373,6 @@
             "myp": "pr-hs_012"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS13",
             "name": "Smoochum",
             "collectionId": "hsp",
@@ -8923,7 +8390,6 @@
             "myp": "pr-hs_013"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS14",
             "name": "Lapras",
             "collectionId": "hsp",
@@ -8941,7 +8407,6 @@
             "myp": "pr-hs_014"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS15",
             "name": "Shuckle",
             "collectionId": "hsp",
@@ -8959,7 +8424,6 @@
             "myp": "pr-hs_015"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS16",
             "name": "Plusle",
             "collectionId": "hsp",
@@ -8977,7 +8441,6 @@
             "myp": "pr-hs_016"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS17",
             "name": "Minun",
             "collectionId": "hsp",
@@ -8995,7 +8458,6 @@
             "myp": "pr-hs_017"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS18",
             "name": "Tropical Tidal Wave",
             "collectionId": "hsp",
@@ -9010,7 +8472,6 @@
             "myp": "pr-hs_018"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS19",
             "name": "Raikou",
             "collectionId": "hsp",
@@ -9028,7 +8489,6 @@
             "myp": "pr-hs_019"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS20",
             "name": "Entei",
             "collectionId": "hsp",
@@ -9046,7 +8506,6 @@
             "myp": "pr-hs_020"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS21",
             "name": "Suicune",
             "collectionId": "hsp",
@@ -9064,7 +8523,6 @@
             "myp": "pr-hs_021"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS22",
             "name": "Porygon",
             "collectionId": "hsp",
@@ -9082,7 +8540,6 @@
             "myp": "pr-hs_022"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS23",
             "name": "Porygon2",
             "collectionId": "hsp",
@@ -9100,7 +8557,6 @@
             "myp": "pr-hs_023"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS24",
             "name": "Hitmonchan",
             "collectionId": "hsp",
@@ -9118,7 +8574,6 @@
             "myp": "pr-hs_024"
         },
         {
-            "seriesId": 12,
             "id": "hsp-HGSS25",
             "name": "Hitmonlee",
             "collectionId": "hsp",
@@ -9136,7 +8591,6 @@
             "myp": "pr-hs_025"
         },
         {
-            "seriesId": 12,
             "id": "12781",
             "name": "Bellsprout",
             "collectionId": "l3",
@@ -9150,7 +8604,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 12,
             "id": "12782",
             "name": "Weepinbell",
             "collectionId": "l3",
@@ -9164,7 +8617,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 12,
             "id": "12783",
             "name": "Victreebel",
             "collectionId": "l3",
@@ -9178,7 +8630,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 12,
             "id": "12784",
             "name": "Yanma",
             "collectionId": "l3",
@@ -9192,7 +8643,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 12,
             "id": "12785",
             "name": "Yanmega",
             "collectionId": "l3",
@@ -9206,7 +8656,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 12,
             "id": "12786",
             "name": "Yanmega",
             "collectionId": "l3",
@@ -9220,7 +8669,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 12,
             "id": "12787",
             "name": "Celebi",
             "collectionId": "l3",
@@ -9234,7 +8682,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 12,
             "id": "12788",
             "name": "Kricketot",
             "collectionId": "l3",
@@ -9248,7 +8695,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 12,
             "id": "12789",
             "name": "Kricketune",
             "collectionId": "l3",
@@ -9262,7 +8708,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 12,
             "id": "12790",
             "name": "Ponyta",
             "collectionId": "l3",
@@ -9276,7 +8721,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 12,
             "id": "12791",
             "name": "Rapidash",
             "collectionId": "l3",
@@ -9290,7 +8734,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 12,
             "id": "12792",
             "name": "Magby",
             "collectionId": "l3",
@@ -9304,7 +8747,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 12,
             "id": "12793",
             "name": "Magmar",
             "collectionId": "l3",
@@ -9318,7 +8760,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 12,
             "id": "12794",
             "name": "Magmortar",
             "collectionId": "l3",
@@ -9332,7 +8773,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 12,
             "id": "12795",
             "name": "Psyduck",
             "collectionId": "l3",
@@ -9346,7 +8786,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 12,
             "id": "12796",
             "name": "Golduck",
             "collectionId": "l3",
@@ -9360,7 +8799,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 12,
             "id": "12797",
             "name": "Tentacool",
             "collectionId": "l3",
@@ -9374,7 +8812,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 12,
             "id": "12798",
             "name": "Tentacruel",
             "collectionId": "l3",
@@ -9388,7 +8825,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 12,
             "id": "12799",
             "name": "Swinub",
             "collectionId": "l3",
@@ -9402,7 +8838,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 12,
             "id": "12800",
             "name": "Piloswine",
             "collectionId": "l3",
@@ -9416,7 +8851,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 12,
             "id": "12801",
             "name": "Mamoswine",
             "collectionId": "l3",
@@ -9430,7 +8864,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 12,
             "id": "12802",
             "name": "Wailmer",
             "collectionId": "l3",
@@ -9444,7 +8877,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 12,
             "id": "12803",
             "name": "Wailord",
             "collectionId": "l3",
@@ -9458,7 +8890,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 12,
             "id": "12804",
             "name": "Luvdisc",
             "collectionId": "l3",
@@ -9472,7 +8903,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 12,
             "id": "12805",
             "name": "Venonat",
             "collectionId": "l3",
@@ -9486,7 +8916,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 12,
             "id": "12806",
             "name": "Electrode",
             "collectionId": "l3",
@@ -9500,7 +8929,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 12,
             "id": "12807",
             "name": "Electrode",
             "collectionId": "l3",
@@ -9514,7 +8942,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 12,
             "id": "12808",
             "name": "Elekid",
             "collectionId": "l3",
@@ -9528,7 +8955,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 12,
             "id": "12809",
             "name": "Electabuzz",
             "collectionId": "l3",
@@ -9542,7 +8968,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 12,
             "id": "12810",
             "name": "Electivire",
             "collectionId": "l3",
@@ -9556,7 +8981,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 12,
             "id": "12811",
             "name": "Nidoran ?",
             "collectionId": "l3",
@@ -9570,7 +8994,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 12,
             "id": "12812",
             "name": "Nidorina",
             "collectionId": "l3",
@@ -9584,7 +9007,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 12,
             "id": "12813",
             "name": "Nidoqueen",
             "collectionId": "l3",
@@ -9598,7 +9020,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 12,
             "id": "12814",
             "name": "Nidoran ?",
             "collectionId": "l3",
@@ -9613,7 +9034,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 12,
             "id": "12815",
             "name": "Nidorino",
             "collectionId": "l3",
@@ -9628,7 +9048,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 12,
             "id": "12816",
             "name": "Unown",
             "collectionId": "l3",
@@ -9643,7 +9062,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 12,
             "id": "12817",
             "name": "Celebi",
             "collectionId": "l3",
@@ -9658,7 +9076,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 12,
             "id": "12818",
             "name": "Spoink",
             "collectionId": "l3",
@@ -9673,7 +9090,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 12,
             "id": "12819",
             "name": "Grumpig",
             "collectionId": "l3",
@@ -9688,7 +9104,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 12,
             "id": "12820",
             "name": "Skorupi",
             "collectionId": "l3",
@@ -9703,7 +9118,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 12,
             "id": "12821",
             "name": "Nidoking",
             "collectionId": "l3",
@@ -9718,7 +9132,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 12,
             "id": "12822",
             "name": "Machop",
             "collectionId": "l3",
@@ -9733,7 +9146,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 12,
             "id": "12823",
             "name": "Machoke",
             "collectionId": "l3",
@@ -9747,7 +9159,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 12,
             "id": "12824",
             "name": "Machamp",
             "collectionId": "l3",
@@ -9762,7 +9173,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 12,
             "id": "12825",
             "name": "Machamp",
             "collectionId": "l3",
@@ -9777,7 +9187,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 12,
             "id": "12826",
             "name": "Cubone",
             "collectionId": "l3",
@@ -9792,7 +9201,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 12,
             "id": "12827",
             "name": "Marowak",
             "collectionId": "l3",
@@ -9807,7 +9215,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 12,
             "id": "12828",
             "name": "Lunatone",
             "collectionId": "l3",
@@ -9822,7 +9229,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 12,
             "id": "12829",
             "name": "Solrock",
             "collectionId": "l3",
@@ -9837,7 +9243,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 12,
             "id": "12830",
             "name": "Carvanha",
             "collectionId": "l3",
@@ -9852,7 +9257,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 12,
             "id": "12831",
             "name": "Sharpedo",
             "collectionId": "l3",
@@ -9867,7 +9271,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 12,
             "id": "12832",
             "name": "Drapion",
             "collectionId": "l3",
@@ -9882,7 +9285,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 12,
             "id": "12833",
             "name": "Aron",
             "collectionId": "l3",
@@ -9897,7 +9299,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 12,
             "id": "12834",
             "name": "Lairon",
             "collectionId": "l3",
@@ -9912,7 +9313,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 12,
             "id": "12835",
             "name": "Aggron",
             "collectionId": "l3",
@@ -9927,7 +9327,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 12,
             "id": "12836",
             "name": "Bronzor",
             "collectionId": "l3",
@@ -9942,7 +9341,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 12,
             "id": "12837",
             "name": "Bronzong",
             "collectionId": "l3",
@@ -9957,7 +9355,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 12,
             "id": "12838",
             "name": "Pidgey",
             "collectionId": "l3",
@@ -9972,7 +9369,6 @@
             "numeroLiga": "(58/)"
         },
         {
-            "seriesId": 12,
             "id": "12839",
             "name": "Pidgeotto",
             "collectionId": "l3",
@@ -9987,7 +9383,6 @@
             "numeroLiga": "(59/)"
         },
         {
-            "seriesId": 12,
             "id": "12840",
             "name": "Pidgeot",
             "collectionId": "l3",
@@ -10002,7 +9397,6 @@
             "numeroLiga": "(60/)"
         },
         {
-            "seriesId": 12,
             "id": "12841",
             "name": "Lickitung",
             "collectionId": "l3",
@@ -10017,7 +9411,6 @@
             "numeroLiga": "(61/)"
         },
         {
-            "seriesId": 12,
             "id": "12842",
             "name": "Lickilicky",
             "collectionId": "l3",
@@ -10032,7 +9425,6 @@
             "numeroLiga": "(62/)"
         },
         {
-            "seriesId": 12,
             "id": "12843",
             "name": "Kangaskhan",
             "collectionId": "l3",
@@ -10047,7 +9439,6 @@
             "numeroLiga": "(63/)"
         },
         {
-            "seriesId": 12,
             "id": "12844",
             "name": "Ditto",
             "collectionId": "l3",
@@ -10062,7 +9453,6 @@
             "numeroLiga": "(64/)"
         },
         {
-            "seriesId": 12,
             "id": "12845",
             "name": "Porygon",
             "collectionId": "l3",
@@ -10077,7 +9467,6 @@
             "numeroLiga": "(65/)"
         },
         {
-            "seriesId": 12,
             "id": "12846",
             "name": "Porygon2",
             "collectionId": "l3",
@@ -10092,7 +9481,6 @@
             "numeroLiga": "(66/)"
         },
         {
-            "seriesId": 12,
             "id": "12847",
             "name": "Porygon-Z",
             "collectionId": "l3",
@@ -10107,7 +9495,6 @@
             "numeroLiga": "(67/)"
         },
         {
-            "seriesId": 12,
             "id": "12848",
             "name": "Aipom",
             "collectionId": "l3",
@@ -10122,7 +9509,6 @@
             "numeroLiga": "(68/)"
         },
         {
-            "seriesId": 12,
             "id": "12849",
             "name": "Ambipom",
             "collectionId": "l3",
@@ -10137,7 +9523,6 @@
             "numeroLiga": "(69/)"
         },
         {
-            "seriesId": 12,
             "id": "12850",
             "name": "Kyogre & Groudon LEGEND",
             "collectionId": "l3",
@@ -10152,7 +9537,6 @@
             "numeroLiga": "(70/)"
         },
         {
-            "seriesId": 12,
             "id": "12851",
             "name": "Kyogre & Groudon LEGEND",
             "collectionId": "l3",
@@ -10167,7 +9551,6 @@
             "numeroLiga": "(71/)"
         },
         {
-            "seriesId": 12,
             "id": "12852",
             "name": "Palkia & Dialga LEGEND",
             "collectionId": "l3",
@@ -10182,7 +9565,6 @@
             "numeroLiga": "(72/)"
         },
         {
-            "seriesId": 12,
             "id": "12853",
             "name": "Palkia & Dialga LEGEND",
             "collectionId": "l3",
@@ -10197,7 +9579,6 @@
             "numeroLiga": "(73/)"
         },
         {
-            "seriesId": 12,
             "id": "12854",
             "name": "Rayquaza & Deoxys LEGEND",
             "collectionId": "l3",
@@ -10212,7 +9593,6 @@
             "numeroLiga": "(74/)"
         },
         {
-            "seriesId": 12,
             "id": "12855",
             "name": "Rayquaza & Deoxys LEGEND",
             "collectionId": "l3",
@@ -10227,7 +9607,6 @@
             "numeroLiga": "(75/)"
         },
         {
-            "seriesId": 12,
             "id": "12856",
             "name": "Junk Arm",
             "collectionId": "l3",
@@ -10239,7 +9618,6 @@
             "numeroLiga": "(76/)"
         },
         {
-            "seriesId": 12,
             "id": "12857",
             "name": "Black Belt",
             "collectionId": "l3",
@@ -10252,7 +9630,6 @@
             "numeroLiga": "(77/)"
         },
         {
-            "seriesId": 12,
             "id": "12858",
             "name": "Twins",
             "collectionId": "l3",
@@ -10264,7 +9641,6 @@
             "numeroLiga": "(78/)"
         },
         {
-            "seriesId": 12,
             "id": "12859",
             "name": "Indigo Plateau",
             "collectionId": "l3",
@@ -10277,7 +9653,6 @@
             "numeroLiga": "(79/)"
         },
         {
-            "seriesId": 12,
             "id": "12860",
             "name": "Rescue Energy",
             "collectionId": "l3",
@@ -10290,7 +9665,6 @@
             "numeroLiga": "(80/)"
         },
         {
-            "seriesId": 12,
             "id": "12861",
             "name": "Alph Lithograph",
             "collectionId": "l3",
@@ -10302,7 +9676,6 @@
             "numeroLiga": "(81/)"
         },
         {
-            "seriesId": 12,
             "id": "12862",
             "name": "Venonat",
             "collectionId": "ll",
@@ -10317,7 +9690,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 12,
             "id": "12863",
             "name": "Venomoth",
             "collectionId": "ll",
@@ -10332,7 +9704,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 12,
             "id": "12864",
             "name": "Tangela",
             "collectionId": "ll",
@@ -10347,7 +9718,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 12,
             "id": "12865",
             "name": "Tangrowth",
             "collectionId": "ll",
@@ -10362,7 +9732,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 12,
             "id": "12866",
             "name": "Volbeat",
             "collectionId": "ll",
@@ -10377,7 +9746,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 12,
             "id": "12867",
             "name": "Illumise",
             "collectionId": "ll",
@@ -10392,7 +9760,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 12,
             "id": "12868",
             "name": "Carnivine",
             "collectionId": "ll",
@@ -10407,7 +9774,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 12,
             "id": "12869",
             "name": "Relicanth",
             "collectionId": "ll",
@@ -10422,7 +9788,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 12,
             "id": "12870",
             "name": "Magnemite",
             "collectionId": "ll",
@@ -10437,7 +9802,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 12,
             "id": "12871",
             "name": "Magneton",
             "collectionId": "ll",
@@ -10452,7 +9816,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 12,
             "id": "12872",
             "name": "Magnezone",
             "collectionId": "ll",
@@ -10467,7 +9830,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 12,
             "id": "12873",
             "name": "Pachirisu",
             "collectionId": "ll",
@@ -10482,7 +9844,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 12,
             "id": "12874",
             "name": "Gastly",
             "collectionId": "ll",
@@ -10497,7 +9858,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 12,
             "id": "12875",
             "name": "Haunter",
             "collectionId": "ll",
@@ -10512,7 +9872,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 12,
             "id": "12876",
             "name": "Gengar",
             "collectionId": "ll",
@@ -10527,7 +9886,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 12,
             "id": "12877",
             "name": "Mime Jr.",
             "collectionId": "ll",
@@ -10542,7 +9900,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 12,
             "id": "12878",
             "name": "Mr. Mime",
             "collectionId": "ll",
@@ -10557,7 +9914,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 12,
             "id": "12879",
             "name": "Mew",
             "collectionId": "ll",
@@ -10572,7 +9928,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 12,
             "id": "12880",
             "name": "Seviper",
             "collectionId": "ll",
@@ -10587,7 +9942,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 12,
             "id": "12881",
             "name": "Shuppet",
             "collectionId": "ll",
@@ -10602,7 +9956,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 12,
             "id": "12882",
             "name": "Banette",
             "collectionId": "ll",
@@ -10617,7 +9970,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 12,
             "id": "12883",
             "name": "Spiritomb",
             "collectionId": "ll",
@@ -10632,7 +9984,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 12,
             "id": "12884",
             "name": "Diglett",
             "collectionId": "ll",
@@ -10647,7 +9998,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 12,
             "id": "12885",
             "name": "Dugtrio",
             "collectionId": "ll",
@@ -10662,7 +10012,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 12,
             "id": "12886",
             "name": "Riolu",
             "collectionId": "ll",
@@ -10677,7 +10026,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 12,
             "id": "12887",
             "name": "Lucario",
             "collectionId": "ll",
@@ -10691,7 +10039,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 12,
             "id": "12888",
             "name": "Absol",
             "collectionId": "ll",
@@ -10706,7 +10053,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 12,
             "id": "12889",
             "name": "Snorlax",
             "collectionId": "ll",
@@ -10721,7 +10067,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 12,
             "id": "12890",
             "name": "Dratini",
             "collectionId": "ll",
@@ -10736,7 +10081,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 12,
             "id": "12891",
             "name": "Dragonair",
             "collectionId": "ll",
@@ -10751,7 +10095,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 12,
             "id": "12892",
             "name": "Dragonite",
             "collectionId": "ll",
@@ -10766,7 +10109,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 12,
             "id": "12893",
             "name": "Swablu",
             "collectionId": "ll",
@@ -10781,7 +10123,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 12,
             "id": "12894",
             "name": "Altaria",
             "collectionId": "ll",
@@ -10796,7 +10137,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 12,
             "id": "12895",
             "name": "Zangoose",
             "collectionId": "ll",
@@ -10811,7 +10151,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 12,
             "id": "12896",
             "name": "Darkrai & Cresselia LEGEND",
             "collectionId": "ll",
@@ -10826,7 +10165,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 12,
             "id": "12897",
             "name": "Darkrai & Cresselia LEGEND",
             "collectionId": "ll",
@@ -10841,7 +10179,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 12,
             "id": "12898",
             "name": "Research Record",
             "collectionId": "ll",
@@ -10853,7 +10190,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 12,
             "id": "12899",
             "name": "Lost Remover",
             "collectionId": "ll",
@@ -10865,7 +10201,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 12,
             "id": "12900",
             "name": "Seeker",
             "collectionId": "ll",
@@ -10878,7 +10213,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 12,
             "id": "12901",
             "name": "Lost World",
             "collectionId": "ll",
@@ -10891,7 +10225,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 12,
             "id": "12902",
             "name": "Oddish",
             "collectionId": "l2",
@@ -10906,7 +10239,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 12,
             "id": "12903",
             "name": "Gloom",
             "collectionId": "l2",
@@ -10921,7 +10253,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 12,
             "id": "12904",
             "name": "Vileplume",
             "collectionId": "l2",
@@ -10936,7 +10267,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 12,
             "id": "12905",
             "name": "Bellossom",
             "collectionId": "l2",
@@ -10951,7 +10281,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 12,
             "id": "12906",
             "name": "Scyther",
             "collectionId": "l2",
@@ -10966,7 +10295,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 12,
             "id": "12907",
             "name": "Pineco",
             "collectionId": "l2",
@@ -10981,7 +10309,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 12,
             "id": "12908",
             "name": "Combee",
             "collectionId": "l2",
@@ -10996,7 +10323,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 12,
             "id": "12909",
             "name": "Vespiquen",
             "collectionId": "l2",
@@ -11011,7 +10337,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 12,
             "id": "12910",
             "name": "Flareon",
             "collectionId": "l2",
@@ -11026,7 +10351,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 12,
             "id": "12911",
             "name": "Slugma",
             "collectionId": "l2",
@@ -11041,7 +10365,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 12,
             "id": "12912",
             "name": "Magcargo",
             "collectionId": "l2",
@@ -11056,7 +10379,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 12,
             "id": "12913",
             "name": "Horsea",
             "collectionId": "l2",
@@ -11071,7 +10393,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 12,
             "id": "12914",
             "name": "Seadra",
             "collectionId": "l2",
@@ -11086,7 +10407,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 12,
             "id": "12915",
             "name": "Kingdra",
             "collectionId": "l2",
@@ -11101,7 +10421,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 12,
             "id": "12916",
             "name": "Kingdra",
             "collectionId": "l2",
@@ -11116,7 +10435,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 12,
             "id": "12917",
             "name": "Vaporeon",
             "collectionId": "l2",
@@ -11131,7 +10449,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 12,
             "id": "12918",
             "name": "Jolteon",
             "collectionId": "l2",
@@ -11145,7 +10462,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 12,
             "id": "12919",
             "name": "Chinchou",
             "collectionId": "l2",
@@ -11160,7 +10476,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 12,
             "id": "12920",
             "name": "Lanturn",
             "collectionId": "l2",
@@ -11175,7 +10490,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 12,
             "id": "12921",
             "name": "Lanturn",
             "collectionId": "l2",
@@ -11190,7 +10504,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 12,
             "id": "12922",
             "name": "Rotom",
             "collectionId": "l2",
@@ -11205,7 +10518,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 12,
             "id": "12923",
             "name": "Grimer",
             "collectionId": "l2",
@@ -11220,7 +10532,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 12,
             "id": "12924",
             "name": "Muk",
             "collectionId": "l2",
@@ -11234,7 +10545,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 12,
             "id": "12925",
             "name": "Espeon",
             "collectionId": "l2",
@@ -11248,7 +10558,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 12,
             "id": "12926",
             "name": "Misdreavus",
             "collectionId": "l2",
@@ -11263,7 +10572,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 12,
             "id": "12927",
             "name": "Mismagius",
             "collectionId": "l2",
@@ -11277,7 +10585,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 12,
             "id": "12928",
             "name": "Unown",
             "collectionId": "l2",
@@ -11291,7 +10598,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 12,
             "id": "12929",
             "name": "Drifloon",
             "collectionId": "l2",
@@ -11305,7 +10611,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 12,
             "id": "12930",
             "name": "Drifblim",
             "collectionId": "l2",
@@ -11319,7 +10624,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 12,
             "id": "12931",
             "name": "Onix",
             "collectionId": "l2",
@@ -11333,7 +10637,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 12,
             "id": "12932",
             "name": "Gligar",
             "collectionId": "l2",
@@ -11347,7 +10650,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 12,
             "id": "12933",
             "name": "Gliscor",
             "collectionId": "l2",
@@ -11361,7 +10663,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 12,
             "id": "12934",
             "name": "Larvitar",
             "collectionId": "l2",
@@ -11375,7 +10676,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 12,
             "id": "12935",
             "name": "Pupitar",
             "collectionId": "l2",
@@ -11389,7 +10689,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 12,
             "id": "12936",
             "name": "Makuhita",
             "collectionId": "l2",
@@ -11403,7 +10702,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 12,
             "id": "12937",
             "name": "Hariyama",
             "collectionId": "l2",
@@ -11417,7 +10715,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 12,
             "id": "12938",
             "name": "Umbreon",
             "collectionId": "l2",
@@ -11431,7 +10728,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 12,
             "id": "12939",
             "name": "Murkrow",
             "collectionId": "l2",
@@ -11445,7 +10741,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 12,
             "id": "12940",
             "name": "Dodrio",
             "collectionId": "l2",
@@ -11459,7 +10754,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 12,
             "id": "12941",
             "name": "Sneasel",
             "collectionId": "l2",
@@ -11473,7 +10767,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 12,
             "id": "12942",
             "name": "Weavile",
             "collectionId": "l2",
@@ -11487,7 +10780,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 12,
             "id": "12943",
             "name": "Houndour",
             "collectionId": "l2",
@@ -11501,7 +10793,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 12,
             "id": "12944",
             "name": "Houndoom",
             "collectionId": "l2",
@@ -11515,7 +10806,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 12,
             "id": "12945",
             "name": "Tyranitar",
             "collectionId": "l2",
@@ -11529,7 +10819,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 12,
             "id": "12946",
             "name": "Sableye",
             "collectionId": "l2",
@@ -11543,7 +10832,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 12,
             "id": "12947",
             "name": "Forretress",
             "collectionId": "l2",
@@ -11557,7 +10845,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 12,
             "id": "12948",
             "name": "Steelix",
             "collectionId": "l2",
@@ -11571,7 +10858,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 12,
             "id": "12949",
             "name": "Scizor",
             "collectionId": "l2",
@@ -11585,7 +10871,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 12,
             "id": "12950",
             "name": "Skarmory",
             "collectionId": "l2",
@@ -11599,7 +10884,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 12,
             "id": "12951",
             "name": "Mawile",
             "collectionId": "l2",
@@ -11613,7 +10897,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 12,
             "id": "12952",
             "name": "Beldum",
             "collectionId": "l2",
@@ -11627,7 +10910,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 12,
             "id": "12953",
             "name": "Metang",
             "collectionId": "l2",
@@ -11641,7 +10923,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 12,
             "id": "12954",
             "name": "Metagross",
             "collectionId": "l2",
@@ -11655,7 +10936,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 12,
             "id": "12955",
             "name": "Rattata",
             "collectionId": "l2",
@@ -11669,7 +10949,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 12,
             "id": "12956",
             "name": "Raticate",
             "collectionId": "l2",
@@ -11683,7 +10962,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 12,
             "id": "12957",
             "name": "Doduo",
             "collectionId": "l2",
@@ -11697,7 +10975,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 12,
             "id": "12958",
             "name": "Dodrio",
             "collectionId": "l2",
@@ -11711,7 +10988,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 12,
             "id": "12959",
             "name": "Eevee",
             "collectionId": "l2",
@@ -11725,7 +11001,6 @@
             "numeroLiga": "(58/)"
         },
         {
-            "seriesId": 12,
             "id": "12960",
             "name": "Togepi",
             "collectionId": "l2",
@@ -11739,7 +11014,6 @@
             "numeroLiga": "(59/)"
         },
         {
-            "seriesId": 12,
             "id": "12961",
             "name": "Togetic",
             "collectionId": "l2",
@@ -11753,7 +11027,6 @@
             "numeroLiga": "(60/)"
         },
         {
-            "seriesId": 12,
             "id": "12962",
             "name": "Togekiss",
             "collectionId": "l2",
@@ -11767,7 +11040,6 @@
             "numeroLiga": "(61/)"
         },
         {
-            "seriesId": 12,
             "id": "12963",
             "name": "Smeargle",
             "collectionId": "l2",
@@ -11781,7 +11053,6 @@
             "numeroLiga": "(62/)"
         },
         {
-            "seriesId": 12,
             "id": "12964",
             "name": "Entei & Raikou LEGEND",
             "collectionId": "l2",
@@ -11795,7 +11066,6 @@
             "numeroLiga": "(63/)"
         },
         {
-            "seriesId": 12,
             "id": "12965",
             "name": "Entei & Raikou LEGEND",
             "collectionId": "l2",
@@ -11809,7 +11079,6 @@
             "numeroLiga": "(64/)"
         },
         {
-            "seriesId": 12,
             "id": "12966",
             "name": "Suicune & Entei LEGEND",
             "collectionId": "l2",
@@ -11823,7 +11092,6 @@
             "numeroLiga": "(65/)"
         },
         {
-            "seriesId": 12,
             "id": "12967",
             "name": "Suicune & Entei LEGEND",
             "collectionId": "l2",
@@ -11837,7 +11105,6 @@
             "numeroLiga": "(66/)"
         },
         {
-            "seriesId": 12,
             "id": "12968",
             "name": "Raikou & Suicune LEGEND",
             "collectionId": "l2",
@@ -11851,7 +11118,6 @@
             "numeroLiga": "(67/)"
         },
         {
-            "seriesId": 12,
             "id": "12969",
             "name": "Raikou & Suicune LEGEND",
             "collectionId": "l2",
@@ -11865,7 +11131,6 @@
             "numeroLiga": "(68/)"
         },
         {
-            "seriesId": 12,
             "id": "12970",
             "name": "Energy Exchanger",
             "collectionId": "l2",
@@ -11876,7 +11141,6 @@
             "numeroLiga": "(69/)"
         },
         {
-            "seriesId": 12,
             "id": "12971",
             "name": "Defender",
             "collectionId": "l2",
@@ -11887,7 +11151,6 @@
             "numeroLiga": "(70/)"
         },
         {
-            "seriesId": 12,
             "id": "12972",
             "name": "Rare Candy",
             "collectionId": "l2",
@@ -11898,7 +11161,6 @@
             "numeroLiga": "(71/)"
         },
         {
-            "seriesId": 12,
             "id": "12973",
             "name": "PlusPower",
             "collectionId": "l2",
@@ -11909,7 +11171,6 @@
             "numeroLiga": "(72/)"
         },
         {
-            "seriesId": 12,
             "id": "12974",
             "name": "Legend Box",
             "collectionId": "l2",
@@ -11920,7 +11181,6 @@
             "numeroLiga": "(73/)"
         },
         {
-            "seriesId": 12,
             "id": "12975",
             "name": "Flower Shop Lady",
             "collectionId": "l2",
@@ -11932,7 +11192,6 @@
             "numeroLiga": "(74/)"
         },
         {
-            "seriesId": 12,
             "id": "12976",
             "name": "Sage's Training",
             "collectionId": "l2",
@@ -11944,7 +11203,6 @@
             "numeroLiga": "(75/)"
         },
         {
-            "seriesId": 12,
             "id": "12977",
             "name": "Team Rocket's Trickery",
             "collectionId": "l2",
@@ -11956,7 +11214,6 @@
             "numeroLiga": "(76/)"
         },
         {
-            "seriesId": 12,
             "id": "12978",
             "name": "Ruins of Alph",
             "collectionId": "l2",
@@ -11968,7 +11225,6 @@
             "numeroLiga": "(77/)"
         },
         {
-            "seriesId": 12,
             "id": "12979",
             "name": "Burned Tower",
             "collectionId": "l2",
@@ -11980,7 +11236,6 @@
             "numeroLiga": "(78/)"
         },
         {
-            "seriesId": 12,
             "id": "12980",
             "name": "Darkness Energy",
             "collectionId": "l2",
@@ -11992,7 +11247,6 @@
             "numeroLiga": "(79/)"
         },
         {
-            "seriesId": 12,
             "id": "12981",
             "name": "Darkness Energy",
             "collectionId": "l2",
@@ -12004,7 +11258,6 @@
             "numeroLiga": "(80/)"
         },
         {
-            "seriesId": 12,
             "id": "12982",
             "name": "Alph Lithograph",
             "collectionId": "l2",
@@ -12015,7 +11268,6 @@
             "numeroLiga": "(81/)"
         },
         {
-            "seriesId": 12,
             "id": "13602",
             "name": "Weedle",
             "collectionId": "l1hg",
@@ -12029,7 +11281,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 12,
             "id": "13603",
             "name": "Kakuna",
             "collectionId": "l1hg",
@@ -12043,7 +11294,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 12,
             "id": "13604",
             "name": "Beedrill",
             "collectionId": "l1hg",
@@ -12057,7 +11307,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 12,
             "id": "13605",
             "name": "Spinarak",
             "collectionId": "l1hg",
@@ -12071,7 +11320,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 12,
             "id": "13606",
             "name": "Ariados",
             "collectionId": "l1hg",
@@ -12085,7 +11333,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 12,
             "id": "13607",
             "name": "Hoppip",
             "collectionId": "l1hg",
@@ -12099,7 +11346,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 12,
             "id": "13608",
             "name": "Skiploom",
             "collectionId": "l1hg",
@@ -12113,7 +11359,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 12,
             "id": "13609",
             "name": "Jumpluff",
             "collectionId": "l1hg",
@@ -12127,7 +11372,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 12,
             "id": "13610",
             "name": "Sunkern",
             "collectionId": "l1hg",
@@ -12141,7 +11385,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 12,
             "id": "13611",
             "name": "Sunflora",
             "collectionId": "l1hg",
@@ -12155,7 +11398,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 12,
             "id": "13612",
             "name": "Shuckle",
             "collectionId": "l1hg",
@@ -12169,7 +11411,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 12,
             "id": "13613",
             "name": "Heracross",
             "collectionId": "l1hg",
@@ -12183,7 +11424,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 12,
             "id": "13614",
             "name": "Growlithe",
             "collectionId": "l1hg",
@@ -12197,7 +11437,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 12,
             "id": "13615",
             "name": "Arcanine",
             "collectionId": "l1hg",
@@ -12211,7 +11450,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 12,
             "id": "13616",
             "name": "Ho-Oh LEGEND",
             "collectionId": "l1hg",
@@ -12225,7 +11463,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 12,
             "id": "13617",
             "name": "Ho-Oh LEGEND",
             "collectionId": "l1hg",
@@ -12239,7 +11476,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 12,
             "id": "13618",
             "name": "Slowpoke",
             "collectionId": "l1hg",
@@ -12253,7 +11489,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 12,
             "id": "13619",
             "name": "Slowbro",
             "collectionId": "l1hg",
@@ -12267,7 +11502,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 12,
             "id": "13620",
             "name": "Staryu",
             "collectionId": "l1hg",
@@ -12281,7 +11515,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 12,
             "id": "13621",
             "name": "Starmie",
             "collectionId": "l1hg",
@@ -12295,7 +11528,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 12,
             "id": "13622",
             "name": "Lapras",
             "collectionId": "l1hg",
@@ -12309,7 +11541,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 12,
             "id": "13623",
             "name": "Totodile",
             "collectionId": "l1hg",
@@ -12323,7 +11554,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 12,
             "id": "13624",
             "name": "Croconaw",
             "collectionId": "l1hg",
@@ -12337,7 +11567,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 12,
             "id": "13625",
             "name": "Feraligatr",
             "collectionId": "l1hg",
@@ -12351,7 +11580,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 12,
             "id": "13626",
             "name": "Feraligatr",
             "collectionId": "l1hg",
@@ -12365,7 +11593,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 12,
             "id": "13627",
             "name": "Qwilfish",
             "collectionId": "l1hg",
@@ -12379,7 +11606,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 12,
             "id": "13628",
             "name": "Corsola",
             "collectionId": "l1hg",
@@ -12393,7 +11619,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 12,
             "id": "13629",
             "name": "Remoraid",
             "collectionId": "l1hg",
@@ -12407,7 +11632,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 12,
             "id": "13630",
             "name": "Octillery",
             "collectionId": "l1hg",
@@ -12421,7 +11645,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 12,
             "id": "13631",
             "name": "Mantine",
             "collectionId": "l1hg",
@@ -12435,7 +11658,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 12,
             "id": "13632",
             "name": "Mareep",
             "collectionId": "l1hg",
@@ -12449,7 +11671,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 12,
             "id": "13633",
             "name": "Flaaffy",
             "collectionId": "l1hg",
@@ -12463,7 +11684,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 12,
             "id": "13634",
             "name": "Ampharos",
             "collectionId": "l1hg",
@@ -12477,7 +11697,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 12,
             "id": "13635",
             "name": "Ampharos",
             "collectionId": "l1hg",
@@ -12491,7 +11710,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 12,
             "id": "13636",
             "name": "Koffing",
             "collectionId": "l1hg",
@@ -12505,7 +11723,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 12,
             "id": "13637",
             "name": "Weezing",
             "collectionId": "l1hg",
@@ -12519,7 +11736,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 12,
             "id": "13638",
             "name": "Smoochum",
             "collectionId": "l1hg",
@@ -12533,7 +11749,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 12,
             "id": "13639",
             "name": "Jynx",
             "collectionId": "l1hg",
@@ -12547,7 +11762,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 12,
             "id": "13640",
             "name": "Slowking",
             "collectionId": "l1hg",
@@ -12561,7 +11775,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 12,
             "id": "13641",
             "name": "Unown",
             "collectionId": "l1hg",
@@ -12575,7 +11788,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 12,
             "id": "13642",
             "name": "Wobbuffet",
             "collectionId": "l1hg",
@@ -12589,7 +11801,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 12,
             "id": "13643",
             "name": "Mankey",
             "collectionId": "l1hg",
@@ -12603,7 +11814,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 12,
             "id": "13644",
             "name": "Primeape",
             "collectionId": "l1hg",
@@ -12617,7 +11827,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 12,
             "id": "13645",
             "name": "Phanpy",
             "collectionId": "l1hg",
@@ -12631,7 +11840,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 12,
             "id": "13646",
             "name": "Donphan",
             "collectionId": "l1hg",
@@ -12645,7 +11853,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 12,
             "id": "13647",
             "name": "Donphan",
             "collectionId": "l1hg",
@@ -12659,7 +11866,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 12,
             "id": "13648",
             "name": "Spearow",
             "collectionId": "l1hg",
@@ -12673,7 +11879,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 12,
             "id": "13649",
             "name": "Fearow",
             "collectionId": "l1hg",
@@ -12687,7 +11892,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 12,
             "id": "13650",
             "name": "Cleffa",
             "collectionId": "l1hg",
@@ -12701,7 +11905,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 12,
             "id": "13651",
             "name": "Clefairy",
             "collectionId": "l1hg",
@@ -12715,7 +11918,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 12,
             "id": "13652",
             "name": "Clefable",
             "collectionId": "l1hg",
@@ -12729,7 +11931,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 12,
             "id": "13653",
             "name": "Chansey",
             "collectionId": "l1hg",
@@ -12743,7 +11944,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 12,
             "id": "13654",
             "name": "Blissey",
             "collectionId": "l1hg",
@@ -12757,7 +11957,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 12,
             "id": "13655",
             "name": "Blissey",
             "collectionId": "l1hg",
@@ -12771,7 +11970,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 12,
             "id": "13656",
             "name": "Tauros",
             "collectionId": "l1hg",
@@ -12785,7 +11983,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 12,
             "id": "13657",
             "name": "Sentret",
             "collectionId": "l1hg",
@@ -12799,7 +11996,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 12,
             "id": "13658",
             "name": "Furret",
             "collectionId": "l1hg",
@@ -12813,7 +12009,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 12,
             "id": "13659",
             "name": "Hoothoot",
             "collectionId": "l1hg",
@@ -12827,7 +12022,6 @@
             "numeroLiga": "(58/)"
         },
         {
-            "seriesId": 12,
             "id": "13660",
             "name": "Noctowl",
             "collectionId": "l1hg",
@@ -12841,7 +12035,6 @@
             "numeroLiga": "(59/)"
         },
         {
-            "seriesId": 12,
             "id": "13661",
             "name": "Girafarig",
             "collectionId": "l1hg",
@@ -12855,7 +12048,6 @@
             "numeroLiga": "(60/)"
         },
         {
-            "seriesId": 12,
             "id": "13662",
             "name": "Dunsparce",
             "collectionId": "l1hg",
@@ -12869,7 +12061,6 @@
             "numeroLiga": "(61/)"
         },
         {
-            "seriesId": 12,
             "id": "13663",
             "name": "Stantler",
             "collectionId": "l1hg",
@@ -12883,7 +12074,6 @@
             "numeroLiga": "(62/)"
         },
         {
-            "seriesId": 12,
             "id": "13664",
             "name": "Energy Switch",
             "collectionId": "l1hg",
@@ -12894,7 +12084,6 @@
             "numeroLiga": "(63/)"
         },
         {
-            "seriesId": 12,
             "id": "13665",
             "name": "Switch",
             "collectionId": "l1hg",
@@ -12905,7 +12094,6 @@
             "numeroLiga": "(64/)"
         },
         {
-            "seriesId": 12,
             "id": "13666",
             "name": "Pokémon Reversal",
             "collectionId": "l1hg",
@@ -12916,7 +12104,6 @@
             "numeroLiga": "(65/)"
         },
         {
-            "seriesId": 12,
             "id": "13667",
             "name": "Poké Ball",
             "collectionId": "l1hg",
@@ -12927,7 +12114,6 @@
             "numeroLiga": "(66/)"
         },
         {
-            "seriesId": 12,
             "id": "13668",
             "name": "Professor Elm's Training Method",
             "collectionId": "l1hg",
@@ -12939,7 +12125,6 @@
             "numeroLiga": "(67/)"
         },
         {
-            "seriesId": 12,
             "id": "13669",
             "name": "Professor Oak's New Theory",
             "collectionId": "l1hg",
@@ -12951,7 +12136,6 @@
             "numeroLiga": "(68/)"
         },
         {
-            "seriesId": 12,
             "id": "13670",
             "name": "Bill",
             "collectionId": "l1hg",
@@ -12962,7 +12146,6 @@
             "numeroLiga": "(69/)"
         },
         {
-            "seriesId": 12,
             "id": "13671",
             "name": "Double Colorless Energy",
             "collectionId": "l1hg",
@@ -12974,7 +12157,6 @@
             "numeroLiga": "(70/)"
         },
         {
-            "seriesId": 12,
             "id": "13672",
             "name": "Alph Lithograph",
             "collectionId": "l1hg",
@@ -12985,7 +12167,6 @@
             "numeroLiga": "(71/)"
         },
         {
-            "seriesId": 12,
             "id": "13673",
             "name": "Grass Energy",
             "collectionId": "l1hg",
@@ -12997,7 +12178,6 @@
             "numeroLiga": "(72/)"
         },
         {
-            "seriesId": 12,
             "id": "13674",
             "name": "Fire Energy",
             "collectionId": "l1hg",
@@ -13009,7 +12189,6 @@
             "numeroLiga": "(73/)"
         },
         {
-            "seriesId": 12,
             "id": "13675",
             "name": "Water Energy",
             "collectionId": "l1hg",
@@ -13021,7 +12200,6 @@
             "numeroLiga": "(74/)"
         },
         {
-            "seriesId": 12,
             "id": "13676",
             "name": "Lightning Energy",
             "collectionId": "l1hg",
@@ -13033,7 +12211,6 @@
             "numeroLiga": "(75/)"
         },
         {
-            "seriesId": 12,
             "id": "13677",
             "name": "Psychic Energy",
             "collectionId": "l1hg",
@@ -13045,7 +12222,6 @@
             "numeroLiga": "(76/)"
         },
         {
-            "seriesId": 12,
             "id": "13678",
             "name": "Fighting Energy",
             "collectionId": "l1hg",
@@ -13057,7 +12233,6 @@
             "numeroLiga": "(77/)"
         },
         {
-            "seriesId": 12,
             "id": "13679",
             "name": "Darkness Energy",
             "collectionId": "l1hg",
@@ -13069,7 +12244,6 @@
             "numeroLiga": "(78/)"
         },
         {
-            "seriesId": 12,
             "id": "13680",
             "name": "Metal Energy",
             "collectionId": "l1hg",
@@ -13081,7 +12255,6 @@
             "numeroLiga": "(79/)"
         },
         {
-            "seriesId": 12,
             "id": "13681",
             "name": "Caterpie",
             "collectionId": "l1ss",
@@ -13095,7 +12268,6 @@
             "numeroLiga": "(1/)"
         },
         {
-            "seriesId": 12,
             "id": "13682",
             "name": "Metapod",
             "collectionId": "l1ss",
@@ -13109,7 +12281,6 @@
             "numeroLiga": "(2/)"
         },
         {
-            "seriesId": 12,
             "id": "13683",
             "name": "Butterfree",
             "collectionId": "l1ss",
@@ -13123,7 +12294,6 @@
             "numeroLiga": "(3/)"
         },
         {
-            "seriesId": 12,
             "id": "13684",
             "name": "Paras",
             "collectionId": "l1ss",
@@ -13137,7 +12307,6 @@
             "numeroLiga": "(4/)"
         },
         {
-            "seriesId": 12,
             "id": "13685",
             "name": "Parasect",
             "collectionId": "l1ss",
@@ -13151,7 +12320,6 @@
             "numeroLiga": "(5/)"
         },
         {
-            "seriesId": 12,
             "id": "13686",
             "name": "Chikorita",
             "collectionId": "l1ss",
@@ -13165,7 +12333,6 @@
             "numeroLiga": "(6/)"
         },
         {
-            "seriesId": 12,
             "id": "13687",
             "name": "Bayleef",
             "collectionId": "l1ss",
@@ -13179,7 +12346,6 @@
             "numeroLiga": "(7/)"
         },
         {
-            "seriesId": 12,
             "id": "13688",
             "name": "Meganium",
             "collectionId": "l1ss",
@@ -13193,7 +12359,6 @@
             "numeroLiga": "(8/)"
         },
         {
-            "seriesId": 12,
             "id": "13689",
             "name": "Meganium",
             "collectionId": "l1ss",
@@ -13207,7 +12372,6 @@
             "numeroLiga": "(9/)"
         },
         {
-            "seriesId": 12,
             "id": "13690",
             "name": "Ledyba",
             "collectionId": "l1ss",
@@ -13221,7 +12385,6 @@
             "numeroLiga": "(10/)"
         },
         {
-            "seriesId": 12,
             "id": "13691",
             "name": "Ledian",
             "collectionId": "l1ss",
@@ -13235,7 +12398,6 @@
             "numeroLiga": "(11/)"
         },
         {
-            "seriesId": 12,
             "id": "13692",
             "name": "Vulpix",
             "collectionId": "l1ss",
@@ -13249,7 +12411,6 @@
             "numeroLiga": "(12/)"
         },
         {
-            "seriesId": 12,
             "id": "13693",
             "name": "Ninetales",
             "collectionId": "l1ss",
@@ -13263,7 +12424,6 @@
             "numeroLiga": "(13/)"
         },
         {
-            "seriesId": 12,
             "id": "13694",
             "name": "Cyndaquil",
             "collectionId": "l1ss",
@@ -13277,7 +12437,6 @@
             "numeroLiga": "(14/)"
         },
         {
-            "seriesId": 12,
             "id": "13695",
             "name": "Quilava",
             "collectionId": "l1ss",
@@ -13291,7 +12450,6 @@
             "numeroLiga": "(15/)"
         },
         {
-            "seriesId": 12,
             "id": "13696",
             "name": "Typhlosion",
             "collectionId": "l1ss",
@@ -13305,7 +12463,6 @@
             "numeroLiga": "(16/)"
         },
         {
-            "seriesId": 12,
             "id": "13697",
             "name": "Typhlosion",
             "collectionId": "l1ss",
@@ -13319,7 +12476,6 @@
             "numeroLiga": "(17/)"
         },
         {
-            "seriesId": 12,
             "id": "13698",
             "name": "Poliwag",
             "collectionId": "l1ss",
@@ -13333,7 +12489,6 @@
             "numeroLiga": "(18/)"
         },
         {
-            "seriesId": 12,
             "id": "13699",
             "name": "Poliwhirl",
             "collectionId": "l1ss",
@@ -13347,7 +12502,6 @@
             "numeroLiga": "(19/)"
         },
         {
-            "seriesId": 12,
             "id": "13700",
             "name": "Poliwrath",
             "collectionId": "l1ss",
@@ -13361,7 +12515,6 @@
             "numeroLiga": "(20/)"
         },
         {
-            "seriesId": 12,
             "id": "13701",
             "name": "Politoed",
             "collectionId": "l1ss",
@@ -13375,7 +12528,6 @@
             "numeroLiga": "(21/)"
         },
         {
-            "seriesId": 12,
             "id": "13702",
             "name": "Magikarp",
             "collectionId": "l1ss",
@@ -13389,7 +12541,6 @@
             "numeroLiga": "(22/)"
         },
         {
-            "seriesId": 12,
             "id": "13703",
             "name": "Gyarados",
             "collectionId": "l1ss",
@@ -13403,7 +12554,6 @@
             "numeroLiga": "(23/)"
         },
         {
-            "seriesId": 12,
             "id": "13704",
             "name": "Marill",
             "collectionId": "l1ss",
@@ -13417,7 +12567,6 @@
             "numeroLiga": "(24/)"
         },
         {
-            "seriesId": 12,
             "id": "13705",
             "name": "Azumarill",
             "collectionId": "l1ss",
@@ -13431,7 +12580,6 @@
             "numeroLiga": "(25/)"
         },
         {
-            "seriesId": 12,
             "id": "13706",
             "name": "Wooper",
             "collectionId": "l1ss",
@@ -13445,7 +12593,6 @@
             "numeroLiga": "(26/)"
         },
         {
-            "seriesId": 12,
             "id": "13707",
             "name": "Quagsire",
             "collectionId": "l1ss",
@@ -13459,7 +12606,6 @@
             "numeroLiga": "(27/)"
         },
         {
-            "seriesId": 12,
             "id": "13708",
             "name": "Delibird",
             "collectionId": "l1ss",
@@ -13473,7 +12619,6 @@
             "numeroLiga": "(28/)"
         },
         {
-            "seriesId": 12,
             "id": "13709",
             "name": "Lugia LEGEND",
             "collectionId": "l1ss",
@@ -13487,7 +12632,6 @@
             "numeroLiga": "(29/)"
         },
         {
-            "seriesId": 12,
             "id": "13710",
             "name": "Lugia LEGEND",
             "collectionId": "l1ss",
@@ -13501,7 +12645,6 @@
             "numeroLiga": "(30/)"
         },
         {
-            "seriesId": 12,
             "id": "13711",
             "name": "Pichu",
             "collectionId": "l1ss",
@@ -13515,7 +12658,6 @@
             "numeroLiga": "(31/)"
         },
         {
-            "seriesId": 12,
             "id": "13712",
             "name": "Pikachu",
             "collectionId": "l1ss",
@@ -13529,7 +12671,6 @@
             "numeroLiga": "(32/)"
         },
         {
-            "seriesId": 12,
             "id": "13713",
             "name": "Raichu",
             "collectionId": "l1ss",
@@ -13543,7 +12684,6 @@
             "numeroLiga": "(33/)"
         },
         {
-            "seriesId": 12,
             "id": "13714",
             "name": "Zubat",
             "collectionId": "l1ss",
@@ -13557,7 +12697,6 @@
             "numeroLiga": "(34/)"
         },
         {
-            "seriesId": 12,
             "id": "13715",
             "name": "Golbat",
             "collectionId": "l1ss",
@@ -13571,7 +12710,6 @@
             "numeroLiga": "(35/)"
         },
         {
-            "seriesId": 12,
             "id": "13716",
             "name": "Crobat",
             "collectionId": "l1ss",
@@ -13585,7 +12723,6 @@
             "numeroLiga": "(36/)"
         },
         {
-            "seriesId": 12,
             "id": "13717",
             "name": "Crobat",
             "collectionId": "l1ss",
@@ -13599,7 +12736,6 @@
             "numeroLiga": "(37/)"
         },
         {
-            "seriesId": 12,
             "id": "13718",
             "name": "Drowzee",
             "collectionId": "l1ss",
@@ -13613,7 +12749,6 @@
             "numeroLiga": "(38/)"
         },
         {
-            "seriesId": 12,
             "id": "13719",
             "name": "Hypno",
             "collectionId": "l1ss",
@@ -13627,7 +12762,6 @@
             "numeroLiga": "(39/)"
         },
         {
-            "seriesId": 12,
             "id": "13720",
             "name": "Exeggcute",
             "collectionId": "l1ss",
@@ -13641,7 +12775,6 @@
             "numeroLiga": "(40/)"
         },
         {
-            "seriesId": 12,
             "id": "13721",
             "name": "Exeggutor",
             "collectionId": "l1ss",
@@ -13655,7 +12788,6 @@
             "numeroLiga": "(41/)"
         },
         {
-            "seriesId": 12,
             "id": "13722",
             "name": "Natu",
             "collectionId": "l1ss",
@@ -13669,7 +12801,6 @@
             "numeroLiga": "(42/)"
         },
         {
-            "seriesId": 12,
             "id": "13723",
             "name": "Xatu",
             "collectionId": "l1ss",
@@ -13683,7 +12814,6 @@
             "numeroLiga": "(43/)"
         },
         {
-            "seriesId": 12,
             "id": "13724",
             "name": "Unown",
             "collectionId": "l1ss",
@@ -13697,7 +12827,6 @@
             "numeroLiga": "(44/)"
         },
         {
-            "seriesId": 12,
             "id": "13725",
             "name": "Sandshrew",
             "collectionId": "l1ss",
@@ -13711,7 +12840,6 @@
             "numeroLiga": "(45/)"
         },
         {
-            "seriesId": 12,
             "id": "13726",
             "name": "Sandslash",
             "collectionId": "l1ss",
@@ -13725,7 +12853,6 @@
             "numeroLiga": "(46/)"
         },
         {
-            "seriesId": 12,
             "id": "13727",
             "name": "Sudowoodo",
             "collectionId": "l1ss",
@@ -13739,7 +12866,6 @@
             "numeroLiga": "(47/)"
         },
         {
-            "seriesId": 12,
             "id": "13728",
             "name": "Tyrogue",
             "collectionId": "l1ss",
@@ -13753,7 +12879,6 @@
             "numeroLiga": "(48/)"
         },
         {
-            "seriesId": 12,
             "id": "13729",
             "name": "Hitmontop",
             "collectionId": "l1ss",
@@ -13767,7 +12892,6 @@
             "numeroLiga": "(49/)"
         },
         {
-            "seriesId": 12,
             "id": "13730",
             "name": "Igglybuff",
             "collectionId": "l1ss",
@@ -13781,7 +12905,6 @@
             "numeroLiga": "(50/)"
         },
         {
-            "seriesId": 12,
             "id": "13731",
             "name": "Jigglypuff",
             "collectionId": "l1ss",
@@ -13795,7 +12918,6 @@
             "numeroLiga": "(51/)"
         },
         {
-            "seriesId": 12,
             "id": "13732",
             "name": "Wigglytuff",
             "collectionId": "l1ss",
@@ -13809,7 +12931,6 @@
             "numeroLiga": "(52/)"
         },
         {
-            "seriesId": 12,
             "id": "13733",
             "name": "Meowth",
             "collectionId": "l1ss",
@@ -13823,7 +12944,6 @@
             "numeroLiga": "(53/)"
         },
         {
-            "seriesId": 12,
             "id": "13734",
             "name": "Persian",
             "collectionId": "l1ss",
@@ -13837,7 +12957,6 @@
             "numeroLiga": "(54/)"
         },
         {
-            "seriesId": 12,
             "id": "13735",
             "name": "Farfetch'd",
             "collectionId": "l1ss",
@@ -13851,7 +12970,6 @@
             "numeroLiga": "(55/)"
         },
         {
-            "seriesId": 12,
             "id": "13736",
             "name": "Aipom",
             "collectionId": "l1ss",
@@ -13865,7 +12983,6 @@
             "numeroLiga": "(56/)"
         },
         {
-            "seriesId": 12,
             "id": "13737",
             "name": "Snubbull",
             "collectionId": "l1ss",
@@ -13879,7 +12996,6 @@
             "numeroLiga": "(57/)"
         },
         {
-            "seriesId": 12,
             "id": "13738",
             "name": "Granbull",
             "collectionId": "l1ss",
@@ -13893,7 +13009,6 @@
             "numeroLiga": "(58/)"
         },
         {
-            "seriesId": 12,
             "id": "13739",
             "name": "Teddiursa",
             "collectionId": "l1ss",
@@ -13907,7 +13022,6 @@
             "numeroLiga": "(59/)"
         },
         {
-            "seriesId": 12,
             "id": "13740",
             "name": "Ursaring",
             "collectionId": "l1ss",
@@ -13921,7 +13035,6 @@
             "numeroLiga": "(60/)"
         },
         {
-            "seriesId": 12,
             "id": "13741",
             "name": "Ursaring",
             "collectionId": "l1ss",
@@ -13935,7 +13048,6 @@
             "numeroLiga": "(61/)"
         },
         {
-            "seriesId": 12,
             "id": "13742",
             "name": "Miltank",
             "collectionId": "l1ss",
@@ -13949,7 +13061,6 @@
             "numeroLiga": "(62/)"
         },
         {
-            "seriesId": 12,
             "id": "13743",
             "name": "Full Heal",
             "collectionId": "l1ss",
@@ -13960,7 +13071,6 @@
             "numeroLiga": "(63/)"
         },
         {
-            "seriesId": 12,
             "id": "13744",
             "name": "Pokégear 3.0",
             "collectionId": "l1ss",
@@ -13971,7 +13081,6 @@
             "numeroLiga": "(64/)"
         },
         {
-            "seriesId": 12,
             "id": "13745",
             "name": "Pokémon Communication",
             "collectionId": "l1ss",
@@ -13982,7 +13091,6 @@
             "numeroLiga": "(65/)"
         },
         {
-            "seriesId": 12,
             "id": "13746",
             "name": "Moomoo Milk",
             "collectionId": "l1ss",
@@ -13994,7 +13102,6 @@
             "numeroLiga": "(66/)"
         },
         {
-            "seriesId": 12,
             "id": "13747",
             "name": "Fisherman",
             "collectionId": "l1ss",
@@ -14006,7 +13113,6 @@
             "numeroLiga": "(67/)"
         },
         {
-            "seriesId": 12,
             "id": "13748",
             "name": "Pokémon Collector",
             "collectionId": "l1ss",
@@ -14018,7 +13124,6 @@
             "numeroLiga": "(68/)"
         },
         {
-            "seriesId": 12,
             "id": "13749",
             "name": "Copycat",
             "collectionId": "l1ss",
@@ -14030,7 +13135,6 @@
             "numeroLiga": "(69/)"
         },
         {
-            "seriesId": 12,
             "id": "13750",
             "name": "Rainbow Energy",
             "collectionId": "l1ss",
@@ -14042,7 +13146,6 @@
             "numeroLiga": "(70/)"
         },
         {
-            "seriesId": 12,
             "id": "13751",
             "name": "Alph Lithograph",
             "collectionId": "l1ss",
@@ -14053,7 +13156,6 @@
             "numeroLiga": "(71/)"
         },
         {
-            "seriesId": 12,
             "id": "13752",
             "name": "Grass Energy",
             "collectionId": "l1ss",
@@ -14065,7 +13167,6 @@
             "numeroLiga": "(72/)"
         },
         {
-            "seriesId": 12,
             "id": "13753",
             "name": "Fire Energy",
             "collectionId": "l1ss",
@@ -14077,7 +13178,6 @@
             "numeroLiga": "(73/)"
         },
         {
-            "seriesId": 12,
             "id": "13754",
             "name": "Water Energy",
             "collectionId": "l1ss",
@@ -14089,7 +13189,6 @@
             "numeroLiga": "(74/)"
         },
         {
-            "seriesId": 12,
             "id": "13755",
             "name": "Lightning Energy",
             "collectionId": "l1ss",
@@ -14101,7 +13200,6 @@
             "numeroLiga": "(75/)"
         },
         {
-            "seriesId": 12,
             "id": "13756",
             "name": "Psychic Energy",
             "collectionId": "l1ss",
@@ -14113,7 +13211,6 @@
             "numeroLiga": "(76/)"
         },
         {
-            "seriesId": 12,
             "id": "13757",
             "name": "Fighting Energy",
             "collectionId": "l1ss",
@@ -14125,7 +13222,6 @@
             "numeroLiga": "(77/)"
         },
         {
-            "seriesId": 12,
             "id": "13758",
             "name": "Darkness Energy",
             "collectionId": "l1ss",
@@ -14137,7 +13233,6 @@
             "numeroLiga": "(78/)"
         },
         {
-            "seriesId": 12,
             "id": "13759",
             "name": "Metal Energy",
             "collectionId": "l1ss",

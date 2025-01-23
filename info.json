@@ -1,6 +1,7 @@
 {
     "files": [
         "artist.json",
+        "artists.json",
         "cartas_1.json",
         "cartas_10.json",
         "cartas_11.json",
@@ -19,18 +20,22 @@
         "cartas_8.json",
         "cartas_9.json",
         "colecoes.json",
+        "info.json",
         "moedas.json",
         "moeda_cores.json",
         "moeda_efeito.json",
         "moeda_tamanho.json",
-        "regions.json",
         "pk_types.json",
         "pokedex.json",
         "rarity.json",
+        "regions.json",
         "series.json",
         "sleeves.json",
         "sleeves_colecoes.json",
-        "subtype.json"
+        "subtype.json",
+        "supertype.json",
+        "supertypes.json",
+        "types.json"
     ],
-    "timestamp": "2025-01-22T10:30:21.669265"
+    "timestamp": "2025-01-23T17:16:32.477131"
 }
