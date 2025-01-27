@@ -2,7 +2,7 @@
     "data": [
         {
             "id": "gym1-15",
-            "language": "E",
+            "language": "en",
             "name": "Brock",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -15,7 +15,7 @@
         },
         {
             "id": "gym1-16",
-            "language": "E",
+            "language": "en",
             "name": "Erika",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -28,7 +28,7 @@
         },
         {
             "id": "gym1-17",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge",
             "nomePt": "Cap. Surge",
             "collectionId": "gym1",
@@ -42,7 +42,7 @@
         },
         {
             "id": "gym1-18",
-            "language": "E",
+            "language": "en",
             "name": "Misty",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -55,7 +55,7 @@
         },
         {
             "id": "gym1-19",
-            "language": "E",
+            "language": "en",
             "name": "The Rocket's Trap",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -69,7 +69,7 @@
         },
         {
             "id": "gym1-97",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Quiz #1",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -82,7 +82,7 @@
         },
         {
             "id": "gym1-98",
-            "language": "E",
+            "language": "en",
             "name": "Brock",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -95,7 +95,7 @@
         },
         {
             "id": "gym1-99",
-            "language": "E",
+            "language": "en",
             "name": "Charity",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -108,7 +108,7 @@
         },
         {
             "id": "gym1-100",
-            "language": "E",
+            "language": "en",
             "name": "Erika",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -121,7 +121,7 @@
         },
         {
             "id": "gym1-101",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge",
             "nomePt": "Cap. Surge",
             "collectionId": "gym1",
@@ -135,7 +135,7 @@
         },
         {
             "id": "gym1-102",
-            "language": "E",
+            "language": "en",
             "name": "Misty",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -148,7 +148,7 @@
         },
         {
             "id": "gym1-105",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Last Resort",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -161,7 +161,7 @@
         },
         {
             "id": "gym1-106",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Training Method",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -174,7 +174,7 @@
         },
         {
             "id": "gym1-109",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Maids",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -187,7 +187,7 @@
         },
         {
             "id": "gym1-110",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Perfume",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -200,7 +200,7 @@
         },
         {
             "id": "gym1-111",
-            "language": "E",
+            "language": "en",
             "name": "Good Manners",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -213,7 +213,7 @@
         },
         {
             "id": "gym1-112",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Treaty",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -226,7 +226,7 @@
         },
         {
             "id": "gym1-113",
-            "language": "E",
+            "language": "en",
             "name": "Minion of Team Rocket",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -240,7 +240,7 @@
         },
         {
             "id": "gym1-114",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Wrath",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -253,7 +253,7 @@
         },
         {
             "id": "gym1-116",
-            "language": "E",
+            "language": "en",
             "name": "Recall",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -266,7 +266,7 @@
         },
         {
             "id": "gym1-117",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's ESP",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -279,7 +279,7 @@
         },
         {
             "id": "gym1-118",
-            "language": "E",
+            "language": "en",
             "name": "Secret Mission",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -292,7 +292,7 @@
         },
         {
             "id": "gym1-121",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Gamble",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -305,7 +305,7 @@
         },
         {
             "id": "gym1-122",
-            "language": "E",
+            "language": "en",
             "name": "Energy Flow",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -318,7 +318,7 @@
         },
         {
             "id": "gym1-123",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Duel",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -331,7 +331,7 @@
         },
         {
             "id": "gym1-125",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Gaze",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -344,7 +344,7 @@
         },
         {
             "id": "gym1-126",
-            "language": "E",
+            "language": "en",
             "name": "Trash Exchange",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -357,7 +357,7 @@
         },
         {
             "id": "gym2-17",
-            "language": "E",
+            "language": "en",
             "name": "Blaine",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -370,7 +370,7 @@
         },
         {
             "id": "gym2-18",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -383,7 +383,7 @@
         },
         {
             "id": "gym2-19",
-            "language": "E",
+            "language": "en",
             "name": "Koga",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -396,7 +396,7 @@
         },
         {
             "id": "gym2-20",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -409,7 +409,7 @@
         },
         {
             "id": "gym2-100",
-            "language": "E",
+            "language": "en",
             "name": "Blaine",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -422,7 +422,7 @@
         },
         {
             "id": "gym2-101",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Protection",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -435,7 +435,7 @@
         },
         {
             "id": "gym2-103",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Kindness",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -448,7 +448,7 @@
         },
         {
             "id": "gym2-104",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -461,7 +461,7 @@
         },
         {
             "id": "gym2-105",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Last Resort",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -474,7 +474,7 @@
         },
         {
             "id": "gym2-106",
-            "language": "E",
+            "language": "en",
             "name": "Koga",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -487,7 +487,7 @@
         },
         {
             "id": "gym2-107",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Secret Plan",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -500,7 +500,7 @@
         },
         {
             "id": "gym2-108",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Wish",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -513,7 +513,7 @@
         },
         {
             "id": "gym2-110",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -526,7 +526,7 @@
         },
         {
             "id": "gym2-111",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Quiz #2",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -539,7 +539,7 @@
         },
         {
             "id": "gym2-112",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Quiz #3",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -552,7 +552,7 @@
         },
         {
             "id": "gym2-115",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Ninja Trick",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -565,7 +565,7 @@
         },
         {
             "id": "gym2-116",
-            "language": "E",
+            "language": "en",
             "name": "Master Ball",
             "nomePt": "Bola Mestra",
             "collectionId": "gym2",
@@ -579,7 +579,7 @@
         },
         {
             "id": "gym2-117",
-            "language": "E",
+            "language": "en",
             "name": "Max Revive",
             "nomePt": "Maximo Reviver",
             "collectionId": "gym2",
@@ -593,7 +593,7 @@
         },
         {
             "id": "gym2-118",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Tears",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -606,7 +606,7 @@
         },
         {
             "id": "gym2-120",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Secret Experiment",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -620,7 +620,7 @@
         },
         {
             "id": "gym2-121",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Psychic Control",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -633,7 +633,7 @@
         },
         {
             "id": "gym2-124",
-            "language": "E",
+            "language": "en",
             "name": "Fervor",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -646,7 +646,7 @@
         },
         {
             "id": "gym2-125",
-            "language": "E",
+            "language": "en",
             "name": "Transparent Walls",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -659,7 +659,7 @@
         },
         {
             "id": "gym2-126",
-            "language": "E",
+            "language": "en",
             "name": "Warp Point",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -672,7 +672,7 @@
         },
         {
             "id": "gym1-1",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Moltres",
             "nomePt": "Moltres do Blaine",
             "collectionId": "gym1",
@@ -690,7 +690,7 @@
         },
         {
             "id": "gym1-10",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Tentacruel",
             "nomePt": "Tentacruel da Misty",
             "collectionId": "gym1",
@@ -708,7 +708,7 @@
         },
         {
             "id": "gym1-103",
-            "language": "E",
+            "language": "en",
             "name": "No Removal Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -722,7 +722,7 @@
         },
         {
             "id": "gym1-104",
-            "language": "E",
+            "language": "en",
             "name": "The Rocket's Training Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -736,7 +736,7 @@
         },
         {
             "id": "gym1-107",
-            "language": "E",
+            "language": "en",
             "name": "Celadon City Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -750,7 +750,7 @@
         },
         {
             "id": "gym1-108",
-            "language": "E",
+            "language": "en",
             "name": "Cerulean City Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -764,7 +764,7 @@
         },
         {
             "id": "gym1-11",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Hitmonchan",
             "collectionId": "gym1",
             "supertypeId": 1,
@@ -781,7 +781,7 @@
         },
         {
             "id": "gym1-115",
-            "language": "E",
+            "language": "en",
             "name": "Pewter City Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -795,7 +795,7 @@
         },
         {
             "id": "gym1-119",
-            "language": "E",
+            "language": "en",
             "name": "Tickling Machine",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -809,7 +809,7 @@
         },
         {
             "id": "gym1-12",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Moltres",
             "collectionId": "gym1",
             "supertypeId": 1,
@@ -826,7 +826,7 @@
         },
         {
             "id": "gym1-120",
-            "language": "E",
+            "language": "en",
             "name": "Vermilion City Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -840,7 +840,7 @@
         },
         {
             "id": "gym1-124",
-            "language": "E",
+            "language": "en",
             "name": "Narrow Gym",
             "collectionId": "gym1",
             "supertypeId": 2,
@@ -854,7 +854,7 @@
         },
         {
             "id": "gym1-127",
-            "language": "E",
+            "language": "en",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
             "collectionId": "gym1",
@@ -869,7 +869,7 @@
         },
         {
             "id": "gym1-128",
-            "language": "E",
+            "language": "en",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
             "collectionId": "gym1",
@@ -884,7 +884,7 @@
         },
         {
             "id": "gym1-129",
-            "language": "E",
+            "language": "en",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
             "collectionId": "gym1",
@@ -899,7 +899,7 @@
         },
         {
             "id": "gym1-13",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Scyther",
             "collectionId": "gym1",
             "supertypeId": 1,
@@ -916,7 +916,7 @@
         },
         {
             "id": "gym1-130",
-            "language": "E",
+            "language": "en",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
             "collectionId": "gym1",
@@ -931,7 +931,7 @@
         },
         {
             "id": "gym1-131",
-            "language": "E",
+            "language": "en",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
             "collectionId": "gym1",
@@ -946,7 +946,7 @@
         },
         {
             "id": "gym1-132",
-            "language": "E",
+            "language": "en",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
             "collectionId": "gym1",
@@ -961,7 +961,7 @@
         },
         {
             "id": "gym1-14",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Gengar",
             "nomePt": "Gengar da Sabrina",
             "collectionId": "gym1",
@@ -979,7 +979,7 @@
         },
         {
             "id": "gym1-2",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Rhydon",
             "nomePt": "Rhydon do Brock",
             "collectionId": "gym1",
@@ -997,7 +997,7 @@
         },
         {
             "id": "gym1-20",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Golem",
             "nomePt": "Golem do Brock",
             "collectionId": "gym1",
@@ -1015,7 +1015,7 @@
         },
         {
             "id": "gym1-21",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Onix",
             "nomePt": "Onix do Brock",
             "collectionId": "gym1",
@@ -1033,7 +1033,7 @@
         },
         {
             "id": "gym1-22",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Rhyhorn",
             "nomePt": "Rhyhorn do Brock",
             "collectionId": "gym1",
@@ -1051,7 +1051,7 @@
         },
         {
             "id": "gym1-23",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Sandslash",
             "nomePt": "Sandslash do Brock",
             "collectionId": "gym1",
@@ -1069,7 +1069,7 @@
         },
         {
             "id": "gym1-24",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Zubat",
             "nomePt": "Zubat do Brock",
             "collectionId": "gym1",
@@ -1087,7 +1087,7 @@
         },
         {
             "id": "gym1-25",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Clefairy",
             "nomePt": "Clefairy da Erika",
             "collectionId": "gym1",
@@ -1105,7 +1105,7 @@
         },
         {
             "id": "gym1-26",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Victreebel",
             "nomePt": "Victreebel da Erika",
             "collectionId": "gym1",
@@ -1123,7 +1123,7 @@
         },
         {
             "id": "gym1-27",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Electabuzz",
             "nomePt": "Electabuzz do Cap. Surge",
             "collectionId": "gym1",
@@ -1141,7 +1141,7 @@
         },
         {
             "id": "gym1-28",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Raichu",
             "nomePt": "Raichu do Cap. Surge",
             "collectionId": "gym1",
@@ -1159,7 +1159,7 @@
         },
         {
             "id": "gym1-29",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Cloyster",
             "nomePt": "Cloyster da Misty",
             "collectionId": "gym1",
@@ -1177,7 +1177,7 @@
         },
         {
             "id": "gym1-3",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Clefable",
             "nomePt": "Clefable da Erika",
             "collectionId": "gym1",
@@ -1195,7 +1195,7 @@
         },
         {
             "id": "gym1-30",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Goldeen",
             "nomePt": "Goldeen da Misty",
             "collectionId": "gym1",
@@ -1213,7 +1213,7 @@
         },
         {
             "id": "gym1-31",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Poliwrath",
             "nomePt": "Poliwrath da Misty",
             "collectionId": "gym1",
@@ -1231,7 +1231,7 @@
         },
         {
             "id": "gym1-32",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Tentacool",
             "nomePt": "Tentacool da Misty",
             "collectionId": "gym1",
@@ -1249,7 +1249,7 @@
         },
         {
             "id": "gym1-33",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Snorlax",
             "collectionId": "gym1",
             "supertypeId": 1,
@@ -1266,7 +1266,7 @@
         },
         {
             "id": "gym1-34",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Venomoth",
             "nomePt": "Venomoth da Sabrina",
             "collectionId": "gym1",
@@ -1284,7 +1284,7 @@
         },
         {
             "id": "gym1-35",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Growlithe",
             "nomePt": "Growlithe do Blaine",
             "collectionId": "gym1",
@@ -1302,7 +1302,7 @@
         },
         {
             "id": "gym1-36",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Kangaskhan",
             "nomePt": "Kangaskhan do Blaine",
             "collectionId": "gym1",
@@ -1320,7 +1320,7 @@
         },
         {
             "id": "gym1-37",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Magmar",
             "nomePt": "Magmar do Blaine",
             "collectionId": "gym1",
@@ -1338,7 +1338,7 @@
         },
         {
             "id": "gym1-38",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Geodude",
             "nomePt": "Geodude do Brock",
             "collectionId": "gym1",
@@ -1356,7 +1356,7 @@
         },
         {
             "id": "gym1-39",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Golbat",
             "nomePt": "Golbat do Brock",
             "collectionId": "gym1",
@@ -1374,7 +1374,7 @@
         },
         {
             "id": "gym1-4",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Dragonair",
             "nomePt": "Dragonair da Erika",
             "collectionId": "gym1",
@@ -1392,7 +1392,7 @@
         },
         {
             "id": "gym1-40",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Graveler",
             "nomePt": "Graveler do Brock",
             "collectionId": "gym1",
@@ -1410,7 +1410,7 @@
         },
         {
             "id": "gym1-41",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Lickitung",
             "nomePt": "Lickitung do Brock",
             "collectionId": "gym1",
@@ -1428,7 +1428,7 @@
         },
         {
             "id": "gym1-42",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Dratini",
             "nomePt": "Dratini da Erika",
             "collectionId": "gym1",
@@ -1446,7 +1446,7 @@
         },
         {
             "id": "gym1-43",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Exeggcute",
             "nomePt": "Exeggcute da Erika",
             "collectionId": "gym1",
@@ -1464,7 +1464,7 @@
         },
         {
             "id": "gym1-44",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Exeggutor",
             "nomePt": "Exeggutor da Erika",
             "collectionId": "gym1",
@@ -1482,7 +1482,7 @@
         },
         {
             "id": "gym1-45",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Gloom",
             "nomePt": "Gloom da Erika",
             "collectionId": "gym1",
@@ -1500,7 +1500,7 @@
         },
         {
             "id": "gym1-46",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Gloom",
             "nomePt": "Gloom da Erika",
             "collectionId": "gym1",
@@ -1518,7 +1518,7 @@
         },
         {
             "id": "gym1-47",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Oddish",
             "nomePt": "Oddish da Erika",
             "collectionId": "gym1",
@@ -1536,7 +1536,7 @@
         },
         {
             "id": "gym1-48",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Weepinbell",
             "nomePt": "Weepinbell da Erika",
             "collectionId": "gym1",
@@ -1554,7 +1554,7 @@
         },
         {
             "id": "gym1-49",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Weepinbell",
             "nomePt": "Weepinbell da Erika",
             "collectionId": "gym1",
@@ -1572,7 +1572,7 @@
         },
         {
             "id": "gym1-5",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Vileplume",
             "nomePt": "Vileplume da Erika",
             "collectionId": "gym1",
@@ -1590,7 +1590,7 @@
         },
         {
             "id": "gym1-50",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Magnemite",
             "nomePt": "Magnemite do Cap. Surge",
             "collectionId": "gym1",
@@ -1608,7 +1608,7 @@
         },
         {
             "id": "gym1-51",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Raticate",
             "nomePt": "Raticate do Cap. Surge",
             "collectionId": "gym1",
@@ -1626,7 +1626,7 @@
         },
         {
             "id": "gym1-52",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Spearow",
             "nomePt": "Spearow do Cap. Surge",
             "collectionId": "gym1",
@@ -1644,7 +1644,7 @@
         },
         {
             "id": "gym1-53",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Poliwhirl",
             "nomePt": "Poliwhirl da Misty",
             "collectionId": "gym1",
@@ -1662,7 +1662,7 @@
         },
         {
             "id": "gym1-54",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Psyduck",
             "nomePt": "Psyduck da Misty",
             "collectionId": "gym1",
@@ -1680,7 +1680,7 @@
         },
         {
             "id": "gym1-55",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Seaking",
             "nomePt": "Seaking da Misty",
             "collectionId": "gym1",
@@ -1698,7 +1698,7 @@
         },
         {
             "id": "gym1-56",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Starmie",
             "nomePt": "Starmie da Misty",
             "collectionId": "gym1",
@@ -1716,7 +1716,7 @@
         },
         {
             "id": "gym1-57",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Tentacool",
             "nomePt": "Tentacool da Misty",
             "collectionId": "gym1",
@@ -1734,7 +1734,7 @@
         },
         {
             "id": "gym1-58",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Haunter",
             "nomePt": "Haunter da Sabrina",
             "collectionId": "gym1",
@@ -1752,7 +1752,7 @@
         },
         {
             "id": "gym1-59",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Jynx",
             "nomePt": "Jynx da Sabrina",
             "collectionId": "gym1",
@@ -1770,7 +1770,7 @@
         },
         {
             "id": "gym1-6",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Electabuzz",
             "nomePt": "Electabuzz do Cap. Surge",
             "collectionId": "gym1",
@@ -1788,7 +1788,7 @@
         },
         {
             "id": "gym1-60",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Slowbro",
             "nomePt": "Slowbro da Sabrina",
             "collectionId": "gym1",
@@ -1806,7 +1806,7 @@
         },
         {
             "id": "gym1-61",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Charmander",
             "nomePt": "Charmander do Blaine",
             "collectionId": "gym1",
@@ -1824,7 +1824,7 @@
         },
         {
             "id": "gym1-62",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Growlithe",
             "nomePt": "Growlithe do Blaine",
             "collectionId": "gym1",
@@ -1842,7 +1842,7 @@
         },
         {
             "id": "gym1-63",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Ponyta",
             "nomePt": "Ponyta do Blaine",
             "collectionId": "gym1",
@@ -1860,7 +1860,7 @@
         },
         {
             "id": "gym1-64",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Tauros",
             "nomePt": "Tauros do Blaine",
             "collectionId": "gym1",
@@ -1878,7 +1878,7 @@
         },
         {
             "id": "gym1-65",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Vulpix",
             "nomePt": "Vulpix do Blaine",
             "collectionId": "gym1",
@@ -1896,7 +1896,7 @@
         },
         {
             "id": "gym1-66",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Geodude",
             "nomePt": "Geodude do Brock",
             "collectionId": "gym1",
@@ -1914,7 +1914,7 @@
         },
         {
             "id": "gym1-67",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Mankey",
             "nomePt": "Mankey do Brock",
             "collectionId": "gym1",
@@ -1932,7 +1932,7 @@
         },
         {
             "id": "gym1-68",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Mankey",
             "nomePt": "Mankey do Brock",
             "collectionId": "gym1",
@@ -1950,7 +1950,7 @@
         },
         {
             "id": "gym1-69",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Onix",
             "nomePt": "Onix do Brock",
             "collectionId": "gym1",
@@ -1968,7 +1968,7 @@
         },
         {
             "id": "gym1-7",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Fearow",
             "nomePt": "Fearow do Cap. Surge",
             "collectionId": "gym1",
@@ -1986,7 +1986,7 @@
         },
         {
             "id": "gym1-70",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Rhyhorn",
             "nomePt": "Rhyhorn do Brock",
             "collectionId": "gym1",
@@ -2004,7 +2004,7 @@
         },
         {
             "id": "gym1-71",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Sandshrew",
             "nomePt": "Sandshrew do Brock",
             "collectionId": "gym1",
@@ -2022,7 +2022,7 @@
         },
         {
             "id": "gym1-72",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Sandshrew",
             "nomePt": "Sandshrew do Brock",
             "collectionId": "gym1",
@@ -2040,7 +2040,7 @@
         },
         {
             "id": "gym1-73",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Vulpix",
             "nomePt": "Vulpix do Brock",
             "collectionId": "gym1",
@@ -2058,7 +2058,7 @@
         },
         {
             "id": "gym1-74",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Zubat",
             "nomePt": "Zubat do Brock",
             "collectionId": "gym1",
@@ -2076,7 +2076,7 @@
         },
         {
             "id": "gym1-75",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Bellsprout",
             "nomePt": "Bellsprout da Erika",
             "collectionId": "gym1",
@@ -2094,7 +2094,7 @@
         },
         {
             "id": "gym1-76",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Bellsprout",
             "nomePt": "Bellsprout da Erika",
             "collectionId": "gym1",
@@ -2112,7 +2112,7 @@
         },
         {
             "id": "gym1-77",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Exeggcute",
             "nomePt": "Exeggcute da Erika",
             "collectionId": "gym1",
@@ -2130,7 +2130,7 @@
         },
         {
             "id": "gym1-78",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Oddish",
             "nomePt": "Oddish da Erika",
             "collectionId": "gym1",
@@ -2148,7 +2148,7 @@
         },
         {
             "id": "gym1-79",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Tangela",
             "nomePt": "Tangela da Erika",
             "collectionId": "gym1",
@@ -2166,7 +2166,7 @@
         },
         {
             "id": "gym1-8",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Magneton",
             "nomePt": "Magneton do Cap. Surge",
             "collectionId": "gym1",
@@ -2184,7 +2184,7 @@
         },
         {
             "id": "gym1-80",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Magnemite",
             "nomePt": "Magnemite do Cap. Surge",
             "collectionId": "gym1",
@@ -2202,7 +2202,7 @@
         },
         {
             "id": "gym1-81",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Pikachu",
             "nomePt": "Pikachu do Cap. Surge",
             "collectionId": "gym1",
@@ -2220,7 +2220,7 @@
         },
         {
             "id": "gym1-82",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Rattata",
             "nomePt": "Rattata do Cap. Surge",
             "collectionId": "gym1",
@@ -2238,7 +2238,7 @@
         },
         {
             "id": "gym1-83",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Spearow",
             "nomePt": "Spearow do Cap. Surge",
             "collectionId": "gym1",
@@ -2256,7 +2256,7 @@
         },
         {
             "id": "gym1-84",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Voltorb",
             "nomePt": "Voltorb do Cap. Surge",
             "collectionId": "gym1",
@@ -2274,7 +2274,7 @@
         },
         {
             "id": "gym1-85",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Goldeen",
             "nomePt": "Goldeen da Misty",
             "collectionId": "gym1",
@@ -2292,7 +2292,7 @@
         },
         {
             "id": "gym1-86",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Horsea",
             "nomePt": "Horsea da Misty",
             "collectionId": "gym1",
@@ -2310,7 +2310,7 @@
         },
         {
             "id": "gym1-87",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Poliwag",
             "nomePt": "Poliwag da Misty",
             "collectionId": "gym1",
@@ -2328,7 +2328,7 @@
         },
         {
             "id": "gym1-88",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Seel",
             "nomePt": "Seel da Misty",
             "collectionId": "gym1",
@@ -2346,7 +2346,7 @@
         },
         {
             "id": "gym1-89",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Shellder",
             "nomePt": "Shellder da Misty",
             "collectionId": "gym1",
@@ -2364,7 +2364,7 @@
         },
         {
             "id": "gym1-9",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Seadra",
             "nomePt": "Seadra da Misty",
             "collectionId": "gym1",
@@ -2382,7 +2382,7 @@
         },
         {
             "id": "gym1-90",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Staryu",
             "nomePt": "Staryu da Misty",
             "collectionId": "gym1",
@@ -2400,7 +2400,7 @@
         },
         {
             "id": "gym1-91",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Abra",
             "nomePt": "Abra da Sabrina",
             "collectionId": "gym1",
@@ -2418,7 +2418,7 @@
         },
         {
             "id": "gym1-92",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Drowzee",
             "nomePt": "Drowzee da Sabrina",
             "collectionId": "gym1",
@@ -2436,7 +2436,7 @@
         },
         {
             "id": "gym1-93",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Gastly",
             "nomePt": "Gastly da Sabrina",
             "collectionId": "gym1",
@@ -2454,7 +2454,7 @@
         },
         {
             "id": "gym1-94",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Mr. Mime",
             "nomePt": "Mr. Mime da Sabrina",
             "collectionId": "gym1",
@@ -2472,7 +2472,7 @@
         },
         {
             "id": "gym1-95",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Slowpoke",
             "nomePt": "SlowPoké da Sabrina",
             "collectionId": "gym1",
@@ -2490,7 +2490,7 @@
         },
         {
             "id": "gym1-96",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Venonat",
             "nomePt": "Venonat da Sabrina",
             "collectionId": "gym1",
@@ -2508,7 +2508,7 @@
         },
         {
             "id": "gym2-1",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Arcanine",
             "nomePt": "Arcanine do Blaine",
             "collectionId": "gym2",
@@ -2526,7 +2526,7 @@
         },
         {
             "id": "gym2-10",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Ditto",
             "nomePt": "Ditto do Koga",
             "collectionId": "gym2",
@@ -2544,7 +2544,7 @@
         },
         {
             "id": "gym2-102",
-            "language": "E",
+            "language": "en",
             "name": "Chaos Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2558,7 +2558,7 @@
         },
         {
             "id": "gym2-109",
-            "language": "E",
+            "language": "en",
             "name": "Resistance Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2572,7 +2572,7 @@
         },
         {
             "id": "gym2-11",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Raichu",
             "nomePt": "Raichu do Cap. Surge",
             "collectionId": "gym2",
@@ -2590,7 +2590,7 @@
         },
         {
             "id": "gym2-113",
-            "language": "E",
+            "language": "en",
             "name": "Cinnabar City Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2604,7 +2604,7 @@
         },
         {
             "id": "gym2-114",
-            "language": "E",
+            "language": "en",
             "name": "Fuchsia City Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2618,7 +2618,7 @@
         },
         {
             "id": "gym2-119",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Minefield Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2632,7 +2632,7 @@
         },
         {
             "id": "gym2-12",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Golduck",
             "nomePt": "Golduck da Misty",
             "collectionId": "gym2",
@@ -2650,7 +2650,7 @@
         },
         {
             "id": "gym2-122",
-            "language": "E",
+            "language": "en",
             "name": "Saffron City Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2664,7 +2664,7 @@
         },
         {
             "id": "gym2-123",
-            "language": "E",
+            "language": "en",
             "name": "Viridian City Gym",
             "collectionId": "gym2",
             "supertypeId": 2,
@@ -2678,7 +2678,7 @@
         },
         {
             "id": "gym2-127",
-            "language": "E",
+            "language": "en",
             "name": "Fighting Energy",
             "nomePt": "Energia de Luta",
             "collectionId": "gym2",
@@ -2693,7 +2693,7 @@
         },
         {
             "id": "gym2-128",
-            "language": "E",
+            "language": "en",
             "name": "Fire Energy",
             "nomePt": "Energia de Fogo",
             "collectionId": "gym2",
@@ -2708,7 +2708,7 @@
         },
         {
             "id": "gym2-129",
-            "language": "E",
+            "language": "en",
             "name": "Grass Energy",
             "nomePt": "Energia de Grama",
             "collectionId": "gym2",
@@ -2723,7 +2723,7 @@
         },
         {
             "id": "gym2-13",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Gyarados",
             "nomePt": "Gyarados da Misty",
             "collectionId": "gym2",
@@ -2741,7 +2741,7 @@
         },
         {
             "id": "gym2-130",
-            "language": "E",
+            "language": "en",
             "name": "Lightning Energy",
             "nomePt": "Energia de Raio",
             "collectionId": "gym2",
@@ -2756,7 +2756,7 @@
         },
         {
             "id": "gym2-131",
-            "language": "E",
+            "language": "en",
             "name": "Psychic Energy",
             "nomePt": "Energia Psiquica",
             "collectionId": "gym2",
@@ -2771,7 +2771,7 @@
         },
         {
             "id": "gym2-132",
-            "language": "E",
+            "language": "en",
             "name": "Water Energy",
             "nomePt": "Energia de Agua",
             "collectionId": "gym2",
@@ -2786,7 +2786,7 @@
         },
         {
             "id": "gym2-14",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Mewtwo",
             "collectionId": "gym2",
             "supertypeId": 1,
@@ -2803,7 +2803,7 @@
         },
         {
             "id": "gym2-15",
-            "language": "E",
+            "language": "en",
             "name": "Rocket's Zapdos",
             "nomePt": "Zapdos da Equipe Rocket",
             "collectionId": "gym2",
@@ -2821,7 +2821,7 @@
         },
         {
             "id": "gym2-16",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Alakazam",
             "nomePt": "Alakazam da Sabrina",
             "collectionId": "gym2",
@@ -2839,7 +2839,7 @@
         },
         {
             "id": "gym2-2",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Charizard",
             "nomePt": "Charizard do Blaine",
             "collectionId": "gym2",
@@ -2857,7 +2857,7 @@
         },
         {
             "id": "gym2-21",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Ninetales",
             "nomePt": "Ninetales do Blaine",
             "collectionId": "gym2",
@@ -2875,7 +2875,7 @@
         },
         {
             "id": "gym2-22",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Dugtrio",
             "nomePt": "Dugtrio do Brock",
             "collectionId": "gym2",
@@ -2893,7 +2893,7 @@
         },
         {
             "id": "gym2-23",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Nidoqueen",
             "nomePt": "Nidoqueen do Giovanni",
             "collectionId": "gym2",
@@ -2911,7 +2911,7 @@
         },
         {
             "id": "gym2-24",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Pinsir",
             "nomePt": "Pinsir do Giovanni",
             "collectionId": "gym2",
@@ -2929,7 +2929,7 @@
         },
         {
             "id": "gym2-25",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Arbok",
             "nomePt": "Arbok do Koga",
             "collectionId": "gym2",
@@ -2947,7 +2947,7 @@
         },
         {
             "id": "gym2-26",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Muk",
             "nomePt": "Muk do Koga",
             "collectionId": "gym2",
@@ -2965,7 +2965,7 @@
         },
         {
             "id": "gym2-27",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Pidgeotto",
             "nomePt": "Pidgeotto do Koga",
             "collectionId": "gym2",
@@ -2983,7 +2983,7 @@
         },
         {
             "id": "gym2-28",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Jolteon",
             "nomePt": "Jolteon do Cap. Surge",
             "collectionId": "gym2",
@@ -3001,7 +3001,7 @@
         },
         {
             "id": "gym2-29",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Gengar",
             "nomePt": "Gengar da Sabrina",
             "collectionId": "gym2",
@@ -3019,7 +3019,7 @@
         },
         {
             "id": "gym2-3",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Ninetales",
             "nomePt": "Ninetales do Brock",
             "collectionId": "gym2",
@@ -3037,7 +3037,7 @@
         },
         {
             "id": "gym2-30",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Golduck",
             "nomePt": "Golduck da Sabrina",
             "collectionId": "gym2",
@@ -3055,7 +3055,7 @@
         },
         {
             "id": "gym2-31",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Charmeleon",
             "nomePt": "Charmeleon do Blaine",
             "collectionId": "gym2",
@@ -3073,7 +3073,7 @@
         },
         {
             "id": "gym2-32",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Dodrio",
             "nomePt": "Dodrio do Blaine",
             "collectionId": "gym2",
@@ -3091,7 +3091,7 @@
         },
         {
             "id": "gym2-33",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Rapidash",
             "nomePt": "Rapidash do Blaine",
             "collectionId": "gym2",
@@ -3109,7 +3109,7 @@
         },
         {
             "id": "gym2-34",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Graveler",
             "nomePt": "Graveler do Brock",
             "collectionId": "gym2",
@@ -3127,7 +3127,7 @@
         },
         {
             "id": "gym2-35",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Primeape",
             "nomePt": "Primeape do Brock",
             "collectionId": "gym2",
@@ -3145,7 +3145,7 @@
         },
         {
             "id": "gym2-36",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Sandslash",
             "nomePt": "Sandslash do Brock",
             "collectionId": "gym2",
@@ -3163,7 +3163,7 @@
         },
         {
             "id": "gym2-37",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Vulpix",
             "nomePt": "Vulpix do Brock",
             "collectionId": "gym2",
@@ -3181,7 +3181,7 @@
         },
         {
             "id": "gym2-38",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Bellsprout",
             "nomePt": "Bellsprout da Erika",
             "collectionId": "gym2",
@@ -3199,7 +3199,7 @@
         },
         {
             "id": "gym2-39",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Bulbasaur",
             "nomePt": "Bulbasaur da Erika",
             "collectionId": "gym2",
@@ -3217,7 +3217,7 @@
         },
         {
             "id": "gym2-4",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Venusaur",
             "nomePt": "Venusaur da Erika",
             "collectionId": "gym2",
@@ -3235,7 +3235,7 @@
         },
         {
             "id": "gym2-40",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Clefairy",
             "nomePt": "Clefairy da Erika",
             "collectionId": "gym2",
@@ -3253,7 +3253,7 @@
         },
         {
             "id": "gym2-41",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Ivysaur",
             "nomePt": "Ivysaur da Erika",
             "collectionId": "gym2",
@@ -3271,7 +3271,7 @@
         },
         {
             "id": "gym2-42",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Machoke",
             "nomePt": "Machoke do Giovanni",
             "collectionId": "gym2",
@@ -3289,7 +3289,7 @@
         },
         {
             "id": "gym2-43",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Meowth",
             "nomePt": "Meowth do Giovanni",
             "collectionId": "gym2",
@@ -3307,7 +3307,7 @@
         },
         {
             "id": "gym2-44",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Nidorina",
             "nomePt": "Nidorina do Giovanni",
             "collectionId": "gym2",
@@ -3325,7 +3325,7 @@
         },
         {
             "id": "gym2-45",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Nidorino",
             "nomePt": "Nidorino do Giovanni",
             "collectionId": "gym2",
@@ -3343,7 +3343,7 @@
         },
         {
             "id": "gym2-46",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Golbat",
             "nomePt": "Golbat do Koga",
             "collectionId": "gym2",
@@ -3361,7 +3361,7 @@
         },
         {
             "id": "gym2-47",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Kakuna",
             "nomePt": "Kakuna do Koga",
             "collectionId": "gym2",
@@ -3379,7 +3379,7 @@
         },
         {
             "id": "gym2-48",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Koffing",
             "nomePt": "Koffing do Koga",
             "collectionId": "gym2",
@@ -3397,7 +3397,7 @@
         },
         {
             "id": "gym2-49",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Pidgey",
             "nomePt": "Pidgey do Koga",
             "collectionId": "gym2",
@@ -3415,7 +3415,7 @@
         },
         {
             "id": "gym2-5",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Gyarados",
             "nomePt": "Gyarados do Giovanni",
             "collectionId": "gym2",
@@ -3433,7 +3433,7 @@
         },
         {
             "id": "gym2-50",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Weezing",
             "nomePt": "Weezing do Koga",
             "collectionId": "gym2",
@@ -3451,7 +3451,7 @@
         },
         {
             "id": "gym2-51",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Eevee",
             "nomePt": "Eevee do Cap. Surge",
             "collectionId": "gym2",
@@ -3469,7 +3469,7 @@
         },
         {
             "id": "gym2-52",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Electrode",
             "nomePt": "Electrode do Cap. Surge",
             "collectionId": "gym2",
@@ -3487,7 +3487,7 @@
         },
         {
             "id": "gym2-53",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Raticate",
             "nomePt": "Raticate do Cap. Surge",
             "collectionId": "gym2",
@@ -3505,7 +3505,7 @@
         },
         {
             "id": "gym2-54",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Dewgong",
             "nomePt": "Dewgong da Misty",
             "collectionId": "gym2",
@@ -3523,7 +3523,7 @@
         },
         {
             "id": "gym2-55",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Haunter",
             "nomePt": "Haunter da Sabrina",
             "collectionId": "gym2",
@@ -3541,7 +3541,7 @@
         },
         {
             "id": "gym2-56",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Hypno",
             "nomePt": "Hypno da Sabrina",
             "collectionId": "gym2",
@@ -3559,7 +3559,7 @@
         },
         {
             "id": "gym2-57",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Jynx",
             "nomePt": "Jynx da Sabrina",
             "collectionId": "gym2",
@@ -3577,7 +3577,7 @@
         },
         {
             "id": "gym2-58",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Kadabra",
             "nomePt": "Kadabra da Sabrina",
             "collectionId": "gym2",
@@ -3595,7 +3595,7 @@
         },
         {
             "id": "gym2-59",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Mr. Mime",
             "nomePt": "Mr. Mime da Sabrina",
             "collectionId": "gym2",
@@ -3613,7 +3613,7 @@
         },
         {
             "id": "gym2-6",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Machamp",
             "nomePt": "Machamp do Giovanni",
             "collectionId": "gym2",
@@ -3631,7 +3631,7 @@
         },
         {
             "id": "gym2-60",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Charmander",
             "nomePt": "Charmander do Blaine",
             "collectionId": "gym2",
@@ -3649,7 +3649,7 @@
         },
         {
             "id": "gym2-61",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Doduo",
             "nomePt": "Doduo do Blaine",
             "collectionId": "gym2",
@@ -3667,7 +3667,7 @@
         },
         {
             "id": "gym2-62",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Growlithe",
             "nomePt": "Growlithe do Blaine",
             "collectionId": "gym2",
@@ -3685,7 +3685,7 @@
         },
         {
             "id": "gym2-63",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Mankey",
             "nomePt": "Mankey do Blaine",
             "collectionId": "gym2",
@@ -3703,7 +3703,7 @@
         },
         {
             "id": "gym2-64",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Ponyta",
             "nomePt": "Ponyta do Blaine",
             "collectionId": "gym2",
@@ -3721,7 +3721,7 @@
         },
         {
             "id": "gym2-65",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Rhyhorn",
             "nomePt": "Rhyhorn do Blaine",
             "collectionId": "gym2",
@@ -3739,7 +3739,7 @@
         },
         {
             "id": "gym2-66",
-            "language": "E",
+            "language": "en",
             "name": "Blaine's Vulpix",
             "nomePt": "Vulpix do Blaine",
             "collectionId": "gym2",
@@ -3757,7 +3757,7 @@
         },
         {
             "id": "gym2-67",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Diglett",
             "nomePt": "Diglett do Brock",
             "collectionId": "gym2",
@@ -3775,7 +3775,7 @@
         },
         {
             "id": "gym2-68",
-            "language": "E",
+            "language": "en",
             "name": "Brock's Geodude",
             "nomePt": "Geodude do Brock",
             "collectionId": "gym2",
@@ -3793,7 +3793,7 @@
         },
         {
             "id": "gym2-69",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Jigglypuff",
             "nomePt": "Jigglypuff da Erika",
             "collectionId": "gym2",
@@ -3811,7 +3811,7 @@
         },
         {
             "id": "gym2-7",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Nidoking",
             "nomePt": "Nidoking do Giovanni",
             "collectionId": "gym2",
@@ -3829,7 +3829,7 @@
         },
         {
             "id": "gym2-70",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Oddish",
             "nomePt": "Oddish da Erika",
             "collectionId": "gym2",
@@ -3847,7 +3847,7 @@
         },
         {
             "id": "gym2-71",
-            "language": "E",
+            "language": "en",
             "name": "Erika's Paras",
             "nomePt": "Paras da Erika",
             "collectionId": "gym2",
@@ -3865,7 +3865,7 @@
         },
         {
             "id": "gym2-72",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Machop",
             "nomePt": "Machop do Giovanni",
             "collectionId": "gym2",
@@ -3883,7 +3883,7 @@
         },
         {
             "id": "gym2-73",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Magikarp",
             "nomePt": "Magikarp do Giovanni",
             "collectionId": "gym2",
@@ -3901,7 +3901,7 @@
         },
         {
             "id": "gym2-74",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Meowth",
             "nomePt": "Meowth do Giovanni",
             "collectionId": "gym2",
@@ -3919,7 +3919,7 @@
         },
         {
             "id": "gym2-75",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Nidoran ♀",
             "collectionId": "gym2",
             "supertypeId": 1,
@@ -3937,7 +3937,7 @@
         },
         {
             "id": "gym2-76",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Nidoran ♂",
             "collectionId": "gym2",
             "supertypeId": 1,
@@ -3955,7 +3955,7 @@
         },
         {
             "id": "gym2-77",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Ekans",
             "nomePt": "Ekans do Koga",
             "collectionId": "gym2",
@@ -3973,7 +3973,7 @@
         },
         {
             "id": "gym2-78",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Grimer",
             "nomePt": "Grimer do Koga",
             "collectionId": "gym2",
@@ -3991,7 +3991,7 @@
         },
         {
             "id": "gym2-79",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Koffing",
             "nomePt": "Koffing do Koga",
             "collectionId": "gym2",
@@ -4009,7 +4009,7 @@
         },
         {
             "id": "gym2-8",
-            "language": "E",
+            "language": "en",
             "name": "Giovanni's Persian",
             "nomePt": "Persian do Giovanni",
             "collectionId": "gym2",
@@ -4027,7 +4027,7 @@
         },
         {
             "id": "gym2-80",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Pidgey",
             "nomePt": "Pidgey do Koga",
             "collectionId": "gym2",
@@ -4045,7 +4045,7 @@
         },
         {
             "id": "gym2-81",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Tangela",
             "nomePt": "Tangela do Koga",
             "collectionId": "gym2",
@@ -4063,7 +4063,7 @@
         },
         {
             "id": "gym2-82",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Weedle",
             "nomePt": "Weedle do Koga",
             "collectionId": "gym2",
@@ -4081,7 +4081,7 @@
         },
         {
             "id": "gym2-83",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Zubat",
             "nomePt": "Zubat do Koga",
             "collectionId": "gym2",
@@ -4098,7 +4098,7 @@
         },
         {
             "id": "gym2-84",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Pikachu",
             "nomePt": "Pikachu do Cap. Surge",
             "collectionId": "gym2",
@@ -4115,7 +4115,7 @@
         },
         {
             "id": "gym2-85",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Rattata",
             "nomePt": "Rattata do Cap. Surge",
             "collectionId": "gym2",
@@ -4132,7 +4132,7 @@
         },
         {
             "id": "gym2-86",
-            "language": "E",
+            "language": "en",
             "name": "Lt. Surge's Voltorb",
             "nomePt": "Voltorb do Cap. Surge",
             "collectionId": "gym2",
@@ -4150,7 +4150,7 @@
         },
         {
             "id": "gym2-87",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Horsea",
             "nomePt": "Horsea da Misty",
             "collectionId": "gym2",
@@ -4167,7 +4167,7 @@
         },
         {
             "id": "gym2-88",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Magikarp",
             "nomePt": "Magikarp da Misty",
             "collectionId": "gym2",
@@ -4184,7 +4184,7 @@
         },
         {
             "id": "gym2-89",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Poliwag",
             "nomePt": "Poliwag da Misty",
             "collectionId": "gym2",
@@ -4201,7 +4201,7 @@
         },
         {
             "id": "gym2-9",
-            "language": "E",
+            "language": "en",
             "name": "Koga's Beedrill",
             "nomePt": "Beedrill do Koga",
             "collectionId": "gym2",
@@ -4218,7 +4218,7 @@
         },
         {
             "id": "gym2-90",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Psyduck",
             "nomePt": "Psyduck da Misty",
             "collectionId": "gym2",
@@ -4235,7 +4235,7 @@
         },
         {
             "id": "gym2-91",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Seel",
             "nomePt": "Seel da Misty",
             "collectionId": "gym2",
@@ -4252,7 +4252,7 @@
         },
         {
             "id": "gym2-92",
-            "language": "E",
+            "language": "en",
             "name": "Misty's Staryu",
             "nomePt": "Staryu da Misty",
             "collectionId": "gym2",
@@ -4269,7 +4269,7 @@
         },
         {
             "id": "gym2-93",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Abra",
             "nomePt": "Abra da Sabrina",
             "collectionId": "gym2",
@@ -4286,7 +4286,7 @@
         },
         {
             "id": "gym2-94",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Abra",
             "nomePt": "Abra da Sabrina",
             "collectionId": "gym2",
@@ -4303,7 +4303,7 @@
         },
         {
             "id": "gym2-95",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Drowzee",
             "nomePt": "Drowzee da Sabrina",
             "collectionId": "gym2",
@@ -4321,7 +4321,7 @@
         },
         {
             "id": "gym2-96",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Gastly",
             "nomePt": "Gastly da Sabrina",
             "collectionId": "gym2",
@@ -4338,7 +4338,7 @@
         },
         {
             "id": "gym2-97",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Gastly",
             "nomePt": "Gastly da Sabrina",
             "collectionId": "gym2",
@@ -4355,7 +4355,7 @@
         },
         {
             "id": "gym2-98",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Porygon",
             "nomePt": "Porygon da Sabrina",
             "collectionId": "gym2",
@@ -4372,7 +4372,7 @@
         },
         {
             "id": "gym2-99",
-            "language": "E",
+            "language": "en",
             "name": "Sabrina's Psyduck",
             "nomePt": "Psyduck da Sabrina",
             "collectionId": "gym2",

@@ -2,7 +2,7 @@
     "data": [
         {
             "id": "np-1",
-            "language": "E",
+            "language": "en",
             "name": "Kyogre ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -19,7 +19,7 @@
         },
         {
             "id": "np-10",
-            "language": "E",
+            "language": "en",
             "name": "Mudkip",
             "collectionId": "np",
             "supertypeId": 1,
@@ -36,7 +36,7 @@
         },
         {
             "id": "np-11",
-            "language": "E",
+            "language": "en",
             "name": "Marshtomp",
             "collectionId": "np",
             "supertypeId": 1,
@@ -53,7 +53,7 @@
         },
         {
             "id": "np-12",
-            "language": "E",
+            "language": "en",
             "name": "Pikachu",
             "collectionId": "np",
             "supertypeId": 1,
@@ -70,7 +70,7 @@
         },
         {
             "id": "np-13",
-            "language": "E",
+            "language": "en",
             "name": "Meowth",
             "collectionId": "np",
             "supertypeId": 1,
@@ -87,7 +87,7 @@
         },
         {
             "id": "np-14",
-            "language": "E",
+            "language": "en",
             "name": "Latias",
             "collectionId": "np",
             "supertypeId": 1,
@@ -104,7 +104,7 @@
         },
         {
             "id": "np-15",
-            "language": "E",
+            "language": "en",
             "name": "Latios",
             "collectionId": "np",
             "supertypeId": 1,
@@ -121,7 +121,7 @@
         },
         {
             "id": "np-16",
-            "language": "E",
+            "language": "en",
             "name": "Treecko",
             "collectionId": "np",
             "supertypeId": 1,
@@ -138,7 +138,7 @@
         },
         {
             "id": "np-17",
-            "language": "E",
+            "language": "en",
             "name": "Torchic",
             "collectionId": "np",
             "supertypeId": 1,
@@ -155,7 +155,7 @@
         },
         {
             "id": "np-18",
-            "language": "E",
+            "language": "en",
             "name": "Mudkip",
             "collectionId": "np",
             "supertypeId": 1,
@@ -172,7 +172,7 @@
         },
         {
             "id": "np-19",
-            "language": "E",
+            "language": "en",
             "name": "Whismur",
             "collectionId": "np",
             "supertypeId": 1,
@@ -189,7 +189,7 @@
         },
         {
             "id": "np-2",
-            "language": "E",
+            "language": "en",
             "name": "Groudon ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -206,7 +206,7 @@
         },
         {
             "id": "np-20",
-            "language": "E",
+            "language": "en",
             "name": "Ludicolo",
             "collectionId": "np",
             "supertypeId": 1,
@@ -223,7 +223,7 @@
         },
         {
             "id": "np-21",
-            "language": "E",
+            "language": "en",
             "name": "Jirachi",
             "collectionId": "np",
             "supertypeId": 1,
@@ -240,7 +240,7 @@
         },
         {
             "id": "np-22",
-            "language": "E",
+            "language": "en",
             "name": "Beldum",
             "collectionId": "np",
             "supertypeId": 1,
@@ -257,7 +257,7 @@
         },
         {
             "id": "np-23",
-            "language": "E",
+            "language": "en",
             "name": "Metang",
             "collectionId": "np",
             "supertypeId": 1,
@@ -274,7 +274,7 @@
         },
         {
             "id": "np-24",
-            "language": "E",
+            "language": "en",
             "name": "Chimecho",
             "collectionId": "np",
             "supertypeId": 1,
@@ -291,7 +291,7 @@
         },
         {
             "id": "np-25",
-            "language": "E",
+            "language": "en",
             "name": "Flygon",
             "collectionId": "np",
             "supertypeId": 1,
@@ -308,7 +308,7 @@
         },
         {
             "id": "np-26",
-            "language": "E",
+            "language": "en",
             "name": "Tropical Wind",
             "collectionId": "np",
             "supertypeId": 2,
@@ -322,7 +322,7 @@
         },
         {
             "id": "np-27",
-            "language": "E",
+            "language": "en",
             "name": "Tropical Tidal Wave",
             "collectionId": "np",
             "supertypeId": 2,
@@ -336,7 +336,7 @@
         },
         {
             "id": "np-28",
-            "language": "E",
+            "language": "en",
             "name": "Championship Arena",
             "collectionId": "np",
             "supertypeId": 2,
@@ -350,7 +350,7 @@
         },
         {
             "id": "np-29",
-            "language": "E",
+            "language": "en",
             "name": "Celebi",
             "collectionId": "np",
             "supertypeId": 1,
@@ -367,7 +367,7 @@
         },
         {
             "id": "np-3",
-            "language": "E",
+            "language": "en",
             "name": "Treecko",
             "collectionId": "np",
             "supertypeId": 1,
@@ -384,7 +384,7 @@
         },
         {
             "id": "np-30",
-            "language": "E",
+            "language": "en",
             "name": "Suicune",
             "collectionId": "np",
             "supertypeId": 1,
@@ -401,7 +401,7 @@
         },
         {
             "id": "np-31",
-            "language": "E",
+            "language": "en",
             "name": "Moltres ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -418,7 +418,7 @@
         },
         {
             "id": "np-32",
-            "language": "E",
+            "language": "en",
             "name": "Articuno ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -435,7 +435,7 @@
         },
         {
             "id": "np-33",
-            "language": "E",
+            "language": "en",
             "name": "Zapdos ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -452,7 +452,7 @@
         },
         {
             "id": "np-34",
-            "language": "E",
+            "language": "en",
             "name": "Typhlosion",
             "collectionId": "np",
             "supertypeId": 1,
@@ -469,7 +469,7 @@
         },
         {
             "id": "np-35",
-            "language": "E",
+            "language": "en",
             "name": "Pikachu",
             "collectionId": "np",
             "supertypeId": 1,
@@ -487,7 +487,7 @@
         },
         {
             "id": "np-36",
-            "language": "E",
+            "language": "en",
             "name": "Tropical Tidal Wave",
             "collectionId": "np",
             "supertypeId": 2,
@@ -501,7 +501,7 @@
         },
         {
             "id": "np-37",
-            "language": "E",
+            "language": "en",
             "name": "Kyogre ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -518,7 +518,7 @@
         },
         {
             "id": "np-38",
-            "language": "E",
+            "language": "en",
             "name": "Groudon ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -535,7 +535,7 @@
         },
         {
             "id": "np-39",
-            "language": "E",
+            "language": "en",
             "name": "Rayquaza ex",
             "collectionId": "np",
             "supertypeId": 1,
@@ -552,7 +552,7 @@
         },
         {
             "id": "np-4",
-            "language": "E",
+            "language": "en",
             "name": "Grovyle",
             "collectionId": "np",
             "supertypeId": 1,
@@ -569,7 +569,7 @@
         },
         {
             "id": "np-40",
-            "language": "E",
+            "language": "en",
             "name": "Mew",
             "collectionId": "np",
             "supertypeId": 1,
@@ -586,7 +586,7 @@
         },
         {
             "id": "np-5",
-            "language": "E",
+            "language": "en",
             "name": "Mudkip",
             "collectionId": "np",
             "supertypeId": 1,
@@ -603,7 +603,7 @@
         },
         {
             "id": "np-6",
-            "language": "E",
+            "language": "en",
             "name": "Torchic",
             "collectionId": "np",
             "supertypeId": 1,
@@ -620,7 +620,7 @@
         },
         {
             "id": "np-7",
-            "language": "E",
+            "language": "en",
             "name": "Treecko",
             "collectionId": "np",
             "supertypeId": 1,
@@ -637,7 +637,7 @@
         },
         {
             "id": "np-8",
-            "language": "E",
+            "language": "en",
             "name": "Torchic",
             "collectionId": "np",
             "supertypeId": 1,
@@ -654,7 +654,7 @@
         },
         {
             "id": "np-9",
-            "language": "E",
+            "language": "en",
             "name": "Combusken",
             "collectionId": "np",
             "supertypeId": 1,
