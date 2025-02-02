@@ -8,6 +8,7 @@
             "printedTotal": 7.0,
             "total": 7.0,
             "releaseDate": "1996/10/01",
+            "numeroLiga": "7",
             "number": 461
         },
         {
@@ -18,6 +19,7 @@
             "printedTotal": 102.0,
             "total": 102.0,
             "releaseDate": "1996/10/20",
+            "numeroLiga": "102",
             "number": 446
         },
         {
@@ -28,6 +30,7 @@
             "printedTotal": 48.0,
             "total": 48.0,
             "releaseDate": "1997/03/05",
+            "numeroLiga": "48",
             "number": 445
         },
         {
@@ -38,6 +41,7 @@
             "printedTotal": 48.0,
             "total": 48.0,
             "releaseDate": "1997/06/21",
+            "numeroLiga": "48",
             "number": 444
         },
         {
@@ -48,6 +52,7 @@
             "printedTotal": 65.0,
             "total": 65.0,
             "releaseDate": "1997/11/21",
+            "numeroLiga": "65",
             "number": 443
         },
         {
@@ -86,6 +91,7 @@
             "printedTotal": 95.0,
             "total": 96.0,
             "releaseDate": "1998/10/24",
+            "numeroLiga": "95",
             "number": 441
         },
         {
@@ -140,6 +146,7 @@
             "printedTotal": 98.0,
             "total": 98.0,
             "releaseDate": "1999/06/25",
+            "numeroLiga": "98",
             "number": 440
         },
         {
@@ -166,6 +173,7 @@
             "printedTotal": 18.0,
             "total": 18.0,
             "releaseDate": "1999/07/17",
+            "numeroLiga": "18",
             "number": 473
         },
         {
@@ -176,6 +184,7 @@
             "printedTotal": 41.0,
             "total": 41.0,
             "releaseDate": "1999/07/30",
+            "numeroLiga": "41",
             "number": 438
         },
         {
@@ -186,6 +195,7 @@
             "printedTotal": 41.0,
             "total": 41.0,
             "releaseDate": "1999/07/30",
+            "numeroLiga": "41",
             "number": 439
         },
         {
@@ -213,6 +223,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "1999/12/10",
+            "numeroLiga": "9",
             "number": 514
         },
         {
@@ -223,6 +234,7 @@
             "printedTotal": 96.0,
             "total": 96.0,
             "releaseDate": "2000/02/04",
+            "numeroLiga": "96",
             "number": 437
         },
         {
@@ -267,6 +279,7 @@
             "printedTotal": 56.0,
             "total": 56.0,
             "releaseDate": "2000/07/07",
+            "numeroLiga": "56",
             "number": 436
         },
         {
@@ -277,6 +290,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2000/07/07",
+            "numeroLiga": "9",
             "number": 515
         },
         {
@@ -319,6 +333,7 @@
             "printedTotal": 57.0,
             "total": 57.0,
             "releaseDate": "2000/11/23",
+            "numeroLiga": "57",
             "number": 435
         },
         {
@@ -329,6 +344,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2000/11/23",
+            "numeroLiga": "9",
             "number": 516
         },
         {
@@ -355,6 +371,7 @@
             "printedTotal": 30.0,
             "total": 30.0,
             "releaseDate": "2001/04/06",
+            "numeroLiga": "30",
             "number": 432
         },
         {
@@ -365,6 +382,7 @@
             "printedTotal": 30.0,
             "total": 30.0,
             "releaseDate": "2001/04/06",
+            "numeroLiga": "30",
             "number": 433
         },
         {
@@ -375,6 +393,7 @@
             "printedTotal": 113.0,
             "total": 113.0,
             "releaseDate": "2001/04/20",
+            "numeroLiga": "113",
             "number": 434
         },
         {
@@ -401,6 +420,7 @@
             "printedTotal": 47.0,
             "total": 47.0,
             "releaseDate": "2001/07/01",
+            "numeroLiga": "47",
             "number": 460
         },
         {
@@ -413,6 +433,7 @@
             "printedTotal": 141.0,
             "total": 151.0,
             "releaseDate": "2001/07/19",
+            "numeroLiga": "141",
             "number": 431
         },
         {
@@ -438,6 +459,7 @@
             "printedTotal": 2.0,
             "total": 2.0,
             "releaseDate": "2001/08/01",
+            "numeroLiga": "2",
             "number": 459
         },
         {
@@ -466,6 +488,7 @@
             "printedTotal": 48.0,
             "total": 48.0,
             "releaseDate": "2001/10/20",
+            "numeroLiga": "48",
             "number": 430
         },
         {
@@ -476,6 +499,7 @@
             "printedTotal": 128.0,
             "total": 128.0,
             "releaseDate": "2001/12/01",
+            "numeroLiga": "128",
             "number": 429
         },
         {
@@ -486,6 +510,7 @@
             "printedTotal": 24.0,
             "total": 24.0,
             "releaseDate": "2002/01/01",
+            "numeroLiga": "24",
             "number": 458
         },
         {
@@ -496,6 +521,7 @@
             "printedTotal": -1.0,
             "total": 24.0,
             "releaseDate": "2002/01/26",
+            "numeroLiga": "-1",
             "number": 472
         },
         {
@@ -522,6 +548,7 @@
             "printedTotal": 92.0,
             "total": 92.0,
             "releaseDate": "2002/03/08",
+            "numeroLiga": "92",
             "number": 427
         },
         {
@@ -548,6 +575,7 @@
             "printedTotal": 87.0,
             "total": 90.0,
             "releaseDate": "2002/05/24",
+            "numeroLiga": "87",
             "number": 428
         },
         {
@@ -558,6 +586,7 @@
             "printedTotal": 88.0,
             "total": 91.0,
             "releaseDate": "2002/08/23",
+            "numeroLiga": "88",
             "number": 426
         },
         {
@@ -584,6 +613,7 @@
             "printedTotal": 88.0,
             "total": 91.0,
             "releaseDate": "2002/10/04",
+            "numeroLiga": "88",
             "number": 425
         },
         {
@@ -610,6 +640,7 @@
             "printedTotal": 63.0,
             "total": 63.0,
             "releaseDate": "2003/01/01",
+            "numeroLiga": "63",
             "number": 456
         },
         {
@@ -620,6 +651,7 @@
             "printedTotal": 32.0,
             "total": 32.0,
             "releaseDate": "2003/01/01",
+            "numeroLiga": "32",
             "number": 457
         },
         {
@@ -639,14 +671,14 @@
             "number": 17
         },
         {
-            "id": "adve",
-            "language": "en",
+            "id": "adve-j",
+            "language": "ja",
             "name": "ADV Expansion Pack",
-            "Image": "https://images.pokemontcg.io/adve/logo.png",
             "seriesId": 6.0,
             "printedTotal": 55.0,
             "total": 55.0,
             "releaseDate": "2003/01/31",
+            "numeroLiga": "55",
             "number": 424
         },
         {
@@ -657,6 +689,7 @@
             "printedTotal": 53.0,
             "total": 53.0,
             "releaseDate": "2003/04/18",
+            "numeroLiga": "53",
             "number": 423
         },
         {
@@ -683,6 +716,7 @@
             "printedTotal": 54.0,
             "total": 54.0,
             "releaseDate": "2003/06/25",
+            "numeroLiga": "54",
             "number": 422
         },
         {
@@ -742,6 +776,7 @@
             "printedTotal": 80.0,
             "total": 80.0,
             "releaseDate": "2003/10/24",
+            "numeroLiga": "80",
             "number": 421
         },
         {
@@ -768,6 +803,7 @@
             "printedTotal": 83.0,
             "total": 83.0,
             "releaseDate": "2004/01/16",
+            "numeroLiga": "83",
             "number": 420
         },
         {
@@ -778,6 +814,7 @@
             "printedTotal": 154.0,
             "total": 154.0,
             "releaseDate": "2004/02/01",
+            "numeroLiga": "154",
             "number": 455
         },
         {
@@ -804,6 +841,7 @@
             "printedTotal": 82.0,
             "total": 82.0,
             "releaseDate": "2004/04/09",
+            "numeroLiga": "82",
             "number": 419
         },
         {
@@ -858,6 +896,7 @@
             "printedTotal": 82.0,
             "total": 82.0,
             "releaseDate": "2004/07/01",
+            "numeroLiga": "82",
             "number": 418
         },
         {
@@ -868,6 +907,7 @@
             "printedTotal": 19.0,
             "total": 19.0,
             "releaseDate": "2004/07/17",
+            "numeroLiga": "19",
             "number": 468
         },
         {
@@ -909,6 +949,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2004/10/15",
+            "numeroLiga": "20",
             "number": 416
         },
         {
@@ -919,6 +960,7 @@
             "printedTotal": 84.0,
             "total": 85.0,
             "releaseDate": "2004/10/15",
+            "numeroLiga": "84",
             "number": 417
         },
         {
@@ -945,6 +987,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/01/16",
+            "numeroLiga": "15",
             "number": 501
         },
         {
@@ -955,6 +998,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/01/16",
+            "numeroLiga": "15",
             "number": 503
         },
         {
@@ -965,6 +1009,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/01/16",
+            "numeroLiga": "15",
             "number": 504
         },
         {
@@ -975,6 +1020,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/01/16",
+            "numeroLiga": "15",
             "number": 505
         },
         {
@@ -985,6 +1031,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/01/16",
+            "numeroLiga": "15",
             "number": 502
         },
         {
@@ -995,6 +1042,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/01/16",
+            "numeroLiga": "15",
             "number": 506
         },
         {
@@ -1024,6 +1072,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2005/03/18",
+            "numeroLiga": "9",
             "number": 470
         },
         {
@@ -1037,6 +1086,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2005/03/18",
+            "numeroLiga": "9",
             "number": 471
         },
         {
@@ -1047,6 +1097,7 @@
             "printedTotal": 106.0,
             "total": 106.0,
             "releaseDate": "2005/04/08",
+            "numeroLiga": "106",
             "number": 415
         },
         {
@@ -1073,6 +1124,7 @@
             "printedTotal": 86.0,
             "total": 86.0,
             "releaseDate": "2005/06/30",
+            "numeroLiga": "86",
             "number": 413
         },
         {
@@ -1083,6 +1135,7 @@
             "printedTotal": -1.0,
             "total": 16.0,
             "releaseDate": "2005/06/30",
+            "numeroLiga": "-1",
             "number": 414
         },
         {
@@ -1124,6 +1177,7 @@
             "printedTotal": 15.0,
             "total": 15.0,
             "releaseDate": "2005/09/30",
+            "numeroLiga": "15",
             "number": 412
         },
         {
@@ -1134,6 +1188,7 @@
             "printedTotal": 86.0,
             "total": 86.0,
             "releaseDate": "2005/10/28",
+            "numeroLiga": "86",
             "number": 411
         },
         {
@@ -1160,6 +1215,7 @@
             "printedTotal": 52.0,
             "total": 52.0,
             "releaseDate": "2006/01/27",
+            "numeroLiga": "52",
             "number": 410
         },
         {
@@ -1214,6 +1270,7 @@
             "printedTotal": 75.0,
             "total": 75.0,
             "releaseDate": "2006/03/10",
+            "numeroLiga": "75",
             "number": 409
         },
         {
@@ -1255,6 +1312,7 @@
             "printedTotal": 68.0,
             "total": 68.0,
             "releaseDate": "2006/06/29",
+            "numeroLiga": "68",
             "number": 408
         },
         {
@@ -1312,6 +1370,7 @@
             "printedTotal": 244.0,
             "total": 122.0,
             "releaseDate": "2006/11/30",
+            "numeroLiga": "244",
             "number": 407
         },
         {
@@ -1322,6 +1381,7 @@
             "printedTotal": 127.0,
             "total": 127.0,
             "releaseDate": "2006/12/01",
+            "numeroLiga": "127",
             "number": 454
         },
         {
@@ -1363,6 +1423,7 @@
             "printedTotal": 262.0,
             "total": 131.0,
             "releaseDate": "2007/03/02",
+            "numeroLiga": "262",
             "number": 406
         },
         {
@@ -1373,6 +1434,7 @@
             "printedTotal": 7.0,
             "total": 7.0,
             "releaseDate": "2007/05/01",
+            "numeroLiga": "7",
             "number": 453
         },
         {
@@ -1417,6 +1479,7 @@
             "printedTotal": 238.0,
             "total": 119.0,
             "releaseDate": "2007/07/05",
+            "numeroLiga": "238",
             "number": 404
         },
         {
@@ -1427,6 +1490,7 @@
             "printedTotal": 108.0,
             "total": 108.0,
             "releaseDate": "2007/07/05",
+            "numeroLiga": "108",
             "number": 405
         },
         {
@@ -1437,6 +1501,7 @@
             "printedTotal": 11.0,
             "total": 11.0,
             "releaseDate": "2007/07/14",
+            "numeroLiga": "11",
             "number": 467
         },
         {
@@ -1479,6 +1544,7 @@
             "printedTotal": 140.0,
             "total": 70.0,
             "releaseDate": "2007/10/26",
+            "numeroLiga": "140",
             "number": 403
         },
         {
@@ -1489,6 +1555,7 @@
             "printedTotal": 140.0,
             "total": 70.0,
             "releaseDate": "2007/10/26",
+            "numeroLiga": "140",
             "number": 402
         },
         {
@@ -1547,6 +1614,7 @@
             "printedTotal": 130.0,
             "total": 65.0,
             "releaseDate": "2008/03/14",
+            "numeroLiga": "130",
             "number": 401
         },
         {
@@ -1557,6 +1625,7 @@
             "printedTotal": 130.0,
             "total": 65.0,
             "releaseDate": "2008/03/14",
+            "numeroLiga": "130",
             "number": 400
         },
         {
@@ -1583,6 +1652,7 @@
             "printedTotal": 92.0,
             "total": 92.0,
             "releaseDate": "2008/07/10",
+            "numeroLiga": "92",
             "number": 399
         },
         {
@@ -1593,6 +1663,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2008/07/19",
+            "numeroLiga": "9",
             "number": 466
         },
         {
@@ -1634,6 +1705,7 @@
             "printedTotal": 51.0,
             "total": 51.0,
             "releaseDate": "2008/10/10",
+            "numeroLiga": "51",
             "number": 452
         },
         {
@@ -1644,6 +1716,7 @@
             "printedTotal": -1.0,
             "total": 96.0,
             "releaseDate": "2008/10/10",
+            "numeroLiga": "-1",
             "number": 398
         },
         {
@@ -1702,6 +1775,7 @@
             "printedTotal": 90.0,
             "total": 90.0,
             "releaseDate": "2008/12/26",
+            "numeroLiga": "90",
             "number": 391
         },
         {
@@ -1712,6 +1786,7 @@
             "printedTotal": 18.0,
             "total": 18.0,
             "releaseDate": "2008/12/29",
+            "numeroLiga": "18",
             "number": 393
         },
         {
@@ -1722,6 +1797,7 @@
             "printedTotal": 18.0,
             "total": 18.0,
             "releaseDate": "2008/12/29",
+            "numeroLiga": "18",
             "number": 392
         },
         {
@@ -1763,6 +1839,7 @@
             "printedTotal": 100.0,
             "total": 108.0,
             "releaseDate": "2009/03/06",
+            "numeroLiga": "100",
             "number": 390
         },
         {
@@ -1773,6 +1850,7 @@
             "printedTotal": 12.0,
             "total": 12.0,
             "releaseDate": "2009/04/18",
+            "numeroLiga": "12",
             "number": 387
         },
         {
@@ -1783,6 +1861,7 @@
             "printedTotal": 12.0,
             "total": 12.0,
             "releaseDate": "2009/04/18",
+            "numeroLiga": "12",
             "number": 389
         },
         {
@@ -1793,6 +1872,7 @@
             "printedTotal": 12.0,
             "total": 12.0,
             "releaseDate": "2009/04/18",
+            "numeroLiga": "12",
             "number": 388
         },
         {
@@ -1819,6 +1899,7 @@
             "printedTotal": 90.0,
             "total": 98.0,
             "releaseDate": "2009/07/08",
+            "numeroLiga": "90",
             "number": 384
         },
         {
@@ -1829,6 +1910,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2009/07/08",
+            "numeroLiga": "20",
             "number": 386
         },
         {
@@ -1839,6 +1921,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2009/07/08",
+            "numeroLiga": "20",
             "number": 385
         },
         {
@@ -1849,6 +1932,7 @@
             "printedTotal": 16.0,
             "total": 19.0,
             "releaseDate": "2009/07/10",
+            "numeroLiga": "16",
             "number": 469
         },
         {
@@ -1859,6 +1943,7 @@
             "printedTotal": 22.0,
             "total": 30.0,
             "releaseDate": "2009/07/18",
+            "numeroLiga": "22",
             "number": 465
         },
         {
@@ -1885,6 +1970,7 @@
             "printedTotal": 79.0,
             "total": 79.0,
             "releaseDate": "2009/09/01",
+            "numeroLiga": "79",
             "number": 451
         },
         {
@@ -1895,6 +1981,7 @@
             "printedTotal": 70.0,
             "total": 79.0,
             "releaseDate": "2009/10/09",
+            "numeroLiga": "70",
             "number": 382
         },
         {
@@ -1905,6 +1992,7 @@
             "printedTotal": 70.0,
             "total": 79.0,
             "releaseDate": "2009/10/09",
+            "numeroLiga": "70",
             "number": 383
         },
         {
@@ -1931,6 +2019,7 @@
             "printedTotal": 10.0,
             "total": 10.0,
             "releaseDate": "2009/11/20",
+            "numeroLiga": "10",
             "number": 381
         },
         {
@@ -1941,6 +2030,7 @@
             "printedTotal": 11.0,
             "total": 11.0,
             "releaseDate": "2009/11/20",
+            "numeroLiga": "11",
             "number": 380
         },
         {
@@ -1951,6 +2041,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2009/11/20",
+            "numeroLiga": "9",
             "number": 379
         },
         {
@@ -1961,6 +2052,7 @@
             "printedTotal": 10.0,
             "total": 10.0,
             "releaseDate": "2009/11/20",
+            "numeroLiga": "10",
             "number": 378
         },
         {
@@ -2018,6 +2110,7 @@
             "printedTotal": 80.0,
             "total": 81.0,
             "releaseDate": "2010/02/11",
+            "numeroLiga": "80",
             "number": 376
         },
         {
@@ -2028,6 +2121,7 @@
             "printedTotal": 19.0,
             "total": 19.0,
             "releaseDate": "2010/02/11",
+            "numeroLiga": "19",
             "number": 377
         },
         {
@@ -2038,6 +2132,7 @@
             "printedTotal": 40.0,
             "total": 40.0,
             "releaseDate": "2010/04/16",
+            "numeroLiga": "40",
             "number": 375
         },
         {
@@ -2065,6 +2160,7 @@
             "printedTotal": 80.0,
             "total": 81.0,
             "releaseDate": "2010/07/08",
+            "numeroLiga": "80",
             "number": 374
         },
         {
@@ -2092,6 +2188,7 @@
             "printedTotal": 9.0,
             "total": 9.0,
             "releaseDate": "2010/09/18",
+            "numeroLiga": "9",
             "number": 373
         },
         {
@@ -2143,6 +2240,7 @@
             "printedTotal": 53.0,
             "total": 56.0,
             "releaseDate": "2010/12/17",
+            "numeroLiga": "53",
             "number": 368
         },
         {
@@ -2153,6 +2251,7 @@
             "printedTotal": 53.0,
             "total": 56.0,
             "releaseDate": "2010/12/17",
+            "numeroLiga": "53",
             "number": 369
         },
         {
@@ -2215,6 +2314,7 @@
             "printedTotal": 236.0,
             "total": 236.0,
             "releaseDate": "2011/03/09",
+            "numeroLiga": "236",
             "number": 450
         },
         {
@@ -2225,6 +2325,7 @@
             "printedTotal": 14.0,
             "total": 17.0,
             "releaseDate": "2011/03/18",
+            "numeroLiga": "14",
             "number": 367
         },
         {
@@ -2235,6 +2336,7 @@
             "printedTotal": 14.0,
             "total": 17.0,
             "releaseDate": "2011/03/18",
+            "numeroLiga": "14",
             "number": 366
         },
         {
@@ -2245,6 +2347,7 @@
             "printedTotal": 14.0,
             "total": 16.0,
             "releaseDate": "2011/03/18",
+            "numeroLiga": "14",
             "number": 365
         },
         {
@@ -2286,6 +2389,7 @@
             "printedTotal": 21.0,
             "total": 27.0,
             "releaseDate": "2011/06/17",
+            "numeroLiga": "21",
             "number": 364
         },
         {
@@ -2296,6 +2400,7 @@
             "printedTotal": 66.0,
             "total": 72.0,
             "releaseDate": "2011/07/15",
+            "numeroLiga": "66",
             "number": 363
         },
         {
@@ -2347,6 +2452,7 @@
             "printedTotal": 52.0,
             "total": 57.0,
             "releaseDate": "2011/09/16",
+            "numeroLiga": "52",
             "number": 359
         },
         {
@@ -2357,6 +2463,7 @@
             "printedTotal": 52.0,
             "total": 57.0,
             "releaseDate": "2011/09/16",
+            "numeroLiga": "52",
             "number": 358
         },
         {
@@ -2367,6 +2474,7 @@
             "printedTotal": 18.0,
             "total": 20.0,
             "releaseDate": "2011/10/21",
+            "numeroLiga": "18",
             "number": 357
         },
         {
@@ -2377,6 +2485,7 @@
             "printedTotal": 18.0,
             "total": 20.0,
             "releaseDate": "2011/10/21",
+            "numeroLiga": "18",
             "number": 356
         },
         {
@@ -2404,6 +2513,7 @@
             "printedTotal": 20.0,
             "total": 26.0,
             "releaseDate": "2011/11/18",
+            "numeroLiga": "20",
             "number": 355
         },
         {
@@ -2438,6 +2548,7 @@
             "printedTotal": 69.0,
             "total": 76.0,
             "releaseDate": "2011/12/16",
+            "numeroLiga": "69",
             "number": 351
         },
         {
@@ -2448,6 +2559,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2012/01/27",
+            "numeroLiga": "20",
             "number": 350
         },
         {
@@ -2475,6 +2587,7 @@
             "printedTotal": 50.0,
             "total": 55.0,
             "releaseDate": "2012/03/16",
+            "numeroLiga": "50",
             "number": 346
         },
         {
@@ -2485,6 +2598,7 @@
             "printedTotal": 50.0,
             "total": 55.0,
             "releaseDate": "2012/03/16",
+            "numeroLiga": "50",
             "number": 347
         },
         {
@@ -2495,6 +2609,7 @@
             "printedTotal": 15.0,
             "total": 18.0,
             "releaseDate": "2012/03/16",
+            "numeroLiga": "15",
             "number": 349
         },
         {
@@ -2505,6 +2620,7 @@
             "printedTotal": 15.0,
             "total": 18.0,
             "releaseDate": "2012/03/16",
+            "numeroLiga": "15",
             "number": 348
         },
         {
@@ -2515,6 +2631,7 @@
             "printedTotal": 15.0,
             "total": 18.0,
             "releaseDate": "2012/04/20",
+            "numeroLiga": "15",
             "number": 345
         },
         {
@@ -2557,6 +2674,7 @@
             "printedTotal": 59.0,
             "total": 65.0,
             "releaseDate": "2012/07/13",
+            "numeroLiga": "59",
             "number": 343
         },
         {
@@ -2567,6 +2685,7 @@
             "printedTotal": 59.0,
             "total": 65.0,
             "releaseDate": "2012/07/13",
+            "numeroLiga": "59",
             "number": 344
         },
         {
@@ -2594,6 +2713,7 @@
             "printedTotal": 70.0,
             "total": 79.0,
             "releaseDate": "2012/09/14",
+            "numeroLiga": "70",
             "number": 341
         },
         {
@@ -2604,6 +2724,7 @@
             "printedTotal": 17.0,
             "total": 19.0,
             "releaseDate": "2012/09/14",
+            "numeroLiga": "17",
             "number": 342
         },
         {
@@ -2614,6 +2735,7 @@
             "printedTotal": 46.0,
             "total": 51.0,
             "releaseDate": "2012/09/14",
+            "numeroLiga": "46",
             "number": 340
         },
         {
@@ -2640,6 +2762,7 @@
             "printedTotal": 18.0,
             "total": 20.0,
             "releaseDate": "2012/10/19",
+            "numeroLiga": "18",
             "number": 339
         },
         {
@@ -2650,6 +2773,7 @@
             "printedTotal": 18.0,
             "total": 20.0,
             "releaseDate": "2012/10/19",
+            "numeroLiga": "18",
             "number": 338
         },
         {
@@ -2677,6 +2801,7 @@
             "printedTotal": 16.0,
             "total": 18.0,
             "releaseDate": "2012/11/16",
+            "numeroLiga": "16",
             "number": 337
         },
         {
@@ -2687,6 +2812,7 @@
             "printedTotal": -1.0,
             "total": 53.0,
             "releaseDate": "2012/11/16",
+            "numeroLiga": "-1",
             "number": 336
         },
         {
@@ -2697,6 +2823,7 @@
             "printedTotal": 51.0,
             "total": 58.0,
             "releaseDate": "2012/12/14",
+            "numeroLiga": "51",
             "number": 335
         },
         {
@@ -2707,6 +2834,7 @@
             "printedTotal": 51.0,
             "total": 58.0,
             "releaseDate": "2012/12/14",
+            "numeroLiga": "51",
             "number": 334
         },
         {
@@ -2717,6 +2845,7 @@
             "printedTotal": 20.0,
             "total": 25.0,
             "releaseDate": "2013/02/01",
+            "numeroLiga": "20",
             "number": 333
         },
         {
@@ -2744,6 +2873,7 @@
             "printedTotal": 76.0,
             "total": 86.0,
             "releaseDate": "2013/03/15",
+            "numeroLiga": "76",
             "number": 332
         },
         {
@@ -2754,6 +2884,7 @@
             "printedTotal": 18.0,
             "total": 19.0,
             "releaseDate": "2013/03/15",
+            "numeroLiga": "18",
             "number": 331
         },
         {
@@ -2781,6 +2912,7 @@
             "printedTotal": 16.0,
             "total": 17.0,
             "releaseDate": "2013/07/13",
+            "numeroLiga": "16",
             "number": 330
         },
         {
@@ -2791,6 +2923,7 @@
             "printedTotal": 16.0,
             "total": 17.0,
             "releaseDate": "2013/07/13",
+            "numeroLiga": "16",
             "number": 329
         },
         {
@@ -2801,6 +2934,7 @@
             "printedTotal": 93.0,
             "total": 99.0,
             "releaseDate": "2013/07/13",
+            "numeroLiga": "93",
             "number": 328
         },
         {
@@ -2811,6 +2945,7 @@
             "printedTotal": 298.0,
             "total": 298.0,
             "releaseDate": "2013/08/01",
+            "numeroLiga": "298",
             "number": 449
         },
         {
@@ -2889,6 +3024,7 @@
             "printedTotal": 39.0,
             "total": 39.0,
             "releaseDate": "2013/11/08",
+            "numeroLiga": "39",
             "number": 327
         },
         {
@@ -2915,6 +3051,7 @@
             "printedTotal": 60.0,
             "total": 63.0,
             "releaseDate": "2013/12/13",
+            "numeroLiga": "60",
             "number": 325
         },
         {
@@ -2925,6 +3062,7 @@
             "printedTotal": 60.0,
             "total": 63.0,
             "releaseDate": "2013/12/13",
+            "numeroLiga": "60",
             "number": 326
         },
         {
@@ -2935,6 +3073,7 @@
             "printedTotal": 14.0,
             "total": 15.0,
             "releaseDate": "2014/01/31",
+            "numeroLiga": "14",
             "number": 323
         },
         {
@@ -2945,6 +3084,7 @@
             "printedTotal": 14.0,
             "total": 15.0,
             "releaseDate": "2014/01/31",
+            "numeroLiga": "14",
             "number": 324
         },
         {
@@ -3003,6 +3143,7 @@
             "printedTotal": 80.0,
             "total": 90.0,
             "releaseDate": "2014/03/15",
+            "numeroLiga": "80",
             "number": 322
         },
         {
@@ -3013,6 +3154,7 @@
             "printedTotal": 21.0,
             "total": 23.0,
             "releaseDate": "2014/03/15",
+            "numeroLiga": "21",
             "number": 321
         },
         {
@@ -3055,6 +3197,7 @@
             "printedTotal": 96.0,
             "total": 105.0,
             "releaseDate": "2014/06/14",
+            "numeroLiga": "96",
             "number": 320
         },
         {
@@ -3082,6 +3225,7 @@
             "printedTotal": 88.0,
             "total": 97.0,
             "releaseDate": "2014/09/13",
+            "numeroLiga": "88",
             "number": 319
         },
         {
@@ -3092,6 +3236,7 @@
             "printedTotal": 18.0,
             "total": 20.0,
             "releaseDate": "2014/09/13",
+            "numeroLiga": "18",
             "number": 318
         },
         {
@@ -3149,6 +3294,7 @@
             "printedTotal": 70.0,
             "total": 80.0,
             "releaseDate": "2014/12/13",
+            "numeroLiga": "70",
             "number": 315
         },
         {
@@ -3159,6 +3305,7 @@
             "printedTotal": 70.0,
             "total": 80.0,
             "releaseDate": "2014/12/13",
+            "numeroLiga": "70",
             "number": 316
         },
         {
@@ -3169,6 +3316,7 @@
             "printedTotal": 34.0,
             "total": 34.0,
             "releaseDate": "2015/01/30",
+            "numeroLiga": "34",
             "number": 314
         },
         {
@@ -3196,6 +3344,7 @@
             "printedTotal": 23.0,
             "total": 25.0,
             "releaseDate": "2015/02/13",
+            "numeroLiga": "23",
             "number": 317
         },
         {
@@ -3206,6 +3355,7 @@
             "printedTotal": 78.0,
             "total": 91.0,
             "releaseDate": "2015/03/14",
+            "numeroLiga": "78",
             "number": 312
         },
         {
@@ -3216,6 +3366,7 @@
             "printedTotal": 18.0,
             "total": 20.0,
             "releaseDate": "2015/03/14",
+            "numeroLiga": "18",
             "number": 313
         },
         {
@@ -3292,6 +3443,7 @@
             "printedTotal": 81.0,
             "total": 97.0,
             "releaseDate": "2015/06/20",
+            "numeroLiga": "81",
             "number": 311
         },
         {
@@ -3302,6 +3454,7 @@
             "printedTotal": 27.0,
             "total": 27.0,
             "releaseDate": "2015/07/18",
+            "numeroLiga": "27",
             "number": 310
         },
         {
@@ -3312,6 +3465,7 @@
             "printedTotal": 22.0,
             "total": 26.0,
             "releaseDate": "2015/07/18",
+            "numeroLiga": "22",
             "number": 309
         },
         {
@@ -3322,6 +3476,7 @@
             "printedTotal": 49.0,
             "total": 49.0,
             "releaseDate": "2015/08/07",
+            "numeroLiga": "49",
             "number": 308
         },
         {
@@ -3332,6 +3487,7 @@
             "printedTotal": 49.0,
             "total": 49.0,
             "releaseDate": "2015/08/07",
+            "numeroLiga": "49",
             "number": 307
         },
         {
@@ -3359,6 +3515,7 @@
             "printedTotal": 10.0,
             "total": 10.0,
             "releaseDate": "2015/09/26",
+            "numeroLiga": "10",
             "number": 304
         },
         {
@@ -3369,6 +3526,7 @@
             "printedTotal": 10.0,
             "total": 10.0,
             "releaseDate": "2015/09/26",
+            "numeroLiga": "10",
             "number": 305
         },
         {
@@ -3379,6 +3537,7 @@
             "printedTotal": 59.0,
             "total": 65.0,
             "releaseDate": "2015/09/26",
+            "numeroLiga": "59",
             "number": 303
         },
         {
@@ -3389,6 +3548,7 @@
             "printedTotal": 59.0,
             "total": 65.0,
             "releaseDate": "2015/09/26",
+            "numeroLiga": "59",
             "number": 306
         },
         {
@@ -3399,6 +3559,7 @@
             "printedTotal": 16.0,
             "total": 17.0,
             "releaseDate": "2015/10/09",
+            "numeroLiga": "16",
             "number": 302
         },
         {
@@ -3441,6 +3602,7 @@
             "printedTotal": 80.0,
             "total": 89.0,
             "releaseDate": "2015/12/11",
+            "numeroLiga": "80",
             "number": 301
         },
         {
@@ -3451,6 +3613,7 @@
             "printedTotal": 32.0,
             "total": 32.0,
             "releaseDate": "2016/01/29",
+            "numeroLiga": "32",
             "number": 300
         },
         {
@@ -3514,6 +3677,7 @@
             "printedTotal": 72.0,
             "total": 77.0,
             "releaseDate": "2016/02/27",
+            "numeroLiga": "72",
             "number": 299
         },
         {
@@ -3524,6 +3688,7 @@
             "printedTotal": 78.0,
             "total": 88.0,
             "releaseDate": "2016/03/18",
+            "numeroLiga": "78",
             "number": 296
         },
         {
@@ -3534,6 +3699,7 @@
             "printedTotal": 19.0,
             "total": 20.0,
             "releaseDate": "2016/03/18",
+            "numeroLiga": "19",
             "number": 298
         },
         {
@@ -3544,6 +3710,7 @@
             "printedTotal": 26.0,
             "total": 27.0,
             "releaseDate": "2016/03/18",
+            "numeroLiga": "26",
             "number": 297
         },
         {
@@ -3554,6 +3721,7 @@
             "printedTotal": 131.0,
             "total": 140.0,
             "releaseDate": "2016/04/16",
+            "numeroLiga": "131",
             "number": 295
         },
         {
@@ -3615,6 +3783,7 @@
             "printedTotal": 54.0,
             "total": 59.0,
             "releaseDate": "2016/06/17",
+            "numeroLiga": "54",
             "number": 293
         },
         {
@@ -3625,6 +3794,7 @@
             "printedTotal": 54.0,
             "total": 59.0,
             "releaseDate": "2016/06/17",
+            "numeroLiga": "54",
             "number": 294
         },
         {
@@ -3635,6 +3805,7 @@
             "printedTotal": 36.0,
             "total": 38.0,
             "releaseDate": "2016/07/16",
+            "numeroLiga": "36",
             "number": 292
         },
         {
@@ -3677,6 +3848,7 @@
             "printedTotal": 87.0,
             "total": 103.0,
             "releaseDate": "2016/09/20",
+            "numeroLiga": "87",
             "number": 291
         },
         {
@@ -3704,6 +3876,7 @@
             "printedTotal": -1.0,
             "total": 4.0,
             "releaseDate": "2016/11/18",
+            "numeroLiga": "-1",
             "number": 290
         },
         {
@@ -3714,6 +3887,7 @@
             "printedTotal": 409.0,
             "total": 409.0,
             "releaseDate": "2016/11/18",
+            "numeroLiga": "409",
             "number": 448
         },
         {
@@ -3724,6 +3898,7 @@
             "printedTotal": 60.0,
             "total": 73.0,
             "releaseDate": "2016/12/09",
+            "numeroLiga": "60",
             "number": 286
         },
         {
@@ -3734,6 +3909,7 @@
             "printedTotal": 60.0,
             "total": 73.0,
             "releaseDate": "2016/12/09",
+            "numeroLiga": "60",
             "number": 287
         },
         {
@@ -3744,6 +3920,7 @@
             "printedTotal": 59.0,
             "total": 59.0,
             "releaseDate": "2016/12/09",
+            "numeroLiga": "59",
             "number": 289
         },
         {
@@ -3754,6 +3931,7 @@
             "printedTotal": 18.0,
             "total": 27.0,
             "releaseDate": "2016/12/09",
+            "numeroLiga": "18",
             "number": 288
         },
         {
@@ -3764,6 +3942,7 @@
             "printedTotal": 13.0,
             "total": 13.0,
             "releaseDate": "2016/12/15",
+            "numeroLiga": "13",
             "number": 285
         },
         {
@@ -3774,6 +3953,7 @@
             "printedTotal": 51.0,
             "total": 73.0,
             "releaseDate": "2017/01/27",
+            "numeroLiga": "51",
             "number": 284
         },
         {
@@ -3818,6 +3998,7 @@
             "printedTotal": 50.0,
             "total": 62.0,
             "releaseDate": "2017/03/17",
+            "numeroLiga": "50",
             "number": 282
         },
         {
@@ -3828,6 +4009,7 @@
             "printedTotal": 50.0,
             "total": 62.0,
             "releaseDate": "2017/03/17",
+            "numeroLiga": "50",
             "number": 281
         },
         {
@@ -3838,6 +4020,7 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2017/03/17",
+            "numeroLiga": "21",
             "number": 283
         },
         {
@@ -3848,6 +4031,7 @@
             "printedTotal": 49.0,
             "total": 70.0,
             "releaseDate": "2017/03/21",
+            "numeroLiga": "49",
             "number": 279
         },
         {
@@ -3858,6 +4042,7 @@
             "printedTotal": 26.0,
             "total": 30.0,
             "releaseDate": "2017/04/21",
+            "numeroLiga": "26",
             "number": 278
         },
         {
@@ -3868,6 +4053,7 @@
             "printedTotal": 171.0,
             "total": 188.0,
             "releaseDate": "2017/04/21",
+            "numeroLiga": "171",
             "number": 280
         },
         {
@@ -3923,6 +4109,7 @@
             "printedTotal": 51.0,
             "total": 64.0,
             "releaseDate": "2017/06/16",
+            "numeroLiga": "51",
             "number": 277
         },
         {
@@ -3933,6 +4120,7 @@
             "printedTotal": 51.0,
             "total": 64.0,
             "releaseDate": "2017/06/16",
+            "numeroLiga": "51",
             "number": 276
         },
         {
@@ -3943,6 +4131,7 @@
             "printedTotal": 72.0,
             "total": 82.0,
             "releaseDate": "2017/07/15",
+            "numeroLiga": "72",
             "number": 275
         },
         {
@@ -3970,6 +4159,7 @@
             "printedTotal": 50.0,
             "total": 62.0,
             "releaseDate": "2017/09/15",
+            "numeroLiga": "50",
             "number": 274
         },
         {
@@ -3980,6 +4170,7 @@
             "printedTotal": 50.0,
             "total": 62.0,
             "releaseDate": "2017/09/15",
+            "numeroLiga": "50",
             "number": 273
         },
         {
@@ -4007,6 +4198,7 @@
             "printedTotal": 114.0,
             "total": 125.0,
             "releaseDate": "2017/10/20",
+            "numeroLiga": "114",
             "number": 272
         },
         {
@@ -4049,6 +4241,7 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2017/11/10",
+            "numeroLiga": "21",
             "number": 271
         },
         {
@@ -4059,6 +4252,7 @@
             "printedTotal": 66.0,
             "total": 78.0,
             "releaseDate": "2017/12/08",
+            "numeroLiga": "66",
             "number": 268
         },
         {
@@ -4069,6 +4263,7 @@
             "printedTotal": 66.0,
             "total": 78.0,
             "releaseDate": "2017/12/08",
+            "numeroLiga": "66",
             "number": 269
         },
         {
@@ -4079,6 +4274,7 @@
             "printedTotal": 20.0,
             "total": 29.0,
             "releaseDate": "2017/12/08",
+            "numeroLiga": "20",
             "number": 270
         },
         {
@@ -4089,6 +4285,7 @@
             "printedTotal": 50.0,
             "total": 68.0,
             "releaseDate": "2018/01/19",
+            "numeroLiga": "50",
             "number": 267
         },
         {
@@ -4116,6 +4313,7 @@
             "printedTotal": 41.0,
             "total": 41.0,
             "releaseDate": "2018/02/16",
+            "numeroLiga": "41",
             "number": 266
         },
         {
@@ -4128,6 +4326,7 @@
             "printedTotal": 94.0,
             "total": 110.0,
             "releaseDate": "2018/03/02",
+            "numeroLiga": "94",
             "number": 265
         },
         {
@@ -4138,6 +4337,7 @@
             "printedTotal": 53.0,
             "total": 66.0,
             "releaseDate": "2018/04/06",
+            "numeroLiga": "53",
             "number": 264
         },
         {
@@ -4148,6 +4348,7 @@
             "printedTotal": 66.0,
             "total": 86.0,
             "releaseDate": "2018/05/03",
+            "numeroLiga": "66",
             "number": 263
         },
         {
@@ -4174,6 +4375,7 @@
             "printedTotal": 96.0,
             "total": 112.0,
             "releaseDate": "2018/06/01",
+            "numeroLiga": "96",
             "number": 262
         },
         {
@@ -4184,6 +4386,7 @@
             "printedTotal": 60.0,
             "total": 73.0,
             "releaseDate": "2018/07/06",
+            "numeroLiga": "60",
             "number": 261
         },
         {
@@ -4194,6 +4397,7 @@
             "printedTotal": 50.0,
             "total": 63.0,
             "releaseDate": "2018/08/03",
+            "numeroLiga": "50",
             "number": 259
         },
         {
@@ -4221,6 +4425,7 @@
             "printedTotal": 95.0,
             "total": 111.0,
             "releaseDate": "2018/09/07",
+            "numeroLiga": "95",
             "number": 258
         },
         {
@@ -4248,6 +4453,7 @@
             "printedTotal": 52.0,
             "total": 65.0,
             "releaseDate": "2018/10/05",
+            "numeroLiga": "52",
             "number": 257
         },
         {
@@ -4273,6 +4479,7 @@
             "printedTotal": 150.0,
             "total": 250.0,
             "releaseDate": "2018/11/02",
+            "numeroLiga": "150",
             "number": 256
         },
         {
@@ -4300,6 +4507,7 @@
             "printedTotal": 131.0,
             "total": 131.0,
             "releaseDate": "2018/11/23",
+            "numeroLiga": "131",
             "number": 260
         },
         {
@@ -4310,6 +4518,7 @@
             "printedTotal": 38.0,
             "total": 38.0,
             "releaseDate": "2018/11/23",
+            "numeroLiga": "38",
             "number": 255
         },
         {
@@ -4320,6 +4529,7 @@
             "printedTotal": 95.0,
             "total": 118.0,
             "releaseDate": "2018/12/07",
+            "numeroLiga": "95",
             "number": 253
         },
         {
@@ -4330,6 +4540,7 @@
             "printedTotal": 35.0,
             "total": 44.0,
             "releaseDate": "2018/12/07",
+            "numeroLiga": "35",
             "number": 254
         },
         {
@@ -4340,6 +4551,7 @@
             "printedTotal": 55.0,
             "total": 70.0,
             "releaseDate": "2019/01/11",
+            "numeroLiga": "55",
             "number": 252
         },
         {
@@ -4350,6 +4562,7 @@
             "printedTotal": 31.0,
             "total": 31.0,
             "releaseDate": "2019/01/25",
+            "numeroLiga": "31",
             "number": 251
         },
         {
@@ -4360,6 +4573,7 @@
             "printedTotal": 54.0,
             "total": 69.0,
             "releaseDate": "2019/02/01",
+            "numeroLiga": "54",
             "number": 250
         },
         {
@@ -4380,7 +4594,7 @@
             "number": 128
         },
         {
-            "id": "EN19",
+            "id": "en19",
             "language": "en",
             "name": "2019 Energies",
             "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
@@ -4399,6 +4613,7 @@
             "printedTotal": 95.0,
             "total": 116.0,
             "releaseDate": "2019/03/01",
+            "numeroLiga": "95",
             "number": 248
         },
         {
@@ -4409,6 +4624,7 @@
             "printedTotal": 29.0,
             "total": 29.0,
             "releaseDate": "2019/03/01",
+            "numeroLiga": "29",
             "number": 249
         },
         {
@@ -4419,6 +4635,7 @@
             "printedTotal": 51.0,
             "total": 51.0,
             "releaseDate": "2019/03/15",
+            "numeroLiga": "51",
             "number": 247
         },
         {
@@ -4446,6 +4663,7 @@
             "printedTotal": 54.0,
             "total": 69.0,
             "releaseDate": "2019/04/05",
+            "numeroLiga": "54",
             "number": 246
         },
         {
@@ -4456,6 +4674,7 @@
             "printedTotal": 54.0,
             "total": 69.0,
             "releaseDate": "2019/04/26",
+            "numeroLiga": "54",
             "number": 245
         },
         {
@@ -4468,6 +4687,7 @@
             "printedTotal": 24.0,
             "total": 25.0,
             "releaseDate": "2019/04/26",
+            "numeroLiga": "24",
             "number": 244
         },
         {
@@ -4497,6 +4717,7 @@
             "printedTotal": 94.0,
             "total": 115.0,
             "releaseDate": "2019/05/31",
+            "numeroLiga": "94",
             "number": 242
         },
         {
@@ -4507,6 +4728,7 @@
             "printedTotal": 31.0,
             "total": 31.0,
             "releaseDate": "2019/05/31",
+            "numeroLiga": "31",
             "number": 243
         },
         {
@@ -4519,6 +4741,7 @@
             "printedTotal": 64.0,
             "total": 80.0,
             "releaseDate": "2019/07/05",
+            "numeroLiga": "64",
             "number": 241
         },
         {
@@ -4548,6 +4771,7 @@
             "printedTotal": 49.0,
             "total": 75.0,
             "releaseDate": "2019/08/02",
+            "numeroLiga": "49",
             "number": 240
         },
         {
@@ -4593,6 +4817,7 @@
             "printedTotal": 95.0,
             "total": 117.0,
             "releaseDate": "2019/09/06",
+            "numeroLiga": "95",
             "number": 239
         },
         {
@@ -4605,6 +4830,7 @@
             "printedTotal": 173.0,
             "total": 235.0,
             "releaseDate": "2019/10/04",
+            "numeroLiga": "173",
             "number": 238
         },
         {
@@ -4664,6 +4890,7 @@
             "printedTotal": 315.0,
             "total": 315.0,
             "releaseDate": "2019/11/17",
+            "numeroLiga": "315",
             "number": 447
         },
         {
@@ -4674,6 +4901,7 @@
             "printedTotal": 24.0,
             "total": 24.0,
             "releaseDate": "2019/11/29",
+            "numeroLiga": "24",
             "number": 233
         },
         {
@@ -4684,6 +4912,7 @@
             "printedTotal": 23.0,
             "total": 23.0,
             "releaseDate": "2019/11/29",
+            "numeroLiga": "23",
             "number": 235
         },
         {
@@ -4694,6 +4923,7 @@
             "printedTotal": 24.0,
             "total": 24.0,
             "releaseDate": "2019/11/29",
+            "numeroLiga": "24",
             "number": 236
         },
         {
@@ -4704,6 +4934,7 @@
             "printedTotal": 23.0,
             "total": 23.0,
             "releaseDate": "2019/11/29",
+            "numeroLiga": "23",
             "number": 234
         },
         {
@@ -4714,6 +4945,7 @@
             "printedTotal": 23.0,
             "total": 23.0,
             "releaseDate": "2019/11/29",
+            "numeroLiga": "23",
             "number": 237
         },
         {
@@ -4726,6 +4958,7 @@
             "printedTotal": 60.0,
             "total": 75.0,
             "releaseDate": "2019/12/06",
+            "numeroLiga": "60",
             "number": 230
         },
         {
@@ -4738,6 +4971,7 @@
             "printedTotal": 60.0,
             "total": 75.0,
             "releaseDate": "2019/12/06",
+            "numeroLiga": "60",
             "number": 231
         },
         {
@@ -4748,6 +4982,7 @@
             "printedTotal": 24.0,
             "total": 33.0,
             "releaseDate": "2019/12/06",
+            "numeroLiga": "24",
             "number": 232
         },
         {
@@ -4758,6 +4993,7 @@
             "printedTotal": 7.0,
             "total": 7.0,
             "releaseDate": "2019/12/27",
+            "numeroLiga": "7",
             "number": 229
         },
         {
@@ -4770,6 +5006,7 @@
             "printedTotal": 70.0,
             "total": 86.0,
             "releaseDate": "2020/02/07",
+            "numeroLiga": "70",
             "number": 228
         },
         {
@@ -4799,6 +5036,7 @@
             "printedTotal": 115.0,
             "total": 115.0,
             "releaseDate": "2020/03/06",
+            "numeroLiga": "115",
             "number": 227
         },
         {
@@ -4809,6 +5047,7 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2020/03/27",
+            "numeroLiga": "21",
             "number": 225
         },
         {
@@ -4819,6 +5058,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2020/03/27",
+            "numeroLiga": "20",
             "number": 226
         },
         {
@@ -4831,6 +5071,7 @@
             "printedTotal": 70.0,
             "total": 86.0,
             "releaseDate": "2020/04/24",
+            "numeroLiga": "70",
             "number": 224
         },
         {
@@ -4860,6 +5101,7 @@
             "printedTotal": 100.0,
             "total": 119.0,
             "releaseDate": "2020/06/05",
+            "numeroLiga": "100",
             "number": 223
         },
         {
@@ -4872,6 +5114,7 @@
             "printedTotal": 76.0,
             "total": 94.0,
             "releaseDate": "2020/07/10",
+            "numeroLiga": "76",
             "number": 221
         },
         {
@@ -4882,6 +5125,7 @@
             "printedTotal": 127.0,
             "total": 127.0,
             "releaseDate": "2020/07/10",
+            "numeroLiga": "127",
             "number": 222
         },
         {
@@ -4927,6 +5171,7 @@
             "printedTotal": 100.0,
             "total": 121.0,
             "releaseDate": "2020/09/18",
+            "numeroLiga": "100",
             "number": 220
         },
         {
@@ -4954,6 +5199,7 @@
             "printedTotal": 4.0,
             "total": 8.0,
             "releaseDate": "2020/10/23",
+            "numeroLiga": "4",
             "number": 219
         },
         {
@@ -4983,6 +5229,7 @@
             "printedTotal": 190.0,
             "total": 330.0,
             "releaseDate": "2020/11/20",
+            "numeroLiga": "190",
             "number": 218
         },
         {
@@ -4993,6 +5240,7 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2020/12/04",
+            "numeroLiga": "21",
             "number": 217
         },
         {
@@ -5003,6 +5251,7 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2020/12/04",
+            "numeroLiga": "21",
             "number": 216
         },
         {
@@ -5013,6 +5262,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2020/12/04",
+            "numeroLiga": "20",
             "number": 215
         },
         {
@@ -5025,6 +5275,7 @@
             "printedTotal": 70.0,
             "total": 91.0,
             "releaseDate": "2021/01/22",
+            "numeroLiga": "70",
             "number": 214
         },
         {
@@ -5037,6 +5288,7 @@
             "printedTotal": 70.0,
             "total": 91.0,
             "releaseDate": "2021/01/22",
+            "numeroLiga": "70",
             "number": 212
         },
         {
@@ -5047,6 +5299,7 @@
             "printedTotal": 33.0,
             "total": 33.0,
             "releaseDate": "2021/01/22",
+            "numeroLiga": "33",
             "number": 213
         },
         {
@@ -5108,6 +5361,7 @@
             "printedTotal": 70.0,
             "total": 96.0,
             "releaseDate": "2021/03/19",
+            "numeroLiga": "70",
             "number": 211
         },
         {
@@ -5137,6 +5391,7 @@
             "printedTotal": 70.0,
             "total": 95.0,
             "releaseDate": "2021/04/23",
+            "numeroLiga": "70",
             "number": 209
         },
         {
@@ -5149,6 +5404,7 @@
             "printedTotal": 70.0,
             "total": 95.0,
             "releaseDate": "2021/04/23",
+            "numeroLiga": "70",
             "number": 208
         },
         {
@@ -5159,6 +5415,7 @@
             "printedTotal": 6.0,
             "total": 6.0,
             "releaseDate": "2021/04/23",
+            "numeroLiga": "6",
             "number": 210
         },
         {
@@ -5169,6 +5426,7 @@
             "printedTotal": 22.0,
             "total": 24.0,
             "releaseDate": "2021/05/20",
+            "numeroLiga": "22",
             "number": 207
         },
         {
@@ -5181,6 +5439,7 @@
             "printedTotal": 69.0,
             "total": 101.0,
             "releaseDate": "2021/05/28",
+            "numeroLiga": "69",
             "number": 204
         },
         {
@@ -5191,6 +5450,7 @@
             "printedTotal": 19.0,
             "total": 21.0,
             "releaseDate": "2021/05/28",
+            "numeroLiga": "19",
             "number": 206
         },
         {
@@ -5201,6 +5461,7 @@
             "printedTotal": 4.0,
             "total": 8.0,
             "releaseDate": "2021/06/15",
+            "numeroLiga": "4",
             "number": 205
         },
         {
@@ -5230,6 +5491,7 @@
             "printedTotal": 67.0,
             "total": 90.0,
             "releaseDate": "2021/07/09",
+            "numeroLiga": "67",
             "number": 202
         },
         {
@@ -5242,6 +5504,7 @@
             "printedTotal": 67.0,
             "total": 90.0,
             "releaseDate": "2021/07/09",
+            "numeroLiga": "67",
             "number": 201
         },
         {
@@ -5252,6 +5515,7 @@
             "printedTotal": 53.0,
             "total": 53.0,
             "releaseDate": "2021/07/09",
+            "numeroLiga": "53",
             "number": 203
         },
         {
@@ -5262,6 +5526,7 @@
             "printedTotal": 13.0,
             "total": 13.0,
             "releaseDate": "2021/08/20",
+            "numeroLiga": "13",
             "number": 200
         },
         {
@@ -5291,6 +5556,7 @@
             "printedTotal": 100.0,
             "total": 129.0,
             "releaseDate": "2021/09/24",
+            "numeroLiga": "100",
             "number": 199
         },
         {
@@ -5337,6 +5603,7 @@
             "printedTotal": 28.0,
             "total": 38.0,
             "releaseDate": "2021/10/22",
+            "numeroLiga": "28",
             "number": 197
         },
         {
@@ -5347,6 +5614,7 @@
             "printedTotal": 15.0,
             "total": 16.0,
             "releaseDate": "2021/10/22",
+            "numeroLiga": "15",
             "number": 195
         },
         {
@@ -5357,6 +5625,7 @@
             "printedTotal": 25.0,
             "total": 25.0,
             "releaseDate": "2021/10/22",
+            "numeroLiga": "25",
             "number": 198
         },
         {
@@ -5367,6 +5636,7 @@
             "printedTotal": 28.0,
             "total": 30.0,
             "releaseDate": "2021/11/05",
+            "numeroLiga": "28",
             "number": 196
         },
         {
@@ -5396,6 +5666,7 @@
             "printedTotal": 184.0,
             "total": 293.0,
             "releaseDate": "2021/12/03",
+            "numeroLiga": "184",
             "number": 194
         },
         {
@@ -5408,6 +5679,7 @@
             "printedTotal": 414.0,
             "total": 430.0,
             "releaseDate": "2021/12/17",
+            "numeroLiga": "414",
             "number": 193
         },
         {
@@ -5420,6 +5692,7 @@
             "printedTotal": 100.0,
             "total": 127.0,
             "releaseDate": "2022/01/14",
+            "numeroLiga": "100",
             "number": 191
         },
         {
@@ -5430,6 +5703,7 @@
             "printedTotal": 30.0,
             "total": 30.0,
             "releaseDate": "2022/01/14",
+            "numeroLiga": "30",
             "number": 192
         },
         {
@@ -5440,6 +5714,7 @@
             "printedTotal": 24.0,
             "total": 25.0,
             "releaseDate": "2022/01/15",
+            "numeroLiga": "24",
             "number": 187
         },
         {
@@ -5452,6 +5727,7 @@
             "printedTotal": 67.0,
             "total": 93.0,
             "releaseDate": "2022/02/25",
+            "numeroLiga": "67",
             "number": 188
         },
         {
@@ -5462,6 +5738,7 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2022/02/25",
+            "numeroLiga": "20",
             "number": 189
         },
         {
@@ -5472,6 +5749,7 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2022/02/25",
+            "numeroLiga": "21",
             "number": 190
         },
         {
@@ -5518,6 +5796,8 @@
             "printedTotal": 67.0,
             "total": 88.0,
             "releaseDate": "2022/04/08",
+            "numeroLiga": "67",
+            "formatoLiga": 0.0,
             "number": 186
         },
         {
@@ -5530,6 +5810,8 @@
             "printedTotal": 67.0,
             "total": 88.0,
             "releaseDate": "2022/04/08",
+            "numeroLiga": "67",
+            "formatoLiga": 0.0,
             "number": 185
         },
         {
@@ -5542,6 +5824,8 @@
             "printedTotal": 71.0,
             "total": 99.0,
             "releaseDate": "2022/05/13",
+            "numeroLiga": "71",
+            "formatoLiga": 0.0,
             "number": 184
         },
         {
@@ -5577,6 +5861,7 @@
             "codigoMyp": "ASR",
             "numeroMyp": 189.0,
             "nomePt": "Estrelas Radiantes - Galeria de Treinador",
+            "formatoLiga": 0.0,
             "number": 155
         },
         {
@@ -5589,6 +5874,8 @@
             "printedTotal": 71.0,
             "total": 101.0,
             "releaseDate": "2022/06/17",
+            "numeroLiga": "71",
+            "formatoLiga": 0.0,
             "number": 183
         },
         {
@@ -5619,6 +5906,8 @@
             "printedTotal": 100.0,
             "total": 127.0,
             "releaseDate": "2022/07/15",
+            "numeroLiga": "100",
+            "formatoLiga": 0.0,
             "number": 181
         },
         {
@@ -5629,6 +5918,8 @@
             "printedTotal": 20.0,
             "total": 21.0,
             "releaseDate": "2022/07/15",
+            "numeroLiga": "20",
+            "formatoLiga": 0.0,
             "number": 180
         },
         {
@@ -5639,6 +5930,8 @@
             "printedTotal": 20.0,
             "total": 21.0,
             "releaseDate": "2022/07/15",
+            "numeroLiga": "20",
+            "formatoLiga": 0.0,
             "number": 182
         },
         {
@@ -5654,6 +5947,7 @@
             "numeroLiga": "15",
             "codigoMyp": "mcd22",
             "numeroMyp": 15.0,
+            "formatoLiga": 0.0,
             "number": 157
         },
         {
@@ -5664,6 +5958,8 @@
             "printedTotal": 6.0,
             "total": 6.0,
             "releaseDate": "2022/08/05",
+            "numeroLiga": "6",
+            "formatoLiga": 0.0,
             "number": 179
         },
         {
@@ -5676,6 +5972,8 @@
             "printedTotal": 68.0,
             "total": 94.0,
             "releaseDate": "2022/09/02",
+            "numeroLiga": "68",
+            "formatoLiga": 0.0,
             "number": 178
         },
         {
@@ -5724,6 +6022,8 @@
             "printedTotal": 98.0,
             "total": 125.0,
             "releaseDate": "2022/10/21",
+            "numeroLiga": "98",
+            "formatoLiga": 0.0,
             "number": 474
         },
         {
@@ -5736,6 +6036,8 @@
             "printedTotal": 30.0,
             "total": 32.0,
             "releaseDate": "2022/11/04",
+            "numeroLiga": "30",
+            "formatoLiga": 0.0,
             "number": 477
         },
         {
@@ -5784,6 +6086,8 @@
             "printedTotal": 172.0,
             "total": 262.0,
             "releaseDate": "2022/12/02",
+            "numeroLiga": "172",
+            "formatoLiga": 0.0,
             "number": 475
         },
         {
@@ -5794,6 +6098,8 @@
             "printedTotal": 114.0,
             "total": 114.0,
             "releaseDate": "2022/12/09",
+            "numeroLiga": "114",
+            "formatoLiga": 0.0,
             "number": 476
         },
         {
@@ -5860,6 +6166,8 @@
             "printedTotal": 78.0,
             "total": 108.0,
             "releaseDate": "2023/01/20",
+            "numeroLiga": "78",
+            "formatoLiga": 0.0,
             "number": 478
         },
         {
@@ -5872,6 +6180,8 @@
             "printedTotal": 78.0,
             "total": 108.0,
             "releaseDate": "2023/01/20",
+            "numeroLiga": "78",
+            "formatoLiga": 0.0,
             "number": 479
         },
         {
@@ -5884,6 +6194,8 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2023/01/20",
+            "numeroLiga": "21",
+            "formatoLiga": 0.0,
             "number": 482
         },
         {
@@ -5896,6 +6208,8 @@
             "printedTotal": 23.0,
             "total": 23.0,
             "releaseDate": "2023/01/20",
+            "numeroLiga": "23",
+            "formatoLiga": 0.0,
             "number": 480
         },
         {
@@ -5908,6 +6222,8 @@
             "printedTotal": 23.0,
             "total": 23.0,
             "releaseDate": "2023/01/20",
+            "numeroLiga": "23",
+            "formatoLiga": 0.0,
             "number": 481
         },
         {
@@ -5920,6 +6236,8 @@
             "printedTotal": 28.0,
             "total": 28.0,
             "releaseDate": "2023/01/20",
+            "numeroLiga": "28",
+            "formatoLiga": 0.0,
             "number": 483
         },
         {
@@ -5932,6 +6250,8 @@
             "printedTotal": 73.0,
             "total": 103.0,
             "releaseDate": "2023/03/10",
+            "numeroLiga": "73",
+            "formatoLiga": 0.0,
             "number": 484
         },
         {
@@ -5944,6 +6264,8 @@
             "printedTotal": 21.0,
             "total": 21.0,
             "releaseDate": "2023/03/24",
+            "numeroLiga": "21",
+            "formatoLiga": 0.0,
             "number": 488
         },
         {
@@ -5992,6 +6314,8 @@
             "printedTotal": 71.0,
             "total": 99.0,
             "releaseDate": "2023/04/14",
+            "numeroLiga": "71",
+            "formatoLiga": 0.0,
             "number": 485
         },
         {
@@ -6004,6 +6328,8 @@
             "printedTotal": 71.0,
             "total": 99.0,
             "releaseDate": "2023/04/14",
+            "numeroLiga": "71",
+            "formatoLiga": 0.0,
             "number": 486
         },
         {
@@ -6016,6 +6342,8 @@
             "printedTotal": 7.0,
             "total": 7.0,
             "releaseDate": "2023/05/19",
+            "numeroLiga": "7",
+            "formatoLiga": 0.0,
             "number": 489
         },
         {
@@ -6046,6 +6374,8 @@
             "printedTotal": 165.0,
             "total": 210.0,
             "releaseDate": "2023/06/16",
+            "numeroLiga": "165",
+            "formatoLiga": 0.0,
             "number": 487
         },
         {
@@ -6058,6 +6388,8 @@
             "printedTotal": 139.0,
             "total": 139.0,
             "releaseDate": "2023/07/07",
+            "numeroLiga": "139",
+            "formatoLiga": 0.0,
             "number": 490
         },
         {
@@ -6070,6 +6402,8 @@
             "printedTotal": 108.0,
             "total": 141.0,
             "releaseDate": "2023/07/28",
+            "numeroLiga": "108",
+            "formatoLiga": 0.0,
             "number": 491
         },
         {
@@ -6082,6 +6416,8 @@
             "printedTotal": 38.0,
             "total": 46.0,
             "releaseDate": "2023/07/28",
+            "numeroLiga": "38",
+            "formatoLiga": 0.0,
             "number": 493
         },
         {
@@ -6094,6 +6430,8 @@
             "printedTotal": 30.0,
             "total": 32.0,
             "releaseDate": "2023/07/28",
+            "numeroLiga": "30",
+            "formatoLiga": 0.0,
             "number": 492
         },
         {
@@ -6142,6 +6480,8 @@
             "printedTotal": 62.0,
             "total": 92.0,
             "releaseDate": "2023/09/22",
+            "numeroLiga": "62",
+            "formatoLiga": 0.0,
             "number": 494
         },
         {
@@ -6154,6 +6494,8 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2023/09/22",
+            "numeroLiga": "20",
+            "formatoLiga": 0.0,
             "number": 495
         },
         {
@@ -6166,6 +6508,8 @@
             "printedTotal": 20.0,
             "total": 20.0,
             "releaseDate": "2023/09/22",
+            "numeroLiga": "20",
+            "formatoLiga": 0.0,
             "number": 496
         },
         {
@@ -6178,6 +6522,8 @@
             "printedTotal": 66.0,
             "total": 95.0,
             "releaseDate": "2023/10/27",
+            "numeroLiga": "66",
+            "formatoLiga": 0.0,
             "number": 497
         },
         {
@@ -6190,6 +6536,8 @@
             "printedTotal": 66.0,
             "total": 95.0,
             "releaseDate": "2023/10/27",
+            "numeroLiga": "66",
+            "formatoLiga": 0.0,
             "number": 498
         },
         {
@@ -6202,6 +6550,8 @@
             "printedTotal": 32.0,
             "total": 34.0,
             "releaseDate": "2023/10/31",
+            "numeroLiga": "32",
+            "formatoLiga": 0.0,
             "number": 513
         },
         {
@@ -6214,6 +6564,8 @@
             "printedTotal": 32.0,
             "total": 34.0,
             "releaseDate": "2023/10/31",
+            "numeroLiga": "32",
+            "formatoLiga": 0.0,
             "number": 511
         },
         {
@@ -6226,6 +6578,8 @@
             "printedTotal": 32.0,
             "total": 34.0,
             "releaseDate": "2023/10/31",
+            "numeroLiga": "32",
+            "formatoLiga": 0.0,
             "number": 512
         },
         {
@@ -6256,6 +6610,8 @@
             "printedTotal": 49.0,
             "total": 52.0,
             "releaseDate": "2023/11/10",
+            "numeroLiga": "49",
+            "formatoLiga": 0.0,
             "number": 500
         },
         {
@@ -6268,6 +6624,8 @@
             "printedTotal": 190.0,
             "total": 360.0,
             "releaseDate": "2023/12/01",
+            "numeroLiga": "190",
+            "formatoLiga": 0.0,
             "number": 499
         },
         {
@@ -6298,6 +6656,8 @@
             "printedTotal": 71.0,
             "total": 71.0,
             "releaseDate": "2024/01/26",
+            "numeroLiga": "71",
+            "formatoLiga": 0.0,
             "number": 508
         },
         {
@@ -6310,6 +6670,8 @@
             "printedTotal": 71.0,
             "total": 71.0,
             "releaseDate": "2024/01/26",
+            "numeroLiga": "71",
+            "formatoLiga": 0.0,
             "number": 507
         },
         {
@@ -6322,6 +6684,8 @@
             "printedTotal": 53.0,
             "total": 53.0,
             "releaseDate": "2024/01/26",
+            "numeroLiga": "53",
+            "formatoLiga": 0.0,
             "number": 510
         },
         {
@@ -6334,6 +6698,8 @@
             "printedTotal": 53.0,
             "total": 53.0,
             "releaseDate": "2024/01/26",
+            "numeroLiga": "53",
+            "formatoLiga": 0.0,
             "number": 509
         },
         {
@@ -6364,6 +6730,8 @@
             "printedTotal": 66.0,
             "total": 96.0,
             "releaseDate": "2024/03/22",
+            "numeroLiga": "66",
+            "formatoLiga": 0.0,
             "number": 517
         },
         {
@@ -6376,6 +6744,8 @@
             "printedTotal": 101.0,
             "total": 133.0,
             "releaseDate": "2024/04/26",
+            "numeroLiga": "101",
+            "formatoLiga": 0.0,
             "number": 518
         },
         {
@@ -6406,6 +6776,8 @@
             "printedTotal": 64.0,
             "total": 94.0,
             "releaseDate": "2024/06/07",
+            "numeroLiga": "64",
+            "formatoLiga": 0.0,
             "number": 519
         },
         {
@@ -6418,6 +6790,8 @@
             "printedTotal": 102.0,
             "total": 135.0,
             "releaseDate": "2024/07/19",
+            "numeroLiga": "102",
+            "formatoLiga": 0.0,
             "number": 520
         },
         {
@@ -6430,6 +6804,8 @@
             "printedTotal": 44.0,
             "total": 44.0,
             "releaseDate": "2024/07/19",
+            "numeroLiga": "44",
+            "formatoLiga": 0.0,
             "number": 521
         },
         {
