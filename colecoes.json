@@ -1,9 +1,6 @@
 {
   "data": [
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "unp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -18,9 +15,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "exp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -35,9 +29,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "b02-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -52,9 +43,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "b03-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -69,9 +57,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "b04-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -86,9 +71,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "vm1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -103,9 +85,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "CGD-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -118,9 +97,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "vm2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -135,9 +111,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "b05-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -152,9 +125,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "vm3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -169,9 +139,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "base1",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -188,9 +155,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "base2",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -207,9 +171,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "b06-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -224,9 +185,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "basep",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -243,9 +201,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sis-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -260,9 +215,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ipb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -277,9 +229,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ips-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -294,9 +243,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "base3",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -313,9 +259,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "npf1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -330,9 +273,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -347,9 +287,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "base4",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -366,9 +303,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "base5",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -385,9 +319,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -402,9 +333,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "npf2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -419,9 +347,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "gym1",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -438,9 +363,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "gym2",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -457,9 +379,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -474,9 +393,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "npf3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -491,9 +407,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo1",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -510,9 +423,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ipc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -527,9 +437,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ipt-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -544,9 +451,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -561,9 +465,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo2",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -580,9 +481,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ppr-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -597,9 +495,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "vs-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -616,9 +511,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "si1",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -634,9 +526,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "J-p-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -651,9 +540,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo3",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -670,9 +556,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "web-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -689,9 +572,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bex-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -706,9 +586,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "T-p-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -723,9 +600,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcdpe-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -740,9 +614,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "neo4",
       "updated_at": "en",
       "name": "Fri Sep 25 2020 10:09:00 GMT-0300 (Brasilia Standard Time)",
@@ -759,9 +630,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tmp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -776,9 +644,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "base6",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -795,9 +660,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "wfs-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -812,9 +674,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "spe-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -829,9 +688,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ecard1",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -848,9 +704,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mym-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -865,9 +718,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bp",
       "updated_at": "en",
       "name": "Sat Oct 16 2021 09:52:00 GMT-0300 (Brasilia Standard Time)",
@@ -884,9 +734,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "advp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -901,9 +748,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "playp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -918,9 +762,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ecard2",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -937,9 +778,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "adve-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -954,9 +792,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mid-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -971,9 +806,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ecard3",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -990,9 +822,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ruh-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1007,9 +836,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex1",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1026,9 +852,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1045,9 +868,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "np",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -1064,9 +884,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mva-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1081,9 +898,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex3",
       "updated_at": "en",
       "name": "Thu Feb 16 2023 05:47:00 GMT-0300 (Brasilia Standard Time)",
@@ -1100,9 +914,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "uns-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1117,9 +928,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pcgp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1134,9 +942,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex4",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -1153,9 +958,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "fll-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1170,9 +972,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex5",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -1189,9 +988,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk1a",
       "updated_at": "en",
       "name": "Thu Jan 13 2022 20:44:00 GMT-0300 (Brasilia Standard Time)",
@@ -1208,9 +1004,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk1b",
       "updated_at": "en",
       "name": "Thu Jan 13 2022 20:44:00 GMT-0300 (Brasilia Standard Time)",
@@ -1227,9 +1020,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cbs-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1244,9 +1034,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "VSDeoxys-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1261,9 +1048,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex6",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -1280,9 +1064,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop1",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1298,9 +1079,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "PCG3-S-B-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1315,9 +1093,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "rgsb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1332,9 +1107,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex7",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -1351,9 +1123,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "qcp-f-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1368,9 +1137,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "qcp-g-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1385,9 +1151,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "qcp-l-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1402,9 +1165,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "qcp-p-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1419,9 +1179,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "qcp-r-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1436,9 +1193,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "qcp-w-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1453,9 +1207,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex8",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -1472,9 +1223,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ppb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1492,9 +1240,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ppf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1512,9 +1257,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "gsso-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1529,9 +1271,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex9",
       "updated_at": "en",
       "name": "Sat Feb 08 2020 09:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1548,9 +1287,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mif-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1565,9 +1301,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "PCG5-S-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1582,9 +1315,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex10",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1601,9 +1331,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1619,9 +1346,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hrtf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1636,9 +1360,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hrt-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1653,9 +1374,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex11",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -1672,9 +1390,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hop-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1689,9 +1404,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex12",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1708,9 +1420,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk2a",
       "updated_at": "en",
       "name": "Thu Jan 13 2022 20:44:00 GMT-0300 (Brasilia Standard Time)",
@@ -1727,9 +1436,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk2b",
       "updated_at": "en",
       "name": "Thu Jan 13 2022 20:44:00 GMT-0300 (Brasilia Standard Time)",
@@ -1746,9 +1452,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mic-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1763,9 +1466,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop3",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1781,9 +1481,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex13",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1800,9 +1497,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "odfe-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1817,9 +1511,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex14",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1836,9 +1527,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop4",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1854,9 +1542,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex15",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1873,9 +1558,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1890,9 +1572,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dpp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1907,9 +1586,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ex16",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1926,9 +1602,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop5",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1944,9 +1617,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1961,9 +1631,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pppp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -1978,9 +1645,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp1",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -1997,9 +1661,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dpp",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2016,9 +1677,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2033,9 +1691,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "wcp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2050,9 +1705,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "MPS-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2067,9 +1719,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2086,9 +1735,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop6",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -2104,9 +1750,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2121,9 +1764,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp5-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2138,9 +1778,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp3",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2157,9 +1794,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp4",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2176,9 +1810,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop7",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2194,9 +1825,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp6-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2211,9 +1839,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp7-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2228,9 +1853,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp5",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2247,9 +1869,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp8-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2264,9 +1883,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "MPS08-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2281,9 +1897,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp6",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2300,9 +1913,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop8",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2318,9 +1928,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "plp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2335,9 +1942,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pt1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2352,9 +1956,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp7",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -2371,9 +1972,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp0-C-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2386,9 +1984,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp0-P-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2401,9 +1996,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp0-Pk-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2416,9 +2008,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dp0-T-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2431,9 +2020,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pt2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2448,9 +2034,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pta-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2465,9 +2048,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ptb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2482,9 +2062,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pl1",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2501,9 +2078,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pop9",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -2519,9 +2093,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pt3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2536,9 +2107,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ptc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2553,9 +2121,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ptd-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2570,9 +2135,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pte-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2587,9 +2149,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pl2",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2606,9 +2165,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pt4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2623,9 +2179,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ptf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2640,9 +2193,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ptg-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2657,9 +2207,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "PSM-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2674,9 +2221,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2691,9 +2235,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pl3",
       "updated_at": "en",
       "name": "Wed Mar 07 2018 22:40:00 GMT-0300 (Brasilia Standard Time)",
@@ -2710,9 +2251,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "legp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2727,9 +2265,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "l1hg-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2744,9 +2279,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "l1ss-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2761,9 +2293,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pl4",
       "updated_at": "en",
       "name": "Thu Jul 15 2021 11:30:00 GMT-0300 (Brasilia Standard Time)",
@@ -2780,9 +2309,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "la-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2797,9 +2323,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "lb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2814,9 +2337,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "lc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2831,9 +2351,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ld-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2848,9 +2365,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ru1",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -2866,9 +2380,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hgss1",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2885,9 +2396,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hsp",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -2904,9 +2412,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "l2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2921,9 +2426,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "LEGEND2-S-S-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2938,9 +2440,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ll-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2955,9 +2454,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hgss2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -2974,9 +2470,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "l3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -2991,9 +2484,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hgss3",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3010,9 +2500,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwa-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3027,9 +2514,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3042,9 +2526,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3057,9 +2538,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwd-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3072,9 +2550,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hgss4",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3091,9 +2566,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw1b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3108,9 +2580,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw1w-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3125,9 +2594,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "col1",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3144,9 +2610,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "col2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3165,9 +2628,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwp",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3184,9 +2644,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3201,9 +2658,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwe-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3218,9 +2672,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3235,9 +2686,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwg-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3252,9 +2700,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw1",
       "updated_at": "en",
       "name": "Thu Nov 29 2018 19:56:00 GMT-0200 (Brasilia Summer Time)",
@@ -3271,9 +2716,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd11",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -3289,9 +2731,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwh-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3306,9 +2745,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3323,9 +2759,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwio-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3338,9 +2771,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwis-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3353,9 +2783,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwit-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3368,9 +2795,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3387,9 +2811,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw3a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3404,9 +2825,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw3b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3421,9 +2839,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwj-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3438,9 +2853,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwk-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3455,9 +2867,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw3",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3474,9 +2883,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwl-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3491,9 +2897,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwmo-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3506,9 +2909,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwms-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3521,9 +2921,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwmt-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3536,9 +2933,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3553,9 +2947,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "ds-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3570,9 +2961,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw4",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -3589,9 +2977,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw5d-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3606,9 +2991,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw5s-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3623,9 +3005,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwn-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3640,9 +3019,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwo-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3657,9 +3033,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwo2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3674,9 +3047,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw5",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3693,9 +3063,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd12",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -3711,9 +3078,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw6c-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3728,9 +3092,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw6f-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3745,9 +3106,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw6",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3764,9 +3122,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw7-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3781,9 +3136,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwq-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3798,9 +3150,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwr-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3815,9 +3164,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dv1",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -3834,9 +3180,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bws-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3851,9 +3194,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwt-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3868,9 +3208,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw7",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3887,9 +3224,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwu-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3904,9 +3238,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwv-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3921,9 +3252,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw8-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3938,9 +3266,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwx-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3955,9 +3280,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwy-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -3972,9 +3294,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw8",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -3991,9 +3310,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw9-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4008,9 +3324,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwz-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4025,9 +3338,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw9",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4044,9 +3354,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwaa-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4061,9 +3368,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwab-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4078,9 +3382,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bwac-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4095,9 +3396,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4112,9 +3410,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw10",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4131,9 +3426,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyp",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4150,9 +3442,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw11",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4169,9 +3458,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "bw11pt5",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4190,9 +3476,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "hxy-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4207,9 +3490,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy0",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4226,9 +3506,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy1x-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4243,9 +3520,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy1y-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4260,9 +3534,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy30x-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4277,9 +3548,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy30y-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4294,9 +3562,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy1",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4313,9 +3578,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk6a",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4333,9 +3595,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk6b",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4353,9 +3612,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy2w-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4370,9 +3626,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xya-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4387,9 +3640,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy2",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4406,9 +3656,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd14",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -4424,9 +3671,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy3r-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4441,9 +3685,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy3",
       "updated_at": "en",
       "name": "Sun Mar 04 2018 10:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4460,9 +3701,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy4p-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4477,9 +3715,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4494,9 +3729,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk-xy-b",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4514,9 +3746,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk-xy-w",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4534,9 +3763,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy4",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4553,9 +3779,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy5g-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4570,9 +3793,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy5t-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4587,9 +3807,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cp1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4604,9 +3821,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy5",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -4623,9 +3837,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4640,9 +3851,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy6e-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4657,9 +3865,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyd-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4674,9 +3879,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "dc1",
       "updated_at": "en",
       "name": "Mon Jan 28 2019 16:44:00 GMT-0200 (Brasilia Summer Time)",
@@ -4693,9 +3895,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk8a",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4713,9 +3912,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk8b",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4733,9 +3929,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy6",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4752,9 +3945,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy7b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4769,9 +3959,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cp2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4786,9 +3973,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xye-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4803,9 +3987,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyps-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4820,9 +4001,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyss-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4837,9 +4015,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy7",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -4856,9 +4031,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "snpn-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4873,9 +4045,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "snpr-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4890,9 +4059,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy8b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4907,9 +4073,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy8r-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4924,9 +4087,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4941,9 +4101,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy8",
       "updated_at": "en",
       "name": "Wed Apr 10 2019 19:59:00 GMT-0300 (Brasilia Standard Time)",
@@ -4960,9 +4117,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd15",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -4978,9 +4132,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy9r-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -4995,9 +4146,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cp3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5012,9 +4160,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy9",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -5031,9 +4176,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "g1",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -5050,9 +4192,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "g2",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -5071,9 +4210,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xybsp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5088,9 +4224,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy10a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5105,9 +4238,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyg-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5122,9 +4252,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xyh-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5139,9 +4266,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cp4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5156,9 +4280,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk9a",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5176,9 +4297,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk9b",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5196,9 +4314,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy10",
       "updated_at": "en",
       "name": "Mon Sep 03 2018 11:49:00 GMT-0300 (Brasilia Standard Time)",
@@ -5215,9 +4330,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy11c-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5232,9 +4344,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy11f-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5249,9 +4358,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cp5-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5266,9 +4372,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy11",
       "updated_at": "en",
       "name": "Wed Apr 10 2019 19:59:00 GMT-0300 (Brasilia Standard Time)",
@@ -5285,9 +4388,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd16",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -5303,9 +4403,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cp6-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5320,9 +4417,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy12",
       "updated_at": "en",
       "name": "Fri Sep 25 2020 10:09:00 GMT-0300 (Brasilia Standard Time)",
@@ -5339,9 +4433,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm0-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5356,9 +4447,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5373,9 +4461,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm1m-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5390,9 +4475,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm1s-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5407,9 +4489,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sma-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5424,9 +4503,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smb-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5441,9 +4517,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smp1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5458,9 +4531,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm1+-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5475,9 +4545,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm1",
       "updated_at": "en",
       "name": "Wed Apr 10 2019 19:59:00 GMT-0300 (Brasilia Standard Time)",
@@ -5494,9 +4561,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smp",
       "updated_at": "en",
       "name": "Fri May 01 2020 16:06:00 GMT-0300 (Brasilia Standard Time)",
@@ -5513,9 +4577,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm2k-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5530,9 +4591,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm2l-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5547,9 +4605,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5564,9 +4619,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm2+-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5581,9 +4633,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smd-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5598,9 +4647,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "xy-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5615,9 +4661,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk10a",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5635,9 +4678,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "tk10b",
       "updated_at": "en",
       "name": "Thu May 23 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5655,9 +4695,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm2",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -5674,9 +4711,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm3h-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5691,9 +4725,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm3n-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5708,9 +4739,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm3+-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5725,9 +4753,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm3",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -5744,9 +4769,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm4a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5761,9 +4783,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm4s-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5778,9 +4797,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm35",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -5797,9 +4813,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm4+-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5814,9 +4827,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm4",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -5833,9 +4843,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd17",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -5851,9 +4858,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sme-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5868,9 +4872,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm5m-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5885,9 +4886,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm5s-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5902,9 +4900,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5919,9 +4914,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm5+-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5936,9 +4928,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm5",
       "updated_at": "en",
       "name": "Tue Feb 19 2019 23:25:00 GMT-0300 (Brasilia Standard Time)",
@@ -5955,9 +4944,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smg-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5972,9 +4958,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm6-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -5991,9 +4974,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm6a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6008,9 +4988,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm6b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6025,9 +5002,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm6",
       "updated_at": "en",
       "name": "Tue Feb 19 2019 23:25:00 GMT-0300 (Brasilia Standard Time)",
@@ -6044,9 +5018,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm7-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6060,9 +5031,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm7a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6077,9 +5045,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm7b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6094,9 +5059,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm7",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -6113,9 +5075,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm8-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6130,9 +5089,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm75",
       "updated_at": "en",
       "name": "Mon Oct 01 2018 21:54:00 GMT-0300 (Brasilia Standard Time)",
@@ -6149,9 +5105,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm8a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6166,9 +5119,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd18",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -6184,9 +5134,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm8b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6201,9 +5148,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm8",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -6220,9 +5164,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smh-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6237,9 +5178,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smi-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6254,9 +5192,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm9-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6271,9 +5206,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smj-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6288,9 +5220,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm9a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6305,9 +5234,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smk-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6322,9 +5248,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm9b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6339,9 +5262,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm9",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6358,9 +5278,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "en19",
       "updated_at": "en",
       "name": "Fri Jan 24 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6376,9 +5293,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm10-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6393,9 +5307,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sml-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6410,9 +5321,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smm-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6427,9 +5335,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "det1",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6446,9 +5351,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm10a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6463,9 +5365,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm10b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6480,9 +5379,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smp2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6499,9 +5395,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm10",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6518,9 +5411,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm11-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6537,9 +5427,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "smn-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6554,9 +5441,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm11a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6573,9 +5457,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm11",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6592,9 +5473,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm11b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6611,9 +5489,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm115",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6630,9 +5505,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sma",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6648,9 +5520,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm12-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6667,9 +5536,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm12a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6686,9 +5552,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd19",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -6704,9 +5567,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sm12",
       "updated_at": "en",
       "name": "Wed Sep 01 2021 05:37:00 GMT-0300 (Brasilia Standard Time)",
@@ -6723,9 +5583,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swshp",
       "updated_at": "en",
       "name": "Sat Jul 23 2022 20:15:00 GMT-0300 (Brasilia Standard Time)",
@@ -6742,9 +5599,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swshp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6759,9 +5613,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "saf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6776,9 +5627,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sag-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6793,9 +5641,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sal-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6810,9 +5655,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sar-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6827,9 +5669,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "saw-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6844,9 +5683,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s1h-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6863,9 +5699,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s1w-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6882,9 +5715,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "spt-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6899,9 +5729,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sp1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6916,9 +5743,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s1a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6935,9 +5759,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh1",
       "updated_at": "en",
       "name": "Fri Aug 14 2020 09:35:00 GMT-0300 (Brasilia Standard Time)",
@@ -6954,9 +5775,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6973,9 +5791,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "scs-c-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -6990,9 +5805,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "scs-g-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7007,9 +5819,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s2a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7026,9 +5835,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh2",
       "updated_at": "en",
       "name": "Fri Sep 25 2020 10:09:00 GMT-0300 (Brasilia Standard Time)",
@@ -7045,9 +5851,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7064,9 +5867,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s3a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7083,9 +5883,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sd-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7100,9 +5897,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh3",
       "updated_at": "en",
       "name": "Sun Oct 25 2020 13:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -7119,9 +5913,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "fut20",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -7138,9 +5929,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7157,9 +5945,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh35",
       "updated_at": "en",
       "name": "Sun Oct 25 2020 13:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -7176,9 +5961,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sp2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7193,9 +5975,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh4",
       "updated_at": "en",
       "name": "Fri Nov 13 2020 16:20:00 GMT-0300 (Brasilia Standard Time)",
@@ -7212,9 +5991,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s4a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7231,9 +6007,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sc2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7248,9 +6021,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sef-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7265,9 +6035,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sek-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7282,9 +6049,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s5i-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7301,9 +6065,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s5r-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7320,9 +6081,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7337,9 +6095,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd21",
       "updated_at": "en",
       "name": "Mon Oct 10 2022 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -7355,9 +6110,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh45",
       "updated_at": "en",
       "name": "Wed Feb 24 2021 16:17:00 GMT-0300 (Brasilia Standard Time)",
@@ -7374,9 +6126,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh45sv",
       "updated_at": "en",
       "name": "Wed Feb 24 2021 16:17:00 GMT-0300 (Brasilia Standard Time)",
@@ -7393,9 +6142,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s5a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7412,9 +6158,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh5",
       "updated_at": "en",
       "name": "Fri Mar 19 2021 15:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -7431,9 +6174,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s6h-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7450,9 +6190,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s6k-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7469,9 +6206,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sp3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7486,9 +6220,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svmi-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7503,9 +6234,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s6a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7522,9 +6250,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svmg2-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7539,9 +6264,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sp4-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7556,9 +6278,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh6",
       "updated_at": "en",
       "name": "Fri Jun 18 2021 12:12:00 GMT-0300 (Brasilia Standard Time)",
@@ -7575,9 +6294,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s7d-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7594,9 +6310,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s7r-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7613,9 +6326,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sfp-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7630,9 +6340,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sp5-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7647,9 +6354,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh7",
       "updated_at": "en",
       "name": "Fri Aug 27 2021 10:17:00 GMT-0300 (Brasilia Standard Time)",
@@ -7666,9 +6370,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s8-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7685,9 +6386,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cel25",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -7704,9 +6402,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "cel25c",
       "updated_at": "en",
       "name": "Tue Oct 11 2022 21:39:00 GMT-0300 (Brasilia Standard Time)",
@@ -7723,9 +6418,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s8a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7742,9 +6434,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s8a-B-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7759,9 +6448,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s8a-P-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7776,9 +6462,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sJ-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7793,9 +6476,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh8",
       "updated_at": "en",
       "name": "Fri Nov 12 2021 07:32:00 GMT-0300 (Brasilia Standard Time)",
@@ -7812,9 +6492,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s8b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7831,9 +6508,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sI-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7850,9 +6524,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s9-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7869,9 +6540,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sK-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7886,9 +6554,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sN-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7903,9 +6568,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s9a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7922,9 +6584,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sLD-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7939,9 +6598,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sLL-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -7956,9 +6612,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh9",
       "updated_at": "en",
       "name": "Wed Feb 23 2022 09:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -7975,9 +6628,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh9tg",
       "updated_at": "en",
       "name": "Wed Feb 23 2022 09:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -7994,9 +6644,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s10D-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8013,9 +6660,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s10P-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8032,9 +6676,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s10a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8051,9 +6692,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh10",
       "updated_at": "en",
       "name": "Fri May 27 2022 09:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8070,9 +6708,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh10tg",
       "updated_at": "en",
       "name": "Fri May 27 2022 09:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8089,9 +6724,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s10b-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8108,9 +6740,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "pgo",
       "updated_at": "en",
       "name": "Wed Jul 06 2022 17:07:00 GMT-0300 (Brasilia Standard Time)",
@@ -8127,9 +6756,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s11-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8146,9 +6772,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sL-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8163,9 +6786,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sM-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8180,9 +6800,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "mcd22",
       "updated_at": "en",
       "name": "Sun Oct 09 2022 13:21:00 GMT-0300 (Brasilia Standard Time)",
@@ -8198,9 +6815,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sp6-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8215,9 +6829,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s11a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8234,9 +6845,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh11",
       "updated_at": "en",
       "name": "Fri Sep 09 2022 13:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8253,9 +6861,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh11tg",
       "updated_at": "en",
       "name": "Fri Sep 09 2022 13:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8272,9 +6877,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s12-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8291,9 +6893,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sO-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8310,9 +6909,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh12",
       "updated_at": "en",
       "name": "Fri Sep 09 2022 11:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8329,9 +6925,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh12tg",
       "updated_at": "en",
       "name": "Fri Nov 11 2022 11:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8348,9 +6941,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "s12a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8367,9 +6957,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv-p-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8384,9 +6971,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svp",
       "updated_at": "en",
       "name": "Thu Nov 07 2024 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8403,9 +6987,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh12pt5",
       "updated_at": "en",
       "name": "Thu Jan 19 2023 15:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8422,9 +7003,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "swsh12pt5gg",
       "updated_at": "en",
       "name": "Thu Jan 19 2023 15:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8441,9 +7019,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv1s-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8460,9 +7035,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv1v-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8479,9 +7051,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SVAL-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8498,9 +7067,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SVAM-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8517,9 +7083,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SVAW-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8536,9 +7099,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SVB-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8555,9 +7115,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv1a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8574,9 +7131,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svc-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8593,9 +7147,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv1",
       "updated_at": "en",
       "name": "Fri Mar 31 2023 15:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8612,9 +7163,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sve",
       "updated_at": "en",
       "name": "Thu Jul 20 2023 15:45:00 GMT-0300 (Brasilia Standard Time)",
@@ -8631,9 +7179,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv2d-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8650,9 +7195,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv2p-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8669,9 +7211,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svp1-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8688,9 +7227,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv2",
       "updated_at": "en",
       "name": "Fri Jun 09 2023 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8707,9 +7243,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv2a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8726,9 +7259,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svd-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8745,9 +7275,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv3-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8764,9 +7291,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svf-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8783,9 +7307,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "wcs23-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8802,9 +7323,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv3",
       "updated_at": "en",
       "name": "Fri Aug 11 2023 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8821,9 +7339,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv3pt5",
       "updated_at": "en",
       "name": "Fri Sep 22 2023 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8840,9 +7355,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv3a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8859,9 +7371,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svel-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8878,9 +7387,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svem-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8897,9 +7403,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv4k-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8916,9 +7419,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv4m-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8935,9 +7435,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "CLF-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8954,9 +7451,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "CLK-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8973,9 +7467,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "CLL-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -8992,9 +7483,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv4",
       "updated_at": "en",
       "name": "Fri Nov 03 2023 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9011,9 +7499,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svg-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9030,9 +7515,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv4a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9049,9 +7531,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv4pt5",
       "updated_at": "en",
       "name": "Thu Jan 25 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9068,9 +7547,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv5k-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9087,9 +7563,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv5m-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9106,9 +7579,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svhk-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9125,9 +7595,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "svhm-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9144,9 +7611,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv5",
       "updated_at": "en",
       "name": "Fri Mar 22 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9163,9 +7627,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SV5a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9182,9 +7643,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SV6-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9201,9 +7659,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv6",
       "updated_at": "en",
       "name": "Fri May 24 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9220,9 +7675,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SV6a-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9239,9 +7691,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SV7-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9258,9 +7707,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "SVK-j",
       "updated_at": "ja",
       "name": "Mon Jan 20 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9277,9 +7723,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv6pt5",
       "updated_at": "en",
       "name": "Fri Aug 02 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9296,9 +7739,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv7",
       "updated_at": "en",
       "name": "Fri Aug 02 2024 15:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9315,9 +7755,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv8",
       "updated_at": "en",
       "name": "Thu Nov 07 2024 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9334,9 +7771,6 @@
       "nomePt": "CellImage"
     },
     {
-      "mapValue": {
-        "fields": {}
-      },
       "id": "sv8pt5",
       "updated_at": "en",
       "name": "Thu Jan 16 2025 22:00:00 GMT-0300 (Brasilia Standard Time)",
@@ -9352,15 +7786,7 @@
       "myp": "https://images.pokemontcg.io/sv8pt5/logo.png",
       "nomePt": "CellImage"
     },
-    {
-      "mapValue": {
-        "fields": {}
-      }
-    },
-    {
-      "mapValue": {
-        "fields": {}
-      }
-    }
+    {},
+    {}
   ]
 }
