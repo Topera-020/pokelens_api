@@ -1,44 +1,44 @@
 {
-    "data": [
-        {
-            "name": "Coleção de Batalha",
-            "id": 1
-        },
-        {
-            "name": "World Championships",
-            "id": 2
-        },
-        {
-            "name": "Coleção Treinador Avançado",
-            "id": 3
-        },
-        {
-            "name": "Coleção Treinador Avançado USA",
-            "id": 4
-        },
-        {
-            "name": "Ferramentas de Treinador ",
-            "id": 5
-        },
-        {
-            "name": "Play! Pokémon",
-            "id": 6
-        },
-        {
-            "name": "Play! Pokémon Championships",
-            "id": 7
-        },
-        {
-            "name": "Pokémon Center",
-            "id": 8
-        },
-        {
-            "name": "Pokémon Coleção Ultra-Premium",
-            "id": 9
-        },
-        {
-            "name": "Premium Tournament Collection",
-            "id": 10
-        }
-    ]
+  "data": [
+    {
+      "name": "Cole??o Treinador Avan?ado",
+      "id": 1
+    },
+    {
+      "name": "Cole??o Treinador Avan?ado USA",
+      "id": 2
+    },
+    {
+      "name": "Cole??o de Batalha",
+      "id": 3
+    },
+    {
+      "name": "World Championships",
+      "id": 4
+    },
+    {
+      "name": "Ferramentas de Treinador ",
+      "id": 5
+    },
+    {
+      "name": "Play! Pok?mon",
+      "id": 6
+    },
+    {
+      "name": "Play! Pok?mon Championships",
+      "id": 7
+    },
+    {
+      "name": "Pok?mon Center",
+      "id": 8
+    },
+    {
+      "name": "Pok?mon Cole??o Ultra-Premium",
+      "id": 9
+    },
+    {
+      "name": "Premium Tournament Collection",
+      "id": 10
+    }
+  ]
 }
