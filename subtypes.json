@@ -13,16 +13,34 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMuJBdzbr_JcYk4ejWZAUYzWDFaaoG5aKCm1Zv4TqSjI9u0frcf3ejWeBkhAfYEnEzsA36K5Mws3gMHsuS3hW9nq7eTLQULNvvABTx0R4b3MaYqsRaU8lP54Bd4dEA7QhizEv2HJH2GZax5WPKKVYzF=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Stage One",
+      "id": "2",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Stage 2",
       "id": "3",
       "nomePt": "Est?gio 2",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMnvAfAXHlr9ECZSfKvlBGmXoV5IQLpgKPFIJd9RujnhoczAce9Y32rEKu7K6zXhusbMzeb-rDB1Nh3nzUcUCDxnhNnp-SQyigTD7k23PhWH2qbWZGma3qYNPYuixZLqNCe51t5tYmGEKM2v5z6JPoQ=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Item",
+      "id": "4",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMVmLmlUWK7T8_iVwOKcpecMyh2AxDB0AdPCTIcZWujN00BaRDZgF-D77CZ6vYt-uROXm00sE-l2bc35UOrdBMKvuMWx2YmwlMg0gngzUo4rlVN2xKbUYo-vMWCqIQG9iU1jQHnhFh8AuS1BFdsbGOT=w600-h600-s-no-gm?authuser=0"
+    },
+    {
       "name": "Supporter",
       "id": "5",
       "nomePt": "Apoiador",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPOhqfu5gLcjW9bwX9TfVNb4N54U7Nr_BxpMicVQeQy0dmSSsoHD1424H4DdIHQBIBoxeJnR2L9QzIgTPmiNIiwKey-d6164mt3FO5yIiYHpISIqoBTK569Jf7sQEpGayuP2BAkCVyIqtSRb-A83ePu=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Trainer",
+      "id": "5",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "Stadium",
@@ -37,10 +55,34 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMw9u1KmZeTw7lislTFRzQacz8tLSkksnHsGduK4UleclXJJNQtaOYDTBXM9LzOVwILADBH_ecdmOYumDt7FrL3gPrdNDgGm1Fqq6ApZzGQLapV37FlJu04c4RC0dioO8bDRy_FZhv2r_Qtr57U-OxN=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Tool",
+      "id": "7",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "ACE SPEC",
       "id": "8",
       "nomePt": "ACE SPEC",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczOvtEKTx0_isrRNJTRvdD7HM_gqZ7KSUwBsHUfwAr6VEza5WqywDOidKdYj7hyxInDpIodVYWegG3yskuMsukklPS2IfPjKo6_jgL0zOPwoLUpc3lY3QyY28mQpXkBGHeX2sb8ebakuo-vAFtvUNERR=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "ACE SPEC Energy",
+      "id": "8",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "ACE SPEC Trainer",
+      "id": "8",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Special",
+      "id": "9",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "Special Energy",
@@ -59,6 +101,12 @@
       "id": "11",
       "nomePt": "M?quina T?cnica",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMD96tYKK3q-uTleoI1JbBZCuZ3U5HoRCKIiMBtNr3H1cy5wAMtNVQkBCsFKQakj0Hsfuma_enVHCVNPDjlkU2RFe6qMpJzX7tAWFFodjPX6R-Rh0cLCZdW9KXaqffJyLzSFls6SNWchSCDXCw28U3c=w612-h574-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Goldenrod Game Corner",
+      "id": "12",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNicmKyDGAO2t5WGcBE6RjSiCuxz_SOUGZhdGXK4dhT9jZbYeT0bL8EvoEDIGi-6wFks2lqEI5118C8tXondSRhoG1yd7JkGfD2yUv76ZUjHcwQSFDAD6hsxA2mPs21kkciphC_YzI_xGsCn2_HwIBz=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Baby",
@@ -85,10 +133,70 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMX1tiItyWEfIjtmOuG2Afpq9uWyalYdYDiTRKdzENpTvTFP4kN9rlynSooRtaz8FlHN0JjMdLY4qFxTh_aDga2OzQOEkjCr72XX7jAvbTmMoxqBtnEKJ2TuqT0WQ03R3hE0SShLK1KYzQpduWK_YU9=w662-h377-s-no-gm?authuser=0"
     },
     {
+      "name": "ex (SV)",
+      "id": "16",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Delta species",
+      "id": "17",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczM3l1V4pOtAMcn0_GS6h97NPdZKFvS9NXUsrkaHord9bSo_9ZBzAsqzFWy2drL7w3r_eBZcqECfgr-SBkrKmk39ePbmTJrxExQLBjxMQq6zY4UktwTw3AINjKPaJoMrZ9KRZ2maVjpwjnCu5-XTtvxR=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "d",
+      "id": "17",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "SP",
+      "id": "18",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Level-Up",
       "id": "19",
       "nomePt": "LV.X",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPaDPj3_RX1kxJlLfemLsYDkV38sdX4dzoUOzN4HUhdQq56KE3HpjtyCYw1SQMLrkS2VsW2CXB2ZZmwLsCCcu4wHZspU8FdDs71tNgDoxX8DfoecmYkmOMitX3AJXyRe70lZzxntLiNGZeNoC4zkPQY=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "LV.X",
+      "id": "19",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Frontier Brains",
+      "id": "20",
+      "nomePt": "Pok?mon da Frontier Brain",
+      "image": ""
+    },
+    {
+      "name": "Champion of Sinnoh",
+      "id": "21",
+      "nomePt": "Pok?mon de Campe?o",
+      "image": ""
+    },
+    {
+      "name": "Elite Four",
+      "id": "22",
+      "nomePt": "Pok?mon da Elite dos Quatro",
+      "image": ""
+    },
+    {
+      "name": "Gym Leaders of Sinnoh",
+      "id": "23",
+      "nomePt": "Pok?mon de Lider de Gin?gio ",
+      "image": ""
+    },
+    {
+      "name": "Prime",
+      "id": "24",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPBX15kTSnl9A1IM-hQtOJp0pVUU2XuU3XW7FPsLQr-qfg5V0cIxPmUjEUc4eLw3nbmSNd28X3lCPuwL-d-2mBKnRsN1h_4tAdNWUwNSfVqrL_AwkhttPJWBRwgae361QzsT0HLnbQBURaiK3-MARK2=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "LEGEND",
@@ -103,6 +211,12 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMVgVLyc-eGI4TagnyYvwMSEsMAOjf8MYvIkxFJ0Gb82JtrLXBAQLFWRYkXdWZndooXpwiAr_RPMgHlVA_PRmcNI-vIQcm5tvbgTtRjg_JzBlL2SRVxj-8kG2cwB-s2SMaXrOxSiopkAUmGzmWWgDLj=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "-EX",
+      "id": "26",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "BREAK",
       "id": "27",
       "nomePt": "TURBO",
@@ -115,10 +229,28 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczOxT37WzqsTC_2i2Ss0--_Nvh5k6NYnaPp6yyD_AZVGiAo5Ubfq9cX5kmm-DeKaXMSQwZ05tbPgX5b_HVp7LQGHwSNFCzVvL1KHXVfqS0GexcoU1zfUfgekbZAK7kX65OQ3cLIUFuWeTaA4UMZuBoiH=w300-h300-s-no-gm?authuser=0"
     },
     {
+      "name": "Primal",
+      "id": "28",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Ancient Trait",
+      "id": "29",
+      "nomePt": "Tra?os Ancestrais",
+      "image": ""
+    },
+    {
       "name": "GX",
       "id": "30",
       "nomePt": "GX",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczNsqQpHyiLo19vCdoCBGhyq6FLX0xt-DC0GFm-yzoV5F_FfTAGSnYFM7_WUDwdYidKRtHAdjN40ft48ZVVIp5eWLPh324uIZz4sE-yP4hWXgd-ohYakYgnDeCWqTaawQXGn04RKuT-QmbZVxi4xtdfK=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "-GX",
+      "id": "30",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "Ultra Beast",
@@ -133,10 +265,34 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczNlNZinFLaVsOdxkC8N19CQs2dqkzBl2aGn_QLpzbor_0KL9wvdO-HWPCw21tM-KZL60w6MnMwhhe0xZm6jiZD3PLYcLe4tGijSGa71jyHDsDg5a-agHOGDzLeF985YTtVeXuGEE3VBgrlyqVUNdKYM=w300-h300-s-no-gm?authuser=0"
     },
     {
+      "name": "Trainer ?",
+      "id": "32",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "?",
+      "id": "32",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Energy ?",
+      "id": "32",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "TAG TEAM",
       "id": "33",
       "nomePt": "ALIADOS",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPgXmUoHUZZXZ86edaVqxSB-N59pFP32I35bCtCp83v0X6k5TNfq_si6OzhWkzQoefThd5YJNBVGkuCMrskJHr4Sdw_1gKEipM6YncRj9WL8NQYxbnWZu2M3W-jhwRDGKAw4ci7xeWPPUGDQcEhB2nw=w540-h300-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Trainer TAG TEAM",
+      "id": "33",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "Radiant",
@@ -151,16 +307,52 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPApGck2-diTPAkNVyYyDOm0-udj9lj084KbwH4Z9GZ4kjvxvMxEqk5cqqNnIGvf310g_ppfFWC46Mk5trw_j_z422kvUH8xwFSYVLXiJCH8hjaY530YDFgoscCm4fka0d1PycBY7r_F6fLv1eTEx8Y=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Single Strike Trainer",
+      "id": "35",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Single Strike Energy",
+      "id": "35",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Rapid Strike",
       "id": "36",
       "nomePt": "Golpe Fluido",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczN4SfSMF0GwQxp-wqbtktKd-p2HLD2NG5LwCfq4g_UNVyu7-cQId_W3mA557Q2t4Pmym9AA-gUt7BHb2JJo74Q12iBI47khdZCM4jLi6Dv9qYxLVLffjX_cnhITcC3RkzEk5PDBSPKA9rjAo_eg6CHz=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Rapid Strike Trainer",
+      "id": "36",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Rapid Strike Energy",
+      "id": "36",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Fusion Strike",
       "id": "37",
       "nomePt": "Golpe Fus?o",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczOPo6XK23lwr8XLHWPIfUHAp9Ai65vBYSSBjOHKBLqQOepDdrAyNxpA-MID1Mygc-vmqiuqFVdWexCCaV5bANYDHxrNhcwbwcFbwpzR4ElDQhebPE6HEXrUDT7TuJvGqtGn5GbIohbylukE-CJB4DgZ=w1151-h371-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Fusion Strike Trainer",
+      "id": "37",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Fusion Strike Energy",
+      "id": "37",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "V",
@@ -199,6 +391,18 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczN4FwZsfLfi8Ay3--sJY6xdF1vFFKF6Cw9MBZELHoQJa7Tvks6OogQHdZnGkGg0_0BvWNriAvIIhvjm3YUoHKI82pNqF3Da_JVcPgK0SboDt8zhigUUfXMyBQaLOUK8sPl3oX-WOVe8fP2Eym4I3pge=w300-h300-s-no-gm?authuser=0"
     },
     {
+      "name": "Eternamax",
+      "id": "44",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMbU763K28-Hw3GptRaJDwaXd5pg9bIJxCMYwuyEZXf6k0x8e3wvPe2wskASzxTETTOd3P1gduUD_8BFCjiPBhmblOH1V3LKrtaajVc_EMjgilmn0-sIFahnAc4dJ3M1pmKkT6S0oszFmg5S573t5Ao=w1000-h1000-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Tera",
+      "id": "45",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Terastal",
       "id": "45",
       "nomePt": "Terastralizado",
@@ -211,10 +415,28 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczP1QHJfRkeJd7qKamUuioKYcM6xH4ozU1VNgYe-qsQu1YIEhDZ_Utup7A7FngqGdG5C1ssJ2DRIY67tv25KjyjD7luYp_n12s1KSm04_SzaCOnVqCYGntmUKrzvD6T-TnFfc18niFz-LUfkaBunRDht=w902-h228-s-no-gm?authuser=0"
     },
     {
+      "name": "Future Trainer",
+      "id": "46",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Ancient",
       "id": "47",
       "nomePt": "Ancestral",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczNU7p_SGQxmMTN5aCqjYqvPA0kvyt_uRpSK0zHj_efX_NW5gs1aXAhhScTJpUYlCSrnp_2njTc-7L0Cx_m6smf-nqJ7XlAVWV-3mC9CLibfRe6A7s5aIkiuAp4djVWMxSADGsmAw4oASRlVawc4uyzw=w232-h72-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Ancient Trainer",
+      "id": "47",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Ancient Trainer",
+      "id": "47",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "Trainer Gallery",
@@ -241,6 +463,30 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczN-4x5yem5nfbYUQgDHSwiWFS0wHJMVJFf45MxZTp7f631qDADaPOHqCgfaj_IKVhvx1QOPmZ4mhm8FjSniRFijm9fznuS-Ksva9coL8uXxkqH5Aq5zVyRYJCIhS6ri6Vlnj5GAXaF2skU7wLogciRp=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Rocket",
+      "id": "52",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNeXUJOzRCAIe9BAjvIkzPIEqVqzl_aSnmXcQ3Jf3ger4ajK-ZnegMB4Spe8tujKn_wtKFo6frQ16TqVNDUY5Z5LpDysITQZr68WJU9PBIk4R5AE5nCs3CCMgO13-_fHRLE8lceUbPnGC5r64SGqG0d=w265-h253-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Rocket's Secret Machine",
+      "id": "53",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNNNBQq68nmNJMgDtQ6UExz6dYK8rXxUpMX8w-hw83soV5QJYq-y18BL48OuAqC-lPuh40CO-4IyyKU6m_ZnPahit0048E6cbhkc1gf9mqzdhs7foeOoFU6GVK6W_08I6k30Xs_sW_6UffDuQ-FykUI=w300-h300-s-no-gm?authuser=0"
+    },
+    {
+      "name": "\"Rockets Secret Machine\"",
+      "id": "53",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Rocket's Secret Robot",
+      "id": "53",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Team Aqua",
       "id": "54",
       "nomePt": "Equipe Aqua",
@@ -265,10 +511,28 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPemoOdIuTsbRiU3QTTZmC4cxbtJ4-Qm-BdYqzhLaHCe_REkupIuMFlrvAUjKK6OLOykuA5OtwSE5sDp_mMXjrvYSi1WbK6pkq9Hnxzx9rr7z2ObQA2PT29anyccTDodwOaL2xiAPAhHpvbDx_42uC1=w828-h828-s-no-gm?authuser=0"
     },
     {
+      "name": "Team Plasma Trainer",
+      "id": "57",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Team Plasma Energy",
+      "id": "57",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Team Flare Hyper Gear",
       "id": "58",
       "nomePt": "Equipamento da equipe Flare",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczNqiELv-r1gbL6kOprcK4H-BsJULRDOu4lqgGJZrYBpIuY6UbN47je1cta1I96nKGwBeEAoHTRUTF3JcaQOnl11r-cwvDx4AIg9RF19GEyDpm3sPtB6tFBRLpPUSCFmGQngFuCXyz0PgsGqT5sW1Dk6=w828-h828-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Team Flare Gear",
+      "id": "58",
+      "nomePt": "",
+      "image": ""
     },
     {
       "name": "Special Ilustration",
@@ -277,10 +541,46 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPkqpn0dWmhmiGoUe5hL1o63Eb9VYWdFzKV87In4qXT9wSCRJdvThk4ny37JNp_fUajAcItGqt0wGj9wtEeXpmMivbSG0UfsacmrwVLNQWxQ-St8pECLGht3jt0LAwVIYbsF8nxqIg88bMWvcILPOyU=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Shiny",
+      "id": "60",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPLaXY3sAd92gAHdQWwrUcA4TyLmI5JHPmyCG3hIRVivy2_m7knAiWcrAmOBc-b9qc8hZH_NJA8F-Eq9gDq7Xwm9zV2GmFRnnV6tdE2Kyu6MJB4BcCqDx8-MEfs1keLe6xAfy2S61Wkse-QR7yraJxn=w894-h894-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Shining",
+      "id": "60",
+      "nomePt": "",
+      "image": ""
+    },
+    {
       "name": "Golden",
       "id": "61",
       "nomePt": "Dourada",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczOOFaRbL5ACO1cuOUMU7sMNDyVdjzXO7b40GiCrB62ypaAi5r-vNBE3XjMGQwdLAjHqkRQf5QFW3jVKhF5NP6mG7TqCsqsk16xBI1D-Ro2iFwsMp0ZvdUgUrqAf4wYli0csfMQOvDtsX9882oKYULRs=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Prerelease",
+      "id": "62",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNF4HHWPSaKYUaxv5OBJ4rPCz6AUq1IuZKiHvX6H0GfZ3Bo8u2reFtkJaZDnU7q8ywjRn9hgFmT7ID61W2WS-G-a4VU6F7Vw9jm6b5B16aE1ejC1RUBc3KgMRXoWTzC1hoQy1Cq8mYsXIr82SJepTJy=w600-h600-s-no-gm?authuser=0"
+    },
+    {
+      "name": "FA",
+      "id": "63",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Full Art Trainer",
+      "id": "63",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Full Art",
+      "id": "63",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNEhgrKXT9FDSW2WGSzD3jg1LjxXId1emAVnv2LH7FM82Yx3RtprbjWCBW9wXDcP5_i0wPsAigeZnJ7l3RNW6x_2gatABWta7rXPwtV6lUoHhTdE4UjTR2YymNp3D7a55TWhi73ZS3UWKk-9Mour3Qb=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Altered",
@@ -295,10 +595,70 @@
       "image": "https://lh3.googleusercontent.com/pw/AP1GczM0iSER-sjO0je19TLLx3KzyHYpL4_TtEe612Ty1mSc_IOrxn0cmh5IHLOlPWZ4NxAQJdNwnn1orLF0rU3bRVYvXKVwkJeqdUFnrFcsJsHDRNM0Znb-8QpYC_JamdP5Yj_KaANy8Fj96vCXDv0omO0V=w600-h600-s-no-gm?authuser=0"
     },
     {
+      "name": "Liga",
+      "id": "66",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPYjfyjJtigqx4MV62BpzGfX5PW1DWKkCbS_3skEYzU2tP-O433MawWF1asOQEqM_z_s_C6mW1iq9Unhn90q6mJG1c_26qLhKqIdd7DILbbBOnpeB8OedOS7mmmk8z7S01vIcb5Q689WwROtMlBdpYf=w566-h566-s-no-gm?authuser=0"
+    },
+    {
       "name": "ETB",
       "id": "67",
       "nomePt": "Promos de Cole??o Treinador Avan?ado",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMHBvp_tUHI00Ygo1jaI1OFBiOYtZ9XnmAMRu4E6do-NYloR3ZmWqQuKOfAorj7Ab0EOSqLJLJnb9sTOZktI_mJk2qEImQVXVAr0YSkpcWDouk8L-F_uQbcg3U7m0BcGEkpMUEnGu8yI5Q7MHSu1qGC=w612-h574-s-no-gm?authuser=0"
+    },
+    {
+      "name": "Oversized",
+      "id": "68",
+      "nomePt": "Jumbo",
+      "image": ""
+    },
+    {
+      "name": "Hisuian",
+      "id": "69",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Alolan",
+      "id": "70",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Galarian",
+      "id": "71",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "\"Trainers\"",
+      "id": "72",
+      "nomePt": "de Treinador",
+      "image": ""
+    },
+    {
+      "name": "Dark",
+      "id": "73",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Light",
+      "id": "74",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Crystal",
+      "id": "75",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Paldean",
+      "id": "76",
+      "nomePt": "",
+      "image": ""
     }
   ]
 }
