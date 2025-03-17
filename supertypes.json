@@ -1,1 +1,16 @@
-
+{
+  "data": [
+    {
+      "name": "Pok?mon",
+      "id": "1"
+    },
+    {
+      "name": "Trainer",
+      "id": "2"
+    },
+    {
+      "name": "Energy",
+      "id": "3"
+    }
+  ]
+}
