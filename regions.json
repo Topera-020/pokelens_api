@@ -1,54 +1,74 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "name": "Kanto",
-            "releaseDate": "1996/10/15"
-        },
-        {
-            "id": 2,
-            "name": "Johto",
-            "releaseDate": "1999/11/21"
-        },
-        {
-            "id": 3,
-            "name": "Hoenn",
-            "releaseDate": "2002/11/21"
-        },
-        {
-            "id": 4,
-            "name": "Sinnoh",
-            "releaseDate": "2006/09/28"
-        },
-        {
-            "id": 5,
-            "name": "Unova",
-            "releaseDate": "2010/09/18"
-        },
-        {
-            "id": 6,
-            "name": "Kalos",
-            "releaseDate": "2013/10/12"
-        },
-        {
-            "id": 7,
-            "name": "Alola",
-            "releaseDate": "2016/11/18"
-        },
-        {
-            "id": 8,
-            "name": "Galar",
-            "releaseDate": "2019/11/15"
-        },
-        {
-            "id": 9,
-            "name": "Hissui",
-            "releaseDate": "2022/01/28"
-        },
-        {
-            "id": 10,
-            "name": "Paldea",
-            "releaseDate": "2022/11/18"
-        }
-    ]
+  "data": [
+    {
+      "name": "Kanto",
+      "id": "1",
+      "releaseDate": "Tue Oct 15 1996 00:00:00 GMT-0200 (Brasilia Summer Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Johto",
+      "id": "2",
+      "releaseDate": "Sun Nov 21 1999 00:00:00 GMT-0200 (Brasilia Summer Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Hoenn",
+      "id": "3",
+      "releaseDate": "Thu Nov 21 2002 00:00:00 GMT-0200 (Brasilia Summer Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Sinnoh",
+      "id": "4",
+      "releaseDate": "Thu Sep 28 2006 00:00:00 GMT-0300 (Brasilia Standard Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Unova",
+      "id": "5",
+      "releaseDate": "Sat Sep 18 2010 00:00:00 GMT-0300 (Brasilia Standard Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Kalos",
+      "id": "6",
+      "releaseDate": "Sat Oct 12 2013 00:00:00 GMT-0300 (Brasilia Standard Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Alola",
+      "id": "7",
+      "releaseDate": "Fri Nov 18 2016 00:00:00 GMT-0200 (Brasilia Summer Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Galar",
+      "id": "8",
+      "releaseDate": "Fri Nov 15 2019 00:00:00 GMT-0300 (Brasilia Standard Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Hissui",
+      "id": "9",
+      "releaseDate": "Fri Jan 28 2022 00:00:00 GMT-0300 (Brasilia Standard Time)",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Paldea",
+      "id": "10",
+      "releaseDate": "Fri Nov 18 2022 00:00:00 GMT-0300 (Brasilia Standard Time)",
+      "nomePt": "",
+      "image": ""
+    }
+  ]
 }
