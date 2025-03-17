@@ -1,3 +1,112 @@
 {
-  "data": []
+  "data": [
+    {
+      "name": "normal",
+      "id": "1",
+      "nomePt": "Normal",
+      "image": ""
+    },
+    {
+      "name": "fighting",
+      "id": "2",
+      "nomePt": "Lutador",
+      "image": ""
+    },
+    {
+      "name": "flying",
+      "id": "3",
+      "nomePt": "Voador",
+      "image": ""
+    },
+    {
+      "name": "poison",
+      "id": "4",
+      "nomePt": "Venenoso",
+      "image": ""
+    },
+    {
+      "name": "ground",
+      "id": "5",
+      "nomePt": "Terrestre",
+      "image": ""
+    },
+    {
+      "name": "rock",
+      "id": "6",
+      "nomePt": "Pedra",
+      "image": ""
+    },
+    {
+      "name": "bug",
+      "id": "7",
+      "nomePt": "Inseto",
+      "image": ""
+    },
+    {
+      "name": "ghost",
+      "id": "8",
+      "nomePt": "Fantasma",
+      "image": ""
+    },
+    {
+      "name": "steel",
+      "id": "9",
+      "nomePt": "A?o",
+      "image": ""
+    },
+    {
+      "name": "fire",
+      "id": "10",
+      "nomePt": "Fogo",
+      "image": ""
+    },
+    {
+      "name": "water",
+      "id": "11",
+      "nomePt": "?gua",
+      "image": ""
+    },
+    {
+      "name": "grass",
+      "id": "12",
+      "nomePt": "Grama",
+      "image": ""
+    },
+    {
+      "name": "electric",
+      "id": "13",
+      "nomePt": "El?trico",
+      "image": ""
+    },
+    {
+      "name": "psychic",
+      "id": "14",
+      "nomePt": "Ps?quico",
+      "image": ""
+    },
+    {
+      "name": "ice",
+      "id": "15",
+      "nomePt": "Gelo",
+      "image": ""
+    },
+    {
+      "name": "dragon",
+      "id": "16",
+      "nomePt": "Drag?o",
+      "image": ""
+    },
+    {
+      "name": "dark",
+      "id": "17",
+      "nomePt": "Sombrio",
+      "image": ""
+    },
+    {
+      "name": "fairy",
+      "id": "18",
+      "nomePt": "Fada",
+      "image": ""
+    }
+  ]
 }
