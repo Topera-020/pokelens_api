@@ -1,111 +1,140 @@
 {
-    "data": [
-        {
-            "name": "Base",
-            "id": 1,
-            "releaseDate": "1999/01/09",
-            "image": "https://images.Pokémontcg.io/base1/logo.png"
-        },
-        {
-            "name": "Gym",
-            "id": 2,
-            "releaseDate": "2000/08/14",
-            "image": "https://lh3.googleusercontent.com/fife/ALs6j_EwTU6LHBlqvGBC4SR8iRLLDc5mJmztoU7LSI1Xg8qH-7jkTI7l6yozvonFhy0jtJOT2X48PBux6Vuvh4gyRrzLIZ8yRnQRoVvDNIFFWRZ8Yryp25Ql9Go311c0bhzGlIk9FzF_KekrydU8b5gcpG1J3Ag7GzOx3GnyKQaC0VmTggbbJsl2xG8r5bawbljBcbpmhAjWmz8EhW5QmeDJrdjxAzua1Mg6vH3Otb7IhUWqE3JyOJewmcjiXv2cJ0kWKlW22iN4VNr4_y7_9hlS_or8YyvDV8qzYjye4x_n6isZQBno6m8nPeo39QXL5VlKCd0n3doPwgc492syGE065IG7OlQJl0MKbGYSFU2rrhhVEKoerYHhmR6nmIH12KsvJFRe1xjNOIo3RFNcASMDqFxHxD1hiWbQwExKMQnVXBMnOS5Y3kgsIXD2otYBYxy27-lKYVh3dp05Y0XzdP7znsgoq-_5DWA8rtcBj_VYdt9s7Y1bCmX68nu9w55ih1G90SnAVVRfGk-DZJJ1lx2yT6oMb1V_tB2WwR5Bir-P33WzrqVG8yLX-4rZfKIEsnQmQW6B8oDmC4J3Gjv1V0sKUc4yc8vX9Dkt6w3zXmG6owBfo8PIuWXIV1IMVQzkP_Lypp6pxYkOWl7sdZ17KtOX3xEX_Zc4nuDuDwGVgtIRhChNKrOpTRphmFLcTXQ4MjNkwfvx4WL0NBBCDVWNRWb1gZZiBMsP4134u_Mm1YPxcqyMxC_C4yO2eVofVil_nKYwP6d0mlBCKFjjm51wFWtUNSm0qVJ658TMFfaOWQtgb5QGyBqnTcfNrDVo5MewJTkqlLn2PU6yt6vHgLn3zA8xZVQVzGMekfyjBHJdHePMWCuSWTIX3GQKdsAn5AJxzifI78B7B9DyVPginCLN0KGnwEnWl5S2zv0UZ8UOIYeR1bTORcVgnlUbI70dvM1UIh9MmDaChouCjFVG80H9isc-ftKcUPSPLqVYi7hpIGwHxg8gtGl-16mEZFIJUsns2oWSHwYcujIZKjM-AmRGRgSHSTXsIAFlKyEsmKpQicgxVjtoJnRxKCCiOepPoJSoOYe-1N9_jb9UIutsjyLy-xFdSpOkSnyx2_0WLZZH-mFtbs_5Y-UJaEqkBrw-FHij7WYv_6AnlfEYEWUMMpp7MAlCM7ZzLimRCtX4t5KzVLasPkAA-fiKKaBDv5BVVODKUs-whh3pb7Whi9fleFYYp0euVWANVCBIfEOESOd7-NIHeNhdc4rwOLzYESl8pVHH-OulWzpvKEft_HpYhepGaFFPiofWdxnagIt2LiZXnbn0dK2EuZkud5Y9Nee5qUKZ16FPISyMyvrmLkG0eR1DmSyn9s9d9FNQQ_yw0BQYn1Irj66RYwBUp6NDly8V3X7kL95OYjWr5YMwMVqnIIeuEU3MMxd62d73kQx4n6ao3Cp8DynQb8Pp7d1_lU1B5qXThQym6_bNMR7xlGyN67TawRI-58nCOYwq5MllTJttl3oFbSbtoAVxUQTftnEoOzeR34sjq2RI5x1S6qrH3uOFOHLZXeS-mhDSnhsOJDWoGhWCUWITbCoqCmwBS6AkRzSKOKuJyyq4lhiUon2fYqH6Cg=w1920-h912"
-        },
-        {
-            "name": "Neo",
-            "id": 3,
-            "releaseDate": "2000/12/16",
-            "image": "https://lh3.googleusercontent.com/fife/ALs6j_EDMQYMHwjQ08HjzRkeegw_xKAzGJZP3GjuR8RVmKFIgKZ-Oza4nuSXAVA4sjrjQVd8E8cwvCzrT_ZEAdYPYw-FnQKj6DwR0LUTmgtKZseFgli2Zo9t5UAVMPyqPbahRxm7jWmgYuBeCRhC4xOZ17PndoxGtZSPzyk8FCP0VEnd2EFRHWaDbrcgrbhBAwExdKZw_hNLb6idsmv77BVY8hDLKNpD3if8EUc9jQ_Y5jKUtArs2UkpkEMnzG9ijRuNQM33Yp2Mbf8A7yVzNMPRhKv9EVpafMIGocyV7g_TMEra954U3La_7GuD1cRYvdjTjKX06z2fmQN7TgnNjBa_e_jQqXucaFfgBfzgemnobEDAPwGZTyZKILZje2Dbyrx-6I0zcsFWg_x-3gBsWQGOjycGbYN3J5m03Drlz-alj05wuNwZpE6vFORB9Bq8nOMc1oTh-mOOreU0U3-C_vLUWVAVw0f-xOnZkgkkY5URdqyM1UldMgndEZfchZ4UuEcf4WHwPafSpczUK_5pfuDKQyhNd8HVde7MwP676DvC3BOS7zObWJDK-a87dlGou9x9nkwkumxFIW__xqHtKXvIFn9501AT3Eyfb0ZQo4cthXthnHEANd5jVB529ho8KF4xFcDM-rjV8X0iVOaRDFh53wkb_Lu0FwC6w1yLTAHsXGY9Qh7lI77SE363oD7HMsUXLqQei0pbUAYjvAOhmOgHQ9ncTTOyt-6ZmEB8P_tHU9ButQ0gcY9teMQ2qFQE8712tX-L_KIpyoCJrUjgkz3tYL_wgLev9nevD7AXao8NmObHVwueVvvvXZy2gkmnSzvY6DsnP_A8molfURpB_zlcDPMMm0vNXnf36YaPNTMv6ukqGm9H3RERz-J1F9r3PIQtUrPkLCQNz_0772RfEWXtJSgO8sTIOyshT-EtLxhCsRMJJVksLnaWUJEI3XMhefKPrKX2Sv-t5otLBYGbmZhgs-nTgIWwV8E0sZIA9oPKJS2zUHsq_80jYfDMVeP0Hpob_8CrYq4wI7L1G1EofIaa8H-xTUxhZJjGe-9ie0S5g8LW2IjEGw8YEn8_IzAkEKEQn5qD1RtxJpnDb_qH4CSvlBqti3z5-WXEyyk1Y3CKpWwUDmrTLCfelVw09fEFfgeqQEsTn3iPTRyiVQUW2bZ44koPh2sbqGrSGtftyqzLiMqm7ELIi79pXCk6mzRkrwhTZBhq20-D86I0E5NBORvC7NvO4veQDXUbqcfOGMyBcXjo86GQZKfKMbvgqADEY6S3vDpE3zFvqNHfwIE8sYcwPvQN726_JzL1fb0nb7sj89cA7zmJIXjEICKgkDcVuhDW0Rjla5ZgvEYicElveTNQtqcqIVWPxKtJnkzxUWsf-xECyHGtsRrZ9xwugNV8zwOTEimPhZZPhDUsAlT0idHbUDy8Q9yVv1KbvUFTE1y17WibKz7E-4treC1_T0LJB36Ek1nz0e_Pc8ARpdG4xtBEm9_IDurOt3F1tS9S3xW1aI5VU3VwXjuVP9OpBbiCT4KLnN_tE5kN-VaMBtTM0228N63IkthuOp5oUMu9C0FUK1434CawlK-yF2nw7NHbjgjSlTwMmz-mSGB6j-Rq=w1920-h912"
-        },
-        {
-            "name": "Other",
-            "id": 4,
-            "releaseDate": "2001/07/31",
-            "nomePt": "Outras"
-        },
-        {
-            "name": "E-Card",
-            "id": 5,
-            "releaseDate": "2002/09/15",
-            "nomePt": "E-Serie",
-            "image": "https://lh3.googleusercontent.com/fife/ALs6j_GQS8jBPlkh9pU_WqD7t7h_PzeD5vc_XBGaGncwvfQb9Sr0QAUbmglryfiZ34ODc-vJnLfnu_KyEN2IzVgv5WTbOjcVXjq8ofzbiyXC5jK7JobhmBY2c2nB_UTCPbV4y7eOHnGCdiuPj7WYGsvBrZLOLT6n-KX4vHf84HdYhZhsbTU22Mm_hXcClGutm1OIXx-S8uqehao4rRy37571j2hgOYELh3YmaKzS6r4EVTkl6Ev26hT1L9Qm5M-aATyOHPVmlU7lEREcm1niqa-s818pRjJNmfxbDdsBNa8V61GUC1f5YmFDlPZfg_7qvl15Lp-f6sBkg0hepH_M1VMLcFbw8NLdrC26rbwOzmKBb2XLEJyeFtWMIMto46jvmOR4V5OTq5WvjEhYRuxSIpIfcqZ3Rz-9Zbxq8Vy8yxsKRcEuQz0lTE0TRzzOnOq0m0JWHfhWto3yEidZvNP02XBuiU1202xTF8NXscuQ9KCfNCcxHO1itdFR8mdsflctTZk3zMEoGDKrnobqcDfT2Ye0NbiM25nSnFRPxECaROpuxtV9dRGKwExU3AgbOb_vznlUHcnEUIwi0S2x1fezHS0Vx-8YWECMxZN9PI7HG1mZ4vpAphpf4RTnb_YWLv0fpgyYP3v9naIMCCaY18B8bQYxhJP9gwHq2uYC3ysgEcgw3UzVKnz_uYfkkJOGJJU7QIfMtcL69KqVuyI-sjZoS15lfIIWZWzOjinlFsZ3bHx8XE6W7sIyuaATCiEW2i32o59LrRIXvhBLDMPCUr8bxmGpuP3X6ruZO4yn5naqCEmMtHb1_set2EwsgZ69rlh6xY1gbtWTIf0TKiGqCGRD4TXbMR5Tq_1cumLBvK2z3dYXu_L51tIEGHNX3TCc2lN3G5c0jN7bGmhtaWXOywMEVl-CqsE1bsJ7W7MMAwwizTNnrTbsoLZGXBCKhOXJAVK96_S8EYrLLc1N3M3Q_Ud83qUYC6nrp60heiRklNI7UEfaSQrFpkdMD-RA_mi6FhjRifPluyTSmAa7bQRdnTWrpLv0RfC4Ol8NR6NlXak1APdyqq5X-nAgG-U3emfoya05VKgOoTSRpsyFbBB3gk4D_3Lo_zRClnOqwwBIArDP-_xVl9rAxOQECzngJau4YAyKg1P2jgaXSRzsEepgyau_2GjW7UPkNWMcZ_vmHf2Z8rzluarv5zkBtOg-kpQu3fu1V0xWfvZmBpDRGYdgBqnYQHceVDONN0aXHEZ1Uzi_D3z0NzX-gVNBoSAuF14RUDiJsQMTR5U5s4j7x9kD5Ec6r3imZ0JxokpNOuEVBN0ElN4RYiBg3XUkx39maJKipv7IYMt6HnMG8PRpPK9DOBq4asUGtLGIcz8ga1fUqEy1Jg2eUY7D-X0CBNnIzUD4MPFyH0PTt1yTBVk2aWguA51A1K3qaUnEfneLGSadgFYW7OdFM2pqYCxmTMwZ8YINd7n8VoMpYuV0iTM7D0De8pWWQPOZ6TrG2I8cvf6-BFAtKKwn9c6FwMAPZ_QVOTSqE5MPqznAcj0Wc9iCTBrQN06_UYMcq2On1vlLIA1bgQnyjKIGza-_Z2dc_MOwAyotHn_ksdJgPbHkMbR0-NeuxEFg8A=w1227-h912"
-        },
-        {
-            "name": "EX",
-            "id": 6,
-            "releaseDate": "2003/07/01",
-            "image": "https://lh3.googleusercontent.com/fife/ALs6j_G5fLKaGwww4poeg7eDG00P7SUWF_e1WVgx47Qw-Byq5nPFnFA6Va8eow9HqIqFu82-80_1plzv2KcLXsJ7afI1vt4rh6C_um7_gRFYxCAjZ0mqbNwvu18_Jp9t-VnrLpHxbo1G0WmYJkd8pmwrpy-rlYy4Iw92ZE_0m0xz1C9DVg8HfDeZcaYgi-HeIQ_4w4_AcNN2ANI_GrbuvvI3F9fs8DMifWOBfxAwJ-Yzdaq3kGSm5HiaZOILkj2RzYBWkVUX_HdlXy8zD90xcyBt9j9xH3PxhpfVX7aDL_hHDRnaVc7O1B-V4FWJqjs7p6EeQ44_tfFmtuQbN1kYiEHq35YTjxrlREx1Znx-TFxVHigcIu5UbtoEwzYdx5yTWblGscuGmfiryN-zxhogu2X4eCMaAuxK4jTLZVDCyGCIzny-N98wLqpp6ivxT_dnTYyD8IXYpmX0r6AnIRVeOZ-1Q6O9B1KZaaUkGLGNzWYuMa4RGwvZwkktFYTnlVpWu1_vObaE2b_qePcXYpdv2E5Fgb3KJ18HWqIYF7haTAKRAKOUKWcG5QcGhGjGKZZGwtkZIfVM1KRCOIGbFeqPL2jF_QmR0KgPdDvk1CDgo5deV1nGLLg2rWpmJ83hy1GBUsokjyAYJ3jK2Ytim4BaYkVTqCVW7wIhe7jdTPkzqDG6u1THZVbKi4tmmiI-EGwwzP_8w4l4AD_sVo-dV-WnZAcSYIL8Aw0m49XTiHZyzy_O0SRHBZ7mKx7sAzqt81P02sMUiZjF6E1_XDcgM4RjaOsZK52j47qjT71GB5i-yduwiSO6N2zWn9uJZqa-MW5lFnJdD2XV67H1rmLKlAwPa-hXf8NpFodsyzPAtQ07sKsNnbaEGHE4lJG23NQW0d-_GZnhCVsy6Hy1e1UOCBxKYXjKmWpXCxEqTEO5VcHCRFi1OAN1IH64BBSOLcp9dTFavY9fBLksg3q6nGaCyaO9h-19N1mWHBY5OBWUdFOoBtGvhEEPPxt1TzWWuCScesxwIB028rIEGeMT3WYLNUTcwLJtXBCGghAztKNBZhv2sh4t10kT97DBZpwCllXKxwz4OHv2NNUeHAbDy8b8GPczJXHWRdCO-8u3yjbkJh03v675G7pvEJO3wo-ty7em2TshrXWn14eGJSLaeZOpRwbjbbmK4o_59LM3UmRVfxC0VnCPf5SP4NiwvZpW7q9Xd58JL6U0lbkmf9wojVQOAL3o5qeSNJX3s1wJqerpS8JcO2_q769_D24IJdsccP5MbHl46YhCQVjwiT3hgOF_UJxmkGUwVOfp5rfYuNyg-lWQYaB1_oT3UncujjcIy5eqIzxlpgjaQ3y-th20BE1vjDoZLdWTZT8fALQAqGuvNBABBIXZlMVpm6K0isRUv_C73IU822FiaISwalXSZNpu5maKaPUmHASNe2jQClei39EOKs2aLT4w6aSwDVgUbJOBrSmWArjtBIg13ZILmd_jo8ZG9a2dns8jyj5h_6BgfXY6PfrPVLQoWjuXaRjiW6LcwcIZBdNUDc1w0T7vsjdrsK-F1PNxwCRMun0b1wx_9XcHBipE7DG1XsPVU8CYVgS0ZjmE2kEu8vrtZ2t6kK8UBYGcig=w1227-h912"
-        },
-        {
-            "name": "NP",
-            "id": 7,
-            "releaseDate": "2003/10/01"
-        },
-        {
-            "name": "POP",
-            "id": 8,
-            "releaseDate": "2004/09/01"
-        },
-        {
-            "name": "Trainer kits",
-            "id": 9,
-            "releaseDate": "2014/03/12",
-            "nomePt": "Kit de treinadores"
-        },
-        {
-            "name": "Diamond & Pearl",
-            "id": 10,
-            "releaseDate": "2007/05/01",
-            "nomePt": "Diamente e Pérola",
-            "image": "https://images.Pokémontcg.io/dp1/logo.png"
-        },
-        {
-            "name": "Platinum",
-            "id": 11,
-            "releaseDate": "2009/02/11",
-            "nomePt": "Platina",
-            "image": "https://images.Pokémontcg.io/pl1/logo.png"
-        },
-        {
-            "name": "HeartGold & SoulSilver",
-            "id": 12,
-            "releaseDate": "2010/02/10",
-            "image": "https://images.Pokémontcg.io/hgss1/logo.png"
-        },
-        {
-            "name": "Black & White",
-            "id": 13,
-            "releaseDate": "2011/04/25",
-            "nomePt": "Preto e Branco",
-            "image": "https://images.Pokémontcg.io/bw1/logo.png"
-        },
-        {
-            "name": "XY",
-            "id": 14,
-            "releaseDate": "2014/02/05",
-            "image": "https://images.Pokémontcg.io/xy1/logo.png"
-        },
-        {
-            "name": "Sun & Moon",
-            "id": 15,
-            "releaseDate": "2017/02/03",
-            "nomePt": "Sol e Lua",
-            "image": "https://images.Pokémontcg.io/sm1/logo.png"
-        },
-        {
-            "name": "Sword & Shield",
-            "id": 16,
-            "releaseDate": "2020/02/07",
-            "nomePt": "Espada e Escudo",
-            "image": "https://images.Pokémontcg.io/swsh1/logo.png"
-        },
-        {
-            "name": "Scarlet & Violet",
-            "id": 17,
-            "releaseDate": "2023/03/31",
-            "nomePt": "Escarlate e Violeta",
-            "image": "https://images.Pokémontcg.io/sv1/logo.png"
-        }
-    ]
+  "data": [
+    {
+      "name": "Base",
+      "id": "1",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "1999/01/09",
+      "nomePt": "",
+      "image": "https://images.Pok?montcg.io/base1/logo.png"
+    },
+    {
+      "name": "Gym",
+      "id": "2",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2000/08/14",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/fife/ALs6j_EwTU6LHBlqvGBC4SR8iRLLDc5mJmztoU7LSI1Xg8qH-7jkTI7l6yozvonFhy0jtJOT2X48PBux6Vuvh4gyRrzLIZ8yRnQRoVvDNIFFWRZ8Yryp25Ql9Go311c0bhzGlIk9FzF_KekrydU8b5gcpG1J3Ag7GzOx3GnyKQaC0VmTggbbJsl2xG8r5bawbljBcbpmhAjWmz8EhW5QmeDJrdjxAzua1Mg6vH3Otb7IhUWqE3JyOJewmcjiXv2cJ0kWKlW22iN4VNr4_y7_9hlS_or8YyvDV8qzYjye4x_n6isZQBno6m8nPeo39QXL5VlKCd0n3doPwgc492syGE065IG7OlQJl0MKbGYSFU2rrhhVEKoerYHhmR6nmIH12KsvJFRe1xjNOIo3RFNcASMDqFxHxD1hiWbQwExKMQnVXBMnOS5Y3kgsIXD2otYBYxy27-lKYVh3dp05Y0XzdP7znsgoq-_5DWA8rtcBj_VYdt9s7Y1bCmX68nu9w55ih1G90SnAVVRfGk-DZJJ1lx2yT6oMb1V_tB2WwR5Bir-P33WzrqVG8yLX-4rZfKIEsnQmQW6B8oDmC4J3Gjv1V0sKUc4yc8vX9Dkt6w3zXmG6owBfo8PIuWXIV1IMVQzkP_Lypp6pxYkOWl7sdZ17KtOX3xEX_Zc4nuDuDwGVgtIRhChNKrOpTRphmFLcTXQ4MjNkwfvx4WL0NBBCDVWNRWb1gZZiBMsP4134u_Mm1YPxcqyMxC_C4yO2eVofVil_nKYwP6d0mlBCKFjjm51wFWtUNSm0qVJ658TMFfaOWQtgb5QGyBqnTcfNrDVo5MewJTkqlLn2PU6yt6vHgLn3zA8xZVQVzGMekfyjBHJdHePMWCuSWTIX3GQKdsAn5AJxzifI78B7B9DyVPginCLN0KGnwEnWl5S2zv0UZ8UOIYeR1bTORcVgnlUbI70dvM1UIh9MmDaChouCjFVG80H9isc-ftKcUPSPLqVYi7hpIGwHxg8gtGl-16mEZFIJUsns2oWSHwYcujIZKjM-AmRGRgSHSTXsIAFlKyEsmKpQicgxVjtoJnRxKCCiOepPoJSoOYe-1N9_jb9UIutsjyLy-xFdSpOkSnyx2_0WLZZH-mFtbs_5Y-UJaEqkBrw-FHij7WYv_6AnlfEYEWUMMpp7MAlCM7ZzLimRCtX4t5KzVLasPkAA-fiKKaBDv5BVVODKUs-whh3pb7Whi9fleFYYp0euVWANVCBIfEOESOd7-NIHeNhdc4rwOLzYESl8pVHH-OulWzpvKEft_HpYhepGaFFPiofWdxnagIt2LiZXnbn0dK2EuZkud5Y9Nee5qUKZ16FPISyMyvrmLkG0eR1DmSyn9s9d9FNQQ_yw0BQYn1Irj66RYwBUp6NDly8V3X7kL95OYjWr5YMwMVqnIIeuEU3MMxd62d73kQx4n6ao3Cp8DynQb8Pp7d1_lU1B5qXThQym6_bNMR7xlGyN67TawRI-58nCOYwq5MllTJttl3oFbSbtoAVxUQTftnEoOzeR34sjq2RI5x1S6qrH3uOFOHLZXeS-mhDSnhsOJDWoGhWCUWITbCoqCmwBS6AkRzSKOKuJyyq4lhiUon2fYqH6Cg=w1920-h912"
+    },
+    {
+      "name": "Neo",
+      "id": "3",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2000/12/16",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/fife/ALs6j_EDMQYMHwjQ08HjzRkeegw_xKAzGJZP3GjuR8RVmKFIgKZ-Oza4nuSXAVA4sjrjQVd8E8cwvCzrT_ZEAdYPYw-FnQKj6DwR0LUTmgtKZseFgli2Zo9t5UAVMPyqPbahRxm7jWmgYuBeCRhC4xOZ17PndoxGtZSPzyk8FCP0VEnd2EFRHWaDbrcgrbhBAwExdKZw_hNLb6idsmv77BVY8hDLKNpD3if8EUc9jQ_Y5jKUtArs2UkpkEMnzG9ijRuNQM33Yp2Mbf8A7yVzNMPRhKv9EVpafMIGocyV7g_TMEra954U3La_7GuD1cRYvdjTjKX06z2fmQN7TgnNjBa_e_jQqXucaFfgBfzgemnobEDAPwGZTyZKILZje2Dbyrx-6I0zcsFWg_x-3gBsWQGOjycGbYN3J5m03Drlz-alj05wuNwZpE6vFORB9Bq8nOMc1oTh-mOOreU0U3-C_vLUWVAVw0f-xOnZkgkkY5URdqyM1UldMgndEZfchZ4UuEcf4WHwPafSpczUK_5pfuDKQyhNd8HVde7MwP676DvC3BOS7zObWJDK-a87dlGou9x9nkwkumxFIW__xqHtKXvIFn9501AT3Eyfb0ZQo4cthXthnHEANd5jVB529ho8KF4xFcDM-rjV8X0iVOaRDFh53wkb_Lu0FwC6w1yLTAHsXGY9Qh7lI77SE363oD7HMsUXLqQei0pbUAYjvAOhmOgHQ9ncTTOyt-6ZmEB8P_tHU9ButQ0gcY9teMQ2qFQE8712tX-L_KIpyoCJrUjgkz3tYL_wgLev9nevD7AXao8NmObHVwueVvvvXZy2gkmnSzvY6DsnP_A8molfURpB_zlcDPMMm0vNXnf36YaPNTMv6ukqGm9H3RERz-J1F9r3PIQtUrPkLCQNz_0772RfEWXtJSgO8sTIOyshT-EtLxhCsRMJJVksLnaWUJEI3XMhefKPrKX2Sv-t5otLBYGbmZhgs-nTgIWwV8E0sZIA9oPKJS2zUHsq_80jYfDMVeP0Hpob_8CrYq4wI7L1G1EofIaa8H-xTUxhZJjGe-9ie0S5g8LW2IjEGw8YEn8_IzAkEKEQn5qD1RtxJpnDb_qH4CSvlBqti3z5-WXEyyk1Y3CKpWwUDmrTLCfelVw09fEFfgeqQEsTn3iPTRyiVQUW2bZ44koPh2sbqGrSGtftyqzLiMqm7ELIi79pXCk6mzRkrwhTZBhq20-D86I0E5NBORvC7NvO4veQDXUbqcfOGMyBcXjo86GQZKfKMbvgqADEY6S3vDpE3zFvqNHfwIE8sYcwPvQN726_JzL1fb0nb7sj89cA7zmJIXjEICKgkDcVuhDW0Rjla5ZgvEYicElveTNQtqcqIVWPxKtJnkzxUWsf-xECyHGtsRrZ9xwugNV8zwOTEimPhZZPhDUsAlT0idHbUDy8Q9yVv1KbvUFTE1y17WibKz7E-4treC1_T0LJB36Ek1nz0e_Pc8ARpdG4xtBEm9_IDurOt3F1tS9S3xW1aI5VU3VwXjuVP9OpBbiCT4KLnN_tE5kN-VaMBtTM0228N63IkthuOp5oUMu9C0FUK1434CawlK-yF2nw7NHbjgjSlTwMmz-mSGB6j-Rq=w1920-h912"
+    },
+    {
+      "name": "Other",
+      "id": "4",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2001/07/31",
+      "nomePt": "Outras",
+      "image": ""
+    },
+    {
+      "name": "E-Card",
+      "id": "5",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2002/09/15",
+      "nomePt": "E-Serie",
+      "image": "https://lh3.googleusercontent.com/fife/ALs6j_GQS8jBPlkh9pU_WqD7t7h_PzeD5vc_XBGaGncwvfQb9Sr0QAUbmglryfiZ34ODc-vJnLfnu_KyEN2IzVgv5WTbOjcVXjq8ofzbiyXC5jK7JobhmBY2c2nB_UTCPbV4y7eOHnGCdiuPj7WYGsvBrZLOLT6n-KX4vHf84HdYhZhsbTU22Mm_hXcClGutm1OIXx-S8uqehao4rRy37571j2hgOYELh3YmaKzS6r4EVTkl6Ev26hT1L9Qm5M-aATyOHPVmlU7lEREcm1niqa-s818pRjJNmfxbDdsBNa8V61GUC1f5YmFDlPZfg_7qvl15Lp-f6sBkg0hepH_M1VMLcFbw8NLdrC26rbwOzmKBb2XLEJyeFtWMIMto46jvmOR4V5OTq5WvjEhYRuxSIpIfcqZ3Rz-9Zbxq8Vy8yxsKRcEuQz0lTE0TRzzOnOq0m0JWHfhWto3yEidZvNP02XBuiU1202xTF8NXscuQ9KCfNCcxHO1itdFR8mdsflctTZk3zMEoGDKrnobqcDfT2Ye0NbiM25nSnFRPxECaROpuxtV9dRGKwExU3AgbOb_vznlUHcnEUIwi0S2x1fezHS0Vx-8YWECMxZN9PI7HG1mZ4vpAphpf4RTnb_YWLv0fpgyYP3v9naIMCCaY18B8bQYxhJP9gwHq2uYC3ysgEcgw3UzVKnz_uYfkkJOGJJU7QIfMtcL69KqVuyI-sjZoS15lfIIWZWzOjinlFsZ3bHx8XE6W7sIyuaATCiEW2i32o59LrRIXvhBLDMPCUr8bxmGpuP3X6ruZO4yn5naqCEmMtHb1_set2EwsgZ69rlh6xY1gbtWTIf0TKiGqCGRD4TXbMR5Tq_1cumLBvK2z3dYXu_L51tIEGHNX3TCc2lN3G5c0jN7bGmhtaWXOywMEVl-CqsE1bsJ7W7MMAwwizTNnrTbsoLZGXBCKhOXJAVK96_S8EYrLLc1N3M3Q_Ud83qUYC6nrp60heiRklNI7UEfaSQrFpkdMD-RA_mi6FhjRifPluyTSmAa7bQRdnTWrpLv0RfC4Ol8NR6NlXak1APdyqq5X-nAgG-U3emfoya05VKgOoTSRpsyFbBB3gk4D_3Lo_zRClnOqwwBIArDP-_xVl9rAxOQECzngJau4YAyKg1P2jgaXSRzsEepgyau_2GjW7UPkNWMcZ_vmHf2Z8rzluarv5zkBtOg-kpQu3fu1V0xWfvZmBpDRGYdgBqnYQHceVDONN0aXHEZ1Uzi_D3z0NzX-gVNBoSAuF14RUDiJsQMTR5U5s4j7x9kD5Ec6r3imZ0JxokpNOuEVBN0ElN4RYiBg3XUkx39maJKipv7IYMt6HnMG8PRpPK9DOBq4asUGtLGIcz8ga1fUqEy1Jg2eUY7D-X0CBNnIzUD4MPFyH0PTt1yTBVk2aWguA51A1K3qaUnEfneLGSadgFYW7OdFM2pqYCxmTMwZ8YINd7n8VoMpYuV0iTM7D0De8pWWQPOZ6TrG2I8cvf6-BFAtKKwn9c6FwMAPZ_QVOTSqE5MPqznAcj0Wc9iCTBrQN06_UYMcq2On1vlLIA1bgQnyjKIGza-_Z2dc_MOwAyotHn_ksdJgPbHkMbR0-NeuxEFg8A=w1227-h912"
+    },
+    {
+      "name": "EX",
+      "id": "6",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2003/07/01",
+      "nomePt": "",
+      "image": "https://lh3.googleusercontent.com/fife/ALs6j_G5fLKaGwww4poeg7eDG00P7SUWF_e1WVgx47Qw-Byq5nPFnFA6Va8eow9HqIqFu82-80_1plzv2KcLXsJ7afI1vt4rh6C_um7_gRFYxCAjZ0mqbNwvu18_Jp9t-VnrLpHxbo1G0WmYJkd8pmwrpy-rlYy4Iw92ZE_0m0xz1C9DVg8HfDeZcaYgi-HeIQ_4w4_AcNN2ANI_GrbuvvI3F9fs8DMifWOBfxAwJ-Yzdaq3kGSm5HiaZOILkj2RzYBWkVUX_HdlXy8zD90xcyBt9j9xH3PxhpfVX7aDL_hHDRnaVc7O1B-V4FWJqjs7p6EeQ44_tfFmtuQbN1kYiEHq35YTjxrlREx1Znx-TFxVHigcIu5UbtoEwzYdx5yTWblGscuGmfiryN-zxhogu2X4eCMaAuxK4jTLZVDCyGCIzny-N98wLqpp6ivxT_dnTYyD8IXYpmX0r6AnIRVeOZ-1Q6O9B1KZaaUkGLGNzWYuMa4RGwvZwkktFYTnlVpWu1_vObaE2b_qePcXYpdv2E5Fgb3KJ18HWqIYF7haTAKRAKOUKWcG5QcGhGjGKZZGwtkZIfVM1KRCOIGbFeqPL2jF_QmR0KgPdDvk1CDgo5deV1nGLLg2rWpmJ83hy1GBUsokjyAYJ3jK2Ytim4BaYkVTqCVW7wIhe7jdTPkzqDG6u1THZVbKi4tmmiI-EGwwzP_8w4l4AD_sVo-dV-WnZAcSYIL8Aw0m49XTiHZyzy_O0SRHBZ7mKx7sAzqt81P02sMUiZjF6E1_XDcgM4RjaOsZK52j47qjT71GB5i-yduwiSO6N2zWn9uJZqa-MW5lFnJdD2XV67H1rmLKlAwPa-hXf8NpFodsyzPAtQ07sKsNnbaEGHE4lJG23NQW0d-_GZnhCVsy6Hy1e1UOCBxKYXjKmWpXCxEqTEO5VcHCRFi1OAN1IH64BBSOLcp9dTFavY9fBLksg3q6nGaCyaO9h-19N1mWHBY5OBWUdFOoBtGvhEEPPxt1TzWWuCScesxwIB028rIEGeMT3WYLNUTcwLJtXBCGghAztKNBZhv2sh4t10kT97DBZpwCllXKxwz4OHv2NNUeHAbDy8b8GPczJXHWRdCO-8u3yjbkJh03v675G7pvEJO3wo-ty7em2TshrXWn14eGJSLaeZOpRwbjbbmK4o_59LM3UmRVfxC0VnCPf5SP4NiwvZpW7q9Xd58JL6U0lbkmf9wojVQOAL3o5qeSNJX3s1wJqerpS8JcO2_q769_D24IJdsccP5MbHl46YhCQVjwiT3hgOF_UJxmkGUwVOfp5rfYuNyg-lWQYaB1_oT3UncujjcIy5eqIzxlpgjaQ3y-th20BE1vjDoZLdWTZT8fALQAqGuvNBABBIXZlMVpm6K0isRUv_C73IU822FiaISwalXSZNpu5maKaPUmHASNe2jQClei39EOKs2aLT4w6aSwDVgUbJOBrSmWArjtBIg13ZILmd_jo8ZG9a2dns8jyj5h_6BgfXY6PfrPVLQoWjuXaRjiW6LcwcIZBdNUDc1w0T7vsjdrsK-F1PNxwCRMun0b1wx_9XcHBipE7DG1XsPVU8CYVgS0ZjmE2kEu8vrtZ2t6kK8UBYGcig=w1227-h912"
+    },
+    {
+      "name": "NP",
+      "id": "7",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2003/10/01",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "POP",
+      "id": "8",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2004/09/01",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Trainer kits",
+      "id": "9",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2014/03/12",
+      "nomePt": "Kit de treinadores",
+      "image": ""
+    },
+    {
+      "name": "Diamond & Pearl",
+      "id": "10",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2007/05/01",
+      "nomePt": "Diamente e P?rola",
+      "image": "https://images.Pok?montcg.io/dp1/logo.png"
+    },
+    {
+      "name": "Platinum",
+      "id": "11",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2009/02/11",
+      "nomePt": "Platina",
+      "image": "https://images.Pok?montcg.io/pl1/logo.png"
+    },
+    {
+      "name": "HeartGold & SoulSilver",
+      "id": "12",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2010/02/10",
+      "nomePt": "",
+      "image": "https://images.Pok?montcg.io/hgss1/logo.png"
+    },
+    {
+      "name": "Black & White",
+      "id": "13",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2011/04/25",
+      "nomePt": "Preto e Branco",
+      "image": "https://images.Pok?montcg.io/bw1/logo.png"
+    },
+    {
+      "name": "XY",
+      "id": "14",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2014/02/05",
+      "nomePt": "",
+      "image": "https://images.Pok?montcg.io/xy1/logo.png"
+    },
+    {
+      "name": "Sun & Moon",
+      "id": "15",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2017/02/03",
+      "nomePt": "Sol e Lua",
+      "image": "https://images.Pok?montcg.io/sm1/logo.png"
+    },
+    {
+      "name": "Sword & Shield",
+      "id": "16",
+      "lastUpdate": "2024-05-07T18:00:00.000Z",
+      "releaseDate": "2020/02/07",
+      "nomePt": "Espada e Escudo",
+      "image": "https://images.Pok?montcg.io/swsh1/logo.png"
+    },
+    {
+      "name": "Scarlet & Violet",
+      "id": "17",
+      "lastUpdate": "2024-11-09T16:20:00.000Z",
+      "releaseDate": "2023/03/31",
+      "nomePt": "Escarlate e Violeta",
+      "image": "https://images.Pok?montcg.io/sv1/logo.png"
+    }
+  ]
 }
