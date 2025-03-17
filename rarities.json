@@ -1,6 +1,11 @@
 {
   "data": [
     {
+      "name": "ACE Rare",
+      "id": "15",
+      "nomePt": ""
+    },
+    {
       "name": "ACE SPEC",
       "id": "15",
       "nomePt": "ACE SPEC"
@@ -14,6 +19,21 @@
       "name": "Amazing Rare",
       "id": "28",
       "nomePt": "Amazing"
+    },
+    {
+      "name": "Art Rare",
+      "id": "31",
+      "nomePt": ""
+    },
+    {
+      "name": "Character Rare",
+      "id": "27",
+      "nomePt": ""
+    },
+    {
+      "name": "Character Super Rare",
+      "id": "32",
+      "nomePt": ""
     },
     {
       "name": "Classic Collection",
@@ -41,6 +61,26 @@
       "nomePt": "Ilustra??o"
     },
     {
+      "name": "LEGEND",
+      "id": "13",
+      "nomePt": ""
+    },
+    {
+      "name": "None",
+      "id": "10",
+      "nomePt": ""
+    },
+    {
+      "name": "Prism Rare",
+      "id": "19",
+      "nomePt": ""
+    },
+    {
+      "name": "Promo",
+      "id": "4",
+      "nomePt": ""
+    },
+    {
       "name": "Radiant Rare",
       "id": "25",
       "nomePt": "Radiante"
@@ -49,6 +89,11 @@
       "name": "Rare",
       "id": "3",
       "nomePt": "Rara"
+    },
+    {
+      "name": "Rare Amazing",
+      "id": "28",
+      "nomePt": ""
     },
     {
       "name": "Rare BREAK",
@@ -106,6 +151,11 @@
       "nomePt": "Estrela Prisma"
     },
     {
+      "name": "Rare Radiant",
+      "id": "25",
+      "nomePt": ""
+    },
+    {
       "name": "Rare Rainbow",
       "id": "18",
       "nomePt": "Arco-?ris"
@@ -136,9 +186,19 @@
       "nomePt": "Ultra Rara"
     },
     {
+      "name": "Shiny",
+      "id": "20",
+      "nomePt": ""
+    },
+    {
       "name": "Shiny Rare",
       "id": "20",
       "nomePt": "Shiny"
+    },
+    {
+      "name": "Shiny Super Rare",
+      "id": "35",
+      "nomePt": ""
     },
     {
       "name": "Shiny Ultra Rare",
@@ -146,14 +206,34 @@
       "nomePt": "Brilhante Ultra"
     },
     {
+      "name": "Special Art Rare",
+      "id": "33",
+      "nomePt": ""
+    },
+    {
       "name": "Special Illustration Rare",
       "id": "33",
       "nomePt": "Ilustra??o Especial"
     },
     {
+      "name": "Super Rare",
+      "id": "32",
+      "nomePt": ""
+    },
+    {
       "name": "Trainer Gallery Rare Holo",
       "id": "27",
       "nomePt": "Trainer Gallery"
+    },
+    {
+      "name": "Trainer Rare",
+      "id": "4",
+      "nomePt": ""
+    },
+    {
+      "name": "Triple Rare",
+      "id": "",
+      "nomePt": ""
     },
     {
       "name": "Ultra Rare",
