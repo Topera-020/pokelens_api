@@ -3,7 +3,6 @@
     {
       "name": "Base",
       "id": "1",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "1999/01/09",
       "nomePt": "",
       "image": "https://images.pokemontcg.io/base1/logo.png"
@@ -11,7 +10,6 @@
     {
       "name": "Gym",
       "id": "2",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2000/08/14",
       "nomePt": "",
       "image": ""
@@ -19,7 +17,6 @@
     {
       "name": "Neo",
       "id": "3",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2000/12/16",
       "nomePt": "",
       "image": ""
@@ -27,7 +24,6 @@
     {
       "name": "Other",
       "id": "4",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2001/07/31",
       "nomePt": "Outras",
       "image": ""
@@ -35,7 +31,6 @@
     {
       "name": "E-Card",
       "id": "5",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2002/09/15",
       "nomePt": "E-Serie",
       "image": ""
@@ -43,7 +38,6 @@
     {
       "name": "EX",
       "id": "6",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2003/07/01",
       "nomePt": "",
       "image": ""
@@ -51,7 +45,6 @@
     {
       "name": "NP",
       "id": "7",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2003/10/01",
       "nomePt": "",
       "image": ""
@@ -59,7 +52,6 @@
     {
       "name": "POP",
       "id": "8",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2004/09/01",
       "nomePt": "",
       "image": ""
@@ -67,7 +59,6 @@
     {
       "name": "Trainer kits",
       "id": "9",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2014/03/12",
       "nomePt": "Kit de treinadores",
       "image": ""
@@ -75,7 +66,6 @@
     {
       "name": "Diamond & Pearl",
       "id": "10",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2007/05/01",
       "nomePt": "Diamente e P?rola",
       "image": "https://images.pokemontcg.io/dp1/logo.png"
@@ -83,7 +73,6 @@
     {
       "name": "Platinum",
       "id": "11",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2009/02/11",
       "nomePt": "Platina",
       "image": "https://images.pokemontcg.io/pl1/logo.png"
@@ -91,7 +80,6 @@
     {
       "name": "HeartGold & SoulSilver",
       "id": "12",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2010/02/10",
       "nomePt": "",
       "image": "https://images.pokemontcg.io/hgss1/logo.png"
@@ -99,7 +87,6 @@
     {
       "name": "Black & White",
       "id": "13",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2011/04/25",
       "nomePt": "Preto e Branco",
       "image": "https://images.pokemontcg.io/bw1/logo.png"
@@ -107,7 +94,6 @@
     {
       "name": "XY",
       "id": "14",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2014/02/05",
       "nomePt": "",
       "image": "https://images.pokemontcg.io/xy1/logo.png"
@@ -115,7 +101,6 @@
     {
       "name": "Sun & Moon",
       "id": "15",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2017/02/03",
       "nomePt": "Sol e Lua",
       "image": "https://images.pokemontcg.io/sm1/logo.png"
@@ -123,7 +108,6 @@
     {
       "name": "Sword & Shield",
       "id": "16",
-      "lastUpdate": "2024-05-07T18:00:00.000Z",
       "releaseDate": "2020/02/07",
       "nomePt": "Espada e Escudo",
       "image": "https://images.pokemontcg.io/swsh1/logo.png"
@@ -131,7 +115,6 @@
     {
       "name": "Scarlet & Violet",
       "id": "17",
-      "lastUpdate": "2024-11-09T16:20:00.000Z",
       "releaseDate": "2023/03/31",
       "nomePt": "Escarlate e Violeta",
       "image": "https://images.pokemontcg.io/sv1/logo.png"
