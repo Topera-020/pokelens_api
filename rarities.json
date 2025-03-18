@@ -1,3 +1,298 @@
 {
-  "data": []
+  "data": [
+    {
+      "name": "ACE Rare",
+      "id": "15",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "ACE SPEC",
+      "id": "15",
+      "nomePt": "ACE SPEC",
+      "image": ""
+    },
+    {
+      "name": "ACE SPEC Rare",
+      "id": "15",
+      "nomePt": "ACE SPEC",
+      "image": ""
+    },
+    {
+      "name": "Amazing Rare",
+      "id": "28",
+      "nomePt": "Amazing",
+      "image": ""
+    },
+    {
+      "name": "Art Rare",
+      "id": "31",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Character Rare",
+      "id": "27",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Character Super Rare",
+      "id": "32",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Classic Collection",
+      "id": "24",
+      "nomePt": "Cole??o Cl?ssica",
+      "image": ""
+    },
+    {
+      "name": "Common",
+      "id": "1",
+      "nomePt": "Comum",
+      "image": ""
+    },
+    {
+      "name": "Double Rare",
+      "id": "30",
+      "nomePt": "Double",
+      "image": ""
+    },
+    {
+      "name": "Hyper Rare",
+      "id": "29",
+      "nomePt": "Hiper",
+      "image": ""
+    },
+    {
+      "name": "Illustration Rare",
+      "id": "31",
+      "nomePt": "Ilustra??o",
+      "image": ""
+    },
+    {
+      "name": "LEGEND",
+      "id": "13",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "None",
+      "id": "10",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Prism Rare",
+      "id": "19",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Promo",
+      "id": "4",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Radiant Rare",
+      "id": "25",
+      "nomePt": "Radiante",
+      "image": ""
+    },
+    {
+      "name": "Rare",
+      "id": "3",
+      "nomePt": "Rara",
+      "image": ""
+    },
+    {
+      "name": "Rare Amazing",
+      "id": "28",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Rare BREAK",
+      "id": "16",
+      "nomePt": "BREAK",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo",
+      "id": "5",
+      "nomePt": "Holo",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo EX",
+      "id": "8",
+      "nomePt": "Holo EX",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo GX",
+      "id": "17",
+      "nomePt": "GX",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo LV.X",
+      "id": "11",
+      "nomePt": "Holo LV.X",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo Star",
+      "id": "9",
+      "nomePt": "Holo Star",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo V",
+      "id": "22",
+      "nomePt": "V",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo VMAX",
+      "id": "23",
+      "nomePt": "VMAX",
+      "image": ""
+    },
+    {
+      "name": "Rare Holo VSTAR",
+      "id": "26",
+      "nomePt": "VSTAR",
+      "image": ""
+    },
+    {
+      "name": "Rare Prime",
+      "id": "12",
+      "nomePt": "Prime",
+      "image": ""
+    },
+    {
+      "name": "Rare Prism Star",
+      "id": "19",
+      "nomePt": "Estrela Prisma",
+      "image": ""
+    },
+    {
+      "name": "Rare Radiant",
+      "id": "25",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Rare Rainbow",
+      "id": "18",
+      "nomePt": "Arco-?ris",
+      "image": ""
+    },
+    {
+      "name": "Rare Secret",
+      "id": "6",
+      "nomePt": "Secreta",
+      "image": ""
+    },
+    {
+      "name": "Rare Shining",
+      "id": "7",
+      "nomePt": "Shining",
+      "image": ""
+    },
+    {
+      "name": "Rare Shiny",
+      "id": "20",
+      "nomePt": "Brilhante",
+      "image": ""
+    },
+    {
+      "name": "Rare Shiny GX",
+      "id": "21",
+      "nomePt": "Brilhante GX",
+      "image": ""
+    },
+    {
+      "name": "Rare Ultra",
+      "id": "14",
+      "nomePt": "Ultra Rara",
+      "image": ""
+    },
+    {
+      "name": "Shiny",
+      "id": "20",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Shiny Rare",
+      "id": "20",
+      "nomePt": "Shiny",
+      "image": ""
+    },
+    {
+      "name": "Shiny Super Rare",
+      "id": "35",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Shiny Ultra Rare",
+      "id": "35",
+      "nomePt": "Brilhante Ultra",
+      "image": ""
+    },
+    {
+      "name": "Special Art Rare",
+      "id": "33",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Special Illustration Rare",
+      "id": "33",
+      "nomePt": "Ilustra??o Especial",
+      "image": ""
+    },
+    {
+      "name": "Super Rare",
+      "id": "32",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Trainer Gallery Rare Holo",
+      "id": "27",
+      "nomePt": "Trainer Gallery",
+      "image": ""
+    },
+    {
+      "name": "Trainer Rare",
+      "id": "4",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Triple Rare",
+      "id": "",
+      "nomePt": "",
+      "image": ""
+    },
+    {
+      "name": "Ultra Rare",
+      "id": "32",
+      "nomePt": "Ultra Rara",
+      "image": ""
+    },
+    {
+      "name": "Uncommon",
+      "id": "2",
+      "nomePt": "Incomum",
+      "image": ""
+    }
+  ]
 }
