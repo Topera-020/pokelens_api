@@ -1,82 +1,52 @@
 {
   "data": [
     {
-      "name": "ACE Rare",
-      "id": "15",
-      "nomePt": "",
-      "image": ""
-    },
-    {
       "name": "ACE SPEC",
       "id": "15",
       "nomePt": "ACE SPEC",
-      "image": ""
-    },
-    {
-      "name": "ACE SPEC Rare",
-      "id": "15",
-      "nomePt": "ACE SPEC",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPbvIeKdHnMh7F21bCiJHI_G8oJSFG4Ktdp4FzE5FyB-p-7P7A0jg5Jlcqtqgldy0LL2Y2VBdhGgPK93FsuV9D3jxB5P80S0vQIzcaDd6hkgV1xTPGqwgzM_5rl1ZRNOilMK_fsHyot44N4Hm2zTlx8=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Amazing Rare",
       "id": "28",
       "nomePt": "Amazing",
-      "image": ""
-    },
-    {
-      "name": "Art Rare",
-      "id": "31",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Character Rare",
-      "id": "27",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Character Super Rare",
-      "id": "32",
-      "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOOClsmLgF4qQJwMBcOkZu77yMzc1TAjMSIVfTuS1UFuF7j65u5jAPQWQkHKbf4cBqS5o15D1xEqdVGGRfsmqLVVOjFyIwY-eT8_khIgQz7HxWF-D9QU0p8gIBL1z8RwRfn71SP1BTeua8AnSsqGaZi=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Classic Collection",
       "id": "24",
       "nomePt": "Cole??o Cl?ssica",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPlYKERFW-wsW4OXwoNM9LmbBuDYfnRpXSGnDL5httEZ03lH9BQkaFxZ6NV6h4p5t2InXn6oRIsCYNXp3_rLO-Up-RguccPwO88qwl__dSaFEWuMAC01DKFQ2DLlHc1BR6f0B9k19_DNVz2FXVoz-1C=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Common",
       "id": "1",
       "nomePt": "Comum",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczM2c00OAnuHkLjW3D-30gf5b7rNjcvLkWQPJpj6pbkGehtQTFfS-p__YKfsdx0jfnw2wF6f0RPuaTSLO0qsF1tJOgWAZjG9TSrs_2lE7pYe-W0gOIwmQQw7HBLfqEw2ZYxIQtnNk624vAMbFbEC1WSo=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Double Rare",
       "id": "30",
       "nomePt": "Double",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOFaknCaPaXTKZhp4Lb8jyMrp9bxYiLjV68sbQ7k5UsQwQRXaoiNXyov5fcgdsOa6eOEJeRC0NJAxN5KHSmc4FYTt8CDlVwBmuczNTw9L92VVmMfYLX5Si4M0ZkuoqbcT0wFjvu1GM679PqlJuo-zIJ=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Hyper Rare",
       "id": "29",
       "nomePt": "Hiper",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMf1GXSoto5X6QiSy4sxZmfLLsniP6Pp_W-_TD_xweR88mJmJ4_aqFrN6mK-oFVztnVO21ORzzt7_49V1NcMu30jztfn6YCLvTwXpqRQS_PDNvNH-D9MUfRGHXQI-JjhGTOLiIJvP4AEpNx_HiMi4MB=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Illustration Rare",
       "id": "31",
       "nomePt": "Ilustra??o",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOWmpi2ZC970vHtXTjs7tw6UU8SzKsOrQcyKPG_IwOyTVUcP_tiybXabuGmqUTWanaqDzxHBJUkDNbyFm-Kyd7Y5XY9zepi-jEcZiDEzvoq8t2w3pw_XRk2y3mqWO4bgB03tKImf9kwpwLmfA5TEIGv=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "LEGEND",
       "id": "13",
       "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOWmpi2ZC970vHtXTjs7tw6UU8SzKsOrQcyKPG_IwOyTVUcP_tiybXabuGmqUTWanaqDzxHBJUkDNbyFm-Kyd7Y5XY9zepi-jEcZiDEzvoq8t2w3pw_XRk2y3mqWO4bgB03tKImf9kwpwLmfA5TEIGv=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "None",
@@ -85,34 +55,22 @@
       "image": ""
     },
     {
-      "name": "Prism Rare",
-      "id": "19",
-      "nomePt": "",
-      "image": ""
-    },
-    {
       "name": "Promo",
       "id": "4",
       "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMVV58104g4FlVNIURdSsX5htaFZlhrvsgQk77CnfPs1e7gxGzdeIitp-wwEzSu2yhFbtBvVmQkDU-wEQOcX5xKf48Fs10bgbX_B_dDile3owSAfHid9-RN-HzHS8x6LTrMwkoYXNJLhGC1a2sAG-n9=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Radiant Rare",
       "id": "25",
       "nomePt": "Radiante",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare",
       "id": "3",
       "nomePt": "Rara",
-      "image": ""
-    },
-    {
-      "name": "Rare Amazing",
-      "id": "28",
-      "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMukZHwz_T3QPBGIad_AuAWtg_bbiFB4OEhMES4FdTLf8diDTfFcXqnSYwodVBS8rCcu194VoQkK749keLdZ1Q8TGxqj8WlN0R0_qsukVnN4wgFSGKu4czt_M3iLEhyx0QB7fmeYe8aT9S4edxw51py=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Rare BREAK",
@@ -124,49 +82,49 @@
       "name": "Rare Holo",
       "id": "5",
       "nomePt": "Holo",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMukZHwz_T3QPBGIad_AuAWtg_bbiFB4OEhMES4FdTLf8diDTfFcXqnSYwodVBS8rCcu194VoQkK749keLdZ1Q8TGxqj8WlN0R0_qsukVnN4wgFSGKu4czt_M3iLEhyx0QB7fmeYe8aT9S4edxw51py=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo EX",
       "id": "8",
       "nomePt": "Holo EX",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMukZHwz_T3QPBGIad_AuAWtg_bbiFB4OEhMES4FdTLf8diDTfFcXqnSYwodVBS8rCcu194VoQkK749keLdZ1Q8TGxqj8WlN0R0_qsukVnN4wgFSGKu4czt_M3iLEhyx0QB7fmeYe8aT9S4edxw51py=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo GX",
       "id": "17",
       "nomePt": "GX",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo LV.X",
       "id": "11",
       "nomePt": "Holo LV.X",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOWmpi2ZC970vHtXTjs7tw6UU8SzKsOrQcyKPG_IwOyTVUcP_tiybXabuGmqUTWanaqDzxHBJUkDNbyFm-Kyd7Y5XY9zepi-jEcZiDEzvoq8t2w3pw_XRk2y3mqWO4bgB03tKImf9kwpwLmfA5TEIGv=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo Star",
       "id": "9",
       "nomePt": "Holo Star",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo V",
       "id": "22",
       "nomePt": "V",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo VMAX",
       "id": "23",
       "nomePt": "VMAX",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Holo VSTAR",
       "id": "26",
       "nomePt": "VSTAR",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Prime",
@@ -181,12 +139,6 @@
       "image": ""
     },
     {
-      "name": "Rare Radiant",
-      "id": "25",
-      "nomePt": "",
-      "image": ""
-    },
-    {
       "name": "Rare Rainbow",
       "id": "18",
       "nomePt": "Arco-?ris",
@@ -196,103 +148,61 @@
       "name": "Rare Secret",
       "id": "6",
       "nomePt": "Secreta",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Shining",
       "id": "7",
       "nomePt": "Shining",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPFocXlRzbVhQPLoVIUox1yuFk1Wiyxx1D-VU0GUGEsswrgLYby57CYb3zvL1SCPGxUL0q-qDBJog8HLs8_-nKop7Ndaz0OBlhzCgb9gwr4bMKg8hrY6A-qfDJHheEpJFdyOWpmrgBj4m3oGjU3KoEU=w353-h361-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Shiny",
       "id": "20",
       "nomePt": "Brilhante",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPFocXlRzbVhQPLoVIUox1yuFk1Wiyxx1D-VU0GUGEsswrgLYby57CYb3zvL1SCPGxUL0q-qDBJog8HLs8_-nKop7Ndaz0OBlhzCgb9gwr4bMKg8hrY6A-qfDJHheEpJFdyOWpmrgBj4m3oGjU3KoEU=w353-h361-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Shiny GX",
       "id": "21",
       "nomePt": "Brilhante GX",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Rare Ultra",
       "id": "14",
       "nomePt": "Ultra Rara",
-      "image": ""
-    },
-    {
-      "name": "Shiny",
-      "id": "20",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Shiny Rare",
-      "id": "20",
-      "nomePt": "Shiny",
-      "image": ""
-    },
-    {
-      "name": "Shiny Super Rare",
-      "id": "35",
-      "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPuHDkGUhTm41ZwRkFSsuM6jjteP_f8v-uR1v6WBQ4zxXq0a-Un_BEvlAg84uD613fpsU_r24KhsCttlRECm6Qx_b3_WyzMLP2q6Ug3L6Wa0macX-FYQmAQ_BUiGQ5-KGRC5fWMBxbIZ1y7cY3PqdDP=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Shiny Ultra Rare",
       "id": "35",
       "nomePt": "Brilhante Ultra",
-      "image": ""
-    },
-    {
-      "name": "Special Art Rare",
-      "id": "33",
-      "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczO4Yp8nIjISO9MjjX815D5mFnt8SyUa6_9YRNQk0V-0hQo2JbPkLxb-iE7bHEmlzxc32Up0Si6_zs_MmMEtr_JTuMupOoKTbbgDyWF8vQWgYjuSyAuPP41vNx_0ne6SOc8Lso5bEdhbFpLjNaIoPhTo=w300-h300-s-no-gm?authuser=0"
     },
     {
       "name": "Special Illustration Rare",
       "id": "33",
       "nomePt": "Ilustra??o Especial",
-      "image": ""
-    },
-    {
-      "name": "Super Rare",
-      "id": "32",
-      "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczOpdSDC0iG706FRQpmFg1nU0Aohm-oADXiQFkLSPy6aaOdAGl2NFNboP7racwnh_Vd257t7I1ssZaumDXVr7CTFhApOCYWNNDDJ56O4y8_jf6VS_dilinfKGT2mss5UdvJ_cE2F3m5MbhBwckRRT2cV=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Trainer Gallery Rare Holo",
       "id": "27",
       "nomePt": "Trainer Gallery",
-      "image": ""
-    },
-    {
-      "name": "Trainer Rare",
-      "id": "4",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Triple Rare",
-      "id": "",
-      "nomePt": "",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczNddSzKgJrJSgUkzsAxalJXE_dq6iHG2tzulJJ1qUkPX6QK0TyKq-Dyy2PiqYNh3jAo_n2yHbvcMjelhX_gS78yW2YfKSJDjozBaxcCjZ_f2d7_Ln_warScEl6d1MQexJqS59dkJ2pYxYKa7672UCZa=w980-h980-s-no-gm?authuser=0"
     },
     {
       "name": "Ultra Rare",
       "id": "32",
       "nomePt": "Ultra Rara",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczPuHDkGUhTm41ZwRkFSsuM6jjteP_f8v-uR1v6WBQ4zxXq0a-Un_BEvlAg84uD613fpsU_r24KhsCttlRECm6Qx_b3_WyzMLP2q6Ug3L6Wa0macX-FYQmAQ_BUiGQ5-KGRC5fWMBxbIZ1y7cY3PqdDP=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Uncommon",
       "id": "2",
       "nomePt": "Incomum",
-      "image": ""
+      "image": "https://lh3.googleusercontent.com/pw/AP1GczMzR55gG6ZrrC1p0c0pIR0k_fe5Uh2ZBeWaJBy17GZGw20dd8ksbcEJMPoksuk4hL2INjT4y2uthuHYO0xi-6Qh42EqJE9qTiS4YQH0g3y9E7SLG4FPI_12nXTj1EUN8dn56a3_EGJ2BX_OhS8qAsJv=w600-h600-s-no-gm?authuser=0"
     }
   ]
 }
