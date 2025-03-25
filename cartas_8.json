@@ -12,6 +12,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "heal energy (8/17)",
+      "myp": "pop4_008",
       "image": "https://images.pokemontcg.io/pop4/8.png"
     },
     {
@@ -26,6 +28,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "scramble energy (10/17)",
+      "myp": "pop4_010",
       "image": "https://images.pokemontcg.io/pop4/10.png"
     },
     {
@@ -41,6 +45,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "double rainbow energy (4/17)",
+      "myp": "pop5_004",
       "image": "https://images.pokemontcg.io/pop5/4.png"
     },
     {
@@ -55,6 +61,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "boost energy (8/17)",
+      "myp": "pop5_008",
       "image": "https://images.pokemontcg.io/pop5/8.png"
     },
     {
@@ -70,6 +78,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "rainbow energy (9/17)",
+      "myp": "pop5_009",
       "image": "https://images.pokemontcg.io/pop5/9.png"
     },
     {
@@ -87,6 +97,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "blaziken (1/17)",
+      "myp": "pop1_001",
       "image": "https://images.pokemontcg.io/pop1/1.png"
     },
     {
@@ -104,6 +116,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "torkoal (10/17)",
+      "myp": "pop1_010",
       "image": "https://images.pokemontcg.io/pop1/10.png"
     },
     {
@@ -121,6 +135,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "larvitar (11/17)",
+      "myp": "pop1_011",
       "image": "https://images.pokemontcg.io/pop1/11.png"
     },
     {
@@ -138,6 +154,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "minun (12/17)",
+      "myp": "pop1_012",
       "image": "https://images.pokemontcg.io/pop1/12.png"
     },
     {
@@ -155,6 +173,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "plusle (13/17)",
+      "myp": "pop1_013",
       "image": "https://images.pokemontcg.io/pop1/13.png"
     },
     {
@@ -172,6 +192,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "surskit (14/17)",
+      "myp": "pop1_014",
       "image": "https://images.pokemontcg.io/pop1/14.png"
     },
     {
@@ -189,6 +211,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "swellow (15/17)",
+      "myp": "pop1_015",
       "image": "https://images.pokemontcg.io/pop1/15.png"
     },
     {
@@ -206,6 +230,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "armaldo ex (16/17)",
+      "myp": "pop1_016",
       "image": "https://images.pokemontcg.io/pop1/16.png"
     },
     {
@@ -223,6 +249,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "tyranitar ex (17/17)",
+      "myp": "pop1_017",
       "image": "https://images.pokemontcg.io/pop1/17.png"
     },
     {
@@ -240,6 +268,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "metagross (2/17)",
+      "myp": "pop1_002",
       "image": "https://images.pokemontcg.io/pop1/2.png"
     },
     {
@@ -257,6 +287,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "rayquaza (3/17)",
+      "myp": "pop1_003",
       "image": "https://images.pokemontcg.io/pop1/3.png"
     },
     {
@@ -274,6 +306,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "sceptile (4/17)",
+      "myp": "pop1_004",
       "image": "https://images.pokemontcg.io/pop1/4.png"
     },
     {
@@ -291,6 +325,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "swampert (5/17)",
+      "myp": "pop1_005",
       "image": "https://images.pokemontcg.io/pop1/5.png"
     },
     {
@@ -308,6 +344,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "beautifly (6/17)",
+      "myp": "pop1_006",
       "image": "https://images.pokemontcg.io/pop1/6.png"
     },
     {
@@ -325,6 +363,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "masquerain (7/17)",
+      "myp": "pop1_007",
       "image": "https://images.pokemontcg.io/pop1/7.png"
     },
     {
@@ -342,6 +382,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "murkrow (8/17)",
+      "myp": "pop1_008",
       "image": "https://images.pokemontcg.io/pop1/8.png"
     },
     {
@@ -359,6 +401,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "pupitar (9/17)",
+      "myp": "pop1_009",
       "image": "https://images.pokemontcg.io/pop1/9.png"
     },
     {
@@ -376,6 +420,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "entei (1/17)",
+      "myp": "pop2_001",
       "image": "https://images.pokemontcg.io/pop2/1.png"
     },
     {
@@ -391,6 +437,8 @@
       "nameClear": "Pokémon park",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "Pokémon park (10/17)",
+      "myp": "pop2_010",
       "image": "https://images.pokemontcg.io/pop2/10.png"
     },
     {
@@ -406,6 +454,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "tv reporter (11/17)",
+      "myp": "pop2_011",
       "image": "https://images.pokemontcg.io/pop2/11.png"
     },
     {
@@ -423,6 +473,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "bulbasaur (12/17)",
+      "myp": "pop2_012",
       "image": "https://images.pokemontcg.io/pop2/12.png"
     },
     {
@@ -440,6 +492,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "cacnea (13/17)",
+      "myp": "pop2_013",
       "image": "https://images.pokemontcg.io/pop2/13.png"
     },
     {
@@ -457,6 +511,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "luvdisc (14/17)",
+      "myp": "pop2_014",
       "image": "https://images.pokemontcg.io/pop2/14.png"
     },
     {
@@ -474,6 +530,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "phanpy (15/17)",
+      "myp": "pop2_015",
       "image": "https://images.pokemontcg.io/pop2/15.png"
     },
     {
@@ -491,6 +549,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "pikachu (16/17)",
+      "myp": "pop2_016",
       "image": "https://images.pokemontcg.io/pop2/16.png"
     },
     {
@@ -508,6 +568,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "celebi ex (17/17)",
+      "myp": "pop2_017",
       "image": "https://images.pokemontcg.io/pop2/17.png"
     },
     {
@@ -525,6 +587,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "pidgeot (2/17)",
+      "myp": "pop2_002",
       "image": "https://images.pokemontcg.io/pop2/2.png"
     },
     {
@@ -542,6 +606,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "raikou (3/17)",
+      "myp": "pop2_003",
       "image": "https://images.pokemontcg.io/pop2/3.png"
     },
     {
@@ -559,6 +625,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "suicune (4/17)",
+      "myp": "pop2_004",
       "image": "https://images.pokemontcg.io/pop2/4.png"
     },
     {
@@ -576,6 +644,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "tauros (5/17)",
+      "myp": "pop2_005",
       "image": "https://images.pokemontcg.io/pop2/5.png"
     },
     {
@@ -593,6 +663,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "venusaur (6/17)",
+      "myp": "pop2_006",
       "image": "https://images.pokemontcg.io/pop2/6.png"
     },
     {
@@ -610,6 +682,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "ivysaur (7/17)",
+      "myp": "pop2_007",
       "image": "https://images.pokemontcg.io/pop2/7.png"
     },
     {
@@ -624,6 +698,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "mr. briney's compassion (8/17)",
+      "myp": "pop2_008",
       "image": "https://images.pokemontcg.io/pop2/8.png"
     },
     {
@@ -638,6 +714,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "multi technical machine 01 (9/17)",
+      "myp": "pop2_009",
       "image": "https://images.pokemontcg.io/pop2/9.png"
     },
     {
@@ -655,6 +733,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "blastoise (1/17)",
+      "myp": "pop3_001",
       "image": "https://images.pokemontcg.io/pop3/1.png"
     },
     {
@@ -669,6 +749,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "high pressure system (10/17)",
+      "myp": "pop3_010",
       "image": "https://images.pokemontcg.io/pop3/10.png"
     },
     {
@@ -683,6 +765,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "low pressure system (11/17)",
+      "myp": "pop3_011",
       "image": "https://images.pokemontcg.io/pop3/11.png"
     },
     {
@@ -700,6 +784,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "ditto (12/17)",
+      "myp": "pop3_012",
       "image": "https://images.pokemontcg.io/pop3/12.png"
     },
     {
@@ -717,6 +803,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "eevee (13/17)",
+      "myp": "pop3_013",
       "image": "https://images.pokemontcg.io/pop3/13.png"
     },
     {
@@ -734,6 +822,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "ivysaur (14/17)",
+      "myp": "pop3_014",
       "image": "https://images.pokemontcg.io/pop3/14.png"
     },
     {
@@ -751,6 +841,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "marshtomp (15/17)",
+      "myp": "pop3_015",
       "image": "https://images.pokemontcg.io/pop3/15.png"
     },
     {
@@ -768,6 +860,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "pichu bros. (16/17)",
+      "myp": "pop3_016",
       "image": "https://images.pokemontcg.io/pop3/16.png"
     },
     {
@@ -785,6 +879,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "ho-oh ex (17/17)",
+      "myp": "pop3_017",
       "image": "https://images.pokemontcg.io/pop3/17.png"
     },
     {
@@ -802,6 +898,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "flareon (2/17)",
+      "myp": "pop3_002",
       "image": "https://images.pokemontcg.io/pop3/2.png"
     },
     {
@@ -819,6 +917,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "jolteon (3/17)",
+      "myp": "pop3_003",
       "image": "https://images.pokemontcg.io/pop3/3.png"
     },
     {
@@ -836,6 +936,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "minun (4/17)",
+      "myp": "pop3_004",
       "image": "https://images.pokemontcg.io/pop3/4.png"
     },
     {
@@ -853,6 +955,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "plusle (5/17)",
+      "myp": "pop3_005",
       "image": "https://images.pokemontcg.io/pop3/5.png"
     },
     {
@@ -870,6 +974,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "vaporeon (6/17)",
+      "myp": "pop3_006",
       "image": "https://images.pokemontcg.io/pop3/6.png"
     },
     {
@@ -887,6 +993,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "combusken (7/17)",
+      "myp": "pop3_007",
       "image": "https://images.pokemontcg.io/pop3/7.png"
     },
     {
@@ -904,6 +1012,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "donphan (8/17)",
+      "myp": "pop3_008",
       "image": "https://images.pokemontcg.io/pop3/8.png"
     },
     {
@@ -921,6 +1031,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "forretress (9/17)",
+      "myp": "pop3_009",
       "image": "https://images.pokemontcg.io/pop3/9.png"
     },
     {
@@ -939,6 +1051,8 @@
       "nameClear": "chimecho",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "chimecho (1/17)",
+      "myp": "pop4_001",
       "image": "https://images.pokemontcg.io/pop4/1.png"
     },
     {
@@ -956,6 +1070,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "mudkip (11/17)",
+      "myp": "pop4_011",
       "image": "https://images.pokemontcg.io/pop4/11.png"
     },
     {
@@ -973,6 +1089,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "pidgey (12/17)",
+      "myp": "pop4_012",
       "image": "https://images.pokemontcg.io/pop4/12.png"
     },
     {
@@ -990,6 +1108,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "pikachu (13/17)",
+      "myp": "pop4_013",
       "image": "https://images.pokemontcg.io/pop4/13.png"
     },
     {
@@ -1007,6 +1127,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "squirtle (14/17)",
+      "myp": "pop4_014",
       "image": "https://images.pokemontcg.io/pop4/14.png"
     },
     {
@@ -1025,6 +1147,8 @@
       "nameClear": "treecko",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "treecko (15/17)",
+      "myp": "pop4_015",
       "image": "https://images.pokemontcg.io/pop4/15.png"
     },
     {
@@ -1042,6 +1166,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "wobbuffet (16/17)",
+      "myp": "pop4_016",
       "image": "https://images.pokemontcg.io/pop4/16.png"
     },
     {
@@ -1059,6 +1185,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "deoxys ex (17/17)",
+      "myp": "pop4_017",
       "image": "https://images.pokemontcg.io/pop4/17.png"
     },
     {
@@ -1077,6 +1205,8 @@
       "nameClear": "deoxys",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "deoxys (2/17)",
+      "myp": "pop4_002",
       "image": "https://images.pokemontcg.io/pop4/2.png"
     },
     {
@@ -1094,6 +1224,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "flygon (3/17)",
+      "myp": "pop4_003",
       "image": "https://images.pokemontcg.io/pop4/3.png"
     },
     {
@@ -1111,6 +1243,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "mew (4/17)",
+      "myp": "pop4_004",
       "image": "https://images.pokemontcg.io/pop4/4.png"
     },
     {
@@ -1128,6 +1262,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "sceptile (5/17)",
+      "myp": "pop4_005",
       "image": "https://images.pokemontcg.io/pop4/5.png"
     },
     {
@@ -1145,6 +1281,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "combusken (6/17)",
+      "myp": "pop4_006",
       "image": "https://images.pokemontcg.io/pop4/6.png"
     },
     {
@@ -1162,6 +1300,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "grovyle (7/17)",
+      "myp": "pop4_007",
       "image": "https://images.pokemontcg.io/pop4/7.png"
     },
     {
@@ -1178,6 +1318,8 @@
       "nameClear": "Pokémon fan club",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "Pokémon fan club (9/17)",
+      "myp": "pop4_009",
       "image": "https://images.pokemontcg.io/pop4/9.png"
     },
     {
@@ -1195,6 +1337,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "ho-oh (1/17)",
+      "myp": "pop5_001",
       "image": "https://images.pokemontcg.io/pop5/1.png"
     },
     {
@@ -1213,6 +1357,8 @@
       "nameClear": "charmander",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "charmander (10/17)",
+      "myp": "pop5_010",
       "image": "https://images.pokemontcg.io/pop5/10.png"
     },
     {
@@ -1231,6 +1377,8 @@
       "nameClear": "meowth",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "meowth (11/17)",
+      "myp": "pop5_011",
       "image": "https://images.pokemontcg.io/pop5/11.png"
     },
     {
@@ -1248,6 +1396,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "pikachu (12/17)",
+      "myp": "pop5_012",
       "image": "https://images.pokemontcg.io/pop5/12.png"
     },
     {
@@ -1266,6 +1416,8 @@
       "nameClear": "pikachu",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "pikachu (13/17)",
+      "myp": "pop5_013",
       "image": "https://images.pokemontcg.io/pop5/13.png"
     },
     {
@@ -1284,6 +1436,8 @@
       "nameClear": "pelipper",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "pelipper (14/17)",
+      "myp": "pop5_014",
       "image": "https://images.pokemontcg.io/pop5/14.png"
     },
     {
@@ -1302,6 +1456,8 @@
       "nameClear": "zangoose",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "zangoose (15/17)",
+      "myp": "pop5_015",
       "image": "https://images.pokemontcg.io/pop5/15.png"
     },
     {
@@ -1320,6 +1476,8 @@
       "nameClear": "espeon star",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "espeon star (16/17)",
+      "myp": "pop5_016",
       "image": "https://images.pokemontcg.io/pop5/16.png"
     },
     {
@@ -1338,6 +1496,8 @@
       "nameClear": "umbreon star",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "umbreon star (17/17)",
+      "myp": "pop5_017",
       "image": "https://images.pokemontcg.io/pop5/17.png"
     },
     {
@@ -1355,6 +1515,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "lugia (2/17)",
+      "myp": "pop5_002",
       "image": "https://images.pokemontcg.io/pop5/2.png"
     },
     {
@@ -1373,6 +1535,8 @@
       "nameClear": "mew",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "mew (3/17)",
+      "myp": "pop5_003",
       "image": "https://images.pokemontcg.io/pop5/3.png"
     },
     {
@@ -1391,6 +1555,8 @@
       "nameClear": "charmeleon",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "charmeleon (5/17)",
+      "myp": "pop5_005",
       "image": "https://images.pokemontcg.io/pop5/5.png"
     },
     {
@@ -1406,6 +1572,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "bill's maintenance (6/17)",
+      "myp": "pop5_006",
       "image": "https://images.pokemontcg.io/pop5/6.png"
     },
     {
@@ -1421,6 +1589,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "rare candy (7/17)",
+      "myp": "pop5_007",
       "image": "https://images.pokemontcg.io/pop5/7.png"
     },
     {
@@ -1438,6 +1608,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "bastiodon (1/17)",
+      "myp": "pop6_001",
       "image": "https://images.pokemontcg.io/pop6/1.png"
     },
     {
@@ -1455,6 +1627,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "staravia (10/17)",
+      "myp": "pop6_010",
       "image": "https://images.pokemontcg.io/pop6/10.png"
     },
     {
@@ -1472,6 +1646,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "bidoof (11/17)",
+      "myp": "pop6_011",
       "image": "https://images.pokemontcg.io/pop6/11.png"
     },
     {
@@ -1489,6 +1665,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "buneary (12/17)",
+      "myp": "pop6_012",
       "image": "https://images.pokemontcg.io/pop6/12.png"
     },
     {
@@ -1506,6 +1684,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "cherubi (13/17)",
+      "myp": "pop6_013",
       "image": "https://images.pokemontcg.io/pop6/13.png"
     },
     {
@@ -1523,6 +1703,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "chimchar (14/17)",
+      "myp": "pop6_014",
       "image": "https://images.pokemontcg.io/pop6/14.png"
     },
     {
@@ -1540,6 +1722,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "piplup (15/17)",
+      "myp": "pop6_015",
       "image": "https://images.pokemontcg.io/pop6/15.png"
     },
     {
@@ -1557,6 +1741,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "starly (16/17)",
+      "myp": "pop6_016",
       "image": "https://images.pokemontcg.io/pop6/16.png"
     },
     {
@@ -1574,6 +1760,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "turtwig (17/17)",
+      "myp": "pop6_017",
       "image": "https://images.pokemontcg.io/pop6/17.png"
     },
     {
@@ -1591,6 +1779,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "lucario (2/17)",
+      "myp": "pop6_002",
       "image": "https://images.pokemontcg.io/pop6/2.png"
     },
     {
@@ -1608,6 +1798,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "manaphy (3/17)",
+      "myp": "pop6_003",
       "image": "https://images.pokemontcg.io/pop6/3.png"
     },
     {
@@ -1625,6 +1817,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "pachirisu (4/17)",
+      "myp": "pop6_004",
       "image": "https://images.pokemontcg.io/pop6/4.png"
     },
     {
@@ -1642,6 +1836,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "rampardos (5/17)",
+      "myp": "pop6_005",
       "image": "https://images.pokemontcg.io/pop6/5.png"
     },
     {
@@ -1659,6 +1855,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "drifloon (6/17)",
+      "myp": "pop6_006",
       "image": "https://images.pokemontcg.io/pop6/6.png"
     },
     {
@@ -1676,6 +1874,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "gible (7/17)",
+      "myp": "pop6_007",
       "image": "https://images.pokemontcg.io/pop6/7.png"
     },
     {
@@ -1693,6 +1893,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "riolu (8/17)",
+      "myp": "pop6_008",
       "image": "https://images.pokemontcg.io/pop6/8.png"
     },
     {
@@ -1710,6 +1912,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "pikachu (9/17)",
+      "myp": "pop6_009",
       "image": "https://images.pokemontcg.io/pop6/9.png"
     },
     {
@@ -1727,6 +1931,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "ampharos (1/17)",
+      "myp": "pop7_001",
       "image": "https://images.pokemontcg.io/pop7/1.png"
     },
     {
@@ -1745,6 +1951,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "wormadam sandy cloak (10/17)",
+      "myp": "pop7_010",
       "image": "https://images.pokemontcg.io/pop7/10.png"
     },
     {
@@ -1763,6 +1971,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "burmy plant cloak (11/17)",
+      "myp": "pop7_011",
       "image": "https://images.pokemontcg.io/pop7/11.png"
     },
     {
@@ -1781,6 +1991,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "burmy sandy cloak (12/17)",
+      "myp": "pop7_012",
       "image": "https://images.pokemontcg.io/pop7/12.png"
     },
     {
@@ -1798,6 +2010,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "corsola (13/17)",
+      "myp": "pop7_013",
       "image": "https://images.pokemontcg.io/pop7/13.png"
     },
     {
@@ -1815,6 +2029,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "mareep (14/17)",
+      "myp": "pop7_014",
       "image": "https://images.pokemontcg.io/pop7/14.png"
     },
     {
@@ -1832,6 +2048,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "ralts (15/17)",
+      "myp": "pop7_015",
       "image": "https://images.pokemontcg.io/pop7/15.png"
     },
     {
@@ -1849,6 +2067,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "sentret (16/17)",
+      "myp": "pop7_016",
       "image": "https://images.pokemontcg.io/pop7/16.png"
     },
     {
@@ -1866,6 +2086,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "spinda (17/17)",
+      "myp": "pop7_017",
       "image": "https://images.pokemontcg.io/pop7/17.png"
     },
     {
@@ -1883,6 +2105,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "gallade (2/17)",
+      "myp": "pop7_002",
       "image": "https://images.pokemontcg.io/pop7/2.png"
     },
     {
@@ -1900,6 +2124,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "latias (3/17)",
+      "myp": "pop7_003",
       "image": "https://images.pokemontcg.io/pop7/3.png"
     },
     {
@@ -1917,6 +2143,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "latios (4/17)",
+      "myp": "pop7_004",
       "image": "https://images.pokemontcg.io/pop7/4.png"
     },
     {
@@ -1934,6 +2162,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "mothim (5/17)",
+      "myp": "pop7_005",
       "image": "https://images.pokemontcg.io/pop7/5.png"
     },
     {
@@ -1951,6 +2181,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "delibird (6/17)",
+      "myp": "pop7_006",
       "image": "https://images.pokemontcg.io/pop7/6.png"
     },
     {
@@ -1968,6 +2200,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "flaaffy (7/17)",
+      "myp": "pop7_007",
       "image": "https://images.pokemontcg.io/pop7/7.png"
     },
     {
@@ -1985,6 +2219,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "kirlia (8/17)",
+      "myp": "pop7_008",
       "image": "https://images.pokemontcg.io/pop7/8.png"
     },
     {
@@ -2002,6 +2238,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "stantler (9/17)",
+      "myp": "pop7_009",
       "image": "https://images.pokemontcg.io/pop7/9.png"
     },
     {
@@ -2019,6 +2257,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "heatran (1/17)",
+      "myp": "pop8_001",
       "image": "https://images.pokemontcg.io/pop8/1.png"
     },
     {
@@ -2034,6 +2274,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "rare candy (10/17)",
+      "myp": "pop8_010",
       "image": "https://images.pokemontcg.io/pop8/10.png"
     },
     {
@@ -2048,6 +2290,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "roseanne's research (11/17)",
+      "myp": "pop8_011",
       "image": "https://images.pokemontcg.io/pop8/11.png"
     },
     {
@@ -2065,6 +2309,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "chimchar (12/17)",
+      "myp": "pop8_012",
       "image": "https://images.pokemontcg.io/pop8/12.png"
     },
     {
@@ -2082,6 +2328,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "croagunk (13/17)",
+      "myp": "pop8_013",
       "image": "https://images.pokemontcg.io/pop8/13.png"
     },
     {
@@ -2099,6 +2347,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "happiny (14/17)",
+      "myp": "pop8_014",
       "image": "https://images.pokemontcg.io/pop8/14.png"
     },
     {
@@ -2116,6 +2366,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "piplup (15/17)",
+      "myp": "pop8_015",
       "image": "https://images.pokemontcg.io/pop8/15.png"
     },
     {
@@ -2133,6 +2385,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "riolu (16/17)",
+      "myp": "pop8_016",
       "image": "https://images.pokemontcg.io/pop8/16.png"
     },
     {
@@ -2150,6 +2404,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "turtwig (17/17)",
+      "myp": "pop8_017",
       "image": "https://images.pokemontcg.io/pop8/17.png"
     },
     {
@@ -2167,6 +2423,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "lucario (2/17)",
+      "myp": "pop8_002",
       "image": "https://images.pokemontcg.io/pop8/2.png"
     },
     {
@@ -2184,6 +2442,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "luxray (3/17)",
+      "myp": "pop8_003",
       "image": "https://images.pokemontcg.io/pop8/3.png"
     },
     {
@@ -2201,6 +2461,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "probopass (4/17)",
+      "myp": "pop8_004",
       "image": "https://images.pokemontcg.io/pop8/4.png"
     },
     {
@@ -2218,6 +2480,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "yanmega (5/17)",
+      "myp": "pop8_005",
       "image": "https://images.pokemontcg.io/pop8/5.png"
     },
     {
@@ -2235,6 +2499,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "cherrim (6/17)",
+      "myp": "pop8_006",
       "image": "https://images.pokemontcg.io/pop8/6.png"
     },
     {
@@ -2252,6 +2518,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "carnivine (7/17)",
+      "myp": "pop8_007",
       "image": "https://images.pokemontcg.io/pop8/7.png"
     },
     {
@@ -2269,6 +2537,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "luxio (8/17)",
+      "myp": "pop8_008",
       "image": "https://images.pokemontcg.io/pop8/8.png"
     },
     {
@@ -2283,6 +2553,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "night maintenance (9/17)",
+      "myp": "pop8_009",
       "image": "https://images.pokemontcg.io/pop8/9.png"
     },
     {
@@ -2300,6 +2572,8 @@
       "numberInt": "1",
       "language": "en",
       "numeroLiga": "(1/17)",
+      "codigoLiga": "garchomp (1/17)",
+      "myp": "pop9_001",
       "image": "https://images.pokemontcg.io/pop9/1.png"
     },
     {
@@ -2317,6 +2591,8 @@
       "numberInt": "10",
       "language": "en",
       "numeroLiga": "(10/17)",
+      "codigoLiga": "pachirisu (10/17)",
+      "myp": "pop9_010",
       "image": "https://images.pokemontcg.io/pop9/10.png"
     },
     {
@@ -2334,6 +2610,8 @@
       "numberInt": "11",
       "language": "en",
       "numeroLiga": "(11/17)",
+      "codigoLiga": "pichu (11/17)",
+      "myp": "pop9_011",
       "image": "https://images.pokemontcg.io/pop9/11.png"
     },
     {
@@ -2351,6 +2629,8 @@
       "numberInt": "12",
       "language": "en",
       "numeroLiga": "(12/17)",
+      "codigoLiga": "buneary (12/17)",
+      "myp": "pop9_012",
       "image": "https://images.pokemontcg.io/pop9/12.png"
     },
     {
@@ -2368,6 +2648,8 @@
       "numberInt": "13",
       "language": "en",
       "numeroLiga": "(13/17)",
+      "codigoLiga": "chimchar (13/17)",
+      "myp": "pop9_013",
       "image": "https://images.pokemontcg.io/pop9/13.png"
     },
     {
@@ -2385,6 +2667,8 @@
       "numberInt": "14",
       "language": "en",
       "numeroLiga": "(14/17)",
+      "codigoLiga": "gible (14/17)",
+      "myp": "pop9_014",
       "image": "https://images.pokemontcg.io/pop9/14.png"
     },
     {
@@ -2402,6 +2686,8 @@
       "numberInt": "15",
       "language": "en",
       "numeroLiga": "(15/17)",
+      "codigoLiga": "pikachu (15/17)",
+      "myp": "pop9_015",
       "image": "https://images.pokemontcg.io/pop9/15.png"
     },
     {
@@ -2419,6 +2705,8 @@
       "numberInt": "16",
       "language": "en",
       "numeroLiga": "(16/17)",
+      "codigoLiga": "piplup (16/17)",
+      "myp": "pop9_016",
       "image": "https://images.pokemontcg.io/pop9/16.png"
     },
     {
@@ -2436,6 +2724,8 @@
       "numberInt": "17",
       "language": "en",
       "numeroLiga": "(17/17)",
+      "codigoLiga": "turtwig (17/17)",
+      "myp": "pop9_017",
       "image": "https://images.pokemontcg.io/pop9/17.png"
     },
     {
@@ -2453,6 +2743,8 @@
       "numberInt": "2",
       "language": "en",
       "numeroLiga": "(2/17)",
+      "codigoLiga": "manaphy (2/17)",
+      "myp": "pop9_002",
       "image": "https://images.pokemontcg.io/pop9/2.png"
     },
     {
@@ -2470,6 +2762,8 @@
       "numberInt": "3",
       "language": "en",
       "numeroLiga": "(3/17)",
+      "codigoLiga": "raichu (3/17)",
+      "myp": "pop9_003",
       "image": "https://images.pokemontcg.io/pop9/3.png"
     },
     {
@@ -2487,6 +2781,8 @@
       "numberInt": "4",
       "language": "en",
       "numeroLiga": "(4/17)",
+      "codigoLiga": "regigigas (4/17)",
+      "myp": "pop9_004",
       "image": "https://images.pokemontcg.io/pop9/4.png"
     },
     {
@@ -2504,6 +2800,8 @@
       "numberInt": "5",
       "language": "en",
       "numeroLiga": "(5/17)",
+      "codigoLiga": "rotom (5/17)",
+      "myp": "pop9_005",
       "image": "https://images.pokemontcg.io/pop9/5.png"
     },
     {
@@ -2521,6 +2819,8 @@
       "numberInt": "6",
       "language": "en",
       "numeroLiga": "(6/17)",
+      "codigoLiga": "buizel (6/17)",
+      "myp": "pop9_006",
       "image": "https://images.pokemontcg.io/pop9/6.png"
     },
     {
@@ -2538,6 +2838,8 @@
       "numberInt": "7",
       "language": "en",
       "numeroLiga": "(7/17)",
+      "codigoLiga": "croagunk (7/17)",
+      "myp": "pop9_007",
       "image": "https://images.pokemontcg.io/pop9/7.png"
     },
     {
@@ -2555,6 +2857,8 @@
       "numberInt": "8",
       "language": "en",
       "numeroLiga": "(8/17)",
+      "codigoLiga": "gabite (8/17)",
+      "myp": "pop9_008",
       "image": "https://images.pokemontcg.io/pop9/8.png"
     },
     {
@@ -2572,6 +2876,8 @@
       "numberInt": "9",
       "language": "en",
       "numeroLiga": "(9/17)",
+      "codigoLiga": "lopunny (9/17)",
+      "myp": "pop9_009",
       "image": "https://images.pokemontcg.io/pop9/9.png"
     }
   ]
