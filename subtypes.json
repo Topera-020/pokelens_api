@@ -3,19 +3,19 @@
     {
       "name": "Basic",
       "id": "1",
-      "nomePt": "B?sico",
+      "nomePt": "Básico",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPBDEeBQ6IOQfvNgz-SA1A3AwKMa8Jrvr-2yWz1wcDLrJ1E28y95XxbnplFUnXsCGA6niwHyWkvhYSaXmT5W38p6_gUKQNg_-kvFiLrK9o2oSka7GrqS0gn9iDrzA05KkBAKzuTLq2t1UgUonyxEZmk=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Stage 1",
       "id": "2",
-      "nomePt": "Est?gio 1",
+      "nomePt": "Estágio 1",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMuJBdzbr_JcYk4ejWZAUYzWDFaaoG5aKCm1Zv4TqSjI9u0frcf3ejWeBkhAfYEnEzsA36K5Mws3gMHsuS3hW9nq7eTLQULNvvABTx0R4b3MaYqsRaU8lP54Bd4dEA7QhizEv2HJH2GZax5WPKKVYzF=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Stage 2",
       "id": "3",
-      "nomePt": "Est?gio 2",
+      "nomePt": "Estágio 2",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMnvAfAXHlr9ECZSfKvlBGmXoV5IQLpgKPFIJd9RujnhoczAce9Y32rEKu7K6zXhusbMzeb-rDB1Nh3nzUcUCDxnhNnp-SQyigTD7k23PhWH2qbWZGma3qYNPYuixZLqNCe51t5tYmGEKM2v5z6JPoQ=w600-h600-s-no-gm?authuser=0"
     },
     {
@@ -33,11 +33,11 @@
     {
       "name": "Stadium",
       "id": "6",
-      "nomePt": "Est?dio",
+      "nomePt": "Estádio",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMlv7Gh_hTSpdpSDr03EMJpR9oOFOcXtGKiOYqDMCWGgGlxfMOmvQ59y69bNB7dlBZUUOb4yyoZBpwq8i35vezd8frBWy77VD7FQJbE3KVwNlYIDB7SlERt3AIjoVsj8UqXDeB6O6e2o9TfCBpnMDRF=w600-h600-s-no-gm?authuser=0"
     },
     {
-      "name": "Pok?mon Tool",
+      "name": "Pokémon Tool",
       "id": "7",
       "nomePt": "Ferramenta",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMw9u1KmZeTw7lislTFRzQacz8tLSkksnHsGduK4UleclXJJNQtaOYDTBXM9LzOVwILADBH_ecdmOYumDt7FrL3gPrdNDgGm1Fqq6ApZzGQLapV37FlJu04c4RC0dioO8bDRy_FZhv2r_Qtr57U-OxN=w600-h600-s-no-gm?authuser=0"
@@ -57,13 +57,13 @@
     {
       "name": "Basic Energy",
       "id": "10",
-      "nomePt": "Energia b?sica",
+      "nomePt": "Energia básica",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMaVDhOHgbN0Onlx8OeD6UvmCZaBj4YT214oGOsTKIhUXpNt1ZgkgSrlQAn2T4yyQSyyVnEXyHWbxli0RYUL2IDJpVy26Gig5z6UWlbvGTPfdTPNIThQ4o0v-Jhyod2T_0yU0dsillFQnIkFww994mN=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "Technical Machine",
       "id": "11",
-      "nomePt": "M?quina T?cnica",
+      "nomePt": "Máquina Técnica",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMD96tYKK3q-uTleoI1JbBZCuZ3U5HoRCKIiMBtNr3H1cy5wAMtNVQkBCsFKQakj0Hsfuma_enVHCVNPDjlkU2RFe6qMpJzX7tAWFFodjPX6R-Rh0cLCZdW9KXaqffJyLzSFls6SNWchSCDXCw28U3c=w612-h574-s-no-gm?authuser=0"
     },
     {
@@ -75,7 +75,7 @@
     {
       "name": "Baby",
       "id": "13",
-      "nomePt": "Beb?",
+      "nomePt": "Bebê",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczOwAY58X5dzJ3vH3CnjtEejkxGWnaznnAnKZDdbbHm7xtK3cxrLIcyv34C8m2P49uiPAyzhm1bo-UOJoBk7vL9PF_D4PgpEU3RBVh000bDrLhkb39b940w1d_F83FAwFeu9ZpAKQSKhe-v7SGX1-aV5=w600-h600-s-no-gm?authuser=0"
     },
     {
@@ -147,7 +147,7 @@
     {
       "name": "Ancient Trait",
       "id": "29",
-      "nomePt": "Tra?os Ancestrais",
+      "nomePt": "Traços Ancestrais",
       "image": ""
     },
     {
@@ -195,7 +195,7 @@
     {
       "name": "Fusion Strike",
       "id": "37",
-      "nomePt": "Golpe Fus?o",
+      "nomePt": "Golpe Fusão",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczOPo6XK23lwr8XLHWPIfUHAp9Ai65vBYSSBjOHKBLqQOepDdrAyNxpA-MID1Mygc-vmqiuqFVdWexCCaV5bANYDHxrNhcwbwcFbwpzR4ElDQhebPE6HEXrUDT7TuJvGqtGn5GbIohbylukE-CJB4DgZ=w1151-h371-s-no-gm?authuser=0"
     },
     {
@@ -219,7 +219,7 @@
     {
       "name": "V-UNION",
       "id": "41",
-      "nomePt": "V-UNI?O",
+      "nomePt": "V-UNIÃO",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczN0U3enNh8m5kGIAGHPS0euNBNFUWryOZ-4GdZErQw58jsJ36EbcirQ2dbFkUrRXbpqktp6wEevjMlxJeHtaAqYfDutYW5VYSWqU5uOduC4ssTEfaMsSzOWnd2GbRfNcccr5JZ_jnZsENtIrGmnF6DA=w788-h408-s-no-gm?authuser=0"
     },
     {
@@ -267,13 +267,13 @@
     {
       "name": "Celebration",
       "id": "49",
-      "nomePt": "Celebra??es",
+      "nomePt": "Celebrações",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPlYKERFW-wsW4OXwoNM9LmbBuDYfnRpXSGnDL5httEZ03lH9BQkaFxZ6NV6h4p5t2InXn6oRIsCYNXp3_rLO-Up-RguccPwO88qwl__dSaFEWuMAC01DKFQ2DLlHc1BR6f0B9k19_DNVz2FXVoz-1C=w600-h600-s-no-gm?authuser=0"
     },
     {
       "name": "RC",
       "id": "50",
-      "nomePt": "Cole??o Radiante",
+      "nomePt": "Coleção Radiante",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMfzLcI_SS1y-q8oFXRcXMDMPGGd2mNfbTi1QtU4zipKag2PrTTkFYTay9grPoZjki2BC7pcSZxwG06LmSZRdzH89RAmPBS_4CLBVp73ySrl6Z-6blrVax1mhfxbGsiRoLi4_lR5NNM5liH7PNqWKGU=w600-h600-s-no-gm?authuser=0"
     },
     {
@@ -375,7 +375,7 @@
     {
       "name": "ETB",
       "id": "67",
-      "nomePt": "Promos de Cole??o Treinador Avan?ado",
+      "nomePt": "Promos de Coleção Treinador Avançado",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMHBvp_tUHI00Ygo1jaI1OFBiOYtZ9XnmAMRu4E6do-NYloR3ZmWqQuKOfAorj7Ab0EOSqLJLJnb9sTOZktI_mJk2qEImQVXVAr0YSkpcWDouk8L-F_uQbcg3U7m0BcGEkpMUEnGu8yI5Q7MHSu1qGC=w612-h574-s-no-gm?authuser=0"
     },
     {
