@@ -51,7 +51,7 @@
     {
       "name": "steel",
       "id": "9",
-      "nomePt": "A?o",
+      "nomePt": "Aço",
       "image": ""
     },
     {
@@ -63,7 +63,7 @@
     {
       "name": "water",
       "id": "11",
-      "nomePt": "?gua",
+      "nomePt": "Água",
       "image": ""
     },
     {
@@ -75,13 +75,13 @@
     {
       "name": "electric",
       "id": "13",
-      "nomePt": "El?trico",
+      "nomePt": "Elétrico",
       "image": ""
     },
     {
       "name": "psychic",
       "id": "14",
-      "nomePt": "Ps?quico",
+      "nomePt": "Psíquico",
       "image": ""
     },
     {
@@ -93,7 +93,7 @@
     {
       "name": "dragon",
       "id": "16",
-      "nomePt": "Drag?o",
+      "nomePt": "Dragão",
       "image": ""
     },
     {
