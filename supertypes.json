@@ -2,15 +2,18 @@
   "data": [
     {
       "name": "Pokémon",
-      "id": "1"
+      "id": "1",
+      "nomePt": "Pokémon"
     },
     {
       "name": "Trainer",
-      "id": "2"
+      "id": "2",
+      "nomePt": "Treinador"
     },
     {
       "name": "Energy",
-      "id": "3"
+      "id": "3",
+      "nomePt": "Energia"
     }
   ]
 }
