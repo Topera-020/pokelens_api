@@ -1,6 +1,6 @@
 {
     "files": [
-        "artist.json",
+        "artists.json",
         "artists.json",
         "cartas_1.json",
         "cartas_10.json",
@@ -32,10 +32,9 @@
         "series.json",
         "sleeves.json",
         "sleeves_colecoes.json",
-        "subtype.json",
         "subtypes.json",
-        "supertype.json",
+        "supertypes.json",
         "types.json"
     ],
-    "timestamp": "2025-01-27T11:46:41.755880"
+    "timestamp": "2025-03-24T11:46:41.755880"
 }
