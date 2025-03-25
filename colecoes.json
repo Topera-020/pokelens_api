@@ -29,7 +29,7 @@
     {
       "id": "b02-j",
       "language": "ja",
-      "name": "Pok?mon Jungle",
+      "name": "Pokémon Jungle",
       "seriesId": 1,
       "printedTotal": 48,
       "total": 48,
@@ -445,7 +445,7 @@
     {
       "id": "vs-j",
       "language": "ja",
-      "name": "Pok?mon VS",
+      "name": "Pokémon VS",
       "seriesId": 4,
       "printedTotal": 141,
       "total": 151,
@@ -497,7 +497,7 @@
     {
       "id": "web-j",
       "language": "ja",
-      "name": "Pok?mon Web",
+      "name": "Pokémon Web",
       "seriesId": 4,
       "printedTotal": 48,
       "total": 48,
@@ -536,7 +536,7 @@
     {
       "id": "mcdpe-j",
       "language": "ja",
-      "name": "McDonald's Pok?mon-e Minimum Pack",
+      "name": "McDonald's Pokémon-e Minimum Pack",
       "seriesId": 4,
       "printedTotal": -1,
       "total": 24,
@@ -924,19 +924,6 @@
       "releaseDate": "2004/07/17"
     },
     {
-      "id": "ex6",
-      "language": "en",
-      "name": "FireRed & LeafGreen",
-      "seriesId": 6,
-      "printedTotal": 112,
-      "total": 116,
-      "ptcgo": "RG",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "https://images.pokemontcg.io/ex6/logo.png",
-      "releaseDate": "2004/09/01"
-    },
-    {
       "id": "pop1",
       "language": "en",
       "name": "POP Series 1",
@@ -947,6 +934,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/pop1/logo.png",
+      "releaseDate": "2004/09/01"
+    },
+    {
+      "id": "ex6",
+      "language": "en",
+      "name": "FireRed & LeafGreen",
+      "seriesId": 6,
+      "printedTotal": 112,
+      "total": 116,
+      "ptcgo": "RG",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "https://images.pokemontcg.io/ex6/logo.png",
       "releaseDate": "2004/09/01"
     },
     {
@@ -1082,7 +1082,7 @@
     {
       "id": "ppb-j",
       "language": "ja",
-      "name": "Pok?Park Blue",
+      "name": "PokéPark Blue",
       "seriesId": 4,
       "printedTotal": 9,
       "total": 9,
@@ -1095,7 +1095,7 @@
     {
       "id": "ppf-j",
       "language": "ja",
-      "name": "Pok?Park Forest",
+      "name": "PokéPark Forest",
       "seriesId": 4,
       "printedTotal": 9,
       "total": 9,
@@ -1158,19 +1158,6 @@
       "releaseDate": "2005/06/30"
     },
     {
-      "id": "ex10",
-      "language": "en",
-      "name": "Unseen Forces",
-      "seriesId": 6,
-      "printedTotal": 115,
-      "total": 145,
-      "ptcgo": "UF",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "https://images.pokemontcg.io/ex10/logo.png",
-      "releaseDate": "2005/08/01"
-    },
-    {
       "id": "pop2",
       "language": "en",
       "name": "POP Series 2",
@@ -1181,6 +1168,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/pop2/logo.png",
+      "releaseDate": "2005/08/01"
+    },
+    {
+      "id": "ex10",
+      "language": "en",
+      "name": "Unseen Forces",
+      "seriesId": 6,
+      "printedTotal": 115,
+      "total": 145,
+      "ptcgo": "UF",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "https://images.pokemontcg.io/ex10/logo.png",
       "releaseDate": "2005/08/01"
     },
     {
@@ -1431,19 +1431,6 @@
       "releaseDate": "2007/03/02"
     },
     {
-      "id": "pppp-j",
-      "language": "ja",
-      "name": "PPP Promos",
-      "seriesId": 4,
-      "printedTotal": 7,
-      "total": 7,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2007/05/01"
-    },
-    {
       "id": "dp1",
       "language": "en",
       "name": "Diamond & Pearl",
@@ -1467,6 +1454,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/dpp/logo.png",
+      "releaseDate": "2007/05/01"
+    },
+    {
+      "id": "pppp-j",
+      "language": "ja",
+      "name": "PPP Promos",
+      "seriesId": 4,
+      "printedTotal": 7,
+      "total": 7,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
       "releaseDate": "2007/05/01"
     },
     {
@@ -1953,7 +1953,7 @@
     {
       "id": "PSM-j",
       "language": "ja",
-      "name": "Melee! Pok?mon Scramble",
+      "name": "Melee! Pokémon Scramble",
       "seriesId": 4,
       "printedTotal": 16,
       "total": 19,
@@ -2096,7 +2096,7 @@
     {
       "id": "ru1",
       "language": "en",
-      "name": "Pok?mon Rumble",
+      "name": "Pokémon Rumble",
       "seriesId": 4,
       "printedTotal": 16,
       "total": 16,
@@ -3095,19 +3095,6 @@
       "releaseDate": "2013/11/06"
     },
     {
-      "id": "hxy-j",
-      "language": "ja",
-      "name": "XY Beginning Set",
-      "seriesId": 14,
-      "printedTotal": 39,
-      "total": 39,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2013/11/08"
-    },
-    {
       "id": "xy0",
       "language": "en",
       "name": "Kalos Starter Set",
@@ -3118,6 +3105,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/xy0/logo.png",
+      "releaseDate": "2013/11/08"
+    },
+    {
+      "id": "hxy-j",
+      "language": "ja",
+      "name": "XY Beginning Set",
+      "seriesId": 14,
+      "printedTotal": 39,
+      "total": 39,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
       "releaseDate": "2013/11/08"
     },
     {
@@ -3682,7 +3682,7 @@
     {
       "id": "cp3-j",
       "language": "ja",
-      "name": "Pok?Kyun Collection",
+      "name": "PokéKyun Collection",
       "seriesId": 14,
       "printedTotal": 32,
       "total": 32,
@@ -4109,32 +4109,6 @@
       "releaseDate": "2017/03/21"
     },
     {
-      "id": "smd-j",
-      "language": "ja",
-      "name": "Ash vs Team Rocket Deck Kit",
-      "seriesId": 15,
-      "printedTotal": 26,
-      "total": 30,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2017/04/21"
-    },
-    {
-      "id": "xy-j",
-      "language": "ja",
-      "name": "The Best of XY",
-      "seriesId": 14,
-      "printedTotal": 171,
-      "total": 188,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2017/04/21"
-    },
-    {
       "id": "tk10a",
       "language": "en",
       "name": "SM trainer Kit (Lycanroc)",
@@ -4158,6 +4132,32 @@
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
       "Image": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
+      "releaseDate": "2017/04/21"
+    },
+    {
+      "id": "smd-j",
+      "language": "ja",
+      "name": "Ash vs Team Rocket Deck Kit",
+      "seriesId": 15,
+      "printedTotal": 26,
+      "total": 30,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
+      "releaseDate": "2017/04/21"
+    },
+    {
+      "id": "xy-j",
+      "language": "ja",
+      "name": "The Best of XY",
+      "seriesId": 14,
+      "printedTotal": 171,
+      "total": 188,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
       "releaseDate": "2017/04/21"
     },
     {
@@ -4473,19 +4473,6 @@
       "releaseDate": "2018/07/06"
     },
     {
-      "id": "sm7b-j",
-      "language": "ja",
-      "name": "Fairy Rise",
-      "seriesId": 15,
-      "printedTotal": 50,
-      "total": 63,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2018/08/03"
-    },
-    {
       "id": "sm7",
       "language": "en",
       "name": "Celestial Storm",
@@ -4499,17 +4486,17 @@
       "releaseDate": "2018/08/03"
     },
     {
-      "id": "sm8-j",
+      "id": "sm7b-j",
       "language": "ja",
-      "name": "Super-Burst Impact",
+      "name": "Fairy Rise",
       "seriesId": 15,
-      "printedTotal": 95,
-      "total": 111,
+      "printedTotal": 50,
+      "total": 63,
       "ptcgo": "",
       "symbolImg": "",
       "logoImg": "",
       "Image": "",
-      "releaseDate": "2018/09/07"
+      "releaseDate": "2018/08/03"
     },
     {
       "id": "sm75",
@@ -4522,6 +4509,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/sm75/logo.png",
+      "releaseDate": "2018/09/07"
+    },
+    {
+      "id": "sm8-j",
+      "language": "ja",
+      "name": "Super-Burst Impact",
+      "seriesId": 15,
+      "printedTotal": 95,
+      "total": 111,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
       "releaseDate": "2018/09/07"
     },
     {
@@ -4551,19 +4551,6 @@
       "releaseDate": "2018/10/16"
     },
     {
-      "id": "sm8b-j",
-      "language": "ja",
-      "name": "GX Ultra Shiny",
-      "seriesId": 15,
-      "printedTotal": 150,
-      "total": 250,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2018/11/02"
-    },
-    {
       "id": "sm8",
       "language": "en",
       "name": "Lost Thunder",
@@ -4574,6 +4561,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/sm8/logo.png",
+      "releaseDate": "2018/11/02"
+    },
+    {
+      "id": "sm8b-j",
+      "language": "ja",
+      "name": "GX Ultra Shiny",
+      "seriesId": 15,
+      "printedTotal": 150,
+      "total": 250,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
       "releaseDate": "2018/11/02"
     },
     {
@@ -4655,19 +4655,6 @@
       "releaseDate": "2019/01/25"
     },
     {
-      "id": "sm9b-j",
-      "language": "ja",
-      "name": "Full Metal Wall",
-      "seriesId": 15,
-      "printedTotal": 54,
-      "total": 69,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "",
-      "releaseDate": "2019/02/01"
-    },
-    {
       "id": "sm9",
       "language": "en",
       "name": "Team Up",
@@ -4678,6 +4665,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/sm9/logo.png",
+      "releaseDate": "2019/02/01"
+    },
+    {
+      "id": "sm9b-j",
+      "language": "ja",
+      "name": "Full Metal Wall",
+      "seriesId": 15,
+      "printedTotal": 54,
+      "total": 69,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "",
       "releaseDate": "2019/02/01"
     },
     {
@@ -5084,19 +5084,6 @@
       "releaseDate": "2019/12/27"
     },
     {
-      "id": "s1a-j",
-      "language": "ja",
-      "name": "VMAX Rising",
-      "seriesId": 16,
-      "printedTotal": 70,
-      "total": 86,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "https://static.tcgcollector.com/content/images/dc/95/3c/dc953c22f270a5285086aa1856baa12571b5e6b5a1394b7999a5be33943d73ee.png",
-      "Image": "https://static.tcgcollector.com/content/images/dc/95/3c/dc953c22f270a5285086aa1856baa12571b5e6b5a1394b7999a5be33943d73ee.png",
-      "releaseDate": "2020/02/07"
-    },
-    {
       "id": "swsh1",
       "language": "en",
       "name": "Sword & Shield",
@@ -5107,6 +5094,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/swsh1/logo.png",
+      "releaseDate": "2020/02/07"
+    },
+    {
+      "id": "s1a-j",
+      "language": "ja",
+      "name": "VMAX Rising",
+      "seriesId": 16,
+      "printedTotal": 70,
+      "total": 86,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "https://static.tcgcollector.com/content/images/dc/95/3c/dc953c22f270a5285086aa1856baa12571b5e6b5a1394b7999a5be33943d73ee.png",
+      "Image": "https://static.tcgcollector.com/content/images/dc/95/3c/dc953c22f270a5285086aa1856baa12571b5e6b5a1394b7999a5be33943d73ee.png",
       "releaseDate": "2020/02/07"
     },
     {
@@ -5229,7 +5229,7 @@
     {
       "id": "fut20",
       "language": "en",
-      "name": "Pok?mon Futsal Collection",
+      "name": "Pokémon Futsal Collection",
       "seriesId": 4,
       "printedTotal": 5,
       "total": 5,
@@ -5422,19 +5422,6 @@
       "releaseDate": "2021/02/19"
     },
     {
-      "id": "s5a-j",
-      "language": "ja",
-      "name": "Matchless Fighters",
-      "seriesId": 16,
-      "printedTotal": 70,
-      "total": 96,
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "https://static.tcgcollector.com/content/images/a4/44/6c/a4446c026c512c8b6d7855ac2fa25d1c2516f7b43f7fb1a9101042e975f78251.png",
-      "Image": "https://static.tcgcollector.com/content/images/a4/44/6c/a4446c026c512c8b6d7855ac2fa25d1c2516f7b43f7fb1a9101042e975f78251.png",
-      "releaseDate": "2021/03/19"
-    },
-    {
       "id": "swsh5",
       "language": "en",
       "name": "Battle Styles",
@@ -5445,6 +5432,19 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/swsh5/logo.png",
+      "releaseDate": "2021/03/19"
+    },
+    {
+      "id": "s5a-j",
+      "language": "ja",
+      "name": "Matchless Fighters",
+      "seriesId": 16,
+      "printedTotal": 70,
+      "total": 96,
+      "ptcgo": "",
+      "symbolImg": "",
+      "logoImg": "https://static.tcgcollector.com/content/images/a4/44/6c/a4446c026c512c8b6d7855ac2fa25d1c2516f7b43f7fb1a9101042e975f78251.png",
+      "Image": "https://static.tcgcollector.com/content/images/a4/44/6c/a4446c026c512c8b6d7855ac2fa25d1c2516f7b43f7fb1a9101042e975f78251.png",
       "releaseDate": "2021/03/19"
     },
     {
@@ -5580,7 +5580,7 @@
     {
       "id": "sfp-j",
       "language": "ja",
-      "name": "Sword & Shield Family Pok?mon Card Game",
+      "name": "Sword & Shield Family Pokémon Card Game",
       "seriesId": 9,
       "printedTotal": 53,
       "total": 53,
@@ -5786,6 +5786,32 @@
       "releaseDate": "2022/01/15"
     },
     {
+      "id": "swsh9",
+      "language": "en",
+      "name": "Brilliant Stars",
+      "seriesId": 16,
+      "printedTotal": 172,
+      "total": 186,
+      "ptcgo": "BRS",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "https://images.pokemontcg.io/swsh9/logo.png",
+      "releaseDate": "2022/02/25"
+    },
+    {
+      "id": "swsh9tg",
+      "language": "en",
+      "name": "Brilliant Stars Trainer Gallery",
+      "seriesId": 16,
+      "printedTotal": 30,
+      "total": 30,
+      "ptcgo": "BRS",
+      "symbolImg": "",
+      "logoImg": "",
+      "Image": "https://images.pokemontcg.io/swsh9tg/logo.png",
+      "releaseDate": "2022/02/25"
+    },
+    {
       "id": "s9a-j",
       "language": "ja",
       "name": "Battle Region",
@@ -5822,32 +5848,6 @@
       "symbolImg": "",
       "logoImg": "",
       "Image": "",
-      "releaseDate": "2022/02/25"
-    },
-    {
-      "id": "swsh9",
-      "language": "en",
-      "name": "Brilliant Stars",
-      "seriesId": 16,
-      "printedTotal": 172,
-      "total": 186,
-      "ptcgo": "BRS",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "https://images.pokemontcg.io/swsh9/logo.png",
-      "releaseDate": "2022/02/25"
-    },
-    {
-      "id": "swsh9tg",
-      "language": "en",
-      "name": "Brilliant Stars Trainer Gallery",
-      "seriesId": 16,
-      "printedTotal": 30,
-      "total": 30,
-      "ptcgo": "BRS",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": "https://images.pokemontcg.io/swsh9tg/logo.png",
       "releaseDate": "2022/02/25"
     },
     {
@@ -5918,7 +5918,7 @@
     {
       "id": "s10b-j",
       "language": "ja",
-      "name": "Pok?mon GO",
+      "name": "Pokémon GO",
       "seriesId": 16,
       "printedTotal": 71,
       "total": 101,
@@ -5931,7 +5931,7 @@
     {
       "id": "pgo",
       "language": "en",
-      "name": "Pok?mon GO",
+      "name": "Pokémon GO",
       "seriesId": 16,
       "printedTotal": 78,
       "total": 88,
@@ -6347,7 +6347,7 @@
     {
       "id": "sv2a-j",
       "language": "ja",
-      "name": "Pok?mon Card 151",
+      "name": "Pokémon Card 151",
       "seriesId": 17,
       "printedTotal": 165,
       "total": 210,
@@ -6503,7 +6503,7 @@
     {
       "id": "CLF-j",
       "language": "ja",
-      "name": "Pok?mon TCG Classic (Venusaur)",
+      "name": "Pokémon TCG Classic (Venusaur)",
       "seriesId": 9,
       "printedTotal": 32,
       "total": 34,
@@ -6516,7 +6516,7 @@
     {
       "id": "CLK-j",
       "language": "ja",
-      "name": "Pok?mon TCG Classic (Blastoise)",
+      "name": "Pokémon TCG Classic (Blastoise)",
       "seriesId": 9,
       "printedTotal": 32,
       "total": 34,
@@ -6529,7 +6529,7 @@
     {
       "id": "CLL-j",
       "language": "ja",
-      "name": "Pok?mon TCG Classic (Charizard)",
+      "name": "Pokémon TCG Classic (Charizard)",
       "seriesId": 9,
       "printedTotal": 32,
       "total": 34,
@@ -6785,30 +6785,6 @@
       "logoImg": "",
       "Image": "https://images.pokemontcg.io/sv8pt5/logo.png",
       "releaseDate": "2025/01/17"
-    },
-    {
-      "id": "",
-      "language": "",
-      "name": "",
-      "seriesId": "",
-      "printedTotal": "",
-      "total": "",
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": ""
-    },
-    {
-      "id": "",
-      "language": "",
-      "name": "",
-      "seriesId": "",
-      "printedTotal": "",
-      "total": "",
-      "ptcgo": "",
-      "symbolImg": "",
-      "logoImg": "",
-      "Image": ""
     }
   ]
 }
