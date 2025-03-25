@@ -15,19 +15,19 @@
     {
       "name": "Water",
       "id": "3",
-      "nomePt": "?gua",
+      "nomePt": "Água",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczP2N6O11Pa9AvukF8Uu9tOj68EkKWRlvkKU4FXxr0y-Iu_SreOV9gyQb4OoLkxJgto1ACbfg43Ovwj7rFTAXSc-Y-jIFsuC7ODo88iX7VqfWNfzb7lsqpKMYzZrAnYtlwpEtSdoTlQqQoManLzWGw02=w827-h826-s-no-gm?authuser=0"
     },
     {
       "name": "Lightning",
       "id": "4",
-      "nomePt": "El?trico",
+      "nomePt": "Elétrico",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczM03XhXlHGyoWjOCLuW3OqSDsEuX6UqOHAIXjTQ8vhyTyMLmYwtMm3LbeBloLdDfA5E0xVBJxzVERhuurIP-WzlykGU83-NS_lKQ-JrqrarNSL55RCT33BF4OQirFr7xJthDrkHaK1DjZz1-4I0BQ88=w827-h826-s-no-gm?authuser=0"
     },
     {
       "name": "Psychic",
       "id": "5",
-      "nomePt": "Ps?quico",
+      "nomePt": "Psíquico",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczO_YOquPiIaIheC5E4Ut0_mHwFRkx0N5bZuAxvry6nc0U6qBFP2c4lY65sj2THnQeGXqqAai7RVsE46a3diVNX9tf5-R3sRet29NvxQQsX65k9S2HTZM_6l0IGfjgsC6HCmrNDIrIvI8ctcFo9e3b5x=w827-h826-s-no-gm?authuser=0"
     },
     {
@@ -39,7 +39,7 @@
     {
       "name": "Darkness",
       "id": "7",
-      "nomePt": "Escurid?o",
+      "nomePt": "Escuridão",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczPcjB1LqxiCCntR377j2WsguWaSfzgh8KLZwHy2hGDuRuwM0kqMupaz6osZKewMjJTQtda6bjnuLdb2ntTQFpHHZMTBz9HSfF-Ej2aiOOJR_HUFiwNy6ngIRXtWMQ_bh_T9BjZS330QzPy0Z_qNYA25=w827-h827-s-no-gm?authuser=0"
     },
     {
@@ -63,7 +63,7 @@
     {
       "name": "Dragon",
       "id": "11",
-      "nomePt": "Drag?o",
+      "nomePt": "Dragão",
       "image": "https://lh3.googleusercontent.com/pw/AP1GczMsERWg0sMnr9IAR7YUMmdRj2rmlb1ASfMgOOzSZKqKf-rbmRfaT_4EmZebcJj2J0-GuhREXxK-onDp14-viXuGPlAPWwoZzciqNTTixRpSgwxezYRdZJnclJENti7sfexHMtvh9Mvf_u6A59DQVTnZ=w827-h826-s-no-gm?authuser=0"
     }
   ]
