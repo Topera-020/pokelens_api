@@ -55960,6 +55960,7 @@
     {
       "id": "en19-1",
       "name": "Grass Energy",
+      "nomePt": "Energia de Grama",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -55972,6 +55973,7 @@
     {
       "id": "en19-2",
       "name": "Fire Energy",
+      "nomePt": "Energia de Fogo",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -55984,6 +55986,7 @@
     {
       "id": "en19-3",
       "name": "Water Energy",
+      "nomePt": "Energia de Agua",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -55996,6 +55999,7 @@
     {
       "id": "en19-4",
       "name": "Lightning Energy",
+      "nomePt": "Energia de Raio",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -56008,6 +56012,7 @@
     {
       "id": "en19-5",
       "name": "Psychic Energy",
+      "nomePt": "Energia Psiquica",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -56020,6 +56025,7 @@
     {
       "id": "en19-6",
       "name": "Fighting Energy",
+      "nomePt": "Energia de Luta",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -56032,6 +56038,7 @@
     {
       "id": "en19-7",
       "name": "Darkness Energy",
+      "nomePt": "Energia de Escuridao",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -56044,6 +56051,7 @@
     {
       "id": "en19-8",
       "name": "Metal Energy",
+      "nomePt": "Energia de Metal",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
@@ -56056,6 +56064,7 @@
     {
       "id": "en19-9",
       "name": "Fairy Energy",
+      "nomePt": "Energia de Fada",
       "collectionId": "en19",
       "seriesId": "15",
       "supertypeId": "3",
