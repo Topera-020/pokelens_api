@@ -9963,6 +9963,7 @@
     {
       "id": "swsh1-156",
       "name": "Air Balloon",
+      "nomePt": "Balao de Ar",
       "collectionId": "swsh1",
       "seriesId": "16",
       "supertypeId": "2",
@@ -11046,6 +11047,7 @@
     {
       "id": "swsh1-213",
       "name": "Air Balloon",
+      "nomePt": "Balao de Ar",
       "collectionId": "swsh1",
       "seriesId": "16",
       "supertypeId": "2",
