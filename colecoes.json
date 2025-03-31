@@ -8,7 +8,7 @@
       "printedTotal": 102,
       "total": 102,
       "ptcgo": "BS",
-      "Image": "https://images.pokemontcg.io/base1/logo.png",
+      "image": "https://images.pokemontcg.io/base1/logo.png",
       "releaseDate": "1999/01/09"
     },
     {
@@ -19,7 +19,7 @@
       "printedTotal": 64,
       "total": 64,
       "ptcgo": "JU",
-      "Image": "https://images.pokemontcg.io/base2/logo.png",
+      "image": "https://images.pokemontcg.io/base2/logo.png",
       "releaseDate": "1999/06/16"
     },
     {
@@ -30,7 +30,7 @@
       "printedTotal": 53,
       "total": 53,
       "ptcgo": "PR",
-      "Image": "https://images.pokemontcg.io/basep/logo.png",
+      "image": "https://images.pokemontcg.io/basep/logo.png",
       "releaseDate": "1999/07/01"
     },
     {
@@ -41,7 +41,7 @@
       "printedTotal": 62,
       "total": 62,
       "ptcgo": "FO",
-      "Image": "https://images.pokemontcg.io/base3/logo.png",
+      "image": "https://images.pokemontcg.io/base3/logo.png",
       "releaseDate": "1999/10/10"
     },
     {
@@ -52,7 +52,7 @@
       "printedTotal": 130,
       "total": 130,
       "ptcgo": "B2",
-      "Image": "https://images.pokemontcg.io/base4/logo.png",
+      "image": "https://images.pokemontcg.io/base4/logo.png",
       "releaseDate": "2000/02/24"
     },
     {
@@ -63,7 +63,7 @@
       "printedTotal": 82,
       "total": 83,
       "ptcgo": "TR",
-      "Image": "https://images.pokemontcg.io/base5/logo.png",
+      "image": "https://images.pokemontcg.io/base5/logo.png",
       "releaseDate": "2000/04/24"
     },
     {
@@ -74,7 +74,7 @@
       "printedTotal": 132,
       "total": 132,
       "ptcgo": "G1",
-      "Image": "https://images.pokemontcg.io/gym1/logo.png",
+      "image": "https://images.pokemontcg.io/gym1/logo.png",
       "releaseDate": "2000/08/14"
     },
     {
@@ -85,7 +85,7 @@
       "printedTotal": 132,
       "total": 132,
       "ptcgo": "G2",
-      "Image": "https://images.pokemontcg.io/gym2/logo.png",
+      "image": "https://images.pokemontcg.io/gym2/logo.png",
       "releaseDate": "2000/10/16"
     },
     {
@@ -96,7 +96,7 @@
       "printedTotal": 111,
       "total": 111,
       "ptcgo": "N1",
-      "Image": "https://images.pokemontcg.io/neo1/logo.png",
+      "image": "https://images.pokemontcg.io/neo1/logo.png",
       "releaseDate": "2000/12/16"
     },
     {
@@ -107,7 +107,7 @@
       "printedTotal": 75,
       "total": 75,
       "ptcgo": "N2",
-      "Image": "https://images.pokemontcg.io/neo2/logo.png",
+      "image": "https://images.pokemontcg.io/neo2/logo.png",
       "releaseDate": "2001/06/01"
     },
     {
@@ -117,7 +117,7 @@
       "seriesId": 4,
       "printedTotal": 18,
       "total": 18,
-      "Image": "https://images.pokemontcg.io/si1/logo.png",
+      "image": "https://images.pokemontcg.io/si1/logo.png",
       "releaseDate": "2001/07/31"
     },
     {
@@ -128,7 +128,7 @@
       "printedTotal": 64,
       "total": 66,
       "ptcgo": "N3",
-      "Image": "https://images.pokemontcg.io/neo3/logo.png",
+      "image": "https://images.pokemontcg.io/neo3/logo.png",
       "releaseDate": "2001/09/21"
     },
     {
@@ -139,7 +139,7 @@
       "printedTotal": 105,
       "total": 113,
       "ptcgo": "N4",
-      "Image": "https://images.pokemontcg.io/neo4/logo.png",
+      "image": "https://images.pokemontcg.io/neo4/logo.png",
       "releaseDate": "2002/02/28"
     },
     {
@@ -150,7 +150,7 @@
       "printedTotal": 110,
       "total": 110,
       "ptcgo": "LC",
-      "Image": "https://images.pokemontcg.io/base6/logo.png",
+      "image": "https://images.pokemontcg.io/base6/logo.png",
       "releaseDate": "2002/05/24"
     },
     {
@@ -161,7 +161,7 @@
       "printedTotal": 165,
       "total": 165,
       "ptcgo": "EX",
-      "Image": "https://images.pokemontcg.io/ecard1/logo.png",
+      "image": "https://images.pokemontcg.io/ecard1/logo.png",
       "releaseDate": "2002/09/15"
     },
     {
@@ -172,7 +172,7 @@
       "printedTotal": 9,
       "total": 9,
       "ptcgo": "BP",
-      "Image": "https://images.pokemontcg.io/bp/logo.png",
+      "image": "https://images.pokemontcg.io/bp/logo.png",
       "releaseDate": "2002/12/01"
     },
     {
@@ -183,7 +183,7 @@
       "printedTotal": 147,
       "total": 182,
       "ptcgo": "AQ",
-      "Image": "https://images.pokemontcg.io/ecard2/logo.png",
+      "image": "https://images.pokemontcg.io/ecard2/logo.png",
       "releaseDate": "2003/01/15"
     },
     {
@@ -194,7 +194,7 @@
       "printedTotal": 144,
       "total": 182,
       "ptcgo": "SK",
-      "Image": "https://images.pokemontcg.io/ecard3/logo.png",
+      "image": "https://images.pokemontcg.io/ecard3/logo.png",
       "releaseDate": "2003/05/12"
     },
     {
@@ -205,7 +205,7 @@
       "printedTotal": 109,
       "total": 109,
       "ptcgo": "RS",
-      "Image": "https://images.pokemontcg.io/ex1/logo.png",
+      "image": "https://images.pokemontcg.io/ex1/logo.png",
       "releaseDate": "2003/07/01"
     },
     {
@@ -216,7 +216,7 @@
       "printedTotal": 100,
       "total": 100,
       "ptcgo": "SS",
-      "Image": "https://images.pokemontcg.io/ex2/logo.png",
+      "image": "https://images.pokemontcg.io/ex2/logo.png",
       "releaseDate": "2003/09/18"
     },
     {
@@ -227,7 +227,7 @@
       "printedTotal": 40,
       "total": 40,
       "ptcgo": "PR-NP",
-      "Image": "https://images.pokemontcg.io/np/logo.png",
+      "image": "https://images.pokemontcg.io/np/logo.png",
       "releaseDate": "2003/10/01"
     },
     {
@@ -238,7 +238,7 @@
       "printedTotal": 97,
       "total": 100,
       "ptcgo": "DR",
-      "Image": "https://images.pokemontcg.io/ex3/logo.png",
+      "image": "https://images.pokemontcg.io/ex3/logo.png",
       "releaseDate": "2003/11/24"
     },
     {
@@ -249,7 +249,7 @@
       "printedTotal": 95,
       "total": 97,
       "ptcgo": "MA",
-      "Image": "https://images.pokemontcg.io/ex4/logo.png",
+      "image": "https://images.pokemontcg.io/ex4/logo.png",
       "releaseDate": "2004/03/01"
     },
     {
@@ -260,7 +260,7 @@
       "printedTotal": 101,
       "total": 102,
       "ptcgo": "HL",
-      "Image": "https://images.pokemontcg.io/ex5/logo.png",
+      "image": "https://images.pokemontcg.io/ex5/logo.png",
       "releaseDate": "2004/06/01"
     },
     {
@@ -271,7 +271,7 @@
       "printedTotal": 10,
       "total": 10,
       "logoImg": "https://images.pokemontcg.io/tk1a/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk1a/symbol.png",
+      "image": "https://images.pokemontcg.io/tk1a/symbol.png",
       "releaseDate": "2004/06/01"
     },
     {
@@ -282,7 +282,7 @@
       "printedTotal": 10,
       "total": 10,
       "logoImg": "https://images.pokemontcg.io/tk1b/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk1b/symbol.png",
+      "image": "https://images.pokemontcg.io/tk1b/symbol.png",
       "releaseDate": "2004/06/01"
     },
     {
@@ -292,7 +292,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop1/logo.png",
+      "image": "https://images.pokemontcg.io/pop1/logo.png",
       "releaseDate": "2004/09/01"
     },
     {
@@ -303,7 +303,7 @@
       "printedTotal": 112,
       "total": 116,
       "ptcgo": "RG",
-      "Image": "https://images.pokemontcg.io/ex6/logo.png",
+      "image": "https://images.pokemontcg.io/ex6/logo.png",
       "releaseDate": "2004/09/01"
     },
     {
@@ -314,7 +314,7 @@
       "printedTotal": 109,
       "total": 111,
       "ptcgo": "TRR",
-      "Image": "https://images.pokemontcg.io/ex7/logo.png",
+      "image": "https://images.pokemontcg.io/ex7/logo.png",
       "releaseDate": "2004/11/01"
     },
     {
@@ -325,7 +325,7 @@
       "printedTotal": 107,
       "total": 108,
       "ptcgo": "DX",
-      "Image": "https://images.pokemontcg.io/ex8/logo.png",
+      "image": "https://images.pokemontcg.io/ex8/logo.png",
       "releaseDate": "2005/02/01"
     },
     {
@@ -336,7 +336,7 @@
       "printedTotal": 106,
       "total": 107,
       "ptcgo": "EM",
-      "Image": "https://images.pokemontcg.io/ex9/logo.png",
+      "image": "https://images.pokemontcg.io/ex9/logo.png",
       "releaseDate": "2005/05/01"
     },
     {
@@ -346,7 +346,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop2/logo.png",
+      "image": "https://images.pokemontcg.io/pop2/logo.png",
       "releaseDate": "2005/08/01"
     },
     {
@@ -357,7 +357,7 @@
       "printedTotal": 115,
       "total": 145,
       "ptcgo": "UF",
-      "Image": "https://images.pokemontcg.io/ex10/logo.png",
+      "image": "https://images.pokemontcg.io/ex10/logo.png",
       "releaseDate": "2005/08/01"
     },
     {
@@ -368,7 +368,7 @@
       "printedTotal": 113,
       "total": 114,
       "ptcgo": "DS",
-      "Image": "https://images.pokemontcg.io/ex11/logo.png",
+      "image": "https://images.pokemontcg.io/ex11/logo.png",
       "releaseDate": "2005/10/31"
     },
     {
@@ -379,7 +379,7 @@
       "printedTotal": 92,
       "total": 93,
       "ptcgo": "LM",
-      "Image": "https://images.pokemontcg.io/ex12/logo.png",
+      "image": "https://images.pokemontcg.io/ex12/logo.png",
       "releaseDate": "2006/02/01"
     },
     {
@@ -390,7 +390,7 @@
       "printedTotal": 12,
       "total": 12,
       "logoImg": "https://images.pokemontcg.io/tk2a/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk2a/symbol.png",
+      "image": "https://images.pokemontcg.io/tk2a/symbol.png",
       "releaseDate": "2006/03/01"
     },
     {
@@ -401,7 +401,7 @@
       "printedTotal": 12,
       "total": 12,
       "logoImg": "https://images.pokemontcg.io/tk2b/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk2b/symbol.png",
+      "image": "https://images.pokemontcg.io/tk2b/symbol.png",
       "releaseDate": "2006/03/01"
     },
     {
@@ -411,7 +411,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop3/logo.png",
+      "image": "https://images.pokemontcg.io/pop3/logo.png",
       "releaseDate": "2006/04/01"
     },
     {
@@ -422,7 +422,7 @@
       "printedTotal": 110,
       "total": 111,
       "ptcgo": "HP",
-      "Image": "https://images.pokemontcg.io/ex13/logo.png",
+      "image": "https://images.pokemontcg.io/ex13/logo.png",
       "releaseDate": "2006/05/01"
     },
     {
@@ -432,7 +432,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop4/logo.png",
+      "image": "https://images.pokemontcg.io/pop4/logo.png",
       "releaseDate": "2006/08/01"
     },
     {
@@ -443,7 +443,7 @@
       "printedTotal": 100,
       "total": 100,
       "ptcgo": "CG",
-      "Image": "https://images.pokemontcg.io/ex14/logo.png",
+      "image": "https://images.pokemontcg.io/ex14/logo.png",
       "releaseDate": "2006/08/01"
     },
     {
@@ -454,7 +454,7 @@
       "printedTotal": 101,
       "total": 101,
       "ptcgo": "DF",
-      "Image": "https://images.pokemontcg.io/ex15/logo.png",
+      "image": "https://images.pokemontcg.io/ex15/logo.png",
       "releaseDate": "2006/11/01"
     },
     {
@@ -465,7 +465,7 @@
       "printedTotal": 108,
       "total": 108,
       "ptcgo": "PK",
-      "Image": "https://images.pokemontcg.io/ex16/logo.png",
+      "image": "https://images.pokemontcg.io/ex16/logo.png",
       "releaseDate": "2007/02/02"
     },
     {
@@ -475,7 +475,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop5/logo.png",
+      "image": "https://images.pokemontcg.io/pop5/logo.png",
       "releaseDate": "2007/03/01"
     },
     {
@@ -486,7 +486,7 @@
       "printedTotal": 130,
       "total": 130,
       "ptcgo": "DP",
-      "Image": "https://images.pokemontcg.io/dp1/logo.png",
+      "image": "https://images.pokemontcg.io/dp1/logo.png",
       "releaseDate": "2007/05/01"
     },
     {
@@ -497,7 +497,7 @@
       "printedTotal": 56,
       "total": 56,
       "ptcgo": "PR-DPP",
-      "Image": "https://images.pokemontcg.io/dpp/logo.png",
+      "image": "https://images.pokemontcg.io/dpp/logo.png",
       "releaseDate": "2007/05/01"
     },
     {
@@ -508,7 +508,7 @@
       "printedTotal": 123,
       "total": 124,
       "ptcgo": "MT",
-      "Image": "https://images.pokemontcg.io/dp2/logo.png",
+      "image": "https://images.pokemontcg.io/dp2/logo.png",
       "releaseDate": "2007/08/01"
     },
     {
@@ -518,7 +518,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop6/logo.png",
+      "image": "https://images.pokemontcg.io/pop6/logo.png",
       "releaseDate": "2007/09/01"
     },
     {
@@ -529,7 +529,7 @@
       "printedTotal": 132,
       "total": 132,
       "ptcgo": "SW",
-      "Image": "https://images.pokemontcg.io/dp3/logo.png",
+      "image": "https://images.pokemontcg.io/dp3/logo.png",
       "releaseDate": "2007/11/01"
     },
     {
@@ -540,7 +540,7 @@
       "printedTotal": 106,
       "total": 106,
       "ptcgo": "GE",
-      "Image": "https://images.pokemontcg.io/dp4/logo.png",
+      "image": "https://images.pokemontcg.io/dp4/logo.png",
       "releaseDate": "2008/02/01"
     },
     {
@@ -550,7 +550,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop7/logo.png",
+      "image": "https://images.pokemontcg.io/pop7/logo.png",
       "releaseDate": "2008/03/01"
     },
     {
@@ -561,7 +561,7 @@
       "printedTotal": 100,
       "total": 100,
       "ptcgo": "MD",
-      "Image": "https://images.pokemontcg.io/dp5/logo.png",
+      "image": "https://images.pokemontcg.io/dp5/logo.png",
       "releaseDate": "2008/05/01"
     },
     {
@@ -572,7 +572,7 @@
       "printedTotal": 146,
       "total": 146,
       "ptcgo": "LA",
-      "Image": "https://images.pokemontcg.io/dp6/logo.png",
+      "image": "https://images.pokemontcg.io/dp6/logo.png",
       "releaseDate": "2008/08/01"
     },
     {
@@ -582,7 +582,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop8/logo.png",
+      "image": "https://images.pokemontcg.io/pop8/logo.png",
       "releaseDate": "2008/09/01"
     },
     {
@@ -593,7 +593,7 @@
       "printedTotal": 100,
       "total": 106,
       "ptcgo": "SF",
-      "Image": "https://images.pokemontcg.io/dp7/logo.png",
+      "image": "https://images.pokemontcg.io/dp7/logo.png",
       "releaseDate": "2008/11/01"
     },
     {
@@ -604,7 +604,7 @@
       "printedTotal": 127,
       "total": 133,
       "ptcgo": "PL",
-      "Image": "https://images.pokemontcg.io/pl1/logo.png",
+      "image": "https://images.pokemontcg.io/pl1/logo.png",
       "releaseDate": "2009/02/11"
     },
     {
@@ -614,7 +614,7 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop9/logo.png",
+      "image": "https://images.pokemontcg.io/pop9/logo.png",
       "releaseDate": "2009/03/01"
     },
     {
@@ -625,7 +625,7 @@
       "printedTotal": 111,
       "total": 120,
       "ptcgo": "RR",
-      "Image": "https://images.pokemontcg.io/pl2/logo.png",
+      "image": "https://images.pokemontcg.io/pl2/logo.png",
       "releaseDate": "2009/05/16"
     },
     {
@@ -636,7 +636,7 @@
       "printedTotal": 147,
       "total": 153,
       "ptcgo": "SV",
-      "Image": "https://images.pokemontcg.io/pl3/logo.png",
+      "image": "https://images.pokemontcg.io/pl3/logo.png",
       "releaseDate": "2009/08/19"
     },
     {
@@ -647,7 +647,7 @@
       "printedTotal": 99,
       "total": 111,
       "ptcgo": "AR",
-      "Image": "https://images.pokemontcg.io/pl4/logo.png",
+      "image": "https://images.pokemontcg.io/pl4/logo.png",
       "releaseDate": "2009/11/04"
     },
     {
@@ -657,7 +657,7 @@
       "seriesId": 4,
       "printedTotal": 16,
       "total": 16,
-      "Image": "https://images.pokemontcg.io/ru1/logo.png",
+      "image": "https://images.pokemontcg.io/ru1/logo.png",
       "releaseDate": "2009/12/02"
     },
     {
@@ -668,7 +668,7 @@
       "printedTotal": 123,
       "total": 124,
       "ptcgo": "HS",
-      "Image": "https://images.pokemontcg.io/hgss1/logo.png",
+      "image": "https://images.pokemontcg.io/hgss1/logo.png",
       "releaseDate": "2010/02/10"
     },
     {
@@ -679,7 +679,7 @@
       "printedTotal": 25,
       "total": 25,
       "ptcgo": "PR-HS",
-      "Image": "https://images.pokemontcg.io/hsp/logo.png",
+      "image": "https://images.pokemontcg.io/hsp/logo.png",
       "releaseDate": "2010/02/10"
     },
     {
@@ -690,7 +690,7 @@
       "printedTotal": 95,
       "total": 96,
       "ptcgo": "UL",
-      "Image": "https://images.pokemontcg.io/hgss2/logo.png",
+      "image": "https://images.pokemontcg.io/hgss2/logo.png",
       "releaseDate": "2010/05/12"
     },
     {
@@ -701,7 +701,7 @@
       "printedTotal": 90,
       "total": 91,
       "ptcgo": "UD",
-      "Image": "https://images.pokemontcg.io/hgss3/logo.png",
+      "image": "https://images.pokemontcg.io/hgss3/logo.png",
       "releaseDate": "2010/08/18"
     },
     {
@@ -712,7 +712,7 @@
       "printedTotal": 102,
       "total": 103,
       "ptcgo": "TM",
-      "Image": "https://images.pokemontcg.io/hgss4/logo.png",
+      "image": "https://images.pokemontcg.io/hgss4/logo.png",
       "releaseDate": "2010/11/03"
     },
     {
@@ -723,7 +723,7 @@
       "printedTotal": 95,
       "total": 106,
       "ptcgo": "CL",
-      "Image": "https://images.pokemontcg.io/col1/logo.png",
+      "image": "https://images.pokemontcg.io/col1/logo.png",
       "releaseDate": "2011/02/09"
     },
     {
@@ -736,7 +736,7 @@
       "ptcgo": "CL",
       "symbolImg": "https://images.pokemontcg.io/col1/symbol.png",
       "logoImg": "https://images.pokemontcg.io/col1/logo.png",
-      "Image": "https://images.pokemontcg.io/col1/logo.png",
+      "image": "https://images.pokemontcg.io/col1/logo.png",
       "releaseDate": "2011/02/09"
     },
     {
@@ -747,7 +747,7 @@
       "printedTotal": 101,
       "total": 101,
       "ptcgo": "PR-BLW",
-      "Image": "https://images.pokemontcg.io/bwp/logo.png",
+      "image": "https://images.pokemontcg.io/bwp/logo.png",
       "releaseDate": "2011/03/01"
     },
     {
@@ -758,7 +758,7 @@
       "printedTotal": 114,
       "total": 115,
       "ptcgo": "BLW",
-      "Image": "https://images.pokemontcg.io/bw1/logo.png",
+      "image": "https://images.pokemontcg.io/bw1/logo.png",
       "releaseDate": "2011/04/25"
     },
     {
@@ -768,7 +768,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd11/logo.png",
+      "image": "https://images.pokemontcg.io/mcd11/logo.png",
       "releaseDate": "2011/06/17"
     },
     {
@@ -779,7 +779,7 @@
       "printedTotal": 98,
       "total": 98,
       "ptcgo": "EPO",
-      "Image": "https://images.pokemontcg.io/bw2/logo.png",
+      "image": "https://images.pokemontcg.io/bw2/logo.png",
       "releaseDate": "2011/08/31"
     },
     {
@@ -790,7 +790,7 @@
       "printedTotal": 101,
       "total": 102,
       "ptcgo": "NVI",
-      "Image": "https://images.pokemontcg.io/bw3/logo.png",
+      "image": "https://images.pokemontcg.io/bw3/logo.png",
       "releaseDate": "2011/11/16"
     },
     {
@@ -801,7 +801,7 @@
       "printedTotal": 99,
       "total": 103,
       "ptcgo": "NXD",
-      "Image": "https://images.pokemontcg.io/bw4/logo.png",
+      "image": "https://images.pokemontcg.io/bw4/logo.png",
       "releaseDate": "2012/02/08"
     },
     {
@@ -812,7 +812,7 @@
       "printedTotal": 108,
       "total": 111,
       "ptcgo": "DEX",
-      "Image": "https://images.pokemontcg.io/bw5/logo.png",
+      "image": "https://images.pokemontcg.io/bw5/logo.png",
       "releaseDate": "2012/05/09"
     },
     {
@@ -822,7 +822,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd12/logo.png",
+      "image": "https://images.pokemontcg.io/mcd12/logo.png",
       "releaseDate": "2012/06/15"
     },
     {
@@ -833,7 +833,7 @@
       "printedTotal": 124,
       "total": 128,
       "ptcgo": "DRX",
-      "Image": "https://images.pokemontcg.io/bw6/logo.png",
+      "image": "https://images.pokemontcg.io/bw6/logo.png",
       "releaseDate": "2012/08/15"
     },
     {
@@ -844,7 +844,7 @@
       "printedTotal": 20,
       "total": 21,
       "ptcgo": "DRV",
-      "Image": "https://images.pokemontcg.io/dv1/logo.png",
+      "image": "https://images.pokemontcg.io/dv1/logo.png",
       "releaseDate": "2012/10/05"
     },
     {
@@ -855,7 +855,7 @@
       "printedTotal": 149,
       "total": 153,
       "ptcgo": "BCR",
-      "Image": "https://images.pokemontcg.io/bw7/logo.png",
+      "image": "https://images.pokemontcg.io/bw7/logo.png",
       "releaseDate": "2012/11/07"
     },
     {
@@ -866,7 +866,7 @@
       "printedTotal": 135,
       "total": 138,
       "ptcgo": "PLS",
-      "Image": "https://images.pokemontcg.io/bw8/logo.png",
+      "image": "https://images.pokemontcg.io/bw8/logo.png",
       "releaseDate": "2013/02/06"
     },
     {
@@ -877,7 +877,7 @@
       "printedTotal": 116,
       "total": 122,
       "ptcgo": "PLF",
-      "Image": "https://images.pokemontcg.io/bw9/logo.png",
+      "image": "https://images.pokemontcg.io/bw9/logo.png",
       "releaseDate": "2013/05/08"
     },
     {
@@ -888,7 +888,7 @@
       "printedTotal": 101,
       "total": 105,
       "ptcgo": "PLB",
-      "Image": "https://images.pokemontcg.io/bw10/logo.png",
+      "image": "https://images.pokemontcg.io/bw10/logo.png",
       "releaseDate": "2013/08/14"
     },
     {
@@ -899,7 +899,7 @@
       "printedTotal": 211,
       "total": 216,
       "ptcgo": "PR-XY",
-      "Image": "https://images.pokemontcg.io/xyp/logo.png",
+      "image": "https://images.pokemontcg.io/xyp/logo.png",
       "releaseDate": "2013/10/12"
     },
     {
@@ -910,7 +910,7 @@
       "printedTotal": 113,
       "total": 140,
       "ptcgo": "LTR",
-      "Image": "https://images.pokemontcg.io/bw11/logo.png",
+      "image": "https://images.pokemontcg.io/bw11/logo.png",
       "releaseDate": "2013/11/06"
     },
     {
@@ -923,7 +923,7 @@
       "ptcgo": "LTR",
       "symbolImg": "https://images.pokemontcg.io/bw11/symbol.png",
       "logoImg": "https://images.pokemontcg.io/bw11/logo.png",
-      "Image": "https://images.pokemontcg.io/bw11/logo.png",
+      "image": "https://images.pokemontcg.io/bw11/logo.png",
       "releaseDate": "2013/11/06"
     },
     {
@@ -934,7 +934,7 @@
       "printedTotal": 39,
       "total": 39,
       "ptcgo": "KSS",
-      "Image": "https://images.pokemontcg.io/xy0/logo.png",
+      "image": "https://images.pokemontcg.io/xy0/logo.png",
       "releaseDate": "2013/11/08"
     },
     {
@@ -945,7 +945,7 @@
       "printedTotal": 146,
       "total": 146,
       "ptcgo": "XY",
-      "Image": "https://images.pokemontcg.io/xy1/logo.png",
+      "image": "https://images.pokemontcg.io/xy1/logo.png",
       "releaseDate": "2014/02/05"
     },
     {
@@ -957,7 +957,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
       "releaseDate": "2014/03/12"
     },
     {
@@ -969,7 +969,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
       "releaseDate": "2014/03/12"
     },
     {
@@ -980,7 +980,7 @@
       "printedTotal": 106,
       "total": 110,
       "ptcgo": "FLF",
-      "Image": "https://images.pokemontcg.io/xy2/logo.png",
+      "image": "https://images.pokemontcg.io/xy2/logo.png",
       "releaseDate": "2014/05/07"
     },
     {
@@ -990,7 +990,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd14/logo.png",
+      "image": "https://images.pokemontcg.io/mcd14/logo.png",
       "releaseDate": "2014/05/23"
     },
     {
@@ -1001,7 +1001,7 @@
       "printedTotal": 111,
       "total": 114,
       "ptcgo": "FFI",
-      "Image": "https://images.pokemontcg.io/xy3/logo.png",
+      "image": "https://images.pokemontcg.io/xy3/logo.png",
       "releaseDate": "2014/08/13"
     },
     {
@@ -1013,7 +1013,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
       "releaseDate": "2014/11/01"
     },
     {
@@ -1025,7 +1025,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
       "releaseDate": "2014/11/01"
     },
     {
@@ -1036,7 +1036,7 @@
       "printedTotal": 119,
       "total": 124,
       "ptcgo": "PHF",
-      "Image": "https://images.pokemontcg.io/xy4/logo.png",
+      "image": "https://images.pokemontcg.io/xy4/logo.png",
       "releaseDate": "2014/11/05"
     },
     {
@@ -1047,7 +1047,7 @@
       "printedTotal": 160,
       "total": 164,
       "ptcgo": "PRC",
-      "Image": "https://images.pokemontcg.io/xy5/logo.png",
+      "image": "https://images.pokemontcg.io/xy5/logo.png",
       "releaseDate": "2015/02/04"
     },
     {
@@ -1058,7 +1058,7 @@
       "printedTotal": 34,
       "total": 34,
       "ptcgo": "DCR",
-      "Image": "https://images.pokemontcg.io/dc1/logo.png",
+      "image": "https://images.pokemontcg.io/dc1/logo.png",
       "releaseDate": "2015/03/25"
     },
     {
@@ -1070,7 +1070,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
       "releaseDate": "2015/04/29"
     },
     {
@@ -1082,7 +1082,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
       "releaseDate": "2015/04/29"
     },
     {
@@ -1093,7 +1093,7 @@
       "printedTotal": 108,
       "total": 112,
       "ptcgo": "ROS",
-      "Image": "https://images.pokemontcg.io/xy6/logo.png",
+      "image": "https://images.pokemontcg.io/xy6/logo.png",
       "releaseDate": "2015/05/06"
     },
     {
@@ -1104,7 +1104,7 @@
       "printedTotal": 98,
       "total": 100,
       "ptcgo": "AOR",
-      "Image": "https://images.pokemontcg.io/xy7/logo.png",
+      "image": "https://images.pokemontcg.io/xy7/logo.png",
       "releaseDate": "2015/08/12"
     },
     {
@@ -1115,7 +1115,7 @@
       "printedTotal": 162,
       "total": 165,
       "ptcgo": "BKT",
-      "Image": "https://images.pokemontcg.io/xy8/logo.png",
+      "image": "https://images.pokemontcg.io/xy8/logo.png",
       "releaseDate": "2015/11/04"
     },
     {
@@ -1125,7 +1125,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd15/logo.png",
+      "image": "https://images.pokemontcg.io/mcd15/logo.png",
       "releaseDate": "2015/11/27"
     },
     {
@@ -1136,7 +1136,7 @@
       "printedTotal": 122,
       "total": 126,
       "ptcgo": "BKP",
-      "Image": "https://images.pokemontcg.io/xy9/logo.png",
+      "image": "https://images.pokemontcg.io/xy9/logo.png",
       "releaseDate": "2016/02/03"
     },
     {
@@ -1147,7 +1147,7 @@
       "printedTotal": 83,
       "total": 117,
       "ptcgo": "GEN",
-      "Image": "https://images.pokemontcg.io/g1/logo.png",
+      "image": "https://images.pokemontcg.io/g1/logo.png",
       "releaseDate": "2016/02/22"
     },
     {
@@ -1160,7 +1160,7 @@
       "ptcgo": "GEN",
       "symbolImg": "https://images.pokemontcg.io/g1/symbol.png",
       "logoImg": "https://images.pokemontcg.io/g1/logo.png",
-      "Image": "https://images.pokemontcg.io/g1/logo.png",
+      "image": "https://images.pokemontcg.io/g1/logo.png",
       "releaseDate": "2016/02/22"
     },
     {
@@ -1172,7 +1172,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
       "releaseDate": "2016/04/27"
     },
     {
@@ -1184,7 +1184,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
       "releaseDate": "2016/04/27"
     },
     {
@@ -1195,7 +1195,7 @@
       "printedTotal": 124,
       "total": 129,
       "ptcgo": "FCO",
-      "Image": "https://images.pokemontcg.io/xy10/logo.png",
+      "image": "https://images.pokemontcg.io/xy10/logo.png",
       "releaseDate": "2016/05/02"
     },
     {
@@ -1206,7 +1206,7 @@
       "printedTotal": 114,
       "total": 116,
       "ptcgo": "STS",
-      "Image": "https://images.pokemontcg.io/xy11/logo.png",
+      "image": "https://images.pokemontcg.io/xy11/logo.png",
       "releaseDate": "2016/08/03"
     },
     {
@@ -1216,7 +1216,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd16/logo.png",
+      "image": "https://images.pokemontcg.io/mcd16/logo.png",
       "releaseDate": "2016/08/19"
     },
     {
@@ -1227,7 +1227,7 @@
       "printedTotal": 108,
       "total": 113,
       "ptcgo": "EVO",
-      "Image": "https://images.pokemontcg.io/xy12/logo.png",
+      "image": "https://images.pokemontcg.io/xy12/logo.png",
       "releaseDate": "2016/11/02"
     },
     {
@@ -1238,7 +1238,7 @@
       "printedTotal": 149,
       "total": 173,
       "ptcgo": "SUM",
-      "Image": "https://images.pokemontcg.io/sm1/logo.png",
+      "image": "https://images.pokemontcg.io/sm1/logo.png",
       "releaseDate": "2017/02/03"
     },
     {
@@ -1249,7 +1249,7 @@
       "printedTotal": 248,
       "total": 250,
       "ptcgo": "PR-SM",
-      "Image": "https://images.pokemontcg.io/smp/logo.png",
+      "image": "https://images.pokemontcg.io/smp/logo.png",
       "releaseDate": "2017/02/03"
     },
     {
@@ -1261,7 +1261,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
       "releaseDate": "2017/04/21"
     },
     {
@@ -1273,7 +1273,7 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
       "releaseDate": "2017/04/21"
     },
     {
@@ -1284,7 +1284,7 @@
       "printedTotal": 145,
       "total": 180,
       "ptcgo": "GRI",
-      "Image": "https://images.pokemontcg.io/sm2/logo.png",
+      "image": "https://images.pokemontcg.io/sm2/logo.png",
       "releaseDate": "2017/05/05"
     },
     {
@@ -1295,7 +1295,7 @@
       "printedTotal": 147,
       "total": 177,
       "ptcgo": "BUS",
-      "Image": "https://images.pokemontcg.io/sm3/logo.png",
+      "image": "https://images.pokemontcg.io/sm3/logo.png",
       "releaseDate": "2017/08/05"
     },
     {
@@ -1306,7 +1306,7 @@
       "printedTotal": 73,
       "total": 81,
       "ptcgo": "SLG",
-      "Image": "https://images.pokemontcg.io/sm35/logo.png",
+      "image": "https://images.pokemontcg.io/sm35/logo.png",
       "releaseDate": "2017/10/06"
     },
     {
@@ -1317,7 +1317,7 @@
       "printedTotal": 111,
       "total": 126,
       "ptcgo": "CIN",
-      "Image": "https://images.pokemontcg.io/sm4/logo.png",
+      "image": "https://images.pokemontcg.io/sm4/logo.png",
       "releaseDate": "2017/11/03"
     },
     {
@@ -1327,7 +1327,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd17/logo.png",
+      "image": "https://images.pokemontcg.io/mcd17/logo.png",
       "releaseDate": "2017/11/07"
     },
     {
@@ -1338,7 +1338,7 @@
       "printedTotal": 156,
       "total": 178,
       "ptcgo": "UPR",
-      "Image": "https://images.pokemontcg.io/sm5/logo.png",
+      "image": "https://images.pokemontcg.io/sm5/logo.png",
       "releaseDate": "2018/02/02"
     },
     {
@@ -1349,7 +1349,7 @@
       "printedTotal": 131,
       "total": 150,
       "ptcgo": "FLI",
-      "Image": "https://images.pokemontcg.io/sm6/logo.png",
+      "image": "https://images.pokemontcg.io/sm6/logo.png",
       "releaseDate": "2018/05/04"
     },
     {
@@ -1360,7 +1360,7 @@
       "printedTotal": 168,
       "total": 187,
       "ptcgo": "CES",
-      "Image": "https://images.pokemontcg.io/sm7/logo.png",
+      "image": "https://images.pokemontcg.io/sm7/logo.png",
       "releaseDate": "2018/08/03"
     },
     {
@@ -1371,7 +1371,7 @@
       "printedTotal": 70,
       "total": 80,
       "ptcgo": "DRM",
-      "Image": "https://images.pokemontcg.io/sm75/logo.png",
+      "image": "https://images.pokemontcg.io/sm75/logo.png",
       "releaseDate": "2018/09/07"
     },
     {
@@ -1381,7 +1381,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd18/logo.png",
+      "image": "https://images.pokemontcg.io/mcd18/logo.png",
       "releaseDate": "2018/10/16"
     },
     {
@@ -1392,7 +1392,7 @@
       "printedTotal": 214,
       "total": 240,
       "ptcgo": "LOT",
-      "Image": "https://images.pokemontcg.io/sm8/logo.png",
+      "image": "https://images.pokemontcg.io/sm8/logo.png",
       "releaseDate": "2018/11/02"
     },
     {
@@ -1403,7 +1403,7 @@
       "printedTotal": 181,
       "total": 198,
       "ptcgo": "TEU",
-      "Image": "https://images.pokemontcg.io/sm9/logo.png",
+      "image": "https://images.pokemontcg.io/sm9/logo.png",
       "releaseDate": "2019/02/01"
     },
     {
@@ -1414,7 +1414,7 @@
       "printedTotal": 18,
       "total": 18,
       "ptcgo": "DET",
-      "Image": "https://images.pokemontcg.io/det1/logo.png",
+      "image": "https://images.pokemontcg.io/det1/logo.png",
       "releaseDate": "2019/04/05"
     },
     {
@@ -1425,7 +1425,7 @@
       "printedTotal": 214,
       "total": 234,
       "ptcgo": "UNB",
-      "Image": "https://images.pokemontcg.io/sm10/logo.png",
+      "image": "https://images.pokemontcg.io/sm10/logo.png",
       "releaseDate": "2019/05/03"
     },
     {
@@ -1436,7 +1436,7 @@
       "printedTotal": 236,
       "total": 260,
       "ptcgo": "UNM",
-      "Image": "https://images.pokemontcg.io/sm11/logo.png",
+      "image": "https://images.pokemontcg.io/sm11/logo.png",
       "releaseDate": "2019/08/02"
     },
     {
@@ -1447,7 +1447,7 @@
       "printedTotal": 68,
       "total": 69,
       "ptcgo": "HIF",
-      "Image": "https://images.pokemontcg.io/sm115/logo.png",
+      "image": "https://images.pokemontcg.io/sm115/logo.png",
       "releaseDate": "2019/08/23"
     },
     {
@@ -1457,7 +1457,7 @@
       "seriesId": 15,
       "printedTotal": 94,
       "total": 94,
-      "Image": "https://images.pokemontcg.io/sma/logo.png",
+      "image": "https://images.pokemontcg.io/sma/logo.png",
       "releaseDate": "2019/08/23"
     },
     {
@@ -1467,7 +1467,7 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd19/logo.png",
+      "image": "https://images.pokemontcg.io/mcd19/logo.png",
       "releaseDate": "2019/10/15"
     },
     {
@@ -1478,7 +1478,7 @@
       "printedTotal": 236,
       "total": 272,
       "ptcgo": "CEC",
-      "Image": "https://images.pokemontcg.io/sm12/logo.png",
+      "image": "https://images.pokemontcg.io/sm12/logo.png",
       "releaseDate": "2019/11/01"
     },
     {
@@ -1489,7 +1489,7 @@
       "printedTotal": 307,
       "total": 304,
       "ptcgo": "PR-SW",
-      "Image": "https://images.pokemontcg.io/swshp/logo.png",
+      "image": "https://images.pokemontcg.io/swshp/logo.png",
       "releaseDate": "2019/11/15"
     },
     {
@@ -1500,7 +1500,7 @@
       "printedTotal": 202,
       "total": 216,
       "ptcgo": "SSH",
-      "Image": "https://images.pokemontcg.io/swsh1/logo.png",
+      "image": "https://images.pokemontcg.io/swsh1/logo.png",
       "releaseDate": "2020/02/07"
     },
     {
@@ -1511,7 +1511,7 @@
       "printedTotal": 192,
       "total": 209,
       "ptcgo": "RCL",
-      "Image": "https://images.pokemontcg.io/swsh2/logo.png",
+      "image": "https://images.pokemontcg.io/swsh2/logo.png",
       "releaseDate": "2020/05/01"
     },
     {
@@ -1522,7 +1522,7 @@
       "printedTotal": 189,
       "total": 201,
       "ptcgo": "DAA",
-      "Image": "https://images.pokemontcg.io/swsh3/logo.png",
+      "image": "https://images.pokemontcg.io/swsh3/logo.png",
       "releaseDate": "2020/08/14"
     },
     {
@@ -1533,7 +1533,7 @@
       "printedTotal": 5,
       "total": 5,
       "ptcgo": "FUT20",
-      "Image": "https://images.pokemontcg.io/fut20/logo.png",
+      "image": "https://images.pokemontcg.io/fut20/logo.png",
       "releaseDate": "2020/09/11"
     },
     {
@@ -1544,7 +1544,7 @@
       "printedTotal": 73,
       "total": 80,
       "ptcgo": "CPA",
-      "Image": "https://images.pokemontcg.io/swsh35/logo.png",
+      "image": "https://images.pokemontcg.io/swsh35/logo.png",
       "releaseDate": "2020/09/25"
     },
     {
@@ -1555,7 +1555,7 @@
       "printedTotal": 185,
       "total": 203,
       "ptcgo": "VIV",
-      "Image": "https://images.pokemontcg.io/swsh4/logo.png",
+      "image": "https://images.pokemontcg.io/swsh4/logo.png",
       "releaseDate": "2020/11/13"
     },
     {
@@ -1565,7 +1565,7 @@
       "seriesId": 4,
       "printedTotal": 25,
       "total": 25,
-      "Image": "https://images.pokemontcg.io/mcd21/logo.png",
+      "image": "https://images.pokemontcg.io/mcd21/logo.png",
       "releaseDate": "2021/02/09"
     },
     {
@@ -1576,7 +1576,7 @@
       "printedTotal": 72,
       "total": 73,
       "ptcgo": "SHF",
-      "Image": "https://images.pokemontcg.io/swsh45/logo.png",
+      "image": "https://images.pokemontcg.io/swsh45/logo.png",
       "releaseDate": "2021/02/19"
     },
     {
@@ -1587,7 +1587,7 @@
       "printedTotal": 122,
       "total": 122,
       "ptcgo": "SHF",
-      "Image": "https://images.pokemontcg.io/swsh45sv/logo.png",
+      "image": "https://images.pokemontcg.io/swsh45sv/logo.png",
       "releaseDate": "2021/02/19"
     },
     {
@@ -1598,7 +1598,7 @@
       "printedTotal": 163,
       "total": 183,
       "ptcgo": "BST",
-      "Image": "https://images.pokemontcg.io/swsh5/logo.png",
+      "image": "https://images.pokemontcg.io/swsh5/logo.png",
       "releaseDate": "2021/03/19"
     },
     {
@@ -1609,7 +1609,7 @@
       "printedTotal": 198,
       "total": 233,
       "ptcgo": "CRE",
-      "Image": "https://images.pokemontcg.io/swsh6/logo.png",
+      "image": "https://images.pokemontcg.io/swsh6/logo.png",
       "releaseDate": "2021/06/18"
     },
     {
@@ -1620,7 +1620,7 @@
       "printedTotal": 203,
       "total": 237,
       "ptcgo": "EVS",
-      "Image": "https://images.pokemontcg.io/swsh7/logo.png",
+      "image": "https://images.pokemontcg.io/swsh7/logo.png",
       "releaseDate": "2021/08/27"
     },
     {
@@ -1631,7 +1631,7 @@
       "printedTotal": 25,
       "total": 25,
       "ptcgo": "CEL",
-      "Image": "https://images.pokemontcg.io/cel25/logo.png",
+      "image": "https://images.pokemontcg.io/cel25/logo.png",
       "releaseDate": "2021/10/08"
     },
     {
@@ -1642,7 +1642,7 @@
       "printedTotal": 25,
       "total": 25,
       "ptcgo": "CEL",
-      "Image": "https://images.pokemontcg.io/cel25c/logo.png",
+      "image": "https://images.pokemontcg.io/cel25c/logo.png",
       "releaseDate": "2021/10/08"
     },
     {
@@ -1653,7 +1653,7 @@
       "printedTotal": 264,
       "total": 284,
       "ptcgo": "FST",
-      "Image": "https://images.pokemontcg.io/swsh8/logo.png",
+      "image": "https://images.pokemontcg.io/swsh8/logo.png",
       "releaseDate": "2021/11/12"
     },
     {
@@ -1664,7 +1664,7 @@
       "printedTotal": 172,
       "total": 186,
       "ptcgo": "BRS",
-      "Image": "https://images.pokemontcg.io/swsh9/logo.png",
+      "image": "https://images.pokemontcg.io/swsh9/logo.png",
       "releaseDate": "2022/02/25"
     },
     {
@@ -1675,7 +1675,7 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "BRS",
-      "Image": "https://images.pokemontcg.io/swsh9tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh9tg/logo.png",
       "releaseDate": "2022/02/25"
     },
     {
@@ -1686,7 +1686,7 @@
       "printedTotal": 189,
       "total": 216,
       "ptcgo": "ASR",
-      "Image": "https://images.pokemontcg.io/swsh10/logo.png",
+      "image": "https://images.pokemontcg.io/swsh10/logo.png",
       "releaseDate": "2022/05/27"
     },
     {
@@ -1697,7 +1697,7 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "ASR",
-      "Image": "https://images.pokemontcg.io/swsh10tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh10tg/logo.png",
       "releaseDate": "2022/05/27"
     },
     {
@@ -1708,7 +1708,7 @@
       "printedTotal": 78,
       "total": 88,
       "ptcgo": "PGO",
-      "Image": "https://images.pokemontcg.io/pgo/logo.png",
+      "image": "https://images.pokemontcg.io/pgo/logo.png",
       "releaseDate": "2022/07/01"
     },
     {
@@ -1718,7 +1718,7 @@
       "seriesId": 4,
       "printedTotal": 15,
       "total": 15,
-      "Image": "https://images.pokemontcg.io/mcd22/logo.png",
+      "image": "https://images.pokemontcg.io/mcd22/logo.png",
       "releaseDate": "2022/08/03"
     },
     {
@@ -1729,7 +1729,7 @@
       "printedTotal": 196,
       "total": 217,
       "ptcgo": "LOR",
-      "Image": "https://images.pokemontcg.io/swsh11/logo.png",
+      "image": "https://images.pokemontcg.io/swsh11/logo.png",
       "releaseDate": "2022/09/09"
     },
     {
@@ -1740,7 +1740,7 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "LOR",
-      "Image": "https://images.pokemontcg.io/swsh11tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh11tg/logo.png",
       "releaseDate": "2022/09/09"
     },
     {
@@ -1751,7 +1751,7 @@
       "printedTotal": 195,
       "total": 215,
       "ptcgo": "SIT",
-      "Image": "https://images.pokemontcg.io/swsh12/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12/logo.png",
       "releaseDate": "2022/11/11"
     },
     {
@@ -1762,7 +1762,7 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "SIT",
-      "Image": "https://images.pokemontcg.io/swsh12tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12tg/logo.png",
       "releaseDate": "2022/11/11"
     },
     {
@@ -1773,7 +1773,7 @@
       "printedTotal": 102,
       "total": 75,
       "ptcgo": "PR-SV",
-      "Image": "https://images.pokemontcg.io/svp/logo.png",
+      "image": "https://images.pokemontcg.io/svp/logo.png",
       "releaseDate": "2023/01/01"
     },
     {
@@ -1784,7 +1784,7 @@
       "printedTotal": 159,
       "total": 160,
       "ptcgo": "CRZ",
-      "Image": "https://images.pokemontcg.io/swsh12pt5/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/logo.png",
       "releaseDate": "2023/01/20"
     },
     {
@@ -1795,7 +1795,7 @@
       "printedTotal": 70,
       "total": 70,
       "ptcgo": "CRZ",
-      "Image": "https://images.pokemontcg.io/swsh12pt5gg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5gg/logo.png",
       "releaseDate": "2023/01/20"
     },
     {
@@ -1806,7 +1806,7 @@
       "printedTotal": 198,
       "total": 258,
       "ptcgo": "SVI",
-      "Image": "https://images.pokemontcg.io/sv1/logo.png",
+      "image": "https://images.pokemontcg.io/sv1/logo.png",
       "releaseDate": "2023/03/31"
     },
     {
@@ -1817,7 +1817,7 @@
       "printedTotal": 8,
       "total": 8,
       "ptcgo": "SVE",
-      "Image": "https://images.pokemontcg.io/sve/logo.png",
+      "image": "https://images.pokemontcg.io/sve/logo.png",
       "releaseDate": "2023/03/31"
     },
     {
@@ -1828,7 +1828,7 @@
       "printedTotal": 193,
       "total": 279,
       "ptcgo": "PAL",
-      "Image": "https://images.pokemontcg.io/sv2/logo.png",
+      "image": "https://images.pokemontcg.io/sv2/logo.png",
       "releaseDate": "2023/06/09"
     },
     {
@@ -1839,7 +1839,7 @@
       "printedTotal": 197,
       "total": 230,
       "ptcgo": "OBF",
-      "Image": "https://images.pokemontcg.io/sv3/logo.png",
+      "image": "https://images.pokemontcg.io/sv3/logo.png",
       "releaseDate": "2023/08/11"
     },
     {
@@ -1850,7 +1850,7 @@
       "printedTotal": 165,
       "total": 207,
       "ptcgo": "MEW",
-      "Image": "https://images.pokemontcg.io/sv3pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/logo.png",
       "releaseDate": "2023/09/22"
     },
     {
@@ -1861,7 +1861,7 @@
       "printedTotal": 182,
       "total": 266,
       "ptcgo": "PAR",
-      "Image": "https://images.pokemontcg.io/sv4/logo.png",
+      "image": "https://images.pokemontcg.io/sv4/logo.png",
       "releaseDate": "2023/11/03"
     },
     {
@@ -1872,7 +1872,7 @@
       "printedTotal": 91,
       "total": 245,
       "ptcgo": "PAF",
-      "Image": "https://images.pokemontcg.io/sv4pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/logo.png",
       "releaseDate": "2024/01/26"
     },
     {
@@ -1883,7 +1883,7 @@
       "printedTotal": 162,
       "total": 218,
       "ptcgo": "TEF",
-      "Image": "https://images.pokemontcg.io/sv5/logo.png",
+      "image": "https://images.pokemontcg.io/sv5/logo.png",
       "releaseDate": "2024/03/22"
     },
     {
@@ -1894,7 +1894,7 @@
       "printedTotal": 167,
       "total": 226,
       "ptcgo": "TWM",
-      "Image": "https://images.pokemontcg.io/sv6/logo.png",
+      "image": "https://images.pokemontcg.io/sv6/logo.png",
       "releaseDate": "2024/05/24"
     },
     {
@@ -1905,7 +1905,7 @@
       "printedTotal": 64,
       "total": 99,
       "ptcgo": "SFA",
-      "Image": "https://images.pokemontcg.io/sv6pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv6pt5/logo.png",
       "releaseDate": "2024/08/02"
     },
     {
@@ -1916,7 +1916,7 @@
       "printedTotal": 142,
       "total": 175,
       "ptcgo": "SCR",
-      "Image": "https://images.pokemontcg.io/sv7/logo.png",
+      "image": "https://images.pokemontcg.io/sv7/logo.png",
       "releaseDate": "2024/09/13"
     },
     {
@@ -1927,7 +1927,7 @@
       "printedTotal": 191,
       "total": 252,
       "ptcgo": "SSP",
-      "Image": "https://images.pokemontcg.io/sv8/logo.png",
+      "image": "https://images.pokemontcg.io/sv8/logo.png",
       "releaseDate": "2024/11/08"
     },
     {
@@ -1938,7 +1938,7 @@
       "printedTotal": 131,
       "total": 180,
       "ptcgo": "PRE",
-      "Image": "https://images.pokemontcg.io/sv8pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv8pt5/logo.png",
       "releaseDate": "2025/01/17"
     },
     {
@@ -1949,7 +1949,7 @@
       "printedTotal": 9,
       "total": 9,
       "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
-      "Image": "https://images.pokemontcg.io/sm1/logo.png",
+      "image": "https://images.pokemontcg.io/sm1/logo.png",
       "releaseDate": "2019/02/01"
     },
     {
@@ -1960,7 +1960,7 @@
       "printedTotal": 159,
       "total": 190,
       "ptcgo": "JTG",
-      "Image": "https://images.pokemontcg.io/sv9/logo.png",
+      "image": "https://images.pokemontcg.io/sv9/logo.png",
       "releaseDate": "2025/03/28"
     }
   ]
