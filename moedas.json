@@ -5,7 +5,6 @@
       "name": "Absol",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710510912_791.jpg"
     },
     {
@@ -13,7 +12,6 @@
       "name": "Aerodactyl",
       "tamanhoId": 2,
       "corId": 8,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709570487_5905.jpg"
     },
     {
@@ -21,7 +19,6 @@
       "name": "Alakazam",
       "tamanhoId": 2,
       "corId": 13,
-      "efeitoId": 7,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675453033_6008.jpg"
     },
     {
@@ -29,7 +26,6 @@
       "name": "Alakazam",
       "tamanhoId": 2,
       "corId": 13,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675452644_2727.jpg"
     },
     {
@@ -37,7 +33,6 @@
       "name": "Alakazam",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 19,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701280407_6727.jpg"
     },
     {
@@ -45,7 +40,6 @@
       "name": "Arceus",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672923915_3864.jpg"
     },
     {
@@ -53,7 +47,6 @@
       "name": "Arceus",
       "tamanhoId": 2,
       "corId": 4,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690314388_4340.jpg"
     },
     {
@@ -61,7 +54,6 @@
       "name": "Arceus",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690314074_3165.jpg"
     },
     {
@@ -69,7 +61,6 @@
       "name": "Arceus",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701277095_9064.jpg"
     },
     {
@@ -77,7 +68,6 @@
       "name": "Aura's Lucario",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761956_9855.jpg"
     },
     {
@@ -85,7 +75,6 @@
       "name": "Baxcalibur",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281902_5584.jpg"
     },
     {
@@ -93,7 +82,6 @@
       "name": "Black Kyurem",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002247_7337.jpg"
     },
     {
@@ -101,7 +89,6 @@
       "name": "Black Kyurem",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690297180_7187.jpg"
     },
     {
@@ -109,7 +96,6 @@
       "name": "Blastoise",
       "tamanhoId": 3,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221116/1668615246_4713.jpg"
     },
     {
@@ -117,7 +103,6 @@
       "name": "Blastoise",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764253_293.jpg"
     },
     {
@@ -125,7 +110,6 @@
       "name": "Blastoise",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1662995550_6921.jpg"
     },
     {
@@ -133,7 +117,6 @@
       "name": "Blastoise",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673269192_260.jpg"
     },
     {
@@ -141,7 +124,6 @@
       "name": "Blastoise",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702926192_8772.jpg"
     },
     {
@@ -149,7 +131,6 @@
       "name": "Blastoise",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 20,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221116/1668617368_240.jpg"
     },
     {
@@ -157,7 +138,6 @@
       "name": "Bulbasaur",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221116/1668617834_9483.jpg"
     },
     {
@@ -165,7 +145,6 @@
       "name": "Bulbasaur",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675358572_1825.jpg"
     },
     {
@@ -173,7 +152,6 @@
       "name": "Calyrex",
       "tamanhoId": 3,
       "corId": 13,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764951_8698.jpg"
     },
     {
@@ -181,7 +159,6 @@
       "name": "Camerupt",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703770071_9878.jpg"
     },
     {
@@ -189,7 +166,6 @@
       "name": "Celebi",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690311206_3434.jpg"
     },
     {
@@ -197,7 +173,6 @@
       "name": "Celebrações 25 anos",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764689_2805.jpg"
     },
     {
@@ -205,7 +180,6 @@
       "name": "Celebrações 25 anos",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 20,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221014/1665759331_9704.jpg"
     },
     {
@@ -213,7 +187,6 @@
       "name": "Celebrações 25 anos",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764649_815.jpg"
     },
     {
@@ -221,7 +194,6 @@
       "name": "Cetoddle",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241011/1728647834_2861.jpg"
     },
     {
@@ -229,7 +201,6 @@
       "name": "Chansey (Wizards 2000)",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688474188_3301.jpg"
     },
     {
@@ -237,7 +208,6 @@
       "name": "Charizard",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 22,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672755338_5115.jpg"
     },
     {
@@ -245,7 +215,6 @@
       "name": "Charizard",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674855228_5045.jpg"
     },
     {
@@ -253,7 +222,6 @@
       "name": "Charizard",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754525_9583.jpg"
     },
     {
@@ -261,7 +229,6 @@
       "name": "Charizard",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660755318_9302.jpg"
     },
     {
@@ -269,7 +236,6 @@
       "name": "Charizard",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675443777_5388.jpg"
     },
     {
@@ -277,7 +243,6 @@
       "name": "Charizard",
       "tamanhoId": 2,
       "corId": 7,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000619_1964.jpg"
     },
     {
@@ -285,7 +250,6 @@
       "name": "Charizard",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230913/1694622615_6305.jpg"
     },
     {
@@ -293,7 +257,6 @@
       "name": "Charizard VMAX",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 25,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688494144_62.jpg"
     },
     {
@@ -301,7 +264,6 @@
       "name": "Charizard VMAX",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714138309_5106.jpg"
     },
     {
@@ -309,7 +271,6 @@
       "name": "Charizard VMAX",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 16,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677672809_2606.jpg"
     },
     {
@@ -317,7 +278,6 @@
       "name": "Charmander",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677590313_4107.jpg"
     },
     {
@@ -325,7 +285,6 @@
       "name": "Chespin",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660758916_1341.jpg"
     },
     {
@@ -333,7 +292,6 @@
       "name": "Chespin",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709572195_6703.jpg"
     },
     {
@@ -341,7 +299,6 @@
       "name": "Chespin",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709571817_3380.jpg"
     },
     {
@@ -349,7 +306,6 @@
       "name": "Chien-Pao",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 21,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241017/1729172082_239.jpg"
     },
     {
@@ -357,7 +313,6 @@
       "name": "Chikorita",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675359560_5777.jpg"
     },
     {
@@ -365,7 +320,6 @@
       "name": "Chimchar",
       "tamanhoId": 2,
       "corId": 7,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701274882_8448.jpg"
     },
     {
@@ -373,7 +327,6 @@
       "name": "Corviknight",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709733967_4684.jpg"
     },
     {
@@ -381,7 +334,6 @@
       "name": "Cranidos",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709558962_7826.jpg"
     },
     {
@@ -389,7 +341,6 @@
       "name": "Cranidos",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714134955_584.jpg"
     },
     {
@@ -397,7 +348,6 @@
       "name": "Crobat VMAX",
       "tamanhoId": 3,
       "corId": 12,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764364_467.jpg"
     },
     {
@@ -405,7 +355,6 @@
       "name": "Cyndaquil",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675108163_5364.jpg"
     },
     {
@@ -413,7 +362,6 @@
       "name": "Cyndaquil",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709556135_1514.jpg"
     },
     {
@@ -421,7 +369,6 @@
       "name": "Cyrus",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230502/1683033115_7506.jpg"
     },
     {
@@ -429,7 +376,6 @@
       "name": "Darkrai",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672926496_2873.jpg"
     },
     {
@@ -437,7 +383,6 @@
       "name": "Darkrai",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675107965_9848.jpg"
     },
     {
@@ -445,7 +390,6 @@
       "name": "Darmanitan de Galar",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649166340_9001.jpg"
     },
     {
@@ -453,7 +397,6 @@
       "name": "Deoxys",
       "tamanhoId": 3,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691086963_7446.jpg"
     },
     {
@@ -461,7 +404,6 @@
       "name": "Deoxys",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000712_9044.jpg"
     },
     {
@@ -469,7 +411,6 @@
       "name": "Deoxys",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677613660_2591.jpg"
     },
     {
@@ -477,7 +418,6 @@
       "name": "Deoxys",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230726/1690393175_2618.jpg"
     },
     {
@@ -485,7 +425,6 @@
       "name": "Deoxys",
       "tamanhoId": 2,
       "corId": 13,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702911561_3594.jpg"
     },
     {
@@ -493,7 +432,6 @@
       "name": "Detetive Pikachu",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 22,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660757004_4106.jpg"
     },
     {
@@ -501,7 +439,6 @@
       "name": "Dialga",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701276997_1245.jpg"
     },
     {
@@ -509,7 +446,6 @@
       "name": "Dialga",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709564146_286.jpg"
     },
     {
@@ -517,7 +453,6 @@
       "name": "Dialga",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763890_7783.jpg"
     },
     {
@@ -525,7 +460,6 @@
       "name": "Dialga Forma Origem",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672924288_8143.jpg"
     },
     {
@@ -533,7 +467,6 @@
       "name": "Ditto",
       "tamanhoId": 2,
       "corId": 13,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701279727_9381.jpg"
     },
     {
@@ -541,7 +474,6 @@
       "name": "Dragapult VMAX",
       "tamanhoId": 3,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765702_7118.jpg"
     },
     {
@@ -549,7 +481,6 @@
       "name": "Dragonite",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 4,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675365945_1637.jpg"
     },
     {
@@ -557,7 +488,6 @@
       "name": "Dragonite",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660760724_1569.jpg"
     },
     {
@@ -565,7 +495,6 @@
       "name": "Dragonite",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 18,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281788_6240.jpg"
     },
     {
@@ -573,7 +502,6 @@
       "name": "Drednaw",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677608616_6117.jpg"
     },
     {
@@ -581,7 +509,6 @@
       "name": "Drednaw",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221014/1665768517_5832.jpg"
     },
     {
@@ -589,7 +516,6 @@
       "name": "Eevee",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754884_9764.jpg"
     },
     {
@@ -597,7 +523,6 @@
       "name": "Eevee",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709730830_6254.jpg"
     },
     {
@@ -605,7 +530,6 @@
       "name": "Eevee",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677678116_625.jpg"
     },
     {
@@ -613,7 +537,6 @@
       "name": "Eevee",
       "tamanhoId": 2,
       "corId": 1,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677692317_8680.jpg"
     },
     {
@@ -621,7 +544,6 @@
       "name": "Eevee",
       "tamanhoId": 2,
       "corId": 5,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702928828_9405.jpg"
     },
     {
@@ -629,7 +551,6 @@
       "name": "Eevee",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701269260_1268.jpg"
     },
     {
@@ -637,7 +558,6 @@
       "name": "Eevee",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675277261_7567.jpg"
     },
     {
@@ -645,7 +565,6 @@
       "name": "Electivire e Magmortar",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709570893_1153.jpg"
     },
     {
@@ -653,7 +572,6 @@
       "name": "Emblema Equipe Magma",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677589008_439.jpg"
     },
     {
@@ -661,7 +579,6 @@
       "name": "Empoleon",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761569_5218.jpg"
     },
     {
@@ -669,7 +586,6 @@
       "name": "Entei",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677683177_9396.jpg"
     },
     {
@@ -677,7 +593,6 @@
       "name": "Entei",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709725758_1088.jpg"
     },
     {
@@ -685,7 +600,6 @@
       "name": "Equipe Aqua",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673270394_2436.jpg"
     },
     {
@@ -693,7 +607,6 @@
       "name": "Escavalier e Accelgor",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 16,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677671674_3822.jpg"
     },
     {
@@ -701,7 +614,6 @@
       "name": "Exeggutor de Alola",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691087674_6846.jpg"
     },
     {
@@ -709,7 +621,6 @@
       "name": "Fennekin",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660760990_7395.jpg"
     },
     {
@@ -717,7 +628,6 @@
       "name": "Fennekin",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709734465_2923.jpg"
     },
     {
@@ -725,7 +635,6 @@
       "name": "Fennekin",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677613273_7618.jpg"
     },
     {
@@ -733,7 +642,6 @@
       "name": "Fidough",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281820_5477.jpg"
     },
     {
@@ -741,7 +649,6 @@
       "name": "Flareon, Vaporeon e Jolteon",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 4,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765758_2438.jpg"
     },
     {
@@ -749,7 +656,6 @@
       "name": "Flygon",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709561058_6273.jpg"
     },
     {
@@ -757,7 +663,6 @@
       "name": "Froakie",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677609639_2465.jpg"
     },
     {
@@ -765,7 +670,6 @@
       "name": "Froakie",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000757_6077.jpg"
     },
     {
@@ -773,7 +677,6 @@
       "name": "Fuecoco",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703095819_2520.jpg"
     },
     {
@@ -781,7 +684,6 @@
       "name": "Fuecoco",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714134156_2853.jpg"
     },
     {
@@ -789,7 +691,6 @@
       "name": "Fuecoco",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702926754_6128.jpg"
     },
     {
@@ -797,7 +698,6 @@
       "name": "Garchomp",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660756828_1540.jpg"
     },
     {
@@ -805,7 +705,6 @@
       "name": "Garchomp e Charizard",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675447628_329.jpg"
     },
     {
@@ -813,7 +712,6 @@
       "name": "Gardevoir",
       "tamanhoId": 3,
       "corId": 13,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710509641_9033.jpg"
     },
     {
@@ -821,7 +719,6 @@
       "name": "Genesect",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220823/1661266496_877.jpg"
     },
     {
@@ -829,7 +726,6 @@
       "name": "Genesect",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677614530_6503.jpg"
     },
     {
@@ -837,7 +733,6 @@
       "name": "Genesect",
       "tamanhoId": 1,
       "corId": 13,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675453375_5545.jpg"
     },
     {
@@ -845,7 +740,6 @@
       "name": "Genesect",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710511309_2181.jpg"
     },
     {
@@ -853,7 +747,6 @@
       "name": "Greedent",
       "tamanhoId": 2,
       "corId": 8,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281972_7777.jpg"
     },
     {
@@ -861,7 +754,6 @@
       "name": "Grookey",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649170299_1300.jpg"
     },
     {
@@ -869,7 +761,6 @@
       "name": "Grookey",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754972_4780.jpg"
     },
     {
@@ -877,7 +768,6 @@
       "name": "Groudon",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1677695541_4195.jpg"
     },
     {
@@ -885,7 +775,6 @@
       "name": "Groudon",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672772924_9400.jpg"
     },
     {
@@ -893,7 +782,6 @@
       "name": "Groudon",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663003009_4143.jpg"
     },
     {
@@ -901,7 +789,6 @@
       "name": "Groudon Primitivo",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674859679_5137.jpg"
     },
     {
@@ -909,7 +796,6 @@
       "name": "Gyarados",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672772980_4509.jpg"
     },
     {
@@ -917,7 +803,6 @@
       "name": "Gyarados",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220406/1649247881_3971.jpg"
     },
     {
@@ -925,7 +810,6 @@
       "name": "Ho-oh",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674857593_9798.jpg"
     },
     {
@@ -933,7 +817,6 @@
       "name": "Ho-oh",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002323_3495.jpg"
     },
     {
@@ -941,7 +824,6 @@
       "name": "Hoopa",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675109086_7233.jpg"
     },
     {
@@ -949,7 +831,6 @@
       "name": "Hoopa",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690311756_4702.jpg"
     },
     {
@@ -957,7 +838,6 @@
       "name": "Hoopa",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649163928_3804.jpg"
     },
     {
@@ -965,7 +845,6 @@
       "name": "Hydreigon",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660762918_5002.jpg"
     },
     {
@@ -973,7 +852,6 @@
       "name": "Infernape e Gallade",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677597941_2038.jpg"
     },
     {
@@ -981,7 +859,6 @@
       "name": "Iniciais de Galar",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677688840_4651.jpg"
     },
     {
@@ -989,7 +866,6 @@
       "name": "Iniciais de Galar",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763708_2459.jpg"
     },
     {
@@ -997,7 +873,6 @@
       "name": "Iniciais de Hoenn",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677677646_6638.jpg"
     },
     {
@@ -1005,7 +880,6 @@
       "name": "Iniciais de Kalos",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709736072_4553.jpg"
     },
     {
@@ -1013,7 +887,6 @@
       "name": "Iniciais de Kalos",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 20,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709736417_9508.jpg"
     },
     {
@@ -1021,7 +894,6 @@
       "name": "Iniciais de Unova",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709559766_335.jpg"
     },
     {
@@ -1029,7 +901,6 @@
       "name": "Iniciais de Unova",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230726/1690394599_1442.jpg"
     },
     {
@@ -1037,7 +908,6 @@
       "name": "Iniciais de Unova",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677604290_6716.jpg"
     },
     {
@@ -1045,7 +915,6 @@
       "name": "Iniciais de Unova",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677596220_1988.jpg"
     },
     {
@@ -1053,7 +922,6 @@
       "name": "Iniciais de Unova",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709559466_8103.jpg"
     },
     {
@@ -1061,7 +929,6 @@
       "name": "Iniciais de Unova",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675362779_4338.jpg"
     },
     {
@@ -1069,7 +936,6 @@
       "name": "Jirachi",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709554881_725.jpg"
     },
     {
@@ -1077,7 +943,6 @@
       "name": "Jirachi e Shaymin",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 4,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677690223_6594.jpg"
     },
     {
@@ -1085,7 +950,6 @@
       "name": "Klara",
       "tamanhoId": 3,
       "corId": 12,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230502/1683032962_5660.jpg"
     },
     {
@@ -1093,7 +957,6 @@
       "name": "Kleavor",
       "tamanhoId": 3,
       "corId": 3,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230104/1672861739_6157.jpg"
     },
     {
@@ -1101,7 +964,6 @@
       "name": "Kommo-o",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649168622_5811.jpg"
     },
     {
@@ -1109,7 +971,6 @@
       "name": "Kommo-o",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660762673_678.jpg"
     },
     {
@@ -1117,7 +978,6 @@
       "name": "Kyogre",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673267676_2461.jpg"
     },
     {
@@ -1125,7 +985,6 @@
       "name": "Kyogre",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673270632_4899.jpg"
     },
     {
@@ -1133,7 +992,6 @@
       "name": "Kyogre",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002292_1935.jpg"
     },
     {
@@ -1141,7 +999,6 @@
       "name": "Kyogre Primitivo",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673271704_3806.jpg"
     },
     {
@@ -1149,7 +1006,6 @@
       "name": "Kyogre Primitivo",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674859476_744.jpg"
     },
     {
@@ -1157,7 +1013,6 @@
       "name": "Kyurem Branco",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677595688_6616.jpg"
     },
     {
@@ -1165,7 +1020,6 @@
       "name": "Kyurem Branco",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675711310_5540.jpg"
     },
     {
@@ -1173,7 +1027,6 @@
       "name": "Litten",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763637_7406.jpg"
     },
     {
@@ -1181,7 +1034,6 @@
       "name": "Lucario",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221108/1667936602_9461.jpg"
     },
     {
@@ -1189,7 +1041,6 @@
       "name": "Lucario",
       "tamanhoId": 3,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672928129_1353.jpg"
     },
     {
@@ -1197,7 +1048,6 @@
       "name": "Lucario",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230911/1694440502_7322.jpg"
     },
     {
@@ -1205,7 +1055,6 @@
       "name": "Lucario",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 25,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688495961_1509.jpg"
     },
     {
@@ -1213,7 +1062,6 @@
       "name": "Lucário",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702921943_9809.jpg"
     },
     {
@@ -1221,7 +1069,6 @@
       "name": "Lugia",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677612310_9787.jpg"
     },
     {
@@ -1229,7 +1076,6 @@
       "name": "Lugia",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 25,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709735163_6938.jpg"
     },
     {
@@ -1237,7 +1083,6 @@
       "name": "Lugia",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660757947_9606.jpg"
     },
     {
@@ -1245,7 +1090,6 @@
       "name": "Lunala",
       "tamanhoId": 1,
       "corId": 13,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763151_6123.jpg"
     },
     {
@@ -1253,7 +1097,6 @@
       "name": "Lycanroc (Dusk Form)",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763066_8575.jpg"
     },
     {
@@ -1261,7 +1104,6 @@
       "name": "Lycanroc Forma Crepúsculo",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 6,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649167167_7175.jpg"
     },
     {
@@ -1269,7 +1111,6 @@
       "name": "Manaphy",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672775671_7059.jpg"
     },
     {
@@ -1277,7 +1118,6 @@
       "name": "Manaphy",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761411_163.jpg"
     },
     {
@@ -1285,7 +1125,6 @@
       "name": "Marnie",
       "tamanhoId": 3,
       "corId": 12,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1703780951_8647.jpg"
     },
     {
@@ -1293,7 +1132,6 @@
       "name": "Mega Beedrill",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677607690_1930.jpg"
     },
     {
@@ -1301,7 +1139,6 @@
       "name": "Mega Blaziken",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660762987_7685.jpg"
     },
     {
@@ -1309,7 +1146,6 @@
       "name": "Mega Charizard Y",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675445385_2560.jpg"
     },
     {
@@ -1317,7 +1153,6 @@
       "name": "Mega Charizard Y",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677688355_212.jpg"
     },
     {
@@ -1325,7 +1160,6 @@
       "name": "Mega Charizard Y",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675273023_2283.jpg"
     },
     {
@@ -1333,7 +1167,6 @@
       "name": "Mega Gengar",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688499257_9920.jpg"
     },
     {
@@ -1341,7 +1174,6 @@
       "name": "Mega Gengar",
       "tamanhoId": 1,
       "corId": 13,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675709918_1267.jpg"
     },
     {
@@ -1349,7 +1181,6 @@
       "name": "Mega Gyarados",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675710800_4743.jpg"
     },
     {
@@ -1357,7 +1188,6 @@
       "name": "Mega Gyarados Brilhante",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002544_766.jpg"
     },
     {
@@ -1365,7 +1195,6 @@
       "name": "Mega Lucario",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673272670_7605.jpg"
     },
     {
@@ -1373,7 +1202,6 @@
       "name": "Mega Lucario",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677597298_982.jpg"
     },
     {
@@ -1381,7 +1209,6 @@
       "name": "Mega Mawile",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677607881_4800.jpg"
     },
     {
@@ -1389,7 +1216,6 @@
       "name": "Mega Mewtwo X",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673276253_7169.jpg"
     },
     {
@@ -1397,7 +1223,6 @@
       "name": "Mega Rayquaza",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703094180_7912.jpg"
     },
     {
@@ -1405,7 +1230,6 @@
       "name": "Mega Rayquaza",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675276794_2823.jpg"
     },
     {
@@ -1413,7 +1237,6 @@
       "name": "Mega Sharpedo",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691074616_6042.jpg"
     },
     {
@@ -1421,7 +1244,6 @@
       "name": "Mega Swampert",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1710511491_4227.jpg"
     },
     {
@@ -1429,7 +1251,6 @@
       "name": "Melmetal",
       "tamanhoId": 3,
       "corId": 5,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703095377_3270.jpg"
     },
     {
@@ -1437,7 +1258,6 @@
       "name": "Meltan",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701282012_6946.jpg"
     },
     {
@@ -1445,7 +1265,6 @@
       "name": "Meowth (Wizards 2000)",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 7,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688480930_6327.jpg"
     },
     {
@@ -1453,7 +1272,6 @@
       "name": "Meowth (Wizards 2000)",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688480948_1953.jpg"
     },
     {
@@ -1461,7 +1279,6 @@
       "name": "Metagross",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660759697_7290.jpg"
     },
     {
@@ -1469,7 +1286,6 @@
       "name": "Mew",
       "tamanhoId": 3,
       "corId": 12,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764146_44.jpg"
     },
     {
@@ -1477,7 +1293,6 @@
       "name": "Mew",
       "tamanhoId": 3,
       "corId": 12,
-      "efeitoId": 16,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240307/1709821102_7213.jpg"
     },
     {
@@ -1485,7 +1300,6 @@
       "name": "Mew",
       "tamanhoId": 1,
       "corId": 12,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675451368_3306.jpg"
     },
     {
@@ -1493,7 +1307,6 @@
       "name": "Mew",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675448079_5350.jpg"
     },
     {
@@ -1501,7 +1314,6 @@
       "name": "Mewtwo",
       "tamanhoId": 3,
       "corId": 13,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703766000_8754.jpg"
     },
     {
@@ -1509,7 +1321,6 @@
       "name": "Mewtwo",
       "tamanhoId": 1,
       "corId": 13,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675708332_3175.jpg"
     },
     {
@@ -1517,7 +1328,6 @@
       "name": "Mewtwo",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 25,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240104/1704369668_1256.jpg"
     },
     {
@@ -1525,7 +1335,6 @@
       "name": "Mewtwo",
       "tamanhoId": 1,
       "corId": 13,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675709127_8083.jpg"
     },
     {
@@ -1533,7 +1342,6 @@
       "name": "Mewtwo",
       "tamanhoId": 1,
       "corId": 13,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660753549_6919.jpg"
     },
     {
@@ -1541,7 +1349,6 @@
       "name": "Mewtwo Y",
       "tamanhoId": 1,
       "corId": 12,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710510108_6769.jpg"
     },
     {
@@ -1549,7 +1356,6 @@
       "name": "Morpeko",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701269564_3897.jpg"
     },
     {
@@ -1557,7 +1363,6 @@
       "name": "Munchlax",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709561645_6422.jpg"
     },
     {
@@ -1565,7 +1370,6 @@
       "name": "Mundial 2022",
       "tamanhoId": 3,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230928/1695931452_5668.jpg"
     },
     {
@@ -1573,7 +1377,6 @@
       "name": "Munna (fundo vinho)",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709558196_6849.jpg"
     },
     {
@@ -1581,7 +1384,6 @@
       "name": "Necrozma",
       "tamanhoId": 1,
       "corId": 5,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675278530_2581.jpg"
     },
     {
@@ -1589,7 +1391,6 @@
       "name": "Ninetales",
       "tamanhoId": 3,
       "corId": 15,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240930/1727704654_2702.jpg"
     },
     {
@@ -1597,7 +1398,6 @@
       "name": "Ninetales de Alola",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649166216_5637.jpg"
     },
     {
@@ -1605,7 +1405,6 @@
       "name": "Ninetales de Alola",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1677675206_8759.jpg"
     },
     {
@@ -1613,7 +1412,6 @@
       "name": "Palkia",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677614953_5288.jpg"
     },
     {
@@ -1621,7 +1419,6 @@
       "name": "Palkia",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688496474_797.jpg"
     },
     {
@@ -1629,7 +1426,6 @@
       "name": "Palkia",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701277053_9363.jpg"
     },
     {
@@ -1637,7 +1433,6 @@
       "name": "Palkia Forma Origem",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230104/1672862792_5117.jpg"
     },
     {
@@ -1645,7 +1440,6 @@
       "name": "Pheromosa",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690314980_8727.jpg"
     },
     {
@@ -1653,7 +1447,6 @@
       "name": "Pikachu",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754629_2924.jpg"
     },
     {
@@ -1661,7 +1454,6 @@
       "name": "Pikachu",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764887_8669.jpg"
     },
     {
@@ -1669,7 +1461,6 @@
       "name": "Pikachu",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 22,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677673488_7244.jpg"
     },
     {
@@ -1677,7 +1468,6 @@
       "name": "Pikachu",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230920/1695220455_8481.jpg"
     },
     {
@@ -1685,7 +1475,6 @@
       "name": "Pikachu",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 25,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691087397_3936.jpg"
     },
     {
@@ -1693,7 +1482,6 @@
       "name": "Pikachu",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702927827_4202.jpg"
     },
     {
@@ -1701,7 +1489,6 @@
       "name": "Pikachu",
       "tamanhoId": 2,
       "corId": 9,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702928379_9998.jpg"
     },
     {
@@ -1709,7 +1496,6 @@
       "name": "Pikachu",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 22,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677673677_2820.jpg"
     },
     {
@@ -1717,7 +1503,6 @@
       "name": "Pikachu (Wizards 2000)",
       "tamanhoId": 2,
       "corId": 1,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688478895_4247.jpg"
     },
     {
@@ -1725,7 +1510,6 @@
       "name": "Pikachu (Wizards 2000)",
       "tamanhoId": 2,
       "corId": 1,
-      "efeitoId": 7,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688479016_3408.jpg"
     },
     {
@@ -1733,7 +1517,6 @@
       "name": "Pikachu Acenando",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 20,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220823/1661266074_7174.jpg"
     },
     {
@@ -1741,7 +1524,6 @@
       "name": "Pikachu Acenando",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675108923_5873.jpg"
     },
     {
@@ -1749,7 +1531,6 @@
       "name": "Pikachu Acenando",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 22,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710508901_5449.jpg"
     },
     {
@@ -1757,7 +1538,6 @@
       "name": "Pikachu e Bulbasauro",
       "tamanhoId": 3,
       "corId": 3,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240404/1712236873_7124.jpg"
     },
     {
@@ -1765,7 +1545,6 @@
       "name": "Pikachu World Challenge",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675106674_217.jpg"
     },
     {
@@ -1773,7 +1552,6 @@
       "name": "Piplup",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701275451_1940.jpg"
     },
     {
@@ -1781,7 +1559,6 @@
       "name": "Pokémo GO",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754747_2014.jpg"
     },
     {
@@ -1789,7 +1566,6 @@
       "name": "Pokémon ex",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241017/1729171162_5855.jpg"
     },
     {
@@ -1797,7 +1573,6 @@
       "name": "Pokémon ex",
       "tamanhoId": 3,
       "corId": 14,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240513/1715621618_3753.jpg"
     },
     {
@@ -1805,7 +1580,6 @@
       "name": "Popplio",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221014/1665768619_2080.jpg"
     },
     {
@@ -1813,7 +1587,6 @@
       "name": "Popplio",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663001020_8118.jpg"
     },
     {
@@ -1821,7 +1594,6 @@
       "name": "Primal Groudon",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002917_317.jpg"
     },
     {
@@ -1829,7 +1601,6 @@
       "name": "Professor Pokémon",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677589384_3157.jpg"
     },
     {
@@ -1837,7 +1608,6 @@
       "name": "Professora Juniper",
       "tamanhoId": 3,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672755679_1465.jpg"
     },
     {
@@ -1845,7 +1615,6 @@
       "name": "Psyduck",
       "tamanhoId": 2,
       "corId": 1,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701279808_8935.jpg"
     },
     {
@@ -1853,7 +1622,6 @@
       "name": "Quaquaval",
       "tamanhoId": 3,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241112/1731434320_499.jpg"
     },
     {
@@ -1861,7 +1629,6 @@
       "name": "Quaxly",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702927200_7252.jpg"
     },
     {
@@ -1869,7 +1636,6 @@
       "name": "Quaxly",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240104/1704370360_8346.jpg"
     },
     {
@@ -1877,7 +1643,6 @@
       "name": "Quaxly",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709733477_9307.jpg"
     },
     {
@@ -1885,7 +1650,6 @@
       "name": "Raichu",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674857971_1293.jpg"
     },
     {
@@ -1893,7 +1657,6 @@
       "name": "Raichu",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677678705_6676.jpg"
     },
     {
@@ -1901,7 +1664,6 @@
       "name": "Raichu",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 22,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660757878_476.jpg"
     },
     {
@@ -1909,7 +1671,6 @@
       "name": "Raichu de Alola",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674860104_872.jpg"
     },
     {
@@ -1917,7 +1678,6 @@
       "name": "Raikou",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 4,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1661266751_1506.jpg"
     },
     {
@@ -1925,7 +1685,6 @@
       "name": "Raikou",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230911/1694442241_5136.jpg"
     },
     {
@@ -1933,7 +1692,6 @@
       "name": "Rayquaza",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673284135_1844.jpg"
     },
     {
@@ -1941,7 +1699,6 @@
       "name": "Rayquaza",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675279012_7049.jpg"
     },
     {
@@ -1949,7 +1706,6 @@
       "name": "Rayquaza",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 20,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675361208_4416.jpg"
     },
     {
@@ -1957,7 +1713,6 @@
       "name": "Rayquaza",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 16,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677672346_1942.jpg"
     },
     {
@@ -1965,7 +1720,6 @@
       "name": "Rayquaza",
       "tamanhoId": 3,
       "corId": 14,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673283032_6857.jpg"
     },
     {
@@ -1973,7 +1727,6 @@
       "name": "Rayquaza",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230913/1694615789_282.jpg"
     },
     {
@@ -1981,7 +1734,6 @@
       "name": "Rayquaza",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701276435_1485.jpg"
     },
     {
@@ -1989,7 +1741,6 @@
       "name": "Reshiram e Zekrom",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240527/1716820722_2373.jpg"
     },
     {
@@ -1997,7 +1748,6 @@
       "name": "Reshiram e Zekrom",
       "tamanhoId": 2,
       "corId": 11,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688491191_7074.jpg"
     },
     {
@@ -2005,7 +1755,6 @@
       "name": "Reshiram e Zekrom (fundo branco)",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688491062_5063.jpg"
     },
     {
@@ -2013,7 +1762,6 @@
       "name": "Rowlet",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649164364_2033.jpg"
     },
     {
@@ -2021,7 +1769,6 @@
       "name": "Sceptile",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675360225_8255.jpg"
     },
     {
@@ -2029,7 +1776,6 @@
       "name": "Scorbunny",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675443874_2214.jpg"
     },
     {
@@ -2037,7 +1783,6 @@
       "name": "Scorbunny",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703096233_5373.jpg"
     },
     {
@@ -2045,7 +1790,6 @@
       "name": "Shaymin",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673285369_4937.jpg"
     },
     {
@@ -2053,7 +1797,6 @@
       "name": "Shaymin",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1673286587_5532.jpg"
     },
     {
@@ -2061,7 +1804,6 @@
       "name": "Shaymin",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709557708_7553.jpg"
     },
     {
@@ -2069,7 +1811,6 @@
       "name": "Shaymin",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220823/1673285228_5498.jpg"
     },
     {
@@ -2077,7 +1818,6 @@
       "name": "Símbolos de Energia",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688499011_8215.jpg"
     },
     {
@@ -2085,7 +1825,6 @@
       "name": "Símbolos de Energia",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709562080_8349.jpg"
     },
     {
@@ -2093,7 +1832,6 @@
       "name": "Símbolos de Energia",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688498507_3705.jpg"
     },
     {
@@ -2101,7 +1839,6 @@
       "name": "Sirfetch'd",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 4,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703766517_7519.jpg"
     },
     {
@@ -2109,7 +1846,6 @@
       "name": "Sirfetch'd de Galar",
       "tamanhoId": 1,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649170007_646.jpg"
     },
     {
@@ -2117,7 +1853,6 @@
       "name": "Slowpoke",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701279853_6494.jpg"
     },
     {
@@ -2125,7 +1860,6 @@
       "name": "Sobble",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691068109_9510.jpg"
     },
     {
@@ -2133,7 +1867,6 @@
       "name": "Solgaleo",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690315319_1286.jpg"
     },
     {
@@ -2141,7 +1874,6 @@
       "name": "Sprigatito",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 17,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702927410_7240.jpg"
     },
     {
@@ -2149,7 +1881,6 @@
       "name": "Squirtle",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675107274_9593.jpg"
     },
     {
@@ -2157,7 +1888,6 @@
       "name": "Squirtle e Charmander",
       "tamanhoId": 3,
       "corId": 3,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240404/1712236674_7725.jpg"
     },
     {
@@ -2165,7 +1895,6 @@
       "name": "Starmie (Wizards 2000)",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690303540_4750.jpg"
     },
     {
@@ -2173,7 +1902,6 @@
       "name": "Steelix",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709564554_9836.jpg"
     },
     {
@@ -2181,7 +1909,6 @@
       "name": "Suicune",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660754096_7744.jpg"
     },
     {
@@ -2189,7 +1916,6 @@
       "name": "Suicune",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672772658_5426.jpg"
     },
     {
@@ -2197,7 +1923,6 @@
       "name": "Suicune",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703772329_5470.jpg"
     },
     {
@@ -2205,7 +1930,6 @@
       "name": "Swampert",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673274309_5528.jpg"
     },
     {
@@ -2213,7 +1937,6 @@
       "name": "Sylveon",
       "tamanhoId": 2,
       "corId": 12,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701275961_3545.jpg"
     },
     {
@@ -2221,7 +1944,6 @@
       "name": "Sylveon, Espeon, Glaceon e Vaporeon",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765869_1525.jpg"
     },
     {
@@ -2229,7 +1951,6 @@
       "name": "Tandemaus",
       "tamanhoId": 2,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281868_9552.jpg"
     },
     {
@@ -2237,7 +1958,6 @@
       "name": "Torchic",
       "tamanhoId": 2,
       "corId": 7,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675444004_471.jpg"
     },
     {
@@ -2245,7 +1965,6 @@
       "name": "Totodile",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 21,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677691248_7661.jpg"
     },
     {
@@ -2253,7 +1972,6 @@
       "name": "Treecko",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690304495_6997.jpg"
     },
     {
@@ -2261,7 +1979,6 @@
       "name": "Turtwig",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701269653_7310.jpg"
     },
     {
@@ -2269,7 +1986,6 @@
       "name": "Tyranitar",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230911/1694439049_9663.jpg"
     },
     {
@@ -2277,7 +1993,6 @@
       "name": "Tyranitar",
       "tamanhoId": 2,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709561393_9832.jpg"
     },
     {
@@ -2285,7 +2000,6 @@
       "name": "Ultra Necrozma",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674858623_2368.jpg"
     },
     {
@@ -2293,7 +2007,6 @@
       "name": "Umbreon",
       "tamanhoId": 1,
       "corId": 5,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675277452_2918.jpg"
     },
     {
@@ -2301,7 +2014,6 @@
       "name": "Urshifu Golpe Decisivo",
       "tamanhoId": 3,
       "corId": 15,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765128_3166.jpg"
     },
     {
@@ -2309,7 +2021,6 @@
       "name": "Urshifu Golpe Fluído",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 21,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765224_8027.jpg"
     },
     {
@@ -2317,7 +2028,6 @@
       "name": "Venusaur",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765014_2276.jpg"
     },
     {
@@ -2325,7 +2035,6 @@
       "name": "Venusaur",
       "tamanhoId": 3,
       "corId": 14,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672755245_1860.jpg"
     },
     {
@@ -2333,7 +2042,6 @@
       "name": "Victini",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 15,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660756356_3976.jpg"
     },
     {
@@ -2341,7 +2049,6 @@
       "name": "Victini",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714136631_5756.jpg"
     },
     {
@@ -2349,7 +2056,6 @@
       "name": "Vileplume",
       "tamanhoId": 2,
       "corId": 14,
-      "efeitoId": 14,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709563148_6544.jpg"
     },
     {
@@ -2357,7 +2063,6 @@
       "name": "Volcanion",
       "tamanhoId": 1,
       "corId": 7,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675444537_8371.jpg"
     },
     {
@@ -2365,7 +2070,6 @@
       "name": "Volcanion",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761226_7399.jpg"
     },
     {
@@ -2373,7 +2077,6 @@
       "name": "Vulpix de Alola",
       "tamanhoId": 3,
       "corId": 2,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240104/1704371017_671.jpg"
     },
     {
@@ -2381,7 +2084,6 @@
       "name": "Xerneas",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690296689_6509.jpg"
     },
     {
@@ -2389,7 +2091,6 @@
       "name": "Xerneas",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 5,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709734776_2163.jpg"
     },
     {
@@ -2397,7 +2098,6 @@
       "name": "Xerneas",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703768925_5884.jpg"
     },
     {
@@ -2405,7 +2105,6 @@
       "name": "Xerneas",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709729691_2144.jpg"
     },
     {
@@ -2413,7 +2112,6 @@
       "name": "Xerneas",
       "tamanhoId": 1,
       "corId": 2,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703772045_5825.jpg"
     },
     {
@@ -2421,7 +2119,6 @@
       "name": "Yveltal",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677614756_6434.jpg"
     },
     {
@@ -2429,7 +2126,6 @@
       "name": "Yveltal",
       "tamanhoId": 1,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000865_7250.jpg"
     },
     {
@@ -2437,7 +2133,6 @@
       "name": "Zacian",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649170139_298.jpg"
     },
     {
@@ -2445,7 +2140,6 @@
       "name": "Zamazenta",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649168954_8095.jpg"
     },
     {
@@ -2453,7 +2147,6 @@
       "name": "Zapdos",
       "tamanhoId": 3,
       "corId": 1,
-      "efeitoId": 23,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241031/1730380986_9182.jpg"
     },
     {
@@ -2461,7 +2154,6 @@
       "name": "Zekrom e Reshiram",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672773043_2853.jpg"
     },
     {
@@ -2469,7 +2161,6 @@
       "name": "Zeraora",
       "tamanhoId": 3,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230921/1695317245_2205.jpg"
     },
     {
@@ -2477,7 +2168,6 @@
       "name": "Zeraora",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754933_1733.jpg"
     },
     {
@@ -2485,7 +2175,6 @@
       "name": "Zeraora",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660758696_6028.jpg"
     },
     {
@@ -2493,7 +2182,6 @@
       "name": "Zeraora",
       "tamanhoId": 1,
       "corId": 6,
-      "efeitoId": 4,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675365379_2133.jpg"
     },
     {
@@ -2501,7 +2189,6 @@
       "name": "Zeraora",
       "tamanhoId": 2,
       "corId": 6,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702911292_8266.jpg"
     },
     {
@@ -2509,7 +2196,6 @@
       "name": "Zoroark",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677681084_751.jpg"
     },
     {
@@ -2517,7 +2203,6 @@
       "name": "Zoroark",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 1,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677681885_1434.jpg"
     },
     {
@@ -2525,7 +2210,6 @@
       "name": "Zoroark",
       "tamanhoId": 2,
       "corId": 15,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677589664_6426.jpg"
     },
     {
@@ -2533,7 +2217,6 @@
       "name": "Zoroark de Hisui",
       "tamanhoId": 3,
       "corId": 10,
-      "efeitoId": 13,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714138982_4256.jpg"
     },
     {
@@ -2541,7 +2224,6 @@
       "name": "Zygarde",
       "tamanhoId": 1,
       "corId": 10,
-      "efeitoId": 8,
       "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677606382_1407.jpg"
     }
   ]
