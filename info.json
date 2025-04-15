@@ -17,25 +17,33 @@
         "cartas_8.json",
         "cartas_9.json"
     ],
+    "ja": [
+
+    ],
+
+    "produtos":[
+        "moedas.json",
+        "moeda_cores.json",
+        "moeda_efeito.json",
+        "moeda_tamanho.json",
+        "sleeves.json",
+        "sleeves_colecoes.json"
+    ],
+
     "files": [
         "artists.json",
         "artists.json",
         "colecoes.json",
         "info.json",
-        "moedas.json",
-        "moeda_cores.json",
-        "moeda_efeito.json",
-        "moeda_tamanho.json",
         "pk_types.json",
         "pokedex.json",
         "rarity.json",
         "regions.json",
         "series.json",
-        "sleeves.json",
-        "sleeves_colecoes.json",
         "subtypes.json",
         "supertypes.json",
         "types.json"
     ],
+    
     "timestamp": "2025-03-28T11:46:41.755880"
 }
