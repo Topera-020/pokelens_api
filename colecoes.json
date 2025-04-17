@@ -8,7 +8,12 @@
       "printedTotal": 102,
       "total": 102,
       "ptcgo": "BS",
-      "Image": "https://images.pokemontcg.io/base1/logo.png",
+      "image": "https://images.pokemontcg.io/base1/logo.png",
+      "codigoLiga": "BS",
+      "numeroLiga": "102",
+      "codigoMyp": "BS",
+      "numeroMyp": "102",
+      "nomePt": "Jogo Base",
       "releaseDate": "1999/01/09"
     },
     {
@@ -19,7 +24,12 @@
       "printedTotal": 64,
       "total": 64,
       "ptcgo": "JU",
-      "Image": "https://images.pokemontcg.io/base2/logo.png",
+      "image": "https://images.pokemontcg.io/base2/logo.png",
+      "codigoLiga": "JU",
+      "numeroLiga": "64",
+      "codigoMyp": "JU",
+      "numeroMyp": "64",
+      "nomePt": "Selva",
       "releaseDate": "1999/06/16"
     },
     {
@@ -30,7 +40,11 @@
       "printedTotal": 53,
       "total": 53,
       "ptcgo": "PR",
-      "Image": "https://images.pokemontcg.io/basep/logo.png",
+      "image": "https://images.pokemontcg.io/basep/logo.png",
+      "codigoLiga": "WPR",
+      "numeroLiga": "53",
+      "codigoMyp": "PR",
+      "numeroMyp": "53",
       "releaseDate": "1999/07/01"
     },
     {
@@ -41,7 +55,12 @@
       "printedTotal": 62,
       "total": 62,
       "ptcgo": "FO",
-      "Image": "https://images.pokemontcg.io/base3/logo.png",
+      "image": "https://images.pokemontcg.io/base3/logo.png",
+      "codigoLiga": "FO",
+      "numeroLiga": "62",
+      "codigoMyp": "FO",
+      "numeroMyp": "62",
+      "nomePt": "Fóssil",
       "releaseDate": "1999/10/10"
     },
     {
@@ -52,7 +71,12 @@
       "printedTotal": 130,
       "total": 130,
       "ptcgo": "B2",
-      "Image": "https://images.pokemontcg.io/base4/logo.png",
+      "image": "https://images.pokemontcg.io/base4/logo.png",
+      "codigoLiga": "B2",
+      "numeroLiga": "130",
+      "codigoMyp": "B2",
+      "numeroMyp": "130",
+      "nomePt": "Jogo Base 2",
       "releaseDate": "2000/02/24"
     },
     {
@@ -63,7 +87,12 @@
       "printedTotal": 82,
       "total": 83,
       "ptcgo": "TR",
-      "Image": "https://images.pokemontcg.io/base5/logo.png",
+      "image": "https://images.pokemontcg.io/base5/logo.png",
+      "codigoLiga": "TR",
+      "numeroLiga": "82",
+      "codigoMyp": "TR",
+      "numeroMyp": "82",
+      "nomePt": "Equipe Rocket",
       "releaseDate": "2000/04/24"
     },
     {
@@ -74,7 +103,11 @@
       "printedTotal": 132,
       "total": 132,
       "ptcgo": "G1",
-      "Image": "https://images.pokemontcg.io/gym1/logo.png",
+      "image": "https://images.pokemontcg.io/gym1/logo.png",
+      "codigoLiga": "G1",
+      "numeroLiga": "132",
+      "codigoMyp": "G1",
+      "numeroMyp": "132",
       "releaseDate": "2000/08/14"
     },
     {
@@ -85,7 +118,11 @@
       "printedTotal": 132,
       "total": 132,
       "ptcgo": "G2",
-      "Image": "https://images.pokemontcg.io/gym2/logo.png",
+      "image": "https://images.pokemontcg.io/gym2/logo.png",
+      "codigoLiga": "G2",
+      "numeroLiga": "132",
+      "codigoMyp": "G2",
+      "numeroMyp": "132",
       "releaseDate": "2000/10/16"
     },
     {
@@ -96,7 +133,11 @@
       "printedTotal": 111,
       "total": 111,
       "ptcgo": "N1",
-      "Image": "https://images.pokemontcg.io/neo1/logo.png",
+      "image": "https://images.pokemontcg.io/neo1/logo.png",
+      "codigoLiga": "N1",
+      "numeroLiga": "111",
+      "codigoMyp": "N1",
+      "numeroMyp": "111",
       "releaseDate": "2000/12/16"
     },
     {
@@ -107,7 +148,11 @@
       "printedTotal": 75,
       "total": 75,
       "ptcgo": "N2",
-      "Image": "https://images.pokemontcg.io/neo2/logo.png",
+      "image": "https://images.pokemontcg.io/neo2/logo.png",
+      "codigoLiga": "N2",
+      "numeroLiga": "75",
+      "codigoMyp": "N2",
+      "numeroMyp": "75",
       "releaseDate": "2001/06/01"
     },
     {
@@ -117,7 +162,11 @@
       "seriesId": 4,
       "printedTotal": 18,
       "total": 18,
-      "Image": "https://images.pokemontcg.io/si1/logo.png",
+      "image": "https://images.pokemontcg.io/si1/logo.png",
+      "codigoLiga": "SI",
+      "numeroLiga": "18",
+      "codigoMyp": "SI",
+      "numeroMyp": "18",
       "releaseDate": "2001/07/31"
     },
     {
@@ -128,7 +177,11 @@
       "printedTotal": 64,
       "total": 66,
       "ptcgo": "N3",
-      "Image": "https://images.pokemontcg.io/neo3/logo.png",
+      "image": "https://images.pokemontcg.io/neo3/logo.png",
+      "codigoLiga": "N3",
+      "numeroLiga": "64",
+      "codigoMyp": "N3",
+      "numeroMyp": "64",
       "releaseDate": "2001/09/21"
     },
     {
@@ -139,7 +192,11 @@
       "printedTotal": 105,
       "total": 113,
       "ptcgo": "N4",
-      "Image": "https://images.pokemontcg.io/neo4/logo.png",
+      "image": "https://images.pokemontcg.io/neo4/logo.png",
+      "codigoLiga": "N4",
+      "numeroLiga": "105",
+      "codigoMyp": "N4",
+      "numeroMyp": "105",
       "releaseDate": "2002/02/28"
     },
     {
@@ -150,7 +207,11 @@
       "printedTotal": 110,
       "total": 110,
       "ptcgo": "LC",
-      "Image": "https://images.pokemontcg.io/base6/logo.png",
+      "image": "https://images.pokemontcg.io/base6/logo.png",
+      "codigoLiga": "LC",
+      "numeroLiga": "110",
+      "codigoMyp": "LC",
+      "numeroMyp": "110",
       "releaseDate": "2002/05/24"
     },
     {
@@ -161,7 +222,11 @@
       "printedTotal": 165,
       "total": 165,
       "ptcgo": "EX",
-      "Image": "https://images.pokemontcg.io/ecard1/logo.png",
+      "image": "https://images.pokemontcg.io/ecard1/logo.png",
+      "codigoLiga": "EX",
+      "numeroLiga": "165",
+      "codigoMyp": "EX",
+      "numeroMyp": "165",
       "releaseDate": "2002/09/15"
     },
     {
@@ -172,7 +237,11 @@
       "printedTotal": 9,
       "total": 9,
       "ptcgo": "BP",
-      "Image": "https://images.pokemontcg.io/bp/logo.png",
+      "image": "https://images.pokemontcg.io/bp/logo.png",
+      "codigoLiga": "BG",
+      "numeroLiga": "9",
+      "codigoMyp": "BP",
+      "numeroMyp": "9",
       "releaseDate": "2002/12/01"
     },
     {
@@ -183,7 +252,11 @@
       "printedTotal": 147,
       "total": 182,
       "ptcgo": "AQ",
-      "Image": "https://images.pokemontcg.io/ecard2/logo.png",
+      "image": "https://images.pokemontcg.io/ecard2/logo.png",
+      "codigoLiga": "AQ",
+      "numeroLiga": "147",
+      "codigoMyp": "AQ",
+      "numeroMyp": "147",
       "releaseDate": "2003/01/15"
     },
     {
@@ -194,7 +267,11 @@
       "printedTotal": 144,
       "total": 182,
       "ptcgo": "SK",
-      "Image": "https://images.pokemontcg.io/ecard3/logo.png",
+      "image": "https://images.pokemontcg.io/ecard3/logo.png",
+      "codigoLiga": "SK",
+      "numeroLiga": "144",
+      "codigoMyp": "SK",
+      "numeroMyp": "144",
       "releaseDate": "2003/05/12"
     },
     {
@@ -205,7 +282,12 @@
       "printedTotal": 109,
       "total": 109,
       "ptcgo": "RS",
-      "Image": "https://images.pokemontcg.io/ex1/logo.png",
+      "image": "https://images.pokemontcg.io/ex1/logo.png",
+      "codigoLiga": "RS",
+      "numeroLiga": "109",
+      "codigoMyp": "RS",
+      "numeroMyp": "109",
+      "nomePt": "Rubi & Safira",
       "releaseDate": "2003/07/01"
     },
     {
@@ -216,7 +298,11 @@
       "printedTotal": 100,
       "total": 100,
       "ptcgo": "SS",
-      "Image": "https://images.pokemontcg.io/ex2/logo.png",
+      "image": "https://images.pokemontcg.io/ex2/logo.png",
+      "codigoLiga": "SS",
+      "numeroLiga": "100",
+      "codigoMyp": "SS",
+      "numeroMyp": "100",
       "releaseDate": "2003/09/18"
     },
     {
@@ -227,7 +313,11 @@
       "printedTotal": 40,
       "total": 40,
       "ptcgo": "PR-NP",
-      "Image": "https://images.pokemontcg.io/np/logo.png",
+      "image": "https://images.pokemontcg.io/np/logo.png",
+      "codigoLiga": "DR",
+      "numeroLiga": "40",
+      "codigoMyp": "PR_NP",
+      "numeroMyp": "40",
       "releaseDate": "2003/10/01"
     },
     {
@@ -238,7 +328,11 @@
       "printedTotal": 97,
       "total": 100,
       "ptcgo": "DR",
-      "Image": "https://images.pokemontcg.io/ex3/logo.png",
+      "image": "https://images.pokemontcg.io/ex3/logo.png",
+      "codigoLiga": "NBSP",
+      "numeroLiga": "100",
+      "codigoMyp": "DR",
+      "numeroMyp": "97",
       "releaseDate": "2003/11/24"
     },
     {
@@ -249,7 +343,11 @@
       "printedTotal": 95,
       "total": 97,
       "ptcgo": "MA",
-      "Image": "https://images.pokemontcg.io/ex4/logo.png",
+      "image": "https://images.pokemontcg.io/ex4/logo.png",
+      "codigoLiga": "MA",
+      "numeroLiga": "97",
+      "codigoMyp": "MA",
+      "numeroMyp": "95",
       "releaseDate": "2004/03/01"
     },
     {
@@ -260,7 +358,11 @@
       "printedTotal": 101,
       "total": 102,
       "ptcgo": "HL",
-      "Image": "https://images.pokemontcg.io/ex5/logo.png",
+      "image": "https://images.pokemontcg.io/ex5/logo.png",
+      "codigoLiga": "TK1B",
+      "numeroLiga": "102",
+      "codigoMyp": "HL",
+      "numeroMyp": "101",
       "releaseDate": "2004/06/01"
     },
     {
@@ -271,7 +373,9 @@
       "printedTotal": 10,
       "total": 10,
       "logoImg": "https://images.pokemontcg.io/tk1a/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk1a/symbol.png",
+      "image": "https://images.pokemontcg.io/tk1a/symbol.png",
+      "codigoLiga": "TK8A",
+      "numeroLiga": 30,
       "releaseDate": "2004/06/01"
     },
     {
@@ -282,7 +386,9 @@
       "printedTotal": 10,
       "total": 10,
       "logoImg": "https://images.pokemontcg.io/tk1b/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk1b/symbol.png",
+      "image": "https://images.pokemontcg.io/tk1b/symbol.png",
+      "codigoLiga": "TK8B",
+      "numeroLiga": 30,
       "releaseDate": "2004/06/01"
     },
     {
@@ -292,7 +398,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop1/logo.png",
+      "image": "https://images.pokemontcg.io/pop1/logo.png",
+      "codigoLiga": "P1",
+      "numeroLiga": "17",
+      "codigoMyp": "pop1",
+      "numeroMyp": "17",
       "releaseDate": "2004/09/01"
     },
     {
@@ -303,7 +413,11 @@
       "printedTotal": 112,
       "total": 116,
       "ptcgo": "RG",
-      "Image": "https://images.pokemontcg.io/ex6/logo.png",
+      "image": "https://images.pokemontcg.io/ex6/logo.png",
+      "codigoLiga": "FL",
+      "numeroLiga": "116",
+      "codigoMyp": "RG",
+      "numeroMyp": "112",
       "releaseDate": "2004/09/01"
     },
     {
@@ -314,7 +428,11 @@
       "printedTotal": 109,
       "total": 111,
       "ptcgo": "TRR",
-      "Image": "https://images.pokemontcg.io/ex7/logo.png",
+      "image": "https://images.pokemontcg.io/ex7/logo.png",
+      "codigoLiga": "TRR",
+      "numeroLiga": "111",
+      "codigoMyp": "TRR",
+      "numeroMyp": "109",
       "releaseDate": "2004/11/01"
     },
     {
@@ -325,7 +443,11 @@
       "printedTotal": 107,
       "total": 108,
       "ptcgo": "DX",
-      "Image": "https://images.pokemontcg.io/ex8/logo.png",
+      "image": "https://images.pokemontcg.io/ex8/logo.png",
+      "codigoLiga": "DX",
+      "numeroLiga": "107",
+      "codigoMyp": "DX",
+      "numeroMyp": "107",
       "releaseDate": "2005/02/01"
     },
     {
@@ -336,7 +458,11 @@
       "printedTotal": 106,
       "total": 107,
       "ptcgo": "EM",
-      "Image": "https://images.pokemontcg.io/ex9/logo.png",
+      "image": "https://images.pokemontcg.io/ex9/logo.png",
+      "codigoLiga": "EM",
+      "numeroLiga": "106",
+      "codigoMyp": "EM",
+      "numeroMyp": "106",
       "releaseDate": "2005/05/01"
     },
     {
@@ -346,7 +472,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop2/logo.png",
+      "image": "https://images.pokemontcg.io/pop2/logo.png",
+      "codigoLiga": "P2",
+      "numeroLiga": "17",
+      "codigoMyp": "pop2",
+      "numeroMyp": "17",
       "releaseDate": "2005/08/01"
     },
     {
@@ -357,7 +487,11 @@
       "printedTotal": 115,
       "total": 145,
       "ptcgo": "UF",
-      "Image": "https://images.pokemontcg.io/ex10/logo.png",
+      "image": "https://images.pokemontcg.io/ex10/logo.png",
+      "codigoLiga": "UF",
+      "numeroLiga": "145",
+      "codigoMyp": "UF",
+      "numeroMyp": "115",
       "releaseDate": "2005/08/01"
     },
     {
@@ -368,7 +502,11 @@
       "printedTotal": 113,
       "total": 114,
       "ptcgo": "DS",
-      "Image": "https://images.pokemontcg.io/ex11/logo.png",
+      "image": "https://images.pokemontcg.io/ex11/logo.png",
+      "codigoLiga": "DS",
+      "numeroLiga": "113",
+      "codigoMyp": "DS",
+      "numeroMyp": "113",
       "releaseDate": "2005/10/31"
     },
     {
@@ -379,7 +517,11 @@
       "printedTotal": 92,
       "total": 93,
       "ptcgo": "LM",
-      "Image": "https://images.pokemontcg.io/ex12/logo.png",
+      "image": "https://images.pokemontcg.io/ex12/logo.png",
+      "codigoLiga": "LM",
+      "numeroLiga": "92",
+      "codigoMyp": "LM",
+      "numeroMyp": "92",
       "releaseDate": "2006/02/01"
     },
     {
@@ -390,7 +532,9 @@
       "printedTotal": 12,
       "total": 12,
       "logoImg": "https://images.pokemontcg.io/tk2a/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk2a/symbol.png",
+      "image": "https://images.pokemontcg.io/tk2a/symbol.png",
+      "codigoLiga": "TK9A",
+      "numeroLiga": 30,
       "releaseDate": "2006/03/01"
     },
     {
@@ -401,7 +545,9 @@
       "printedTotal": 12,
       "total": 12,
       "logoImg": "https://images.pokemontcg.io/tk2b/symbol.png",
-      "Image": "https://images.pokemontcg.io/tk2b/symbol.png",
+      "image": "https://images.pokemontcg.io/tk2b/symbol.png",
+      "codigoLiga": "TK9B",
+      "numeroLiga": 30,
       "releaseDate": "2006/03/01"
     },
     {
@@ -411,7 +557,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop3/logo.png",
+      "image": "https://images.pokemontcg.io/pop3/logo.png",
+      "codigoLiga": "P3",
+      "numeroLiga": "17",
+      "codigoMyp": "pop3",
+      "numeroMyp": "17",
       "releaseDate": "2006/04/01"
     },
     {
@@ -422,7 +572,11 @@
       "printedTotal": 110,
       "total": 111,
       "ptcgo": "HP",
-      "Image": "https://images.pokemontcg.io/ex13/logo.png",
+      "image": "https://images.pokemontcg.io/ex13/logo.png",
+      "codigoLiga": "HP",
+      "numeroLiga": "110",
+      "codigoMyp": "HP",
+      "numeroMyp": "110",
       "releaseDate": "2006/05/01"
     },
     {
@@ -432,7 +586,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop4/logo.png",
+      "image": "https://images.pokemontcg.io/pop4/logo.png",
+      "codigoLiga": "P4",
+      "numeroLiga": "17",
+      "codigoMyp": "pop4",
+      "numeroMyp": "17",
       "releaseDate": "2006/08/01"
     },
     {
@@ -443,7 +601,11 @@
       "printedTotal": 100,
       "total": 100,
       "ptcgo": "CG",
-      "Image": "https://images.pokemontcg.io/ex14/logo.png",
+      "image": "https://images.pokemontcg.io/ex14/logo.png",
+      "codigoLiga": "CG",
+      "numeroLiga": "100",
+      "codigoMyp": "CG",
+      "numeroMyp": "100",
       "releaseDate": "2006/08/01"
     },
     {
@@ -454,7 +616,11 @@
       "printedTotal": 101,
       "total": 101,
       "ptcgo": "DF",
-      "Image": "https://images.pokemontcg.io/ex15/logo.png",
+      "image": "https://images.pokemontcg.io/ex15/logo.png",
+      "codigoLiga": "DF",
+      "numeroLiga": "101",
+      "codigoMyp": "DF",
+      "numeroMyp": "101",
       "releaseDate": "2006/11/01"
     },
     {
@@ -465,7 +631,11 @@
       "printedTotal": 108,
       "total": 108,
       "ptcgo": "PK",
-      "Image": "https://images.pokemontcg.io/ex16/logo.png",
+      "image": "https://images.pokemontcg.io/ex16/logo.png",
+      "codigoLiga": "P5",
+      "numeroLiga": "108",
+      "codigoMyp": "PK",
+      "numeroMyp": "108",
       "releaseDate": "2007/02/02"
     },
     {
@@ -475,7 +645,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop5/logo.png",
+      "image": "https://images.pokemontcg.io/pop5/logo.png",
+      "codigoLiga": "PK",
+      "numeroLiga": "17",
+      "codigoMyp": "pop5",
+      "numeroMyp": "17",
       "releaseDate": "2007/03/01"
     },
     {
@@ -486,7 +660,12 @@
       "printedTotal": 130,
       "total": 130,
       "ptcgo": "DP",
-      "Image": "https://images.pokemontcg.io/dp1/logo.png",
+      "image": "https://images.pokemontcg.io/dp1/logo.png",
+      "codigoLiga": "DP",
+      "numeroLiga": "130",
+      "codigoMyp": "DP",
+      "numeroMyp": "130",
+      "nomePt": "Diamante & Pérola",
       "releaseDate": "2007/05/01"
     },
     {
@@ -497,7 +676,12 @@
       "printedTotal": 56,
       "total": 56,
       "ptcgo": "PR-DPP",
-      "Image": "https://images.pokemontcg.io/dpp/logo.png",
+      "image": "https://images.pokemontcg.io/dpp/logo.png",
+      "codigoLiga": "DPPR",
+      "numeroLiga": "56",
+      "codigoMyp": "PR_DPP",
+      "numeroMyp": "56",
+      "nomePt": "Diamante & Pérola Promos",
       "releaseDate": "2007/05/01"
     },
     {
@@ -508,7 +692,12 @@
       "printedTotal": 123,
       "total": 124,
       "ptcgo": "MT",
-      "Image": "https://images.pokemontcg.io/dp2/logo.png",
+      "image": "https://images.pokemontcg.io/dp2/logo.png",
+      "codigoLiga": "MT",
+      "numeroLiga": "123",
+      "codigoMyp": "MT",
+      "numeroMyp": "123",
+      "nomePt": "Tesouros Misteriosos",
       "releaseDate": "2007/08/01"
     },
     {
@@ -518,7 +707,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop6/logo.png",
+      "image": "https://images.pokemontcg.io/pop6/logo.png",
+      "codigoLiga": "P6",
+      "numeroLiga": "17",
+      "codigoMyp": "pop6",
+      "numeroMyp": "17",
       "releaseDate": "2007/09/01"
     },
     {
@@ -529,7 +722,12 @@
       "printedTotal": 132,
       "total": 132,
       "ptcgo": "SW",
-      "Image": "https://images.pokemontcg.io/dp3/logo.png",
+      "image": "https://images.pokemontcg.io/dp3/logo.png",
+      "codigoLiga": "SW",
+      "numeroLiga": "132",
+      "codigoMyp": "SW",
+      "numeroMyp": "132",
+      "nomePt": "Maravilhas Secretas",
       "releaseDate": "2007/11/01"
     },
     {
@@ -540,7 +738,11 @@
       "printedTotal": 106,
       "total": 106,
       "ptcgo": "GE",
-      "Image": "https://images.pokemontcg.io/dp4/logo.png",
+      "image": "https://images.pokemontcg.io/dp4/logo.png",
+      "codigoLiga": "GE",
+      "numeroLiga": "106",
+      "codigoMyp": "GE",
+      "numeroMyp": "106",
       "releaseDate": "2008/02/01"
     },
     {
@@ -550,7 +752,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop7/logo.png",
+      "image": "https://images.pokemontcg.io/pop7/logo.png",
+      "codigoLiga": "P7",
+      "numeroLiga": "17",
+      "codigoMyp": "pop7",
+      "numeroMyp": "17",
       "releaseDate": "2008/03/01"
     },
     {
@@ -561,7 +767,11 @@
       "printedTotal": 100,
       "total": 100,
       "ptcgo": "MD",
-      "Image": "https://images.pokemontcg.io/dp5/logo.png",
+      "image": "https://images.pokemontcg.io/dp5/logo.png",
+      "codigoLiga": "MD",
+      "numeroLiga": "100",
+      "codigoMyp": "MD",
+      "numeroMyp": "100",
       "releaseDate": "2008/05/01"
     },
     {
@@ -572,7 +782,11 @@
       "printedTotal": 146,
       "total": 146,
       "ptcgo": "LA",
-      "Image": "https://images.pokemontcg.io/dp6/logo.png",
+      "image": "https://images.pokemontcg.io/dp6/logo.png",
+      "codigoLiga": "LA",
+      "numeroLiga": "146",
+      "codigoMyp": "LA",
+      "numeroMyp": "146",
       "releaseDate": "2008/08/01"
     },
     {
@@ -582,7 +796,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop8/logo.png",
+      "image": "https://images.pokemontcg.io/pop8/logo.png",
+      "codigoLiga": "P8",
+      "numeroLiga": "17",
+      "codigoMyp": "pop8",
+      "numeroMyp": "17",
       "releaseDate": "2008/09/01"
     },
     {
@@ -593,7 +811,11 @@
       "printedTotal": 100,
       "total": 106,
       "ptcgo": "SF",
-      "Image": "https://images.pokemontcg.io/dp7/logo.png",
+      "image": "https://images.pokemontcg.io/dp7/logo.png",
+      "codigoLiga": "SF",
+      "numeroLiga": "100",
+      "codigoMyp": "SF",
+      "numeroMyp": "100",
       "releaseDate": "2008/11/01"
     },
     {
@@ -604,7 +826,11 @@
       "printedTotal": 127,
       "total": 133,
       "ptcgo": "PL",
-      "Image": "https://images.pokemontcg.io/pl1/logo.png",
+      "image": "https://images.pokemontcg.io/pl1/logo.png",
+      "codigoLiga": "PL",
+      "numeroLiga": "127",
+      "codigoMyp": "PL",
+      "numeroMyp": "127",
       "releaseDate": "2009/02/11"
     },
     {
@@ -614,7 +840,11 @@
       "seriesId": 8,
       "printedTotal": 17,
       "total": 17,
-      "Image": "https://images.pokemontcg.io/pop9/logo.png",
+      "image": "https://images.pokemontcg.io/pop9/logo.png",
+      "codigoLiga": "P9",
+      "numeroLiga": "17",
+      "codigoMyp": "pop9",
+      "numeroMyp": "17",
       "releaseDate": "2009/03/01"
     },
     {
@@ -625,7 +855,11 @@
       "printedTotal": 111,
       "total": 120,
       "ptcgo": "RR",
-      "Image": "https://images.pokemontcg.io/pl2/logo.png",
+      "image": "https://images.pokemontcg.io/pl2/logo.png",
+      "codigoLiga": "RR",
+      "numeroLiga": "111",
+      "codigoMyp": "RR",
+      "numeroMyp": "111",
       "releaseDate": "2009/05/16"
     },
     {
@@ -636,7 +870,11 @@
       "printedTotal": 147,
       "total": 153,
       "ptcgo": "SV",
-      "Image": "https://images.pokemontcg.io/pl3/logo.png",
+      "image": "https://images.pokemontcg.io/pl3/logo.png",
+      "codigoLiga": "SV",
+      "numeroLiga": "147",
+      "codigoMyp": "SV",
+      "numeroMyp": "147",
       "releaseDate": "2009/08/19"
     },
     {
@@ -647,7 +885,11 @@
       "printedTotal": 99,
       "total": 111,
       "ptcgo": "AR",
-      "Image": "https://images.pokemontcg.io/pl4/logo.png",
+      "image": "https://images.pokemontcg.io/pl4/logo.png",
+      "codigoLiga": "AR",
+      "numeroLiga": "111",
+      "codigoMyp": "AR",
+      "numeroMyp": "99",
       "releaseDate": "2009/11/04"
     },
     {
@@ -657,7 +899,11 @@
       "seriesId": 4,
       "printedTotal": 16,
       "total": 16,
-      "Image": "https://images.pokemontcg.io/ru1/logo.png",
+      "image": "https://images.pokemontcg.io/ru1/logo.png",
+      "codigoLiga": "RU",
+      "numeroLiga": "16",
+      "codigoMyp": "ru1",
+      "numeroMyp": "16",
       "releaseDate": "2009/12/02"
     },
     {
@@ -668,7 +914,11 @@
       "printedTotal": 123,
       "total": 124,
       "ptcgo": "HS",
-      "Image": "https://images.pokemontcg.io/hgss1/logo.png",
+      "image": "https://images.pokemontcg.io/hgss1/logo.png",
+      "codigoLiga": "HS",
+      "numeroLiga": "123",
+      "codigoMyp": "HS",
+      "numeroMyp": "123",
       "releaseDate": "2010/02/10"
     },
     {
@@ -679,7 +929,11 @@
       "printedTotal": 25,
       "total": 25,
       "ptcgo": "PR-HS",
-      "Image": "https://images.pokemontcg.io/hsp/logo.png",
+      "image": "https://images.pokemontcg.io/hsp/logo.png",
+      "codigoLiga": "HSPR",
+      "numeroLiga": "25",
+      "codigoMyp": "PR_HS",
+      "numeroMyp": "25",
       "releaseDate": "2010/02/10"
     },
     {
@@ -690,7 +944,12 @@
       "printedTotal": 95,
       "total": 96,
       "ptcgo": "UL",
-      "Image": "https://images.pokemontcg.io/hgss2/logo.png",
+      "image": "https://images.pokemontcg.io/hgss2/logo.png",
+      "codigoLiga": "UL",
+      "numeroLiga": 96,
+      "codigoMyp": "UL",
+      "numeroMyp": "95",
+      "nomePt": "Revelado",
       "releaseDate": "2010/05/12"
     },
     {
@@ -701,7 +960,12 @@
       "printedTotal": 90,
       "total": 91,
       "ptcgo": "UD",
-      "Image": "https://images.pokemontcg.io/hgss3/logo.png",
+      "image": "https://images.pokemontcg.io/hgss3/logo.png",
+      "codigoLiga": "UD",
+      "numeroLiga": "90",
+      "codigoMyp": "UD",
+      "numeroMyp": "90",
+      "nomePt": "Destemido",
       "releaseDate": "2010/08/18"
     },
     {
@@ -712,7 +976,12 @@
       "printedTotal": 102,
       "total": 103,
       "ptcgo": "TM",
-      "Image": "https://images.pokemontcg.io/hgss4/logo.png",
+      "image": "https://images.pokemontcg.io/hgss4/logo.png",
+      "codigoLiga": "TM",
+      "numeroLiga": 103,
+      "codigoMyp": "TM",
+      "numeroMyp": "102",
+      "nomePt": "Triunfante",
       "releaseDate": "2010/11/03"
     },
     {
@@ -723,7 +992,12 @@
       "printedTotal": 95,
       "total": 106,
       "ptcgo": "CL",
-      "Image": "https://images.pokemontcg.io/col1/logo.png",
+      "image": "https://images.pokemontcg.io/col1/logo.png",
+      "codigoLiga": "CL",
+      "numeroLiga": 106,
+      "codigoMyp": "CL",
+      "numeroMyp": "95",
+      "nomePt": "Chamado das Lendas",
       "releaseDate": "2011/02/09"
     },
     {
@@ -736,7 +1010,12 @@
       "ptcgo": "CL",
       "symbolImg": "https://images.pokemontcg.io/col1/symbol.png",
       "logoImg": "https://images.pokemontcg.io/col1/logo.png",
-      "Image": "https://images.pokemontcg.io/col1/logo.png",
+      "image": "https://images.pokemontcg.io/col1/logo.png",
+      "codigoLiga": "CL",
+      "numeroLiga": 106,
+      "codigoMyp": "CL",
+      "numeroMyp": "95",
+      "nomePt": "Chamado das Lendas",
       "releaseDate": "2011/02/09"
     },
     {
@@ -747,7 +1026,11 @@
       "printedTotal": 101,
       "total": 101,
       "ptcgo": "PR-BLW",
-      "Image": "https://images.pokemontcg.io/bwp/logo.png",
+      "image": "https://images.pokemontcg.io/bwp/logo.png",
+      "codigoLiga": "BWPR",
+      "numeroLiga": 99,
+      "codigoMyp": "PR_BLW",
+      "numeroMyp": "101",
       "releaseDate": "2011/03/01"
     },
     {
@@ -758,7 +1041,11 @@
       "printedTotal": 114,
       "total": 115,
       "ptcgo": "BLW",
-      "Image": "https://images.pokemontcg.io/bw1/logo.png",
+      "image": "https://images.pokemontcg.io/bw1/logo.png",
+      "codigoLiga": "BLW",
+      "numeroLiga": "114",
+      "codigoMyp": "BLW",
+      "numeroMyp": "114",
       "releaseDate": "2011/04/25"
     },
     {
@@ -768,7 +1055,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd11/logo.png",
+      "image": "https://images.pokemontcg.io/mcd11/logo.png",
+      "codigoLiga": "MCD1",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd11",
+      "numeroMyp": "12",
       "releaseDate": "2011/06/17"
     },
     {
@@ -779,7 +1070,12 @@
       "printedTotal": 98,
       "total": 98,
       "ptcgo": "EPO",
-      "Image": "https://images.pokemontcg.io/bw2/logo.png",
+      "image": "https://images.pokemontcg.io/bw2/logo.png",
+      "codigoLiga": "EPO",
+      "numeroLiga": "98",
+      "codigoMyp": "EPO",
+      "numeroMyp": "98",
+      "nomePt": "Poderes Emergentes",
       "releaseDate": "2011/08/31"
     },
     {
@@ -790,7 +1086,12 @@
       "printedTotal": 101,
       "total": 102,
       "ptcgo": "NVI",
-      "Image": "https://images.pokemontcg.io/bw3/logo.png",
+      "image": "https://images.pokemontcg.io/bw3/logo.png",
+      "codigoLiga": "NVI",
+      "numeroLiga": "101",
+      "codigoMyp": "NVI",
+      "numeroMyp": "101",
+      "nomePt": "Vitórias Nobres",
       "releaseDate": "2011/11/16"
     },
     {
@@ -801,7 +1102,12 @@
       "printedTotal": 99,
       "total": 103,
       "ptcgo": "NXD",
-      "Image": "https://images.pokemontcg.io/bw4/logo.png",
+      "image": "https://images.pokemontcg.io/bw4/logo.png",
+      "codigoLiga": "NXD",
+      "numeroLiga": "99",
+      "codigoMyp": "NXD",
+      "numeroMyp": "99",
+      "nomePt": "Próximos Destinos",
       "releaseDate": "2012/02/08"
     },
     {
@@ -812,7 +1118,12 @@
       "printedTotal": 108,
       "total": 111,
       "ptcgo": "DEX",
-      "Image": "https://images.pokemontcg.io/bw5/logo.png",
+      "image": "https://images.pokemontcg.io/bw5/logo.png",
+      "codigoLiga": "DEX",
+      "numeroLiga": "108",
+      "codigoMyp": "DEX",
+      "numeroMyp": "108",
+      "nomePt": "Exploradores da Escuridão",
       "releaseDate": "2012/05/09"
     },
     {
@@ -822,7 +1133,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd12/logo.png",
+      "image": "https://images.pokemontcg.io/mcd12/logo.png",
+      "codigoLiga": "MCD2",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd12",
+      "numeroMyp": "12",
       "releaseDate": "2012/06/15"
     },
     {
@@ -833,7 +1148,12 @@
       "printedTotal": 124,
       "total": 128,
       "ptcgo": "DRX",
-      "Image": "https://images.pokemontcg.io/bw6/logo.png",
+      "image": "https://images.pokemontcg.io/bw6/logo.png",
+      "codigoLiga": "DRX",
+      "numeroLiga": "124",
+      "codigoMyp": "DRX",
+      "numeroMyp": "124",
+      "nomePt": "Dragões Enaltecidos",
       "releaseDate": "2012/08/15"
     },
     {
@@ -844,7 +1164,11 @@
       "printedTotal": 20,
       "total": 21,
       "ptcgo": "DRV",
-      "Image": "https://images.pokemontcg.io/dv1/logo.png",
+      "image": "https://images.pokemontcg.io/dv1/logo.png",
+      "codigoLiga": "DRV",
+      "numeroLiga": 21,
+      "codigoMyp": "DRV",
+      "numeroMyp": "20",
       "releaseDate": "2012/10/05"
     },
     {
@@ -855,7 +1179,12 @@
       "printedTotal": 149,
       "total": 153,
       "ptcgo": "BCR",
-      "Image": "https://images.pokemontcg.io/bw7/logo.png",
+      "image": "https://images.pokemontcg.io/bw7/logo.png",
+      "codigoLiga": "BCR",
+      "numeroLiga": "149",
+      "codigoMyp": "BCR",
+      "numeroMyp": "149",
+      "nomePt": "Fronteiras Cruzadas",
       "releaseDate": "2012/11/07"
     },
     {
@@ -866,7 +1195,12 @@
       "printedTotal": 135,
       "total": 138,
       "ptcgo": "PLS",
-      "Image": "https://images.pokemontcg.io/bw8/logo.png",
+      "image": "https://images.pokemontcg.io/bw8/logo.png",
+      "codigoLiga": "PLS",
+      "numeroLiga": "135",
+      "codigoMyp": "PLS",
+      "numeroMyp": "135",
+      "nomePt": "Tempestade de Plasma",
       "releaseDate": "2013/02/06"
     },
     {
@@ -877,7 +1211,12 @@
       "printedTotal": 116,
       "total": 122,
       "ptcgo": "PLF",
-      "Image": "https://images.pokemontcg.io/bw9/logo.png",
+      "image": "https://images.pokemontcg.io/bw9/logo.png",
+      "codigoLiga": "PLF",
+      "numeroLiga": "116",
+      "codigoMyp": "PLF",
+      "numeroMyp": "116",
+      "nomePt": "Congelamento de Plasma",
       "releaseDate": "2013/05/08"
     },
     {
@@ -888,7 +1227,12 @@
       "printedTotal": 101,
       "total": 105,
       "ptcgo": "PLB",
-      "Image": "https://images.pokemontcg.io/bw10/logo.png",
+      "image": "https://images.pokemontcg.io/bw10/logo.png",
+      "codigoLiga": "PLB",
+      "numeroLiga": "101",
+      "codigoMyp": "PLB",
+      "numeroMyp": "101",
+      "nomePt": "Explosão de Plasma",
       "releaseDate": "2013/08/14"
     },
     {
@@ -899,7 +1243,12 @@
       "printedTotal": 211,
       "total": 216,
       "ptcgo": "PR-XY",
-      "Image": "https://images.pokemontcg.io/xyp/logo.png",
+      "image": "https://images.pokemontcg.io/xyp/logo.png",
+      "codigoLiga": "XYPR",
+      "numeroLiga": "∞",
+      "codigoMyp": "PR_XY",
+      "numeroMyp": "211",
+      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/10/12"
     },
     {
@@ -910,7 +1259,11 @@
       "printedTotal": 113,
       "total": 140,
       "ptcgo": "LTR",
-      "Image": "https://images.pokemontcg.io/bw11/logo.png",
+      "image": "https://images.pokemontcg.io/bw11/logo.png",
+      "codigoLiga": "LTR",
+      "numeroLiga": "113",
+      "codigoMyp": "LTR",
+      "numeroMyp": "113",
       "releaseDate": "2013/11/06"
     },
     {
@@ -923,7 +1276,11 @@
       "ptcgo": "LTR",
       "symbolImg": "https://images.pokemontcg.io/bw11/symbol.png",
       "logoImg": "https://images.pokemontcg.io/bw11/logo.png",
-      "Image": "https://images.pokemontcg.io/bw11/logo.png",
+      "image": "https://images.pokemontcg.io/bw11/logo.png",
+      "codigoLiga": "LTR",
+      "numeroLiga": "113",
+      "codigoMyp": "LTR",
+      "numeroMyp": "113",
       "releaseDate": "2013/11/06"
     },
     {
@@ -934,7 +1291,11 @@
       "printedTotal": 39,
       "total": 39,
       "ptcgo": "KSS",
-      "Image": "https://images.pokemontcg.io/xy0/logo.png",
+      "image": "https://images.pokemontcg.io/xy0/logo.png",
+      "codigoLiga": "KSS",
+      "numeroLiga": "39",
+      "codigoMyp": "KSS",
+      "numeroMyp": "39",
       "releaseDate": "2013/11/08"
     },
     {
@@ -945,7 +1306,11 @@
       "printedTotal": 146,
       "total": 146,
       "ptcgo": "XY",
-      "Image": "https://images.pokemontcg.io/xy1/logo.png",
+      "image": "https://images.pokemontcg.io/xy1/logo.png",
+      "codigoLiga": "XY",
+      "numeroLiga": "146",
+      "codigoMyp": "XY",
+      "numeroMyp": 146,
       "releaseDate": "2014/02/05"
     },
     {
@@ -957,7 +1322,11 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-n/symbol.png",
+      "codigoLiga": "TK1A",
+      "numeroLiga": "10",
+      "codigoMyp": "tk1b",
+      "numeroMyp": "10",
       "releaseDate": "2014/03/12"
     },
     {
@@ -969,7 +1338,9 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-sy/symbol.png",
+      "codigoLiga": "TK6A",
+      "numeroLiga": 30,
       "releaseDate": "2014/03/12"
     },
     {
@@ -980,7 +1351,12 @@
       "printedTotal": 106,
       "total": 110,
       "ptcgo": "FLF",
-      "Image": "https://images.pokemontcg.io/xy2/logo.png",
+      "image": "https://images.pokemontcg.io/xy2/logo.png",
+      "codigoLiga": "FLF",
+      "numeroLiga": "106",
+      "codigoMyp": "FLF",
+      "numeroMyp": "106",
+      "nomePt": "Flash de Fogo",
       "releaseDate": "2014/05/07"
     },
     {
@@ -990,7 +1366,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd14/logo.png",
+      "image": "https://images.pokemontcg.io/mcd14/logo.png",
+      "codigoLiga": "MCD14",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd14",
+      "numeroMyp": "12",
       "releaseDate": "2014/05/23"
     },
     {
@@ -1001,7 +1381,12 @@
       "printedTotal": 111,
       "total": 114,
       "ptcgo": "FFI",
-      "Image": "https://images.pokemontcg.io/xy3/logo.png",
+      "image": "https://images.pokemontcg.io/xy3/logo.png",
+      "codigoLiga": "FFI",
+      "numeroLiga": "111",
+      "codigoMyp": "FFI",
+      "numeroMyp": "111",
+      "nomePt": "Punhos Furiosos",
       "releaseDate": "2014/08/13"
     },
     {
@@ -1013,7 +1398,9 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-b/symbol.png",
+      "codigoLiga": "TK10A",
+      "numeroLiga": 30,
       "releaseDate": "2014/11/01"
     },
     {
@@ -1025,7 +1412,9 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-w/symbol.png",
+      "codigoLiga": "TK6B",
+      "numeroLiga": 30,
       "releaseDate": "2014/11/01"
     },
     {
@@ -1036,7 +1425,12 @@
       "printedTotal": 119,
       "total": 124,
       "ptcgo": "PHF",
-      "Image": "https://images.pokemontcg.io/xy4/logo.png",
+      "image": "https://images.pokemontcg.io/xy4/logo.png",
+      "codigoLiga": "PHF",
+      "numeroLiga": "119",
+      "codigoMyp": "PHF",
+      "numeroMyp": "119",
+      "nomePt": "Força Fantasma",
       "releaseDate": "2014/11/05"
     },
     {
@@ -1047,7 +1441,12 @@
       "printedTotal": 160,
       "total": 164,
       "ptcgo": "PRC",
-      "Image": "https://images.pokemontcg.io/xy5/logo.png",
+      "image": "https://images.pokemontcg.io/xy5/logo.png",
+      "codigoLiga": "PCL",
+      "numeroLiga": "160",
+      "codigoMyp": "PRC",
+      "numeroMyp": "160",
+      "nomePt": "Conflito Primitivo",
       "releaseDate": "2015/02/04"
     },
     {
@@ -1058,7 +1457,12 @@
       "printedTotal": 34,
       "total": 34,
       "ptcgo": "DCR",
-      "Image": "https://images.pokemontcg.io/dc1/logo.png",
+      "image": "https://images.pokemontcg.io/dc1/logo.png",
+      "codigoLiga": "DCR",
+      "numeroLiga": "34",
+      "codigoMyp": "DCR",
+      "numeroMyp": "34",
+      "nomePt": "Crise Dupla",
       "releaseDate": "2015/03/25"
     },
     {
@@ -1070,7 +1474,9 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-latia/symbol.png",
+      "codigoLiga": "TK10B",
+      "numeroLiga": 30,
       "releaseDate": "2015/04/29"
     },
     {
@@ -1082,7 +1488,11 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-latio/symbol.png",
+      "codigoLiga": "HL",
+      "numeroLiga": "10",
+      "codigoMyp": "tk1a",
+      "numeroMyp": "10",
       "releaseDate": "2015/04/29"
     },
     {
@@ -1093,7 +1503,12 @@
       "printedTotal": 108,
       "total": 112,
       "ptcgo": "ROS",
-      "Image": "https://images.pokemontcg.io/xy6/logo.png",
+      "image": "https://images.pokemontcg.io/xy6/logo.png",
+      "codigoLiga": "ROS",
+      "numeroLiga": "108",
+      "codigoMyp": "ROS",
+      "numeroMyp": "108",
+      "nomePt": "Céus Estrondosos",
       "releaseDate": "2015/05/06"
     },
     {
@@ -1104,7 +1519,12 @@
       "printedTotal": 98,
       "total": 100,
       "ptcgo": "AOR",
-      "Image": "https://images.pokemontcg.io/xy7/logo.png",
+      "image": "https://images.pokemontcg.io/xy7/logo.png",
+      "codigoLiga": "AOR",
+      "numeroLiga": "98",
+      "codigoMyp": "AOR",
+      "numeroMyp": "98",
+      "nomePt": "Origens Ancestrais",
       "releaseDate": "2015/08/12"
     },
     {
@@ -1115,7 +1535,12 @@
       "printedTotal": 162,
       "total": 165,
       "ptcgo": "BKT",
-      "Image": "https://images.pokemontcg.io/xy8/logo.png",
+      "image": "https://images.pokemontcg.io/xy8/logo.png",
+      "codigoLiga": "BKT",
+      "numeroLiga": "162",
+      "codigoMyp": "BKT",
+      "numeroMyp": "162",
+      "nomePt": "Turbo Revolução",
       "releaseDate": "2015/11/04"
     },
     {
@@ -1125,7 +1550,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd15/logo.png",
+      "image": "https://images.pokemontcg.io/mcd15/logo.png",
+      "codigoLiga": "MCD15",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd15",
+      "numeroMyp": "12",
       "releaseDate": "2015/11/27"
     },
     {
@@ -1136,7 +1565,12 @@
       "printedTotal": 122,
       "total": 126,
       "ptcgo": "BKP",
-      "Image": "https://images.pokemontcg.io/xy9/logo.png",
+      "image": "https://images.pokemontcg.io/xy9/logo.png",
+      "codigoLiga": "BKP",
+      "numeroLiga": "122",
+      "codigoMyp": "BKP",
+      "numeroMyp": "122",
+      "nomePt": "Turbo Colisão",
       "releaseDate": "2016/02/03"
     },
     {
@@ -1147,7 +1581,12 @@
       "printedTotal": 83,
       "total": 117,
       "ptcgo": "GEN",
-      "Image": "https://images.pokemontcg.io/g1/logo.png",
+      "image": "https://images.pokemontcg.io/g1/logo.png",
+      "codigoLiga": "GEN",
+      "numeroLiga": "83",
+      "codigoMyp": "GEN",
+      "numeroMyp": "83",
+      "nomePt": "Gerações",
       "releaseDate": "2016/02/22"
     },
     {
@@ -1160,7 +1599,12 @@
       "ptcgo": "GEN",
       "symbolImg": "https://images.pokemontcg.io/g1/symbol.png",
       "logoImg": "https://images.pokemontcg.io/g1/logo.png",
-      "Image": "https://images.pokemontcg.io/g1/logo.png",
+      "image": "https://images.pokemontcg.io/g1/logo.png",
+      "codigoLiga": "GEN",
+      "numeroLiga": "83",
+      "codigoMyp": "GEN",
+      "numeroMyp": "83",
+      "nomePt": "Gerações",
       "releaseDate": "2016/02/22"
     },
     {
@@ -1172,7 +1616,11 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-p/symbol.png",
+      "codigoLiga": "TK2P",
+      "numeroLiga": "12",
+      "codigoMyp": "tk2a",
+      "numeroMyp": "12",
       "releaseDate": "2016/04/27"
     },
     {
@@ -1184,7 +1632,11 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-xy-su/symbol.png",
+      "codigoLiga": "TK2M",
+      "numeroLiga": "12",
+      "codigoMyp": "tk2b",
+      "numeroMyp": "12",
       "releaseDate": "2016/04/27"
     },
     {
@@ -1195,7 +1647,12 @@
       "printedTotal": 124,
       "total": 129,
       "ptcgo": "FCO",
-      "Image": "https://images.pokemontcg.io/xy10/logo.png",
+      "image": "https://images.pokemontcg.io/xy10/logo.png",
+      "codigoLiga": "FCO",
+      "numeroLiga": "124",
+      "codigoMyp": "FCO",
+      "numeroMyp": "124",
+      "nomePt": "Fusão de Destinos",
       "releaseDate": "2016/05/02"
     },
     {
@@ -1206,7 +1663,12 @@
       "printedTotal": 114,
       "total": 116,
       "ptcgo": "STS",
-      "Image": "https://images.pokemontcg.io/xy11/logo.png",
+      "image": "https://images.pokemontcg.io/xy11/logo.png",
+      "codigoLiga": "STS",
+      "numeroLiga": "114",
+      "codigoMyp": "STS",
+      "numeroMyp": "114",
+      "nomePt": "Cerco de Vapor",
       "releaseDate": "2016/08/03"
     },
     {
@@ -1216,7 +1678,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd16/logo.png",
+      "image": "https://images.pokemontcg.io/mcd16/logo.png",
+      "codigoLiga": "MCD16",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd16",
+      "numeroMyp": "12",
       "releaseDate": "2016/08/19"
     },
     {
@@ -1227,7 +1693,12 @@
       "printedTotal": 108,
       "total": 113,
       "ptcgo": "EVO",
-      "Image": "https://images.pokemontcg.io/xy12/logo.png",
+      "image": "https://images.pokemontcg.io/xy12/logo.png",
+      "codigoLiga": "EVO",
+      "numeroLiga": "108",
+      "codigoMyp": "EVO",
+      "numeroMyp": "108",
+      "nomePt": "Evoluções",
       "releaseDate": "2016/11/02"
     },
     {
@@ -1238,7 +1709,12 @@
       "printedTotal": 149,
       "total": 173,
       "ptcgo": "SUM",
-      "Image": "https://images.pokemontcg.io/sm1/logo.png",
+      "image": "https://images.pokemontcg.io/sm1/logo.png",
+      "codigoLiga": "SUM",
+      "numeroLiga": "149",
+      "codigoMyp": "SUM",
+      "numeroMyp": "149",
+      "nomePt": "Sol e Lua",
       "releaseDate": "2017/02/03"
     },
     {
@@ -1249,7 +1725,12 @@
       "printedTotal": 248,
       "total": 250,
       "ptcgo": "PR-SM",
-      "Image": "https://images.pokemontcg.io/smp/logo.png",
+      "image": "https://images.pokemontcg.io/smp/logo.png",
+      "codigoLiga": "SMP",
+      "numeroLiga": "250",
+      "codigoMyp": "PR_SM",
+      "numeroMyp": "248",
+      "nomePt": "Sol e Lua Promos",
       "releaseDate": "2017/02/03"
     },
     {
@@ -1261,7 +1742,8 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-sm-l/symbol.png",
+      "numeroLiga": 30,
       "releaseDate": "2017/04/21"
     },
     {
@@ -1273,7 +1755,8 @@
       "total": 30,
       "symbolImg": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
       "logoImg": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
-      "Image": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
+      "image": "https://assets.tcgdex.net/univ/tk/tk-sm-r/symbol.png",
+      "numeroLiga": 30,
       "releaseDate": "2017/04/21"
     },
     {
@@ -1284,7 +1767,12 @@
       "printedTotal": 145,
       "total": 180,
       "ptcgo": "GRI",
-      "Image": "https://images.pokemontcg.io/sm2/logo.png",
+      "image": "https://images.pokemontcg.io/sm2/logo.png",
+      "codigoLiga": "GRI",
+      "numeroLiga": "145",
+      "codigoMyp": "GRI",
+      "numeroMyp": "145",
+      "nomePt": "Guardiões Ascendentes",
       "releaseDate": "2017/05/05"
     },
     {
@@ -1295,7 +1783,12 @@
       "printedTotal": 147,
       "total": 177,
       "ptcgo": "BUS",
-      "Image": "https://images.pokemontcg.io/sm3/logo.png",
+      "image": "https://images.pokemontcg.io/sm3/logo.png",
+      "codigoLiga": "BUS",
+      "numeroLiga": "147",
+      "codigoMyp": "BUS",
+      "numeroMyp": "147",
+      "nomePt": "Sombras Ardentes",
       "releaseDate": "2017/08/05"
     },
     {
@@ -1306,7 +1799,12 @@
       "printedTotal": 73,
       "total": 81,
       "ptcgo": "SLG",
-      "Image": "https://images.pokemontcg.io/sm35/logo.png",
+      "image": "https://images.pokemontcg.io/sm35/logo.png",
+      "codigoLiga": "SLG",
+      "numeroLiga": "73",
+      "codigoMyp": "SLG",
+      "numeroMyp": "73",
+      "nomePt": "Lendas Luminescentes",
       "releaseDate": "2017/10/06"
     },
     {
@@ -1317,7 +1815,12 @@
       "printedTotal": 111,
       "total": 126,
       "ptcgo": "CIN",
-      "Image": "https://images.pokemontcg.io/sm4/logo.png",
+      "image": "https://images.pokemontcg.io/sm4/logo.png",
+      "codigoLiga": "CIN",
+      "numeroLiga": "111",
+      "codigoMyp": "CIN",
+      "numeroMyp": "111",
+      "nomePt": "Invasão Carmim",
       "releaseDate": "2017/11/03"
     },
     {
@@ -1327,7 +1830,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd17/logo.png",
+      "image": "https://images.pokemontcg.io/mcd17/logo.png",
+      "codigoLiga": "MCD17",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd17",
+      "numeroMyp": "12",
       "releaseDate": "2017/11/07"
     },
     {
@@ -1338,7 +1845,12 @@
       "printedTotal": 156,
       "total": 178,
       "ptcgo": "UPR",
-      "Image": "https://images.pokemontcg.io/sm5/logo.png",
+      "image": "https://images.pokemontcg.io/sm5/logo.png",
+      "codigoLiga": "UPR",
+      "numeroLiga": "156",
+      "codigoMyp": "UPR",
+      "numeroMyp": "156",
+      "nomePt": "Ultra Prisma",
       "releaseDate": "2018/02/02"
     },
     {
@@ -1349,7 +1861,12 @@
       "printedTotal": 131,
       "total": 150,
       "ptcgo": "FLI",
-      "Image": "https://images.pokemontcg.io/sm6/logo.png",
+      "image": "https://images.pokemontcg.io/sm6/logo.png",
+      "codigoLiga": "FLI",
+      "numeroLiga": "131",
+      "codigoMyp": "FLI",
+      "numeroMyp": "131",
+      "nomePt": "Luz Proibida",
       "releaseDate": "2018/05/04"
     },
     {
@@ -1360,7 +1877,12 @@
       "printedTotal": 168,
       "total": 187,
       "ptcgo": "CES",
-      "Image": "https://images.pokemontcg.io/sm7/logo.png",
+      "image": "https://images.pokemontcg.io/sm7/logo.png",
+      "codigoLiga": "CES",
+      "numeroLiga": "168",
+      "codigoMyp": "CES",
+      "numeroMyp": "168",
+      "nomePt": "Tempestade Celestial",
       "releaseDate": "2018/08/03"
     },
     {
@@ -1371,7 +1893,12 @@
       "printedTotal": 70,
       "total": 80,
       "ptcgo": "DRM",
-      "Image": "https://images.pokemontcg.io/sm75/logo.png",
+      "image": "https://images.pokemontcg.io/sm75/logo.png",
+      "codigoLiga": "DRM",
+      "numeroLiga": "70",
+      "codigoMyp": "DRM",
+      "numeroMyp": "70",
+      "nomePt": "Dragões Soberanos",
       "releaseDate": "2018/09/07"
     },
     {
@@ -1381,7 +1908,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd18/logo.png",
+      "image": "https://images.pokemontcg.io/mcd18/logo.png",
+      "codigoLiga": "MC18E",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd18",
+      "numeroMyp": "12",
       "releaseDate": "2018/10/16"
     },
     {
@@ -1392,7 +1923,12 @@
       "printedTotal": 214,
       "total": 240,
       "ptcgo": "LOT",
-      "Image": "https://images.pokemontcg.io/sm8/logo.png",
+      "image": "https://images.pokemontcg.io/sm8/logo.png",
+      "codigoLiga": "LOT",
+      "numeroLiga": "214",
+      "codigoMyp": "LOT",
+      "numeroMyp": "214",
+      "nomePt": "Trovões Perdidos",
       "releaseDate": "2018/11/02"
     },
     {
@@ -1403,7 +1939,12 @@
       "printedTotal": 181,
       "total": 198,
       "ptcgo": "TEU",
-      "Image": "https://images.pokemontcg.io/sm9/logo.png",
+      "image": "https://images.pokemontcg.io/sm9/logo.png",
+      "codigoLiga": "SM9",
+      "numeroLiga": "181",
+      "codigoMyp": "TEU",
+      "numeroMyp": "181",
+      "nomePt": "União de Aliados",
       "releaseDate": "2019/02/01"
     },
     {
@@ -1414,7 +1955,12 @@
       "printedTotal": 18,
       "total": 18,
       "ptcgo": "DET",
-      "Image": "https://images.pokemontcg.io/det1/logo.png",
+      "image": "https://images.pokemontcg.io/det1/logo.png",
+      "codigoLiga": "DET",
+      "numeroLiga": "18",
+      "codigoMyp": "DET",
+      "numeroMyp": "18",
+      "nomePt": "Detetive Pikachu",
       "releaseDate": "2019/04/05"
     },
     {
@@ -1425,7 +1971,12 @@
       "printedTotal": 214,
       "total": 234,
       "ptcgo": "UNB",
-      "Image": "https://images.pokemontcg.io/sm10/logo.png",
+      "image": "https://images.pokemontcg.io/sm10/logo.png",
+      "codigoLiga": "UNB",
+      "numeroLiga": "214",
+      "codigoMyp": "UNB",
+      "numeroMyp": "214",
+      "nomePt": "Elos Inquebráveis",
       "releaseDate": "2019/05/03"
     },
     {
@@ -1436,7 +1987,12 @@
       "printedTotal": 236,
       "total": 260,
       "ptcgo": "UNM",
-      "Image": "https://images.pokemontcg.io/sm11/logo.png",
+      "image": "https://images.pokemontcg.io/sm11/logo.png",
+      "codigoLiga": "UNM",
+      "numeroLiga": "236",
+      "codigoMyp": "UNM",
+      "numeroMyp": "236",
+      "nomePt": "Sintonia Mental",
       "releaseDate": "2019/08/02"
     },
     {
@@ -1447,7 +2003,12 @@
       "printedTotal": 68,
       "total": 69,
       "ptcgo": "HIF",
-      "Image": "https://images.pokemontcg.io/sm115/logo.png",
+      "image": "https://images.pokemontcg.io/sm115/logo.png",
+      "codigoLiga": "HIF",
+      "numeroLiga": "68",
+      "codigoMyp": "HIF",
+      "numeroMyp": "68",
+      "nomePt": "Destinos Ocultos",
       "releaseDate": "2019/08/23"
     },
     {
@@ -1457,7 +2018,12 @@
       "seriesId": 15,
       "printedTotal": 94,
       "total": 94,
-      "Image": "https://images.pokemontcg.io/sma/logo.png",
+      "image": "https://images.pokemontcg.io/sma/logo.png",
+      "codigoLiga": "HIF",
+      "numeroLiga": 68,
+      "codigoMyp": "sma",
+      "numeroMyp": "94",
+      "nomePt": "Destinos Ocultos - Shiny",
       "releaseDate": "2019/08/23"
     },
     {
@@ -1467,7 +2033,11 @@
       "seriesId": 4,
       "printedTotal": 12,
       "total": 12,
-      "Image": "https://images.pokemontcg.io/mcd19/logo.png",
+      "image": "https://images.pokemontcg.io/mcd19/logo.png",
+      "codigoLiga": "MCD19",
+      "numeroLiga": "12",
+      "codigoMyp": "mcd19",
+      "numeroMyp": "12",
       "releaseDate": "2019/10/15"
     },
     {
@@ -1478,7 +2048,12 @@
       "printedTotal": 236,
       "total": 272,
       "ptcgo": "CEC",
-      "Image": "https://images.pokemontcg.io/sm12/logo.png",
+      "image": "https://images.pokemontcg.io/sm12/logo.png",
+      "codigoLiga": "CEC",
+      "numeroLiga": "236",
+      "codigoMyp": "CEC",
+      "numeroMyp": "236",
+      "nomePt": "Eclipse Cósmico",
       "releaseDate": "2019/11/01"
     },
     {
@@ -1489,7 +2064,12 @@
       "printedTotal": 307,
       "total": 304,
       "ptcgo": "PR-SW",
-      "Image": "https://images.pokemontcg.io/swshp/logo.png",
+      "image": "https://images.pokemontcg.io/swshp/logo.png",
+      "codigoLiga": "SSP",
+      "numeroLiga": 71,
+      "codigoMyp": "swshp",
+      "numeroMyp": "307",
+      "nomePt": "Espada e Escudo Promos",
       "releaseDate": "2019/11/15"
     },
     {
@@ -1500,7 +2080,12 @@
       "printedTotal": 202,
       "total": 216,
       "ptcgo": "SSH",
-      "Image": "https://images.pokemontcg.io/swsh1/logo.png",
+      "image": "https://images.pokemontcg.io/swsh1/logo.png",
+      "codigoLiga": "SSH",
+      "numeroLiga": "202",
+      "codigoMyp": "SSH",
+      "numeroMyp": "202",
+      "nomePt": "Espada e Escudo",
       "releaseDate": "2020/02/07"
     },
     {
@@ -1511,7 +2096,12 @@
       "printedTotal": 192,
       "total": 209,
       "ptcgo": "RCL",
-      "Image": "https://images.pokemontcg.io/swsh2/logo.png",
+      "image": "https://images.pokemontcg.io/swsh2/logo.png",
+      "codigoLiga": "RCL",
+      "numeroLiga": "192",
+      "codigoMyp": "RCL",
+      "numeroMyp": "192",
+      "nomePt": "Rixa Rebelde",
       "releaseDate": "2020/05/01"
     },
     {
@@ -1522,7 +2112,12 @@
       "printedTotal": 189,
       "total": 201,
       "ptcgo": "DAA",
-      "Image": "https://images.pokemontcg.io/swsh3/logo.png",
+      "image": "https://images.pokemontcg.io/swsh3/logo.png",
+      "codigoLiga": "DAA",
+      "numeroLiga": "189",
+      "codigoMyp": "DAA",
+      "numeroMyp": "189",
+      "nomePt": "Escuridão Incandescente",
       "releaseDate": "2020/08/14"
     },
     {
@@ -1533,7 +2128,11 @@
       "printedTotal": 5,
       "total": 5,
       "ptcgo": "FUT20",
-      "Image": "https://images.pokemontcg.io/fut20/logo.png",
+      "image": "https://images.pokemontcg.io/fut20/logo.png",
+      "codigoLiga": "FUT20",
+      "numeroLiga": "5",
+      "codigoMyp": "FUT20",
+      "numeroMyp": "5",
       "releaseDate": "2020/09/11"
     },
     {
@@ -1544,7 +2143,12 @@
       "printedTotal": 73,
       "total": 80,
       "ptcgo": "CPA",
-      "Image": "https://images.pokemontcg.io/swsh35/logo.png",
+      "image": "https://images.pokemontcg.io/swsh35/logo.png",
+      "codigoLiga": "CPA",
+      "numeroLiga": "073",
+      "codigoMyp": "CPA",
+      "numeroMyp": "73",
+      "nomePt": "Caminho do Campeão",
       "releaseDate": "2020/09/25"
     },
     {
@@ -1555,7 +2159,12 @@
       "printedTotal": 185,
       "total": 203,
       "ptcgo": "VIV",
-      "Image": "https://images.pokemontcg.io/swsh4/logo.png",
+      "image": "https://images.pokemontcg.io/swsh4/logo.png",
+      "codigoLiga": "VIV",
+      "numeroLiga": "185",
+      "codigoMyp": "VIV",
+      "numeroMyp": "185",
+      "nomePt": "Voltagem Vívida",
       "releaseDate": "2020/11/13"
     },
     {
@@ -1565,7 +2174,11 @@
       "seriesId": 4,
       "printedTotal": 25,
       "total": 25,
-      "Image": "https://images.pokemontcg.io/mcd21/logo.png",
+      "image": "https://images.pokemontcg.io/mcd21/logo.png",
+      "codigoLiga": "MC21",
+      "numeroLiga": "25",
+      "codigoMyp": "mcd21",
+      "numeroMyp": "25",
       "releaseDate": "2021/02/09"
     },
     {
@@ -1576,7 +2189,12 @@
       "printedTotal": 72,
       "total": 73,
       "ptcgo": "SHF",
-      "Image": "https://images.pokemontcg.io/swsh45/logo.png",
+      "image": "https://images.pokemontcg.io/swsh45/logo.png",
+      "codigoLiga": "SHF",
+      "numeroLiga": "72",
+      "codigoMyp": "SHF",
+      "numeroMyp": "72",
+      "nomePt": "Destinos Brilhantes",
       "releaseDate": "2021/02/19"
     },
     {
@@ -1587,7 +2205,12 @@
       "printedTotal": 122,
       "total": 122,
       "ptcgo": "SHF",
-      "Image": "https://images.pokemontcg.io/swsh45sv/logo.png",
+      "image": "https://images.pokemontcg.io/swsh45sv/logo.png",
+      "codigoLiga": "SFS",
+      "numeroLiga": "S122",
+      "codigoMyp": "SHF",
+      "numeroMyp": "122",
+      "nomePt": "Destinos Brilhantes - Shiny",
       "releaseDate": "2021/02/19"
     },
     {
@@ -1598,7 +2221,12 @@
       "printedTotal": 163,
       "total": 183,
       "ptcgo": "BST",
-      "Image": "https://images.pokemontcg.io/swsh5/logo.png",
+      "image": "https://images.pokemontcg.io/swsh5/logo.png",
+      "codigoLiga": "BST",
+      "numeroLiga": "163",
+      "codigoMyp": "BST",
+      "numeroMyp": "163",
+      "nomePt": "Estilos de Batalha",
       "releaseDate": "2021/03/19"
     },
     {
@@ -1609,7 +2237,12 @@
       "printedTotal": 198,
       "total": 233,
       "ptcgo": "CRE",
-      "Image": "https://images.pokemontcg.io/swsh6/logo.png",
+      "image": "https://images.pokemontcg.io/swsh6/logo.png",
+      "codigoLiga": "CRE",
+      "numeroLiga": "198",
+      "codigoMyp": "CRE",
+      "numeroMyp": "198",
+      "nomePt": "Reinado Arrepiante",
       "releaseDate": "2021/06/18"
     },
     {
@@ -1620,7 +2253,12 @@
       "printedTotal": 203,
       "total": 237,
       "ptcgo": "EVS",
-      "Image": "https://images.pokemontcg.io/swsh7/logo.png",
+      "image": "https://images.pokemontcg.io/swsh7/logo.png",
+      "codigoLiga": "EVS",
+      "numeroLiga": "203",
+      "codigoMyp": "EVS",
+      "numeroMyp": "203",
+      "nomePt": "Céus em Evolução",
       "releaseDate": "2021/08/27"
     },
     {
@@ -1631,7 +2269,12 @@
       "printedTotal": 25,
       "total": 25,
       "ptcgo": "CEL",
-      "Image": "https://images.pokemontcg.io/cel25/logo.png",
+      "image": "https://images.pokemontcg.io/cel25/logo.png",
+      "codigoLiga": "25TH",
+      "numeroLiga": "25",
+      "codigoMyp": "CEL",
+      "numeroMyp": "25",
+      "nomePt": "Celebrações",
       "releaseDate": "2021/10/08"
     },
     {
@@ -1642,7 +2285,12 @@
       "printedTotal": 25,
       "total": 25,
       "ptcgo": "CEL",
-      "Image": "https://images.pokemontcg.io/cel25c/logo.png",
+      "image": "https://images.pokemontcg.io/cel25c/logo.png",
+      "codigoLiga": "25TH",
+      "numeroLiga": "25",
+      "codigoMyp": "CEL",
+      "numeroMyp": "25",
+      "nomePt": "Coleção clássica de Celebrações",
       "releaseDate": "2021/10/08"
     },
     {
@@ -1653,7 +2301,12 @@
       "printedTotal": 264,
       "total": 284,
       "ptcgo": "FST",
-      "Image": "https://images.pokemontcg.io/swsh8/logo.png",
+      "image": "https://images.pokemontcg.io/swsh8/logo.png",
+      "codigoLiga": "FST",
+      "numeroLiga": "264",
+      "codigoMyp": "FST",
+      "numeroMyp": "264",
+      "nomePt": "Golpe Fusão",
       "releaseDate": "2021/11/12"
     },
     {
@@ -1664,7 +2317,12 @@
       "printedTotal": 172,
       "total": 186,
       "ptcgo": "BRS",
-      "Image": "https://images.pokemontcg.io/swsh9/logo.png",
+      "image": "https://images.pokemontcg.io/swsh9/logo.png",
+      "codigoLiga": "BRS",
+      "numeroLiga": "172",
+      "codigoMyp": "BRS",
+      "numeroMyp": "172",
+      "nomePt": "Astros Cintilantes",
       "releaseDate": "2022/02/25"
     },
     {
@@ -1675,7 +2333,12 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "BRS",
-      "Image": "https://images.pokemontcg.io/swsh9tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh9tg/logo.png",
+      "codigoLiga": "BSTG",
+      "numeroLiga": "tg30",
+      "codigoMyp": "BRS",
+      "numeroMyp": "172",
+      "nomePt": "Astros Cintilantes - Galeria de Treinador",
       "releaseDate": "2022/02/25"
     },
     {
@@ -1686,7 +2349,13 @@
       "printedTotal": 189,
       "total": 216,
       "ptcgo": "ASR",
-      "Image": "https://images.pokemontcg.io/swsh10/logo.png",
+      "image": "https://images.pokemontcg.io/swsh10/logo.png",
+      "codigoLiga": "ASR",
+      "numeroLiga": "189",
+      "codigoMyp": "ASR",
+      "numeroMyp": "189",
+      "nomePt": "Estrelas Radiantes",
+      "formatoLiga": "000",
       "releaseDate": "2022/05/27"
     },
     {
@@ -1697,7 +2366,13 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "ASR",
-      "Image": "https://images.pokemontcg.io/swsh10tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh10tg/logo.png",
+      "codigoLiga": "ARTG",
+      "numeroLiga": "tg30",
+      "codigoMyp": "ASR",
+      "numeroMyp": "189",
+      "nomePt": "Estrelas Radiantes - Galeria de Treinador",
+      "formatoLiga": "000",
       "releaseDate": "2022/05/27"
     },
     {
@@ -1708,7 +2383,13 @@
       "printedTotal": 78,
       "total": 88,
       "ptcgo": "PGO",
-      "Image": "https://images.pokemontcg.io/pgo/logo.png",
+      "image": "https://images.pokemontcg.io/pgo/logo.png",
+      "codigoLiga": "PGO",
+      "numeroLiga": "78",
+      "codigoMyp": "PGO",
+      "numeroMyp": "78",
+      "nomePt": "Pokémon Go",
+      "formatoLiga": "000",
       "releaseDate": "2022/07/01"
     },
     {
@@ -1718,7 +2399,12 @@
       "seriesId": 4,
       "printedTotal": 15,
       "total": 15,
-      "Image": "https://images.pokemontcg.io/mcd22/logo.png",
+      "image": "https://images.pokemontcg.io/mcd22/logo.png",
+      "codigoLiga": "MC22",
+      "numeroLiga": "15",
+      "codigoMyp": "mcd22",
+      "numeroMyp": "15",
+      "formatoLiga": "000",
       "releaseDate": "2022/08/03"
     },
     {
@@ -1729,7 +2415,13 @@
       "printedTotal": 196,
       "total": 217,
       "ptcgo": "LOR",
-      "Image": "https://images.pokemontcg.io/swsh11/logo.png",
+      "image": "https://images.pokemontcg.io/swsh11/logo.png",
+      "codigoLiga": "LOR",
+      "numeroLiga": "196",
+      "codigoMyp": "LOR",
+      "numeroMyp": "196",
+      "nomePt": "Origem Perdida",
+      "formatoLiga": "000",
       "releaseDate": "2022/09/09"
     },
     {
@@ -1740,7 +2432,13 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "LOR",
-      "Image": "https://images.pokemontcg.io/swsh11tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh11tg/logo.png",
+      "codigoLiga": "LORTG",
+      "numeroLiga": "tg30",
+      "codigoMyp": "LOR",
+      "numeroMyp": "196",
+      "nomePt": "Origem Perdida - Galeria de Treinador",
+      "formatoLiga": "000",
       "releaseDate": "2022/09/09"
     },
     {
@@ -1751,7 +2449,13 @@
       "printedTotal": 195,
       "total": 215,
       "ptcgo": "SIT",
-      "Image": "https://images.pokemontcg.io/swsh12/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12/logo.png",
+      "codigoLiga": "SIT",
+      "numeroLiga": "195",
+      "codigoMyp": "SIT",
+      "numeroMyp": "195",
+      "nomePt": "Tempestade Prateada",
+      "formatoLiga": "000",
       "releaseDate": "2022/11/11"
     },
     {
@@ -1762,7 +2466,13 @@
       "printedTotal": 30,
       "total": 30,
       "ptcgo": "SIT",
-      "Image": "https://images.pokemontcg.io/swsh12tg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12tg/logo.png",
+      "codigoLiga": "SITTG",
+      "numeroLiga": "tg30",
+      "codigoMyp": "SIT",
+      "numeroMyp": "30",
+      "nomePt": "Tempestade Prateada - Galeria de Treinador",
+      "formatoLiga": "000",
       "releaseDate": "2022/11/11"
     },
     {
@@ -1773,7 +2483,13 @@
       "printedTotal": 102,
       "total": 75,
       "ptcgo": "PR-SV",
-      "Image": "https://images.pokemontcg.io/svp/logo.png",
+      "image": "https://images.pokemontcg.io/svp/logo.png",
+      "codigoLiga": "CZGG",
+      "numeroLiga": "∞",
+      "codigoMyp": "PR_SV",
+      "numeroMyp": "102",
+      "nomePt": "Escarlate e Violeta Promos",
+      "formatoLiga": "000",
       "releaseDate": "2023/01/01"
     },
     {
@@ -1784,7 +2500,13 @@
       "printedTotal": 159,
       "total": 160,
       "ptcgo": "CRZ",
-      "Image": "https://images.pokemontcg.io/swsh12pt5/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5/logo.png",
+      "codigoLiga": "SVP",
+      "numeroLiga": "159",
+      "codigoMyp": "CRZ",
+      "numeroMyp": "159",
+      "nomePt": "Realeza Absoluta",
+      "formatoLiga": "000",
       "releaseDate": "2023/01/20"
     },
     {
@@ -1795,7 +2517,13 @@
       "printedTotal": 70,
       "total": 70,
       "ptcgo": "CRZ",
-      "Image": "https://images.pokemontcg.io/swsh12pt5gg/logo.png",
+      "image": "https://images.pokemontcg.io/swsh12pt5gg/logo.png",
+      "codigoLiga": "CRZE",
+      "numeroLiga": "gg70",
+      "codigoMyp": "CRZ",
+      "numeroMyp": "159",
+      "nomePt": "Realeza Absoluta - Galeria de Galar",
+      "formatoLiga": "000",
       "releaseDate": "2023/01/20"
     },
     {
@@ -1806,7 +2534,13 @@
       "printedTotal": 198,
       "total": 258,
       "ptcgo": "SVI",
-      "Image": "https://images.pokemontcg.io/sv1/logo.png",
+      "image": "https://images.pokemontcg.io/sv1/logo.png",
+      "codigoLiga": "SV1",
+      "numeroLiga": "198",
+      "codigoMyp": "SVI",
+      "numeroMyp": "198",
+      "nomePt": "Escarlate e Violeta",
+      "formatoLiga": "000",
       "releaseDate": "2023/03/31"
     },
     {
@@ -1817,7 +2551,13 @@
       "printedTotal": 8,
       "total": 8,
       "ptcgo": "SVE",
-      "Image": "https://images.pokemontcg.io/sve/logo.png",
+      "image": "https://images.pokemontcg.io/sve/logo.png",
+      "codigoLiga": "SV-BE",
+      "numeroLiga": "032",
+      "codigoMyp": "SVE",
+      "numeroMyp": "8",
+      "nomePt": "Escarlate e Violeta - Energias",
+      "formatoLiga": "000",
       "releaseDate": "2023/03/31"
     },
     {
@@ -1828,7 +2568,13 @@
       "printedTotal": 193,
       "total": 279,
       "ptcgo": "PAL",
-      "Image": "https://images.pokemontcg.io/sv2/logo.png",
+      "image": "https://images.pokemontcg.io/sv2/logo.png",
+      "codigoLiga": "PAL",
+      "numeroLiga": "193",
+      "codigoMyp": "PAL",
+      "numeroMyp": "193",
+      "nomePt": "Evoluções em Paldea",
+      "formatoLiga": "000",
       "releaseDate": "2023/06/09"
     },
     {
@@ -1839,7 +2585,13 @@
       "printedTotal": 197,
       "total": 230,
       "ptcgo": "OBF",
-      "Image": "https://images.pokemontcg.io/sv3/logo.png",
+      "image": "https://images.pokemontcg.io/sv3/logo.png",
+      "codigoLiga": "OBF",
+      "numeroLiga": "197",
+      "codigoMyp": "OBF",
+      "numeroMyp": "197",
+      "nomePt": "Obsidiana em Chamas",
+      "formatoLiga": "000",
       "releaseDate": "2023/08/11"
     },
     {
@@ -1850,7 +2602,13 @@
       "printedTotal": 165,
       "total": 207,
       "ptcgo": "MEW",
-      "Image": "https://images.pokemontcg.io/sv3pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv3pt5/logo.png",
+      "codigoLiga": "MEW",
+      "numeroLiga": "165",
+      "codigoMyp": "MEW",
+      "numeroMyp": "165",
+      "nomePt": 151,
+      "formatoLiga": "000",
       "releaseDate": "2023/09/22"
     },
     {
@@ -1861,7 +2619,13 @@
       "printedTotal": 182,
       "total": 266,
       "ptcgo": "PAR",
-      "Image": "https://images.pokemontcg.io/sv4/logo.png",
+      "image": "https://images.pokemontcg.io/sv4/logo.png",
+      "codigoLiga": "PAR",
+      "numeroLiga": "182",
+      "codigoMyp": "PAR",
+      "numeroMyp": "182",
+      "nomePt": "Fenda Paradoxal",
+      "formatoLiga": "000",
       "releaseDate": "2023/11/03"
     },
     {
@@ -1872,7 +2636,13 @@
       "printedTotal": 91,
       "total": 245,
       "ptcgo": "PAF",
-      "Image": "https://images.pokemontcg.io/sv4pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv4pt5/logo.png",
+      "codigoLiga": "PAF",
+      "numeroLiga": "091",
+      "codigoMyp": "PAF",
+      "numeroMyp": "091",
+      "nomePt": "Destinos de Paldea",
+      "formatoLiga": "000",
       "releaseDate": "2024/01/26"
     },
     {
@@ -1883,7 +2653,13 @@
       "printedTotal": 162,
       "total": 218,
       "ptcgo": "TEF",
-      "Image": "https://images.pokemontcg.io/sv5/logo.png",
+      "image": "https://images.pokemontcg.io/sv5/logo.png",
+      "codigoLiga": "TEF",
+      "numeroLiga": 162,
+      "codigoMyp": "TEF",
+      "numeroMyp": 162,
+      "nomePt": "Forças Temporais",
+      "formatoLiga": "000",
       "releaseDate": "2024/03/22"
     },
     {
@@ -1894,7 +2670,13 @@
       "printedTotal": 167,
       "total": 226,
       "ptcgo": "TWM",
-      "Image": "https://images.pokemontcg.io/sv6/logo.png",
+      "image": "https://images.pokemontcg.io/sv6/logo.png",
+      "codigoLiga": "TWM",
+      "numeroLiga": 167,
+      "codigoMyp": "TWM",
+      "numeroMyp": 167,
+      "nomePt": "Máscaras do Crepúsculo",
+      "formatoLiga": "000",
       "releaseDate": "2024/05/24"
     },
     {
@@ -1905,7 +2687,13 @@
       "printedTotal": 64,
       "total": 99,
       "ptcgo": "SFA",
-      "Image": "https://images.pokemontcg.io/sv6pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv6pt5/logo.png",
+      "codigoLiga": "SFA",
+      "numeroLiga": "064",
+      "codigoMyp": "SFA",
+      "numeroMyp": 64,
+      "nomePt": "Fábulas Nebulosas",
+      "formatoLiga": "000",
       "releaseDate": "2024/08/02"
     },
     {
@@ -1916,7 +2704,13 @@
       "printedTotal": 142,
       "total": 175,
       "ptcgo": "SCR",
-      "Image": "https://images.pokemontcg.io/sv7/logo.png",
+      "image": "https://images.pokemontcg.io/sv7/logo.png",
+      "codigoLiga": "SCR",
+      "numeroLiga": 142,
+      "codigoMyp": "SCR",
+      "numeroMyp": 142,
+      "nomePt": "Coroa Estelar",
+      "formatoLiga": "000",
       "releaseDate": "2024/09/13"
     },
     {
@@ -1927,7 +2721,13 @@
       "printedTotal": 191,
       "total": 252,
       "ptcgo": "SSP",
-      "Image": "https://images.pokemontcg.io/sv8/logo.png",
+      "image": "https://images.pokemontcg.io/sv8/logo.png",
+      "codigoLiga": "SSP",
+      "numeroLiga": 191,
+      "codigoMyp": "SSP",
+      "numeroMyp": 191,
+      "nomePt": "Fagulhas Impetuosas",
+      "formatoLiga": "000",
       "releaseDate": "2024/11/08"
     },
     {
@@ -1938,7 +2738,13 @@
       "printedTotal": 131,
       "total": 180,
       "ptcgo": "PRE",
-      "Image": "https://images.pokemontcg.io/sv8pt5/logo.png",
+      "image": "https://images.pokemontcg.io/sv8pt5/logo.png",
+      "codigoLiga": "PRE",
+      "numeroLiga": 131,
+      "codigoMyp": "PRE",
+      "numeroMyp": 131,
+      "nomePt": "Evoluções Prismáticas",
+      "formatoLiga": "000",
       "releaseDate": "2025/01/17"
     },
     {
@@ -1949,7 +2755,7 @@
       "printedTotal": 9,
       "total": 9,
       "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
-      "Image": "https://images.pokemontcg.io/sm1/logo.png",
+      "image": "https://images.pokemontcg.io/sm1/logo.png",
       "releaseDate": "2019/02/01"
     },
     {
@@ -1960,7 +2766,13 @@
       "printedTotal": 159,
       "total": 190,
       "ptcgo": "JTG",
-      "Image": "https://images.pokemontcg.io/sv9/logo.png",
+      "image": "https://images.pokemontcg.io/sv9/logo.png",
+      "codigoLiga": "JTG",
+      "numeroLiga": 159,
+      "codigoMyp": "JTG",
+      "numeroMyp": 159,
+      "nomePt": "Amigos de jornada",
+      "formatoLiga": "000",
       "releaseDate": "2025/03/28"
     }
   ]

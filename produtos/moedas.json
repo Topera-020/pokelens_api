@@ -194,7 +194,7 @@
     },
     {
       "id": 125155,
-      "name": "Celebra??es 25 anos",
+      "name": "Celebrações 25 anos",
       "tamanhoId": 3,
       "corId": 6,
       "efeitoId": 14,
@@ -202,7 +202,7 @@
     },
     {
       "id": 126209,
-      "name": "Celebra??es 25 anos",
+      "name": "Celebrações 25 anos",
       "tamanhoId": 3,
       "corId": 6,
       "efeitoId": 20,
@@ -210,7 +210,7 @@
     },
     {
       "id": 125154,
-      "name": "Celebra??es 25 anos",
+      "name": "Celebrações 25 anos",
       "tamanhoId": 3,
       "corId": 10,
       "efeitoId": 14,
@@ -1210,7 +1210,7 @@
     },
     {
       "id": 129052,
-      "name": "Luc?rio",
+      "name": "Lucário",
       "tamanhoId": 2,
       "corId": 6,
       "efeitoId": 13,
@@ -1258,7 +1258,7 @@
     },
     {
       "id": 122436,
-      "name": "Lycanroc Forma Crep?sculo",
+      "name": "Lycanroc Forma Crepúsculo",
       "tamanhoId": 1,
       "corId": 7,
       "efeitoId": 6,
@@ -1778,7 +1778,7 @@
     },
     {
       "id": 126746,
-      "name": "Pok?mo GO",
+      "name": "Pokémo GO",
       "tamanhoId": 3,
       "corId": 6,
       "efeitoId": 13,
@@ -1786,7 +1786,7 @@
     },
     {
       "id": 132277,
-      "name": "Pok?mon ex",
+      "name": "Pokémon ex",
       "tamanhoId": 3,
       "corId": 10,
       "efeitoId": 15,
@@ -1794,7 +1794,7 @@
     },
     {
       "id": 130370,
-      "name": "Pok?mon ex",
+      "name": "Pokémon ex",
       "tamanhoId": 3,
       "corId": 14,
       "efeitoId": 15,
@@ -1826,7 +1826,7 @@
     },
     {
       "id": 127271,
-      "name": "Professor Pok?mon",
+      "name": "Professor Pokémon",
       "tamanhoId": 1,
       "corId": 15,
       "efeitoId": 13,
@@ -2074,7 +2074,7 @@
     },
     {
       "id": 128113,
-      "name": "S?mbolos de Energia",
+      "name": "Símbolos de Energia",
       "tamanhoId": 2,
       "corId": 10,
       "efeitoId": 5,
@@ -2082,7 +2082,7 @@
     },
     {
       "id": 129751,
-      "name": "S?mbolos de Energia",
+      "name": "Símbolos de Energia",
       "tamanhoId": 2,
       "corId": 14,
       "efeitoId": 13,
@@ -2090,7 +2090,7 @@
     },
     {
       "id": 128112,
-      "name": "S?mbolos de Energia",
+      "name": "Símbolos de Energia",
       "tamanhoId": 2,
       "corId": 10,
       "efeitoId": 1,
@@ -2306,7 +2306,7 @@
     },
     {
       "id": 125160,
-      "name": "Urshifu Golpe Flu?do",
+      "name": "Urshifu Golpe Fluído",
       "tamanhoId": 1,
       "corId": 2,
       "efeitoId": 21,
