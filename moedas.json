@@ -1,0 +1,2548 @@
+{
+  "data": [
+    {
+      "id": 129872,
+      "name": "Absol",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710510912_791.jpg"
+    },
+    {
+      "id": 129755,
+      "name": "Aerodactyl",
+      "tamanhoId": 2,
+      "corId": 8,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709570487_5905.jpg"
+    },
+    {
+      "id": 127074,
+      "name": "Alakazam",
+      "tamanhoId": 2,
+      "corId": 13,
+      "efeitoId": 7,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675453033_6008.jpg"
+    },
+    {
+      "id": 127072,
+      "name": "Alakazam",
+      "tamanhoId": 2,
+      "corId": 13,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675452644_2727.jpg"
+    },
+    {
+      "id": 128885,
+      "name": "Alakazam",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 19,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701280407_6727.jpg"
+    },
+    {
+      "id": 126761,
+      "name": "Arceus",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672923915_3864.jpg"
+    },
+    {
+      "id": 128270,
+      "name": "Arceus",
+      "tamanhoId": 2,
+      "corId": 4,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690314388_4340.jpg"
+    },
+    {
+      "id": 128269,
+      "name": "Arceus",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690314074_3165.jpg"
+    },
+    {
+      "id": 128881,
+      "name": "Arceus",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701277095_9064.jpg"
+    },
+    {
+      "id": 125139,
+      "name": "Aura's Lucario",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761956_9855.jpg"
+    },
+    {
+      "id": 128889,
+      "name": "Baxcalibur",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281902_5584.jpg"
+    },
+    {
+      "id": 125693,
+      "name": "Black Kyurem",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002247_7337.jpg"
+    },
+    {
+      "id": 128264,
+      "name": "Black Kyurem",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690297180_7187.jpg"
+    },
+    {
+      "id": 126476,
+      "name": "Blastoise",
+      "tamanhoId": 3,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221116/1668615246_4713.jpg"
+    },
+    {
+      "id": 125152,
+      "name": "Blastoise",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764253_293.jpg"
+    },
+    {
+      "id": 125686,
+      "name": "Blastoise",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1662995550_6921.jpg"
+    },
+    {
+      "id": 126787,
+      "name": "Blastoise",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673269192_260.jpg"
+    },
+    {
+      "id": 129053,
+      "name": "Blastoise",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702926192_8772.jpg"
+    },
+    {
+      "id": 126477,
+      "name": "Blastoise",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 20,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221116/1668617368_240.jpg"
+    },
+    {
+      "id": 126478,
+      "name": "Bulbasaur",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221116/1668617834_9483.jpg"
+    },
+    {
+      "id": 127047,
+      "name": "Bulbasaur",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675358572_1825.jpg"
+    },
+    {
+      "id": 125157,
+      "name": "Calyrex",
+      "tamanhoId": 3,
+      "corId": 13,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764951_8698.jpg"
+    },
+    {
+      "id": 129136,
+      "name": "Camerupt",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703770071_9878.jpg"
+    },
+    {
+      "id": 128267,
+      "name": "Celebi",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690311206_3434.jpg"
+    },
+    {
+      "id": 125155,
+      "name": "Celebrações 25 anos",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764689_2805.jpg"
+    },
+    {
+      "id": 126209,
+      "name": "Celebrações 25 anos",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 20,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221014/1665759331_9704.jpg"
+    },
+    {
+      "id": 125154,
+      "name": "Celebrações 25 anos",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764649_815.jpg"
+    },
+    {
+      "id": 132213,
+      "name": "Cetoddle",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241011/1728647834_2861.jpg"
+    },
+    {
+      "id": 128093,
+      "name": "Chansey (Wizards 2000)",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688474188_3301.jpg"
+    },
+    {
+      "id": 126751,
+      "name": "Charizard",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 22,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672755338_5115.jpg"
+    },
+    {
+      "id": 126981,
+      "name": "Charizard",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674855228_5045.jpg"
+    },
+    {
+      "id": 126744,
+      "name": "Charizard",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754525_9583.jpg"
+    },
+    {
+      "id": 125123,
+      "name": "Charizard",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660755318_9302.jpg"
+    },
+    {
+      "id": 127060,
+      "name": "Charizard",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675443777_5388.jpg"
+    },
+    {
+      "id": 125687,
+      "name": "Charizard",
+      "tamanhoId": 2,
+      "corId": 7,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000619_1964.jpg"
+    },
+    {
+      "id": 128525,
+      "name": "Charizard",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230913/1694622615_6305.jpg"
+    },
+    {
+      "id": 128109,
+      "name": "Charizard VMAX",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 25,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688494144_62.jpg"
+    },
+    {
+      "id": 130167,
+      "name": "Charizard VMAX",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714138309_5106.jpg"
+    },
+    {
+      "id": 127292,
+      "name": "Charizard VMAX",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 16,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677672809_2606.jpg"
+    },
+    {
+      "id": 127273,
+      "name": "Charmander",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677590313_4107.jpg"
+    },
+    {
+      "id": 125130,
+      "name": "Chespin",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660758916_1341.jpg"
+    },
+    {
+      "id": 129758,
+      "name": "Chespin",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709572195_6703.jpg"
+    },
+    {
+      "id": 129757,
+      "name": "Chespin",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709571817_3380.jpg"
+    },
+    {
+      "id": 132278,
+      "name": "Chien-Pao",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 21,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241017/1729172082_239.jpg"
+    },
+    {
+      "id": 127048,
+      "name": "Chikorita",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675359560_5777.jpg"
+    },
+    {
+      "id": 128875,
+      "name": "Chimchar",
+      "tamanhoId": 2,
+      "corId": 7,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701274882_8448.jpg"
+    },
+    {
+      "id": 129786,
+      "name": "Corviknight",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709733967_4684.jpg"
+    },
+    {
+      "id": 129744,
+      "name": "Cranidos",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709558962_7826.jpg"
+    },
+    {
+      "id": 130165,
+      "name": "Cranidos",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714134955_584.jpg"
+    },
+    {
+      "id": 125153,
+      "name": "Crobat VMAX",
+      "tamanhoId": 3,
+      "corId": 12,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764364_467.jpg"
+    },
+    {
+      "id": 127006,
+      "name": "Cyndaquil",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675108163_5364.jpg"
+    },
+    {
+      "id": 129741,
+      "name": "Cyndaquil",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709556135_1514.jpg"
+    },
+    {
+      "id": 127774,
+      "name": "Cyrus",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230502/1683033115_7506.jpg"
+    },
+    {
+      "id": 126763,
+      "name": "Darkrai",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672926496_2873.jpg"
+    },
+    {
+      "id": 127005,
+      "name": "Darkrai",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675107965_9848.jpg"
+    },
+    {
+      "id": 122435,
+      "name": "Darmanitan de Galar",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649166340_9001.jpg"
+    },
+    {
+      "id": 128318,
+      "name": "Deoxys",
+      "tamanhoId": 3,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691086963_7446.jpg"
+    },
+    {
+      "id": 125688,
+      "name": "Deoxys",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000712_9044.jpg"
+    },
+    {
+      "id": 127286,
+      "name": "Deoxys",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677613660_2591.jpg"
+    },
+    {
+      "id": 128277,
+      "name": "Deoxys",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230726/1690393175_2618.jpg"
+    },
+    {
+      "id": 129050,
+      "name": "Deoxys",
+      "tamanhoId": 2,
+      "corId": 13,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702911561_3594.jpg"
+    },
+    {
+      "id": 125126,
+      "name": "Detetive Pikachu",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 22,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660757004_4106.jpg"
+    },
+    {
+      "id": 128879,
+      "name": "Dialga",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701276997_1245.jpg"
+    },
+    {
+      "id": 129753,
+      "name": "Dialga",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709564146_286.jpg"
+    },
+    {
+      "id": 125150,
+      "name": "Dialga",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763890_7783.jpg"
+    },
+    {
+      "id": 126762,
+      "name": "Dialga Forma Origem",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672924288_8143.jpg"
+    },
+    {
+      "id": 128882,
+      "name": "Ditto",
+      "tamanhoId": 2,
+      "corId": 13,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701279727_9381.jpg"
+    },
+    {
+      "id": 125176,
+      "name": "Dragapult VMAX",
+      "tamanhoId": 3,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765702_7118.jpg"
+    },
+    {
+      "id": 127054,
+      "name": "Dragonite",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 4,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675365945_1637.jpg"
+    },
+    {
+      "id": 125133,
+      "name": "Dragonite",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660760724_1569.jpg"
+    },
+    {
+      "id": 128886,
+      "name": "Dragonite",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 18,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281788_6240.jpg"
+    },
+    {
+      "id": 127282,
+      "name": "Drednaw",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677608616_6117.jpg"
+    },
+    {
+      "id": 126212,
+      "name": "Drednaw",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221014/1665768517_5832.jpg"
+    },
+    {
+      "id": 126747,
+      "name": "Eevee",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754884_9764.jpg"
+    },
+    {
+      "id": 129784,
+      "name": "Eevee",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709730830_6254.jpg"
+    },
+    {
+      "id": 127296,
+      "name": "Eevee",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677678116_625.jpg"
+    },
+    {
+      "id": 127305,
+      "name": "Eevee",
+      "tamanhoId": 2,
+      "corId": 1,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677692317_8680.jpg"
+    },
+    {
+      "id": 129059,
+      "name": "Eevee",
+      "tamanhoId": 2,
+      "corId": 5,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702928828_9405.jpg"
+    },
+    {
+      "id": 128872,
+      "name": "Eevee",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701269260_1268.jpg"
+    },
+    {
+      "id": 127033,
+      "name": "Eevee",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675277261_7567.jpg"
+    },
+    {
+      "id": 129756,
+      "name": "Electivire e Magmortar",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709570893_1153.jpg"
+    },
+    {
+      "id": 127270,
+      "name": "Emblema Equipe Magma",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677589008_439.jpg"
+    },
+    {
+      "id": 125138,
+      "name": "Empoleon",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761569_5218.jpg"
+    },
+    {
+      "id": 127300,
+      "name": "Entei",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677683177_9396.jpg"
+    },
+    {
+      "id": 129782,
+      "name": "Entei",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709725758_1088.jpg"
+    },
+    {
+      "id": 126788,
+      "name": "Equipe Aqua",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673270394_2436.jpg"
+    },
+    {
+      "id": 127290,
+      "name": "Escavalier e Accelgor",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 16,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677671674_3822.jpg"
+    },
+    {
+      "id": 128320,
+      "name": "Exeggutor de Alola",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691087674_6846.jpg"
+    },
+    {
+      "id": 125134,
+      "name": "Fennekin",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660760990_7395.jpg"
+    },
+    {
+      "id": 129787,
+      "name": "Fennekin",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709734465_2923.jpg"
+    },
+    {
+      "id": 127285,
+      "name": "Fennekin",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677613273_7618.jpg"
+    },
+    {
+      "id": 128887,
+      "name": "Fidough",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281820_5477.jpg"
+    },
+    {
+      "id": 125177,
+      "name": "Flareon, Vaporeon e Jolteon",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 4,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765758_2438.jpg"
+    },
+    {
+      "id": 129748,
+      "name": "Flygon",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709561058_6273.jpg"
+    },
+    {
+      "id": 127283,
+      "name": "Froakie",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677609639_2465.jpg"
+    },
+    {
+      "id": 125689,
+      "name": "Froakie",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000757_6077.jpg"
+    },
+    {
+      "id": 129083,
+      "name": "Fuecoco",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703095819_2520.jpg"
+    },
+    {
+      "id": 130164,
+      "name": "Fuecoco",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714134156_2853.jpg"
+    },
+    {
+      "id": 129054,
+      "name": "Fuecoco",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702926754_6128.jpg"
+    },
+    {
+      "id": 125125,
+      "name": "Garchomp",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660756828_1540.jpg"
+    },
+    {
+      "id": 127066,
+      "name": "Garchomp e Charizard",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675447628_329.jpg"
+    },
+    {
+      "id": 129870,
+      "name": "Gardevoir",
+      "tamanhoId": 3,
+      "corId": 13,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710509641_9033.jpg"
+    },
+    {
+      "id": 125215,
+      "name": "Genesect",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220823/1661266496_877.jpg"
+    },
+    {
+      "id": 127287,
+      "name": "Genesect",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677614530_6503.jpg"
+    },
+    {
+      "id": 127075,
+      "name": "Genesect",
+      "tamanhoId": 1,
+      "corId": 13,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675453375_5545.jpg"
+    },
+    {
+      "id": 129873,
+      "name": "Genesect",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710511309_2181.jpg"
+    },
+    {
+      "id": 128890,
+      "name": "Greedent",
+      "tamanhoId": 2,
+      "corId": 8,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281972_7777.jpg"
+    },
+    {
+      "id": 122442,
+      "name": "Grookey",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649170299_1300.jpg"
+    },
+    {
+      "id": 126749,
+      "name": "Grookey",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754972_4780.jpg"
+    },
+    {
+      "id": 127086,
+      "name": "Groudon",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1677695541_4195.jpg"
+    },
+    {
+      "id": 126754,
+      "name": "Groudon",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672772924_9400.jpg"
+    },
+    {
+      "id": 125698,
+      "name": "Groudon",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663003009_4143.jpg"
+    },
+    {
+      "id": 126986,
+      "name": "Groudon Primitivo",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674859679_5137.jpg"
+    },
+    {
+      "id": 126755,
+      "name": "Gyarados",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672772980_4509.jpg"
+    },
+    {
+      "id": 122482,
+      "name": "Gyarados",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220406/1649247881_3971.jpg"
+    },
+    {
+      "id": 126982,
+      "name": "Ho-oh",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674857593_9798.jpg"
+    },
+    {
+      "id": 125695,
+      "name": "Ho-oh",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002323_3495.jpg"
+    },
+    {
+      "id": 127008,
+      "name": "Hoopa",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675109086_7233.jpg"
+    },
+    {
+      "id": 128268,
+      "name": "Hoopa",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690311756_4702.jpg"
+    },
+    {
+      "id": 122432,
+      "name": "Hoopa",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649163928_3804.jpg"
+    },
+    {
+      "id": 125144,
+      "name": "Hydreigon",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660762918_5002.jpg"
+    },
+    {
+      "id": 127277,
+      "name": "Infernape e Gallade",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677597941_2038.jpg"
+    },
+    {
+      "id": 127302,
+      "name": "Iniciais de Galar",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677688840_4651.jpg"
+    },
+    {
+      "id": 125149,
+      "name": "Iniciais de Galar",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763708_2459.jpg"
+    },
+    {
+      "id": 127295,
+      "name": "Iniciais de Hoenn",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677677646_6638.jpg"
+    },
+    {
+      "id": 129790,
+      "name": "Iniciais de Kalos",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709736072_4553.jpg"
+    },
+    {
+      "id": 129791,
+      "name": "Iniciais de Kalos",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 20,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709736417_9508.jpg"
+    },
+    {
+      "id": 129746,
+      "name": "Iniciais de Unova",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709559766_335.jpg"
+    },
+    {
+      "id": 128278,
+      "name": "Iniciais de Unova",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230726/1690394599_1442.jpg"
+    },
+    {
+      "id": 127278,
+      "name": "Iniciais de Unova",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677604290_6716.jpg"
+    },
+    {
+      "id": 127275,
+      "name": "Iniciais de Unova",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677596220_1988.jpg"
+    },
+    {
+      "id": 129745,
+      "name": "Iniciais de Unova",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709559466_8103.jpg"
+    },
+    {
+      "id": 127051,
+      "name": "Iniciais de Unova",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675362779_4338.jpg"
+    },
+    {
+      "id": 129740,
+      "name": "Jirachi",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709554881_725.jpg"
+    },
+    {
+      "id": 127303,
+      "name": "Jirachi e Shaymin",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 4,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677690223_6594.jpg"
+    },
+    {
+      "id": 127773,
+      "name": "Klara",
+      "tamanhoId": 3,
+      "corId": 12,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230502/1683032962_5660.jpg"
+    },
+    {
+      "id": 126759,
+      "name": "Kleavor",
+      "tamanhoId": 3,
+      "corId": 3,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230104/1672861739_6157.jpg"
+    },
+    {
+      "id": 122437,
+      "name": "Kommo-o",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649168622_5811.jpg"
+    },
+    {
+      "id": 125142,
+      "name": "Kommo-o",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660762673_678.jpg"
+    },
+    {
+      "id": 126786,
+      "name": "Kyogre",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673267676_2461.jpg"
+    },
+    {
+      "id": 126789,
+      "name": "Kyogre",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673270632_4899.jpg"
+    },
+    {
+      "id": 125694,
+      "name": "Kyogre",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002292_1935.jpg"
+    },
+    {
+      "id": 126790,
+      "name": "Kyogre Primitivo",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673271704_3806.jpg"
+    },
+    {
+      "id": 126985,
+      "name": "Kyogre Primitivo",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674859476_744.jpg"
+    },
+    {
+      "id": 127274,
+      "name": "Kyurem Branco",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677595688_6616.jpg"
+    },
+    {
+      "id": 127087,
+      "name": "Kyurem Branco",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675711310_5540.jpg"
+    },
+    {
+      "id": 125148,
+      "name": "Litten",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763637_7406.jpg"
+    },
+    {
+      "id": 126427,
+      "name": "Lucario",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221108/1667936602_9461.jpg"
+    },
+    {
+      "id": 126764,
+      "name": "Lucario",
+      "tamanhoId": 3,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230105/1672928129_1353.jpg"
+    },
+    {
+      "id": 128497,
+      "name": "Lucario",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230911/1694440502_7322.jpg"
+    },
+    {
+      "id": 128110,
+      "name": "Lucario",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 25,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688495961_1509.jpg"
+    },
+    {
+      "id": 129052,
+      "name": "Lucário",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702921943_9809.jpg"
+    },
+    {
+      "id": 127284,
+      "name": "Lugia",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677612310_9787.jpg"
+    },
+    {
+      "id": 129789,
+      "name": "Lugia",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 25,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709735163_6938.jpg"
+    },
+    {
+      "id": 125128,
+      "name": "Lugia",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660757947_9606.jpg"
+    },
+    {
+      "id": 125147,
+      "name": "Lunala",
+      "tamanhoId": 1,
+      "corId": 13,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763151_6123.jpg"
+    },
+    {
+      "id": 125146,
+      "name": "Lycanroc (Dusk Form)",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660763066_8575.jpg"
+    },
+    {
+      "id": 122436,
+      "name": "Lycanroc Forma Crepúsculo",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 6,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649167167_7175.jpg"
+    },
+    {
+      "id": 126757,
+      "name": "Manaphy",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672775671_7059.jpg"
+    },
+    {
+      "id": 125137,
+      "name": "Manaphy",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761411_163.jpg"
+    },
+    {
+      "id": 125119,
+      "name": "Marnie",
+      "tamanhoId": 3,
+      "corId": 12,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1703780951_8647.jpg"
+    },
+    {
+      "id": 127280,
+      "name": "Mega Beedrill",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677607690_1930.jpg"
+    },
+    {
+      "id": 125145,
+      "name": "Mega Blaziken",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660762987_7685.jpg"
+    },
+    {
+      "id": 127065,
+      "name": "Mega Charizard Y",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675445385_2560.jpg"
+    },
+    {
+      "id": 127301,
+      "name": "Mega Charizard Y",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677688355_212.jpg"
+    },
+    {
+      "id": 127031,
+      "name": "Mega Charizard Y",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675273023_2283.jpg"
+    },
+    {
+      "id": 128114,
+      "name": "Mega Gengar",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688499257_9920.jpg"
+    },
+    {
+      "id": 127084,
+      "name": "Mega Gengar",
+      "tamanhoId": 1,
+      "corId": 13,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675709918_1267.jpg"
+    },
+    {
+      "id": 127085,
+      "name": "Mega Gyarados",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675710800_4743.jpg"
+    },
+    {
+      "id": 125696,
+      "name": "Mega Gyarados Brilhante",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002544_766.jpg"
+    },
+    {
+      "id": 126791,
+      "name": "Mega Lucario",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673272670_7605.jpg"
+    },
+    {
+      "id": 127276,
+      "name": "Mega Lucario",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677597298_982.jpg"
+    },
+    {
+      "id": 127281,
+      "name": "Mega Mawile",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677607881_4800.jpg"
+    },
+    {
+      "id": 126796,
+      "name": "Mega Mewtwo X",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673276253_7169.jpg"
+    },
+    {
+      "id": 129081,
+      "name": "Mega Rayquaza",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703094180_7912.jpg"
+    },
+    {
+      "id": 127032,
+      "name": "Mega Rayquaza",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675276794_2823.jpg"
+    },
+    {
+      "id": 128317,
+      "name": "Mega Sharpedo",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691074616_6042.jpg"
+    },
+    {
+      "id": 125699,
+      "name": "Mega Swampert",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1710511491_4227.jpg"
+    },
+    {
+      "id": 129082,
+      "name": "Melmetal",
+      "tamanhoId": 3,
+      "corId": 5,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703095377_3270.jpg"
+    },
+    {
+      "id": 128891,
+      "name": "Meltan",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701282012_6946.jpg"
+    },
+    {
+      "id": 128096,
+      "name": "Meowth (Wizards 2000)",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 7,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688480930_6327.jpg"
+    },
+    {
+      "id": 128097,
+      "name": "Meowth (Wizards 2000)",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688480948_1953.jpg"
+    },
+    {
+      "id": 125131,
+      "name": "Metagross",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660759697_7290.jpg"
+    },
+    {
+      "id": 125151,
+      "name": "Mew",
+      "tamanhoId": 3,
+      "corId": 12,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764146_44.jpg"
+    },
+    {
+      "id": 129803,
+      "name": "Mew",
+      "tamanhoId": 3,
+      "corId": 12,
+      "efeitoId": 16,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240307/1709821102_7213.jpg"
+    },
+    {
+      "id": 127071,
+      "name": "Mew",
+      "tamanhoId": 1,
+      "corId": 12,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675451368_3306.jpg"
+    },
+    {
+      "id": 127068,
+      "name": "Mew",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675448079_5350.jpg"
+    },
+    {
+      "id": 129129,
+      "name": "Mewtwo",
+      "tamanhoId": 3,
+      "corId": 13,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703766000_8754.jpg"
+    },
+    {
+      "id": 127082,
+      "name": "Mewtwo",
+      "tamanhoId": 1,
+      "corId": 13,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675708332_3175.jpg"
+    },
+    {
+      "id": 129166,
+      "name": "Mewtwo",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 25,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240104/1704369668_1256.jpg"
+    },
+    {
+      "id": 127083,
+      "name": "Mewtwo",
+      "tamanhoId": 1,
+      "corId": 13,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230206/1675709127_8083.jpg"
+    },
+    {
+      "id": 125118,
+      "name": "Mewtwo",
+      "tamanhoId": 1,
+      "corId": 13,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660753549_6919.jpg"
+    },
+    {
+      "id": 129871,
+      "name": "Mewtwo Y",
+      "tamanhoId": 1,
+      "corId": 12,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710510108_6769.jpg"
+    },
+    {
+      "id": 128873,
+      "name": "Morpeko",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701269564_3897.jpg"
+    },
+    {
+      "id": 129750,
+      "name": "Munchlax",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709561645_6422.jpg"
+    },
+    {
+      "id": 128640,
+      "name": "Mundial 2022",
+      "tamanhoId": 3,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230928/1695931452_5668.jpg"
+    },
+    {
+      "id": 129743,
+      "name": "Munna (fundo vinho)",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709558196_6849.jpg"
+    },
+    {
+      "id": 127035,
+      "name": "Necrozma",
+      "tamanhoId": 1,
+      "corId": 5,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675278530_2581.jpg"
+    },
+    {
+      "id": 132042,
+      "name": "Ninetales",
+      "tamanhoId": 3,
+      "corId": 15,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240930/1727704654_2702.jpg"
+    },
+    {
+      "id": 122434,
+      "name": "Ninetales de Alola",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649166216_5637.jpg"
+    },
+    {
+      "id": 125692,
+      "name": "Ninetales de Alola",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1677675206_8759.jpg"
+    },
+    {
+      "id": 127289,
+      "name": "Palkia",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677614953_5288.jpg"
+    },
+    {
+      "id": 128111,
+      "name": "Palkia",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688496474_797.jpg"
+    },
+    {
+      "id": 128880,
+      "name": "Palkia",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701277053_9363.jpg"
+    },
+    {
+      "id": 126760,
+      "name": "Palkia Forma Origem",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230104/1672862792_5117.jpg"
+    },
+    {
+      "id": 128271,
+      "name": "Pheromosa",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690314980_8727.jpg"
+    },
+    {
+      "id": 126745,
+      "name": "Pikachu",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754629_2924.jpg"
+    },
+    {
+      "id": 125156,
+      "name": "Pikachu",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660764887_8669.jpg"
+    },
+    {
+      "id": 127293,
+      "name": "Pikachu",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 22,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677673488_7244.jpg"
+    },
+    {
+      "id": 128567,
+      "name": "Pikachu",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230920/1695220455_8481.jpg"
+    },
+    {
+      "id": 128319,
+      "name": "Pikachu",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 25,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691087397_3936.jpg"
+    },
+    {
+      "id": 129057,
+      "name": "Pikachu",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702927827_4202.jpg"
+    },
+    {
+      "id": 129058,
+      "name": "Pikachu",
+      "tamanhoId": 2,
+      "corId": 9,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702928379_9998.jpg"
+    },
+    {
+      "id": 127294,
+      "name": "Pikachu",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 22,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677673677_2820.jpg"
+    },
+    {
+      "id": 128094,
+      "name": "Pikachu (Wizards 2000)",
+      "tamanhoId": 2,
+      "corId": 1,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688478895_4247.jpg"
+    },
+    {
+      "id": 128095,
+      "name": "Pikachu (Wizards 2000)",
+      "tamanhoId": 2,
+      "corId": 1,
+      "efeitoId": 7,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688479016_3408.jpg"
+    },
+    {
+      "id": 125213,
+      "name": "Pikachu Acenando",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 20,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220823/1661266074_7174.jpg"
+    },
+    {
+      "id": 127007,
+      "name": "Pikachu Acenando",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675108923_5873.jpg"
+    },
+    {
+      "id": 129869,
+      "name": "Pikachu Acenando",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 22,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240315/1710508901_5449.jpg"
+    },
+    {
+      "id": 130069,
+      "name": "Pikachu e Bulbasauro",
+      "tamanhoId": 3,
+      "corId": 3,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240404/1712236873_7124.jpg"
+    },
+    {
+      "id": 127003,
+      "name": "Pikachu World Challenge",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675106674_217.jpg"
+    },
+    {
+      "id": 128876,
+      "name": "Piplup",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701275451_1940.jpg"
+    },
+    {
+      "id": 126746,
+      "name": "Pokémo GO",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754747_2014.jpg"
+    },
+    {
+      "id": 132277,
+      "name": "Pokémon ex",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241017/1729171162_5855.jpg"
+    },
+    {
+      "id": 130370,
+      "name": "Pokémon ex",
+      "tamanhoId": 3,
+      "corId": 14,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240513/1715621618_3753.jpg"
+    },
+    {
+      "id": 126213,
+      "name": "Popplio",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20221014/1665768619_2080.jpg"
+    },
+    {
+      "id": 125691,
+      "name": "Popplio",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663001020_8118.jpg"
+    },
+    {
+      "id": 125697,
+      "name": "Primal Groudon",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663002917_317.jpg"
+    },
+    {
+      "id": 127271,
+      "name": "Professor Pokémon",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677589384_3157.jpg"
+    },
+    {
+      "id": 126752,
+      "name": "Professora Juniper",
+      "tamanhoId": 3,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672755679_1465.jpg"
+    },
+    {
+      "id": 128883,
+      "name": "Psyduck",
+      "tamanhoId": 2,
+      "corId": 1,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701279808_8935.jpg"
+    },
+    {
+      "id": 132452,
+      "name": "Quaquaval",
+      "tamanhoId": 3,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241112/1731434320_499.jpg"
+    },
+    {
+      "id": 129055,
+      "name": "Quaxly",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702927200_7252.jpg"
+    },
+    {
+      "id": 129167,
+      "name": "Quaxly",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240104/1704370360_8346.jpg"
+    },
+    {
+      "id": 129785,
+      "name": "Quaxly",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709733477_9307.jpg"
+    },
+    {
+      "id": 126983,
+      "name": "Raichu",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674857971_1293.jpg"
+    },
+    {
+      "id": 127297,
+      "name": "Raichu",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677678705_6676.jpg"
+    },
+    {
+      "id": 125127,
+      "name": "Raichu",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 22,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660757878_476.jpg"
+    },
+    {
+      "id": 126987,
+      "name": "Raichu de Alola",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674860104_872.jpg"
+    },
+    {
+      "id": 125121,
+      "name": "Raikou",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 4,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1661266751_1506.jpg"
+    },
+    {
+      "id": 128498,
+      "name": "Raikou",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230911/1694442241_5136.jpg"
+    },
+    {
+      "id": 126803,
+      "name": "Rayquaza",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673284135_1844.jpg"
+    },
+    {
+      "id": 127037,
+      "name": "Rayquaza",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675279012_7049.jpg"
+    },
+    {
+      "id": 127050,
+      "name": "Rayquaza",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 20,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675361208_4416.jpg"
+    },
+    {
+      "id": 127291,
+      "name": "Rayquaza",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 16,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677672346_1942.jpg"
+    },
+    {
+      "id": 126802,
+      "name": "Rayquaza",
+      "tamanhoId": 3,
+      "corId": 14,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673283032_6857.jpg"
+    },
+    {
+      "id": 128524,
+      "name": "Rayquaza",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230913/1694615789_282.jpg"
+    },
+    {
+      "id": 128878,
+      "name": "Rayquaza",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701276435_1485.jpg"
+    },
+    {
+      "id": 130546,
+      "name": "Reshiram e Zekrom",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240527/1716820722_2373.jpg"
+    },
+    {
+      "id": 128103,
+      "name": "Reshiram e Zekrom",
+      "tamanhoId": 2,
+      "corId": 11,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688491191_7074.jpg"
+    },
+    {
+      "id": 128101,
+      "name": "Reshiram e Zekrom (fundo branco)",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688491062_5063.jpg"
+    },
+    {
+      "id": 122433,
+      "name": "Rowlet",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649164364_2033.jpg"
+    },
+    {
+      "id": 127049,
+      "name": "Sceptile",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675360225_8255.jpg"
+    },
+    {
+      "id": 127061,
+      "name": "Scorbunny",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675443874_2214.jpg"
+    },
+    {
+      "id": 129084,
+      "name": "Scorbunny",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231220/1703096233_5373.jpg"
+    },
+    {
+      "id": 126804,
+      "name": "Shaymin",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673285369_4937.jpg"
+    },
+    {
+      "id": 125140,
+      "name": "Shaymin",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1673286587_5532.jpg"
+    },
+    {
+      "id": 129742,
+      "name": "Shaymin",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709557708_7553.jpg"
+    },
+    {
+      "id": 125214,
+      "name": "Shaymin",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220823/1673285228_5498.jpg"
+    },
+    {
+      "id": 128113,
+      "name": "Símbolos de Energia",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688499011_8215.jpg"
+    },
+    {
+      "id": 129751,
+      "name": "Símbolos de Energia",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709562080_8349.jpg"
+    },
+    {
+      "id": 128112,
+      "name": "Símbolos de Energia",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230704/1688498507_3705.jpg"
+    },
+    {
+      "id": 129130,
+      "name": "Sirfetch'd",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 4,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703766517_7519.jpg"
+    },
+    {
+      "id": 122439,
+      "name": "Sirfetch'd de Galar",
+      "tamanhoId": 1,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649170007_646.jpg"
+    },
+    {
+      "id": 128884,
+      "name": "Slowpoke",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701279853_6494.jpg"
+    },
+    {
+      "id": 128316,
+      "name": "Sobble",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230803/1691068109_9510.jpg"
+    },
+    {
+      "id": 128272,
+      "name": "Solgaleo",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690315319_1286.jpg"
+    },
+    {
+      "id": 129056,
+      "name": "Sprigatito",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 17,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702927410_7240.jpg"
+    },
+    {
+      "id": 127004,
+      "name": "Squirtle",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230130/1675107274_9593.jpg"
+    },
+    {
+      "id": 130070,
+      "name": "Squirtle e Charmander",
+      "tamanhoId": 3,
+      "corId": 3,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240404/1712236674_7725.jpg"
+    },
+    {
+      "id": 128265,
+      "name": "Starmie (Wizards 2000)",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690303540_4750.jpg"
+    },
+    {
+      "id": 129754,
+      "name": "Steelix",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709564554_9836.jpg"
+    },
+    {
+      "id": 125120,
+      "name": "Suicune",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660754096_7744.jpg"
+    },
+    {
+      "id": 126753,
+      "name": "Suicune",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672772658_5426.jpg"
+    },
+    {
+      "id": 129134,
+      "name": "Suicune",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703772329_5470.jpg"
+    },
+    {
+      "id": 126792,
+      "name": "Swampert",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230109/1673274309_5528.jpg"
+    },
+    {
+      "id": 128877,
+      "name": "Sylveon",
+      "tamanhoId": 2,
+      "corId": 12,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701275961_3545.jpg"
+    },
+    {
+      "id": 125178,
+      "name": "Sylveon, Espeon, Glaceon e Vaporeon",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765869_1525.jpg"
+    },
+    {
+      "id": 128888,
+      "name": "Tandemaus",
+      "tamanhoId": 2,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701281868_9552.jpg"
+    },
+    {
+      "id": 127062,
+      "name": "Torchic",
+      "tamanhoId": 2,
+      "corId": 7,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675444004_471.jpg"
+    },
+    {
+      "id": 127304,
+      "name": "Totodile",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 21,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677691248_7661.jpg"
+    },
+    {
+      "id": 128266,
+      "name": "Treecko",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690304495_6997.jpg"
+    },
+    {
+      "id": 128874,
+      "name": "Turtwig",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231129/1701269653_7310.jpg"
+    },
+    {
+      "id": 128496,
+      "name": "Tyranitar",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230911/1694439049_9663.jpg"
+    },
+    {
+      "id": 129749,
+      "name": "Tyranitar",
+      "tamanhoId": 2,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709561393_9832.jpg"
+    },
+    {
+      "id": 126984,
+      "name": "Ultra Necrozma",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230127/1674858623_2368.jpg"
+    },
+    {
+      "id": 127034,
+      "name": "Umbreon",
+      "tamanhoId": 1,
+      "corId": 5,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230201/1675277452_2918.jpg"
+    },
+    {
+      "id": 125159,
+      "name": "Urshifu Golpe Decisivo",
+      "tamanhoId": 3,
+      "corId": 15,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765128_3166.jpg"
+    },
+    {
+      "id": 125160,
+      "name": "Urshifu Golpe Fluído",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 21,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765224_8027.jpg"
+    },
+    {
+      "id": 125158,
+      "name": "Venusaur",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660765014_2276.jpg"
+    },
+    {
+      "id": 126750,
+      "name": "Venusaur",
+      "tamanhoId": 3,
+      "corId": 14,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672755245_1860.jpg"
+    },
+    {
+      "id": 125124,
+      "name": "Victini",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 15,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660756356_3976.jpg"
+    },
+    {
+      "id": 130166,
+      "name": "Victini",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714136631_5756.jpg"
+    },
+    {
+      "id": 129752,
+      "name": "Vileplume",
+      "tamanhoId": 2,
+      "corId": 14,
+      "efeitoId": 14,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240304/1709563148_6544.jpg"
+    },
+    {
+      "id": 127063,
+      "name": "Volcanion",
+      "tamanhoId": 1,
+      "corId": 7,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230203/1675444537_8371.jpg"
+    },
+    {
+      "id": 125136,
+      "name": "Volcanion",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660761226_7399.jpg"
+    },
+    {
+      "id": 129168,
+      "name": "Vulpix de Alola",
+      "tamanhoId": 3,
+      "corId": 2,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240104/1704371017_671.jpg"
+    },
+    {
+      "id": 128263,
+      "name": "Xerneas",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230725/1690296689_6509.jpg"
+    },
+    {
+      "id": 129788,
+      "name": "Xerneas",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 5,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709734776_2163.jpg"
+    },
+    {
+      "id": 129135,
+      "name": "Xerneas",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703768925_5884.jpg"
+    },
+    {
+      "id": 129783,
+      "name": "Xerneas",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240306/1709729691_2144.jpg"
+    },
+    {
+      "id": 129137,
+      "name": "Xerneas",
+      "tamanhoId": 1,
+      "corId": 2,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231228/1703772045_5825.jpg"
+    },
+    {
+      "id": 127288,
+      "name": "Yveltal",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677614756_6434.jpg"
+    },
+    {
+      "id": 125690,
+      "name": "Yveltal",
+      "tamanhoId": 1,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220912/1663000865_7250.jpg"
+    },
+    {
+      "id": 122441,
+      "name": "Zacian",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649170139_298.jpg"
+    },
+    {
+      "id": 122438,
+      "name": "Zamazenta",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220405/1649168954_8095.jpg"
+    },
+    {
+      "id": 132354,
+      "name": "Zapdos",
+      "tamanhoId": 3,
+      "corId": 1,
+      "efeitoId": 23,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20241031/1730380986_9182.jpg"
+    },
+    {
+      "id": 126756,
+      "name": "Zekrom e Reshiram",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672773043_2853.jpg"
+    },
+    {
+      "id": 128584,
+      "name": "Zeraora",
+      "tamanhoId": 3,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230921/1695317245_2205.jpg"
+    },
+    {
+      "id": 126748,
+      "name": "Zeraora",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230103/1672754933_1733.jpg"
+    },
+    {
+      "id": 125129,
+      "name": "Zeraora",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20220817/1660758696_6028.jpg"
+    },
+    {
+      "id": 127052,
+      "name": "Zeraora",
+      "tamanhoId": 1,
+      "corId": 6,
+      "efeitoId": 4,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230202/1675365379_2133.jpg"
+    },
+    {
+      "id": 129049,
+      "name": "Zeraora",
+      "tamanhoId": 2,
+      "corId": 6,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20231218/1702911292_8266.jpg"
+    },
+    {
+      "id": 127298,
+      "name": "Zoroark",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677681084_751.jpg"
+    },
+    {
+      "id": 127299,
+      "name": "Zoroark",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 1,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230301/1677681885_1434.jpg"
+    },
+    {
+      "id": 127272,
+      "name": "Zoroark",
+      "tamanhoId": 2,
+      "corId": 15,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677589664_6426.jpg"
+    },
+    {
+      "id": 130168,
+      "name": "Zoroark de Hisui",
+      "tamanhoId": 3,
+      "corId": 10,
+      "efeitoId": 13,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20240426/1714138982_4256.jpg"
+    },
+    {
+      "id": 127279,
+      "name": "Zygarde",
+      "tamanhoId": 1,
+      "corId": 10,
+      "efeitoId": 8,
+      "image": "https://repositorio.sbrauble.com/arquivos/up/prod/20230228/1677606382_1407.jpg"
+    }
+  ]
+}
