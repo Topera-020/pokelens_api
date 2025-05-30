@@ -4621,7 +4621,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/201.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-a.png"
     },
     {
       "id": 202,
@@ -9474,7 +9474,7 @@
       "isGender": 0,
       "typesId": "7",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/412.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412-plant.png"
     },
     {
       "id": 413,
@@ -9497,7 +9497,7 @@
       "isGender": 0,
       "typesId": "7, 12",
       "evolvesFrom": 412,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413-plant.png"
     },
     {
       "id": 414,
@@ -9520,7 +9520,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 412,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/414.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414-plant.png"
     },
     {
       "id": 415,
@@ -9681,7 +9681,7 @@
       "isGender": 0,
       "typesId": "12",
       "evolvesFrom": 420,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/421.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421-overcast.png"
     },
     {
       "id": 422,
@@ -9704,7 +9704,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/422.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422-west.png"
     },
     {
       "id": 423,
@@ -9727,7 +9727,7 @@
       "isGender": 0,
       "typesId": "11, 5",
       "evolvesFrom": 422,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/423.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423-west.png"
     },
     {
       "id": 424,
@@ -11199,7 +11199,7 @@
       "isGender": 0,
       "typesId": "8, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/487.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487-altered.png"
     },
     {
       "id": 488,
@@ -11314,7 +11314,7 @@
       "isGender": 0,
       "typesId": "12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492-land.png"
     },
     {
       "id": 493,
@@ -11337,7 +11337,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/493.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-normal.png"
     },
     {
       "id": 494,
@@ -12648,7 +12648,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/550.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550-red-striped.png"
     },
     {
       "id": 551,
@@ -13453,7 +13453,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585-spring.png"
     },
     {
       "id": 586,
@@ -13476,7 +13476,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": 585,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586-spring.png"
     },
     {
       "id": 587,
@@ -14741,7 +14741,7 @@
       "isGender": 0,
       "typesId": "3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/641.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641-incarnate.png"
     },
     {
       "id": 642,
@@ -14764,7 +14764,7 @@
       "isGender": 0,
       "typesId": "13, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/642.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642-incarnate.png"
     },
     {
       "id": 643,
@@ -14833,7 +14833,7 @@
       "isGender": 0,
       "typesId": "5, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645-incarnate.png"
     },
     {
       "id": 646,
@@ -14902,7 +14902,7 @@
       "isGender": 0,
       "typesId": "1, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/648.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648-aria.png"
     },
     {
       "id": 649,
@@ -15316,7 +15316,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-meadow.png"
     },
     {
       "id": 667,
@@ -15385,7 +15385,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-red.png"
     },
     {
       "id": 670,
@@ -15408,7 +15408,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 669,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/670.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670-red.png"
     },
     {
       "id": 671,
@@ -15431,7 +15431,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 670,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/671.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-red.png"
     },
     {
       "id": 672,
@@ -15546,7 +15546,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/676.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-natural.png"
     },
     {
       "id": 677,
@@ -15592,7 +15592,7 @@
       "isGender": 1,
       "typesId": "14",
       "evolvesFrom": 677,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/678.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678-male.png"
     },
     {
       "id": 679,
@@ -15661,7 +15661,7 @@
       "isGender": 0,
       "typesId": "9, 8",
       "evolvesFrom": 680,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681-shield.png"
     },
     {
       "id": 682,
@@ -16446,6 +16446,29 @@
       "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png"
     },
     {
+      "id": 716,
+      "name": "xerneas",
+      "speciesId": 716,
+      "formName": "",
+      "nomePt": "",
+      "formNomePt": "",
+      "variatyId": 716,
+      "orderNumber": 987,
+      "regionId": 6,
+      "isDefault": 1,
+      "isMega": 0,
+      "isRegional": 0,
+      "isBattleOnly": 0,
+      "isBaby": 0,
+      "isMythical": 0,
+      "isLegendary": 1,
+      "isStarter": 0,
+      "isGender": 0,
+      "typesId": "18",
+      "evolvesFrom": null,
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+    },
+    {
       "id": 717,
       "name": "yveltal",
       "speciesId": 717,
@@ -16489,7 +16512,7 @@
       "isGender": 0,
       "typesId": "16, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/718.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718-50%.png"
     },
     {
       "id": 719,
@@ -16535,7 +16558,7 @@
       "isGender": 0,
       "typesId": "14, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/720.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720-confined.png"
     },
     {
       "id": 721,
@@ -17018,7 +17041,7 @@
       "isGender": 0,
       "typesId": "10, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/741.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741-baile.png"
     },
     {
       "id": 742,
@@ -17110,7 +17133,7 @@
       "isGender": 0,
       "typesId": "6",
       "evolvesFrom": 744,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/745.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745-midday.png"
     },
     {
       "id": 746,
@@ -17133,7 +17156,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746-solo.png"
     },
     {
       "id": 747,
@@ -17754,7 +17777,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": 772,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-normal.png"
     },
     {
       "id": 774,
@@ -17777,7 +17800,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/774.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-red-meteor.png"
     },
     {
       "id": 775,
@@ -19502,7 +19525,7 @@
       "isGender": 0,
       "typesId": "13, 4",
       "evolvesFrom": 848,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/849.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849-amped.png"
     },
     {
       "id": 850,
@@ -19962,7 +19985,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 868,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/869.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-vanilla-cream.png"
     },
     {
       "id": 870,
@@ -20100,7 +20123,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/875.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875-ice.png"
     },
     {
       "id": 876,
@@ -20123,7 +20146,7 @@
       "isGender": 1,
       "typesId": "14, 1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876-male.png"
     },
     {
       "id": 877,
@@ -20146,7 +20169,7 @@
       "isGender": 0,
       "typesId": "13, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/877.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877-full-belly.png"
     },
     {
       "id": 878,
@@ -20491,7 +20514,7 @@
       "isGender": 0,
       "typesId": "2, 17",
       "evolvesFrom": 891,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/892.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892-single-strike.png"
     },
     {
       "id": 893,
@@ -20721,7 +20744,7 @@
       "isGender": 1,
       "typesId": "11, 8",
       "evolvesFrom": 550,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/902.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902-male.png"
     },
     {
       "id": 903,
@@ -20790,7 +20813,7 @@
       "isGender": 0,
       "typesId": "18, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/905.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905-incarnate.png"
     },
     {
       "id": 906,
@@ -21043,7 +21066,7 @@
       "isGender": 1,
       "typesId": "1",
       "evolvesFrom": 915,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/916.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916-male.png"
     },
     {
       "id": 917,
@@ -21250,7 +21273,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": 924,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/925.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925-family-of-four.png"
     },
     {
       "id": 926,
@@ -21388,7 +21411,7 @@
       "isGender": 0,
       "typesId": "1, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/931.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931-green-plumage.png"
     },
     {
       "id": 932,
@@ -22147,7 +22170,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": 963,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/964.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964-zero.png"
     },
     {
       "id": 965,
@@ -22469,7 +22492,7 @@
       "isGender": 0,
       "typesId": "16, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/978.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978-curly.png"
     },
     {
       "id": 979,
@@ -22561,7 +22584,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": 206,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982-two-segment.png"
     },
     {
       "id": 983,
@@ -22952,7 +22975,7 @@
       "isGender": 0,
       "typesId": "8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/999.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999-chest.png"
     },
     {
       "id": 1000,
@@ -23136,7 +23159,7 @@
       "isGender": 0,
       "typesId": "2, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1007.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1007-apex-build.png"
     },
     {
       "id": 1008,
@@ -23159,7 +23182,7 @@
       "isGender": 0,
       "typesId": "13, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1008.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1008-ultimate-mode.png"
     },
     {
       "id": 1009,
@@ -23251,7 +23274,7 @@
       "isGender": 0,
       "typesId": "12, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1012.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1012-counterfeit.png"
     },
     {
       "id": 1013,
@@ -23274,7 +23297,7 @@
       "isGender": 0,
       "typesId": "12, 8",
       "evolvesFrom": 1012,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1013.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1013-unremarkable.png"
     },
     {
       "id": 1014,
@@ -23573,7 +23596,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-b.png"
     },
     {
       "id": 10002,
@@ -23596,7 +23619,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-c.png"
     },
     {
       "id": 10003,
@@ -23619,7 +23642,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-d.png"
     },
     {
       "id": 10004,
@@ -23642,7 +23665,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-e.png"
     },
     {
       "id": 10005,
@@ -23665,7 +23688,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-f.png"
     },
     {
       "id": 10006,
@@ -23688,7 +23711,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-g.png"
     },
     {
       "id": 10007,
@@ -23711,7 +23734,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-h.png"
     },
     {
       "id": 10008,
@@ -23734,7 +23757,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-i.png"
     },
     {
       "id": 10009,
@@ -23757,7 +23780,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-j.png"
     },
     {
       "id": 10010,
@@ -23780,7 +23803,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-k.png"
     },
     {
       "id": 10011,
@@ -23803,7 +23826,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-l.png"
     },
     {
       "id": 10012,
@@ -23826,7 +23849,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-m.png"
     },
     {
       "id": 10013,
@@ -23849,7 +23872,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-n.png"
     },
     {
       "id": 10014,
@@ -23872,7 +23895,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-o.png"
     },
     {
       "id": 10015,
@@ -23895,7 +23918,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-p.png"
     },
     {
       "id": 10016,
@@ -23918,7 +23941,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-q.png"
     },
     {
       "id": 10017,
@@ -23941,7 +23964,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-r.png"
     },
     {
       "id": 10018,
@@ -23964,7 +23987,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-s.png"
     },
     {
       "id": 10019,
@@ -23987,7 +24010,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-t.png"
     },
     {
       "id": 10020,
@@ -24010,7 +24033,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-u.png"
     },
     {
       "id": 10021,
@@ -24033,7 +24056,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-v.png"
     },
     {
       "id": 10022,
@@ -24056,7 +24079,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-w.png"
     },
     {
       "id": 10023,
@@ -24079,7 +24102,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-x.png"
     },
     {
       "id": 10024,
@@ -24102,7 +24125,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-y.png"
     },
     {
       "id": 10025,
@@ -24125,7 +24148,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-z.png"
     },
     {
       "id": 10026,
@@ -24148,7 +24171,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-!.png"
     },
     {
       "id": 10027,
@@ -24171,7 +24194,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201-?.png"
     },
     {
       "id": 10028,
@@ -24194,7 +24217,7 @@
       "isGender": 0,
       "typesId": "10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10013.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351-sunny.png"
     },
     {
       "id": 10029,
@@ -24217,7 +24240,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10014.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351-rainy.png"
     },
     {
       "id": 10030,
@@ -24240,7 +24263,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10015.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/351-snowy.png"
     },
     {
       "id": 10031,
@@ -24263,7 +24286,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10001.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386-attack.png"
     },
     {
       "id": 10032,
@@ -24286,7 +24309,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10002.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386-defense.png"
     },
     {
       "id": 10033,
@@ -24309,7 +24332,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10003.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386-speed.png"
     },
     {
       "id": 10034,
@@ -24332,7 +24355,7 @@
       "isGender": 0,
       "typesId": "7",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412-sandy.png"
     },
     {
       "id": 10035,
@@ -24355,7 +24378,7 @@
       "isGender": 0,
       "typesId": "7",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/412-trash.png"
     },
     {
       "id": 10036,
@@ -24378,7 +24401,7 @@
       "isGender": 0,
       "typesId": "7, 5",
       "evolvesFrom": 10034,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10004.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413-sandy.png"
     },
     {
       "id": 10037,
@@ -24401,7 +24424,7 @@
       "isGender": 0,
       "typesId": "7, 9",
       "evolvesFrom": 10035,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10005.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/413-trash.png"
     },
     {
       "id": 10038,
@@ -24424,7 +24447,7 @@
       "isGender": 0,
       "typesId": "12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/421-sunshine.png"
     },
     {
       "id": 10039,
@@ -24447,7 +24470,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/422-east.png"
     },
     {
       "id": 10040,
@@ -24470,7 +24493,7 @@
       "isGender": 0,
       "typesId": "11, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/423-east.png"
     },
     {
       "id": 10041,
@@ -24493,7 +24516,7 @@
       "isGender": 0,
       "typesId": "7",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-bug.png"
     },
     {
       "id": 10042,
@@ -24516,7 +24539,7 @@
       "isGender": 0,
       "typesId": "17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-dark.png"
     },
     {
       "id": 10043,
@@ -24539,7 +24562,7 @@
       "isGender": 0,
       "typesId": "16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-dragon.png"
     },
     {
       "id": 10044,
@@ -24562,7 +24585,7 @@
       "isGender": 0,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-electric.png"
     },
     {
       "id": 10045,
@@ -24585,7 +24608,7 @@
       "isGender": 0,
       "typesId": "2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-fighting.png"
     },
     {
       "id": 10046,
@@ -24608,7 +24631,7 @@
       "isGender": 0,
       "typesId": "10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-fire.png"
     },
     {
       "id": 10047,
@@ -24631,7 +24654,7 @@
       "isGender": 0,
       "typesId": "3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-flying.png"
     },
     {
       "id": 10048,
@@ -24654,7 +24677,7 @@
       "isGender": 0,
       "typesId": "8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-ghost.png"
     },
     {
       "id": 10049,
@@ -24677,7 +24700,7 @@
       "isGender": 0,
       "typesId": "12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-grass.png"
     },
     {
       "id": 10050,
@@ -24700,7 +24723,7 @@
       "isGender": 0,
       "typesId": "5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-ground.png"
     },
     {
       "id": 10051,
@@ -24723,7 +24746,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-ice.png"
     },
     {
       "id": 10052,
@@ -24746,7 +24769,7 @@
       "isGender": 0,
       "typesId": "4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-poison.png"
     },
     {
       "id": 10053,
@@ -24769,7 +24792,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-psychic.png"
     },
     {
       "id": 10054,
@@ -24792,7 +24815,7 @@
       "isGender": 0,
       "typesId": "6",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-rock.png"
     },
     {
       "id": 10055,
@@ -24815,7 +24838,7 @@
       "isGender": 0,
       "typesId": "9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-steel.png"
     },
     {
       "id": 10056,
@@ -24838,7 +24861,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-water.png"
     },
     {
       "id": 10057,
@@ -24861,7 +24884,7 @@
       "isGender": 0,
       "typesId": "#N/A",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-unknown.png"
     },
     {
       "id": 10058,
@@ -24884,7 +24907,7 @@
       "isGender": 0,
       "typesId": "13, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10008.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479-heat.png"
     },
     {
       "id": 10059,
@@ -24907,7 +24930,7 @@
       "isGender": 0,
       "typesId": "13, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10009.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479-wash.png"
     },
     {
       "id": 10060,
@@ -24930,7 +24953,7 @@
       "isGender": 0,
       "typesId": "13, 15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10010.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479-frost.png"
     },
     {
       "id": 10061,
@@ -24953,7 +24976,7 @@
       "isGender": 0,
       "typesId": "13, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10011.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479-fan.png"
     },
     {
       "id": 10062,
@@ -24976,7 +24999,7 @@
       "isGender": 0,
       "typesId": "13, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10012.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/479-mow.png"
     },
     {
       "id": 10063,
@@ -24999,7 +25022,7 @@
       "isGender": 0,
       "typesId": "8, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10007.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/487-origin.png"
     },
     {
       "id": 10064,
@@ -25022,7 +25045,7 @@
       "isGender": 0,
       "typesId": "12, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10006.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492-sky.png"
     },
     {
       "id": 10065,
@@ -25045,7 +25068,7 @@
       "isGender": 0,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172-spiky-eared.png"
     },
     {
       "id": 10066,
@@ -25068,7 +25091,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10016.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550-blue-striped.png"
     },
     {
       "id": 10067,
@@ -25091,7 +25114,7 @@
       "isGender": 0,
       "typesId": "10, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10017.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555-zen.png"
     },
     {
       "id": 10068,
@@ -25114,7 +25137,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585-summer.png"
     },
     {
       "id": 10069,
@@ -25137,7 +25160,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585-autumn.png"
     },
     {
       "id": 10070,
@@ -25160,7 +25183,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/585-winter.png"
     },
     {
       "id": 10071,
@@ -25183,7 +25206,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": 10068,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586-summer.png"
     },
     {
       "id": 10072,
@@ -25206,7 +25229,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": 10069,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586-autumn.png"
     },
     {
       "id": 10073,
@@ -25229,7 +25252,7 @@
       "isGender": 0,
       "typesId": "1, 12",
       "evolvesFrom": 10070,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/586-winter.png"
     },
     {
       "id": 10074,
@@ -25252,7 +25275,7 @@
       "isGender": 0,
       "typesId": "1, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10018.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648-pirouette.png"
     },
     {
       "id": 10075,
@@ -25275,7 +25298,7 @@
       "isGender": 0,
       "typesId": "7, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-douse.png"
     },
     {
       "id": 10076,
@@ -25298,7 +25321,7 @@
       "isGender": 0,
       "typesId": "7, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-shock.png"
     },
     {
       "id": 10077,
@@ -25321,7 +25344,7 @@
       "isGender": 0,
       "typesId": "7, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-burn.png"
     },
     {
       "id": 10078,
@@ -25344,7 +25367,7 @@
       "isGender": 0,
       "typesId": "7, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649-chill.png"
     },
     {
       "id": 10079,
@@ -25367,7 +25390,7 @@
       "isGender": 0,
       "typesId": "3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10019.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/641-therian.png"
     },
     {
       "id": 10080,
@@ -25390,7 +25413,7 @@
       "isGender": 0,
       "typesId": "13, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10020.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/642-therian.png"
     },
     {
       "id": 10081,
@@ -25413,7 +25436,7 @@
       "isGender": 0,
       "typesId": "5, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10021.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/645-therian.png"
     },
     {
       "id": 10082,
@@ -25436,7 +25459,7 @@
       "isGender": 0,
       "typesId": "16, 15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10022.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646-black.png"
     },
     {
       "id": 10083,
@@ -25459,7 +25482,7 @@
       "isGender": 0,
       "typesId": "16, 15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10023.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/646-white.png"
     },
     {
       "id": 10084,
@@ -25482,7 +25505,7 @@
       "isGender": 0,
       "typesId": "11, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10024.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647-resolute.png"
     },
     {
       "id": 10085,
@@ -25505,7 +25528,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493-fairy.png"
     },
     {
       "id": 10086,
@@ -25528,7 +25551,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/666.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-icy-snow.png"
     },
     {
       "id": 10087,
@@ -25551,7 +25574,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-polar.png"
     },
     {
       "id": 10088,
@@ -25574,7 +25597,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-tundra.png"
     },
     {
       "id": 10089,
@@ -25597,7 +25620,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-continental.png"
     },
     {
       "id": 10090,
@@ -25620,7 +25643,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-garden.png"
     },
     {
       "id": 10091,
@@ -25643,7 +25666,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-elegant.png"
     },
     {
       "id": 10092,
@@ -25666,7 +25689,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-modern.png"
     },
     {
       "id": 10093,
@@ -25689,7 +25712,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-marine.png"
     },
     {
       "id": 10094,
@@ -25712,7 +25735,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-archipelago.png"
     },
     {
       "id": 10095,
@@ -25735,7 +25758,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-high-plains.png"
     },
     {
       "id": 10096,
@@ -25758,7 +25781,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-sandstorm.png"
     },
     {
       "id": 10097,
@@ -25781,7 +25804,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-river.png"
     },
     {
       "id": 10098,
@@ -25804,7 +25827,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-monsoon.png"
     },
     {
       "id": 10099,
@@ -25827,7 +25850,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-savanna.png"
     },
     {
       "id": 10100,
@@ -25850,7 +25873,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-sun.png"
     },
     {
       "id": 10101,
@@ -25873,7 +25896,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-ocean.png"
     },
     {
       "id": 10102,
@@ -25896,7 +25919,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-jungle.png"
     },
     {
       "id": 10103,
@@ -25919,7 +25942,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-yellow.png"
     },
     {
       "id": 10104,
@@ -25942,7 +25965,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-orange.png"
     },
     {
       "id": 10105,
@@ -25965,7 +25988,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-blue.png"
     },
     {
       "id": 10106,
@@ -25988,7 +26011,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/669-white.png"
     },
     {
       "id": 10107,
@@ -26011,7 +26034,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10103,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670-yellow.png"
     },
     {
       "id": 10108,
@@ -26034,7 +26057,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10104,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670-orange.png"
     },
     {
       "id": 10109,
@@ -26057,7 +26080,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10105,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670-blue.png"
     },
     {
       "id": 10110,
@@ -26080,7 +26103,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10106,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670-white.png"
     },
     {
       "id": 10111,
@@ -26103,7 +26126,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10107,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-yellow.png"
     },
     {
       "id": 10112,
@@ -26126,7 +26149,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10108,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-orange.png"
     },
     {
       "id": 10113,
@@ -26149,7 +26172,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10109,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-blue.png"
     },
     {
       "id": 10114,
@@ -26172,7 +26195,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 10110,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/671-white.png"
     },
     {
       "id": 10115,
@@ -26195,7 +26218,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-heart.png"
     },
     {
       "id": 10116,
@@ -26218,7 +26241,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-star.png"
     },
     {
       "id": 10117,
@@ -26241,7 +26264,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-diamond.png"
     },
     {
       "id": 10118,
@@ -26264,7 +26287,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-debutante.png"
     },
     {
       "id": 10119,
@@ -26287,7 +26310,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-matron.png"
     },
     {
       "id": 10120,
@@ -26310,7 +26333,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-dandy.png"
     },
     {
       "id": 10121,
@@ -26333,7 +26356,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-la-reine.png"
     },
     {
       "id": 10122,
@@ -26356,7 +26379,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-kabuki.png"
     },
     {
       "id": 10123,
@@ -26379,7 +26402,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/676-pharaoh.png"
     },
     {
       "id": 10124,
@@ -26402,7 +26425,7 @@
       "isGender": 1,
       "typesId": "14",
       "evolvesFrom": 677,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10025.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/678-female.png"
     },
     {
       "id": 10125,
@@ -26425,7 +26448,7 @@
       "isGender": 0,
       "typesId": "9, 8",
       "evolvesFrom": 680,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10026.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/681-blade.png"
     },
     {
       "id": 10126,
@@ -26448,7 +26471,7 @@
       "isGender": 0,
       "typesId": "8, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10027.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710-small.png"
     },
     {
       "id": 10127,
@@ -26471,7 +26494,7 @@
       "isGender": 0,
       "typesId": "8, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10028.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710-large.png"
     },
     {
       "id": 10128,
@@ -26494,30 +26517,7 @@
       "isGender": 0,
       "typesId": "8, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10029.png"
-    },
-    {
-      "id": 10132,
-      "name": "xerneas",
-      "speciesId": 716,
-      "formName": "neutral",
-      "nomePt": "",
-      "formNomePt": "neutro",
-      "variatyId": 716,
-      "orderNumber": 987,
-      "regionId": 6,
-      "isDefault": 1,
-      "isMega": 0,
-      "isRegional": 0,
-      "isBattleOnly": 0,
-      "isBaby": 0,
-      "isMythical": 0,
-      "isLegendary": 1,
-      "isStarter": 0,
-      "isGender": 0,
-      "typesId": "18",
-      "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/716.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/710-super.png"
     },
     {
       "id": 10133,
@@ -26540,7 +26540,7 @@
       "isGender": 0,
       "typesId": "12, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10033.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3-mega.png"
     },
     {
       "id": 10134,
@@ -26563,7 +26563,7 @@
       "isGender": 0,
       "typesId": "10, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10034.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6-mega-x.png"
     },
     {
       "id": 10135,
@@ -26586,7 +26586,7 @@
       "isGender": 0,
       "typesId": "10, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10035.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6-mega-y.png"
     },
     {
       "id": 10136,
@@ -26609,7 +26609,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10036.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9-mega.png"
     },
     {
       "id": 10137,
@@ -26632,7 +26632,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10037.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65-mega.png"
     },
     {
       "id": 10138,
@@ -26655,7 +26655,7 @@
       "isGender": 0,
       "typesId": "8, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10038.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94-mega.png"
     },
     {
       "id": 10139,
@@ -26678,7 +26678,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10039.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115-mega.png"
     },
     {
       "id": 10140,
@@ -26701,7 +26701,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10040.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127-mega.png"
     },
     {
       "id": 10141,
@@ -26724,7 +26724,7 @@
       "isGender": 0,
       "typesId": "11, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10041.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130-mega.png"
     },
     {
       "id": 10142,
@@ -26747,7 +26747,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10042.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142-mega.png"
     },
     {
       "id": 10143,
@@ -26770,7 +26770,7 @@
       "isGender": 0,
       "typesId": "14, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10043.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150-mega-x.png"
     },
     {
       "id": 10144,
@@ -26793,7 +26793,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10044.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150-mega-y.png"
     },
     {
       "id": 10145,
@@ -26816,7 +26816,7 @@
       "isGender": 0,
       "typesId": "13, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10045.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181-mega.png"
     },
     {
       "id": 10146,
@@ -26839,7 +26839,7 @@
       "isGender": 0,
       "typesId": "7, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10046.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212-mega.png"
     },
     {
       "id": 10147,
@@ -26862,7 +26862,7 @@
       "isGender": 0,
       "typesId": "7, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10047.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214-mega.png"
     },
     {
       "id": 10148,
@@ -26885,7 +26885,7 @@
       "isGender": 0,
       "typesId": "17, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10048.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229-mega.png"
     },
     {
       "id": 10149,
@@ -26908,7 +26908,7 @@
       "isGender": 0,
       "typesId": "6, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10049.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248-mega.png"
     },
     {
       "id": 10150,
@@ -26931,7 +26931,7 @@
       "isGender": 0,
       "typesId": "10, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10050.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/257-mega.png"
     },
     {
       "id": 10151,
@@ -26954,7 +26954,7 @@
       "isGender": 0,
       "typesId": "14, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10051.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/282-mega.png"
     },
     {
       "id": 10152,
@@ -26977,7 +26977,7 @@
       "isGender": 0,
       "typesId": "9, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10052.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/303-mega.png"
     },
     {
       "id": 10153,
@@ -27000,7 +27000,7 @@
       "isGender": 0,
       "typesId": "9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10053.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/306-mega.png"
     },
     {
       "id": 10154,
@@ -27023,7 +27023,7 @@
       "isGender": 0,
       "typesId": "2, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10054.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/308-mega.png"
     },
     {
       "id": 10155,
@@ -27046,7 +27046,7 @@
       "isGender": 0,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10055.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/310-mega.png"
     },
     {
       "id": 10156,
@@ -27069,7 +27069,7 @@
       "isGender": 0,
       "typesId": "8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10056.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/354-mega.png"
     },
     {
       "id": 10157,
@@ -27092,7 +27092,7 @@
       "isGender": 0,
       "typesId": "17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10057.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/359-mega.png"
     },
     {
       "id": 10158,
@@ -27115,7 +27115,7 @@
       "isGender": 0,
       "typesId": "16, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10058.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/445-mega.png"
     },
     {
       "id": 10159,
@@ -27138,7 +27138,7 @@
       "isGender": 0,
       "typesId": "2, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10059.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/448-mega.png"
     },
     {
       "id": 10160,
@@ -27161,7 +27161,7 @@
       "isGender": 0,
       "typesId": "12, 15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10060.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/460-mega.png"
     },
     {
       "id": 10161,
@@ -27184,7 +27184,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-fancy.png"
     },
     {
       "id": 10162,
@@ -27207,7 +27207,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": 665,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/666-poke-ball.png"
     },
     {
       "id": 10163,
@@ -27230,7 +27230,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": 669,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10061.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/670-eternal.png"
     },
     {
       "id": 10164,
@@ -27253,7 +27253,7 @@
       "isGender": 0,
       "typesId": "16, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10062.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/380-mega.png"
     },
     {
       "id": 10165,
@@ -27276,7 +27276,7 @@
       "isGender": 0,
       "typesId": "16, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10063.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/381-mega.png"
     },
     {
       "id": 10166,
@@ -27299,7 +27299,7 @@
       "isGender": 0,
       "typesId": "11, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10064.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/260-mega.png"
     },
     {
       "id": 10167,
@@ -27322,7 +27322,7 @@
       "isGender": 0,
       "typesId": "12, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10065.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/254-mega.png"
     },
     {
       "id": 10168,
@@ -27345,7 +27345,7 @@
       "isGender": 0,
       "typesId": "17, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10066.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/302-mega.png"
     },
     {
       "id": 10169,
@@ -27368,7 +27368,7 @@
       "isGender": 0,
       "typesId": "16, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10067.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/334-mega.png"
     },
     {
       "id": 10170,
@@ -27391,7 +27391,7 @@
       "isGender": 0,
       "typesId": "14, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10068.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/475-mega.png"
     },
     {
       "id": 10171,
@@ -27414,7 +27414,7 @@
       "isGender": 0,
       "typesId": "1, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10069.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/531-mega.png"
     },
     {
       "id": 10172,
@@ -27437,7 +27437,7 @@
       "isGender": 0,
       "typesId": "11, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10070.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/319-mega.png"
     },
     {
       "id": 10173,
@@ -27460,7 +27460,7 @@
       "isGender": 0,
       "typesId": "11, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10071.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80-mega.png"
     },
     {
       "id": 10174,
@@ -27483,7 +27483,7 @@
       "isGender": 0,
       "typesId": "9, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10072.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208-mega.png"
     },
     {
       "id": 10175,
@@ -27506,7 +27506,7 @@
       "isGender": 0,
       "typesId": "1, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10073.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18-mega.png"
     },
     {
       "id": 10176,
@@ -27529,7 +27529,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10074.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/362-mega.png"
     },
     {
       "id": 10177,
@@ -27552,7 +27552,7 @@
       "isGender": 0,
       "typesId": "6, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10075.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719-mega.png"
     },
     {
       "id": 10178,
@@ -27575,7 +27575,7 @@
       "isGender": 0,
       "typesId": "9, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10076.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/376-mega.png"
     },
     {
       "id": 10179,
@@ -27598,7 +27598,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10077.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/382-primal.png"
     },
     {
       "id": 10180,
@@ -27621,7 +27621,7 @@
       "isGender": 0,
       "typesId": "5, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10078.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/383-primal.png"
     },
     {
       "id": 10181,
@@ -27644,7 +27644,7 @@
       "isGender": 0,
       "typesId": "16, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10079.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/384-mega.png"
     },
     {
       "id": 10182,
@@ -27667,7 +27667,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10080.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-rock-star.png"
     },
     {
       "id": 10183,
@@ -27690,7 +27690,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10081.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-belle.png"
     },
     {
       "id": 10184,
@@ -27713,7 +27713,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10082.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-pop-star.png"
     },
     {
       "id": 10185,
@@ -27736,7 +27736,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10083.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-phd.png"
     },
     {
       "id": 10186,
@@ -27759,7 +27759,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10084.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-libre.png"
     },
     {
       "id": 10187,
@@ -27782,7 +27782,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10085.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-detective.png"
     },
     {
       "id": 10188,
@@ -27805,7 +27805,7 @@
       "isGender": 0,
       "typesId": "14, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10086.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720-unbound.png"
     },
     {
       "id": 10189,
@@ -27828,7 +27828,7 @@
       "isGender": 0,
       "typesId": "10, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10087.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/323-mega.png"
     },
     {
       "id": 10190,
@@ -27851,7 +27851,7 @@
       "isGender": 0,
       "typesId": "1, 2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10088.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/428-mega.png"
     },
     {
       "id": 10191,
@@ -27874,7 +27874,7 @@
       "isGender": 0,
       "typesId": "16, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10089.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/373-mega.png"
     },
     {
       "id": 10192,
@@ -27897,7 +27897,7 @@
       "isGender": 0,
       "typesId": "7, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10090.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15-mega.png"
     },
     {
       "id": 10193,
@@ -27920,7 +27920,7 @@
       "isGender": 1,
       "typesId": "17, 1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10091.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19-alola.png"
     },
     {
       "id": 10194,
@@ -27943,7 +27943,7 @@
       "isGender": 1,
       "typesId": "17, 1",
       "evolvesFrom": 10193,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10092.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20-alola.png"
     },
     {
       "id": 10196,
@@ -27966,7 +27966,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10094.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-original-cap.png"
     },
     {
       "id": 10197,
@@ -27989,7 +27989,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10095.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-hoenn-cap.png"
     },
     {
       "id": 10198,
@@ -28012,7 +28012,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10096.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-sinnoh-cap.png"
     },
     {
       "id": 10199,
@@ -28035,7 +28035,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10097.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-unova-cap.png"
     },
     {
       "id": 10200,
@@ -28058,7 +28058,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10098.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-kalos-cap.png"
     },
     {
       "id": 10201,
@@ -28081,7 +28081,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10099.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-alola-cap.png"
     },
     {
       "id": 10202,
@@ -28104,7 +28104,7 @@
       "isGender": 1,
       "typesId": "13, 14",
       "evolvesFrom": 25,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10100.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26-alola.png"
     },
     {
       "id": 10203,
@@ -28127,7 +28127,7 @@
       "isGender": 0,
       "typesId": "15, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10101.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27-alola.png"
     },
     {
       "id": 10204,
@@ -28150,7 +28150,7 @@
       "isGender": 0,
       "typesId": "15, 9",
       "evolvesFrom": 10203,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10102.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28-alola.png"
     },
     {
       "id": 10205,
@@ -28173,7 +28173,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10103.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37-alola.png"
     },
     {
       "id": 10206,
@@ -28196,7 +28196,7 @@
       "isGender": 0,
       "typesId": "15, 18",
       "evolvesFrom": 10205,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10104.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38-alola.png"
     },
     {
       "id": 10207,
@@ -28219,7 +28219,7 @@
       "isGender": 0,
       "typesId": "5, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10105.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50-alola.png"
     },
     {
       "id": 10208,
@@ -28242,7 +28242,7 @@
       "isGender": 0,
       "typesId": "5, 9",
       "evolvesFrom": 10207,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10106.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51-alola.png"
     },
     {
       "id": 10209,
@@ -28265,7 +28265,7 @@
       "isGender": 0,
       "typesId": "17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10107.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52-alola.png"
     },
     {
       "id": 10210,
@@ -28288,7 +28288,7 @@
       "isGender": 0,
       "typesId": "17",
       "evolvesFrom": 10209,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10108.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53-alola.png"
     },
     {
       "id": 10211,
@@ -28311,7 +28311,7 @@
       "isGender": 0,
       "typesId": "6, 13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10109.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74-alola.png"
     },
     {
       "id": 10212,
@@ -28334,7 +28334,7 @@
       "isGender": 0,
       "typesId": "6, 13",
       "evolvesFrom": 10211,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10110.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75-alola.png"
     },
     {
       "id": 10213,
@@ -28357,7 +28357,7 @@
       "isGender": 0,
       "typesId": "6, 13",
       "evolvesFrom": 10212,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10111.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76-alola.png"
     },
     {
       "id": 10214,
@@ -28380,7 +28380,7 @@
       "isGender": 0,
       "typesId": "4, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10112.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88-alola.png"
     },
     {
       "id": 10215,
@@ -28403,7 +28403,7 @@
       "isGender": 0,
       "typesId": "4, 17",
       "evolvesFrom": 10214,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10113.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89-alola.png"
     },
     {
       "id": 10216,
@@ -28426,7 +28426,7 @@
       "isGender": 0,
       "typesId": "12, 16",
       "evolvesFrom": 102,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10114.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103-alola.png"
     },
     {
       "id": 10217,
@@ -28449,7 +28449,7 @@
       "isGender": 0,
       "typesId": "10, 8",
       "evolvesFrom": 104,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10115.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105-alola.png"
     },
     {
       "id": 10218,
@@ -28472,7 +28472,7 @@
       "isGender": 0,
       "typesId": "11, 17",
       "evolvesFrom": 657,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10116.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658-battle-bond.png"
     },
     {
       "id": 10219,
@@ -28495,7 +28495,7 @@
       "isGender": 0,
       "typesId": "11, 17",
       "evolvesFrom": 657,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10117.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/658-ash.png"
     },
     {
       "id": 10220,
@@ -28518,7 +28518,7 @@
       "isGender": 0,
       "typesId": "16, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10118.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718-0.1.png"
     },
     {
       "id": 10222,
@@ -28541,7 +28541,7 @@
       "isGender": 0,
       "typesId": "16, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10120.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/718-complete.png"
     },
     {
       "id": 10225,
@@ -28564,7 +28564,7 @@
       "isGender": 0,
       "typesId": "13, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10123.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741-pom-pom.png"
     },
     {
       "id": 10226,
@@ -28587,7 +28587,7 @@
       "isGender": 0,
       "typesId": "14, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10124.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741-pau.png"
     },
     {
       "id": 10227,
@@ -28610,7 +28610,7 @@
       "isGender": 0,
       "typesId": "8, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10125.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/741-sensu.png"
     },
     {
       "id": 10228,
@@ -28633,7 +28633,7 @@
       "isGender": 0,
       "typesId": "6",
       "evolvesFrom": 744,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10126.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745-midnight.png"
     },
     {
       "id": 10229,
@@ -28656,7 +28656,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10127.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/746-school.png"
     },
     {
       "id": 10232,
@@ -28679,7 +28679,7 @@
       "isGender": 0,
       "typesId": "2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-fighting.png"
     },
     {
       "id": 10233,
@@ -28702,7 +28702,7 @@
       "isGender": 0,
       "typesId": "3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-flying.png"
     },
     {
       "id": 10234,
@@ -28725,7 +28725,7 @@
       "isGender": 0,
       "typesId": "4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-poison.png"
     },
     {
       "id": 10235,
@@ -28748,7 +28748,7 @@
       "isGender": 0,
       "typesId": "5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-ground.png"
     },
     {
       "id": 10236,
@@ -28771,7 +28771,7 @@
       "isGender": 0,
       "typesId": "6",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-rock.png"
     },
     {
       "id": 10237,
@@ -28794,7 +28794,7 @@
       "isGender": 0,
       "typesId": "7",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-bug.png"
     },
     {
       "id": 10238,
@@ -28817,7 +28817,7 @@
       "isGender": 0,
       "typesId": "8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-ghost.png"
     },
     {
       "id": 10239,
@@ -28840,7 +28840,7 @@
       "isGender": 0,
       "typesId": "9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-steel.png"
     },
     {
       "id": 10240,
@@ -28863,7 +28863,7 @@
       "isGender": 0,
       "typesId": "10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-fire.png"
     },
     {
       "id": 10241,
@@ -28886,7 +28886,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-water.png"
     },
     {
       "id": 10242,
@@ -28909,7 +28909,7 @@
       "isGender": 0,
       "typesId": "12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-grass.png"
     },
     {
       "id": 10243,
@@ -28932,7 +28932,7 @@
       "isGender": 0,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-electric.png"
     },
     {
       "id": 10244,
@@ -28955,7 +28955,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-psychic.png"
     },
     {
       "id": 10245,
@@ -28978,7 +28978,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-ice.png"
     },
     {
       "id": 10246,
@@ -29001,7 +29001,7 @@
       "isGender": 0,
       "typesId": "16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-dragon.png"
     },
     {
       "id": 10247,
@@ -29024,7 +29024,7 @@
       "isGender": 0,
       "typesId": "17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-dark.png"
     },
     {
       "id": 10248,
@@ -29047,7 +29047,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/773-fairy.png"
     },
     {
       "id": 10249,
@@ -29070,7 +29070,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10130.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-orange-meteor.png"
     },
     {
       "id": 10250,
@@ -29093,7 +29093,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10131.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-yellow-meteor.png"
     },
     {
       "id": 10251,
@@ -29116,7 +29116,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10132.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-green-meteor.png"
     },
     {
       "id": 10252,
@@ -29139,7 +29139,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10133.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-blue-meteor.png"
     },
     {
       "id": 10253,
@@ -29162,7 +29162,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10134.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-indigo-meteor.png"
     },
     {
       "id": 10254,
@@ -29185,7 +29185,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10135.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-violet-meteor.png"
     },
     {
       "id": 10255,
@@ -29208,7 +29208,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10136.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-red.png"
     },
     {
       "id": 10256,
@@ -29231,7 +29231,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10137.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-orange.png"
     },
     {
       "id": 10257,
@@ -29254,7 +29254,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10138.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-yellow.png"
     },
     {
       "id": 10258,
@@ -29277,7 +29277,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10139.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-green.png"
     },
     {
       "id": 10259,
@@ -29300,7 +29300,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10140.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-blue.png"
     },
     {
       "id": 10260,
@@ -29323,7 +29323,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10141.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-indigo.png"
     },
     {
       "id": 10261,
@@ -29346,7 +29346,7 @@
       "isGender": 0,
       "typesId": "6, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10142.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/774-violet.png"
     },
     {
       "id": 10262,
@@ -29369,7 +29369,7 @@
       "isGender": 0,
       "typesId": "8, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/778-busted.png"
     },
     {
       "id": 10266,
@@ -29392,7 +29392,7 @@
       "isGender": 0,
       "typesId": "9, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10147.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801-original.png"
     },
     {
       "id": 10267,
@@ -29415,7 +29415,7 @@
       "isGender": 1,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10148.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-partner-cap.png"
     },
     {
       "id": 10269,
@@ -29438,7 +29438,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414-sandy.png"
     },
     {
       "id": 10270,
@@ -29461,7 +29461,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/414-trash.png"
     },
     {
       "id": 10310,
@@ -29484,7 +29484,7 @@
       "isGender": 0,
       "typesId": "6",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10151.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/744-own-tempo.png"
     },
     {
       "id": 10311,
@@ -29507,7 +29507,7 @@
       "isGender": 0,
       "typesId": "6",
       "evolvesFrom": 744,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10152.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/745-dusk.png"
     },
     {
       "id": 10314,
@@ -29530,7 +29530,7 @@
       "isGender": 0,
       "typesId": "14, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10155.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800-dusk.png"
     },
     {
       "id": 10315,
@@ -29553,7 +29553,7 @@
       "isGender": 0,
       "typesId": "14, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10156.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800-dawn.png"
     },
     {
       "id": 10316,
@@ -29576,7 +29576,7 @@
       "isGender": 0,
       "typesId": "14, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10157.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/800-ultra.png"
     },
     {
       "id": 10318,
@@ -29599,7 +29599,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10159.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133-starter.png"
     },
     {
       "id": 10320,
@@ -29622,7 +29622,7 @@
       "isGender": 0,
       "typesId": "9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10161.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52-galar.png"
     },
     {
       "id": 10321,
@@ -29645,7 +29645,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10162.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77-galar.png"
     },
     {
       "id": 10322,
@@ -29668,7 +29668,7 @@
       "isGender": 0,
       "typesId": "14, 18",
       "evolvesFrom": 10321,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10163.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78-galar.png"
     },
     {
       "id": 10323,
@@ -29691,7 +29691,7 @@
       "isGender": 0,
       "typesId": "14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10164.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79-galar.png"
     },
     {
       "id": 10324,
@@ -29714,7 +29714,7 @@
       "isGender": 0,
       "typesId": "4, 14",
       "evolvesFrom": 10323,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10165.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80-galar.png"
     },
     {
       "id": 10325,
@@ -29737,7 +29737,7 @@
       "isGender": 0,
       "typesId": "2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10166.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83-galar.png"
     },
     {
       "id": 10326,
@@ -29760,7 +29760,7 @@
       "isGender": 0,
       "typesId": "4, 18",
       "evolvesFrom": 109,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10167.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110-galar.png"
     },
     {
       "id": 10327,
@@ -29783,7 +29783,7 @@
       "isGender": 0,
       "typesId": "15, 14",
       "evolvesFrom": 439,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10168.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122-galar.png"
     },
     {
       "id": 10328,
@@ -29806,7 +29806,7 @@
       "isGender": 0,
       "typesId": "14, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10169.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144-galar.png"
     },
     {
       "id": 10329,
@@ -29829,7 +29829,7 @@
       "isGender": 0,
       "typesId": "2, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10170.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145-galar.png"
     },
     {
       "id": 10330,
@@ -29852,7 +29852,7 @@
       "isGender": 0,
       "typesId": "17, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10171.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146-galar.png"
     },
     {
       "id": 10331,
@@ -29875,7 +29875,7 @@
       "isGender": 0,
       "typesId": "4, 14",
       "evolvesFrom": 10323,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10172.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199-galar.png"
     },
     {
       "id": 10332,
@@ -29898,7 +29898,7 @@
       "isGender": 0,
       "typesId": "8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10173.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222-galar.png"
     },
     {
       "id": 10333,
@@ -29921,7 +29921,7 @@
       "isGender": 0,
       "typesId": "17, 1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10174.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/263-galar.png"
     },
     {
       "id": 10334,
@@ -29944,7 +29944,7 @@
       "isGender": 0,
       "typesId": "17, 1",
       "evolvesFrom": 263,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10175.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/264-galar.png"
     },
     {
       "id": 10335,
@@ -29967,7 +29967,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10176.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/554-galar.png"
     },
     {
       "id": 10336,
@@ -29990,7 +29990,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": 10335,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10177.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555-galar.png"
     },
     {
       "id": 10337,
@@ -30013,7 +30013,7 @@
       "isGender": 0,
       "typesId": "15, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10178.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/555-galar zen.png"
     },
     {
       "id": 10338,
@@ -30036,7 +30036,7 @@
       "isGender": 0,
       "typesId": "5, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10179.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/562-galar.png"
     },
     {
       "id": 10339,
@@ -30059,7 +30059,7 @@
       "isGender": 0,
       "typesId": "5, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10180.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/618-galar.png"
     },
     {
       "id": 10341,
@@ -30082,7 +30082,7 @@
       "isGender": 0,
       "typesId": "3, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10182.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845-gulping.png"
     },
     {
       "id": 10342,
@@ -30105,7 +30105,7 @@
       "isGender": 0,
       "typesId": "3, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10183.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/845-gorging.png"
     },
     {
       "id": 10343,
@@ -30128,7 +30128,7 @@
       "isGender": 0,
       "typesId": "13, 4",
       "evolvesFrom": 848,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10184.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849-low-key.png"
     },
     {
       "id": 10346,
@@ -30151,7 +30151,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-ruby-cream.png"
     },
     {
       "id": 10347,
@@ -30174,7 +30174,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-matcha-cream.png"
     },
     {
       "id": 10348,
@@ -30197,7 +30197,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-mint-cream.png"
     },
     {
       "id": 10349,
@@ -30220,7 +30220,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-lemon-cream.png"
     },
     {
       "id": 10350,
@@ -30243,7 +30243,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-salted-cream.png"
     },
     {
       "id": 10351,
@@ -30266,7 +30266,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-ruby-swirl.png"
     },
     {
       "id": 10352,
@@ -30289,7 +30289,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-caramel-swirl.png"
     },
     {
       "id": 10353,
@@ -30312,7 +30312,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-rainbow-swirl.png"
     },
     {
       "id": 10354,
@@ -30335,7 +30335,7 @@
       "isGender": 0,
       "typesId": "15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10185.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/875-noice.png"
     },
     {
       "id": 10355,
@@ -30358,7 +30358,7 @@
       "isGender": 1,
       "typesId": "14, 1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10186.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/876-female.png"
     },
     {
       "id": 10356,
@@ -30381,7 +30381,7 @@
       "isGender": 0,
       "typesId": "13, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10187.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/877-hangry.png"
     },
     {
       "id": 10357,
@@ -30404,7 +30404,7 @@
       "isGender": 0,
       "typesId": "18, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10188.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/888-crowned.png"
     },
     {
       "id": 10358,
@@ -30427,7 +30427,7 @@
       "isGender": 0,
       "typesId": "2, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10189.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/889-crowned.png"
     },
     {
       "id": 10359,
@@ -30450,7 +30450,7 @@
       "isGender": 0,
       "typesId": "4, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10190.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/890-eternamax.png"
     },
     {
       "id": 10360,
@@ -30473,7 +30473,7 @@
       "isGender": 0,
       "typesId": "2, 11",
       "evolvesFrom": 891,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10191.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892-rapid-strike.png"
     },
     {
       "id": 10361,
@@ -30496,7 +30496,7 @@
       "isGender": 0,
       "typesId": "17, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10192.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893-dada.png"
     },
     {
       "id": 10362,
@@ -30519,7 +30519,7 @@
       "isGender": 0,
       "typesId": "14, 15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10193.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898-ice.png"
     },
     {
       "id": 10363,
@@ -30542,7 +30542,7 @@
       "isGender": 0,
       "typesId": "14, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10194.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/898-shadow.png"
     },
     {
       "id": 10364,
@@ -30565,7 +30565,7 @@
       "isGender": 0,
       "typesId": "12, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10195.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3-gmax.png"
     },
     {
       "id": 10365,
@@ -30588,7 +30588,7 @@
       "isGender": 0,
       "typesId": "10, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10196.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6-gmax.png"
     },
     {
       "id": 10366,
@@ -30611,7 +30611,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10197.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9-gmax.png"
     },
     {
       "id": 10367,
@@ -30634,7 +30634,7 @@
       "isGender": 0,
       "typesId": "7, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10198.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12-gmax.png"
     },
     {
       "id": 10368,
@@ -30657,7 +30657,7 @@
       "isGender": 0,
       "typesId": "13",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10199.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25-gmax.png"
     },
     {
       "id": 10369,
@@ -30680,7 +30680,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10200.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52-gmax.png"
     },
     {
       "id": 10370,
@@ -30703,7 +30703,7 @@
       "isGender": 0,
       "typesId": "2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10201.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68-gmax.png"
     },
     {
       "id": 10371,
@@ -30726,7 +30726,7 @@
       "isGender": 0,
       "typesId": "8, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10202.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94-gmax.png"
     },
     {
       "id": 10372,
@@ -30749,7 +30749,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10203.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99-gmax.png"
     },
     {
       "id": 10373,
@@ -30772,7 +30772,7 @@
       "isGender": 0,
       "typesId": "11, 15",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10204.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131-gmax.png"
     },
     {
       "id": 10374,
@@ -30795,7 +30795,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10205.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133-gmax.png"
     },
     {
       "id": 10375,
@@ -30818,7 +30818,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10206.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143-gmax.png"
     },
     {
       "id": 10376,
@@ -30841,7 +30841,7 @@
       "isGender": 0,
       "typesId": "4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10207.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/569-gmax.png"
     },
     {
       "id": 10377,
@@ -30864,7 +30864,7 @@
       "isGender": 0,
       "typesId": "9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10208.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809-gmax.png"
     },
     {
       "id": 10378,
@@ -30887,7 +30887,7 @@
       "isGender": 0,
       "typesId": "12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10209.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/812-gmax.png"
     },
     {
       "id": 10379,
@@ -30910,7 +30910,7 @@
       "isGender": 0,
       "typesId": "10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10210.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/815-gmax.png"
     },
     {
       "id": 10380,
@@ -30933,7 +30933,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10211.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/818-gmax.png"
     },
     {
       "id": 10381,
@@ -30956,7 +30956,7 @@
       "isGender": 0,
       "typesId": "3, 9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10212.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/823-gmax.png"
     },
     {
       "id": 10382,
@@ -30979,7 +30979,7 @@
       "isGender": 0,
       "typesId": "7, 14",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10213.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/826-gmax.png"
     },
     {
       "id": 10383,
@@ -31002,7 +31002,7 @@
       "isGender": 0,
       "typesId": "11, 6",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10214.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/834-gmax.png"
     },
     {
       "id": 10384,
@@ -31025,7 +31025,7 @@
       "isGender": 0,
       "typesId": "6, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10215.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/839-gmax.png"
     },
     {
       "id": 10385,
@@ -31048,7 +31048,7 @@
       "isGender": 0,
       "typesId": "12, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10216.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/841-gmax.png"
     },
     {
       "id": 10386,
@@ -31071,7 +31071,7 @@
       "isGender": 0,
       "typesId": "12, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10217.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/842-gmax.png"
     },
     {
       "id": 10387,
@@ -31094,7 +31094,7 @@
       "isGender": 0,
       "typesId": "5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10218.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/844-gmax.png"
     },
     {
       "id": 10388,
@@ -31117,7 +31117,7 @@
       "isGender": 0,
       "typesId": "13, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10219.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849-gmax.png"
     },
     {
       "id": 10389,
@@ -31140,7 +31140,7 @@
       "isGender": 0,
       "typesId": "10, 7",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10220.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/851-gmax.png"
     },
     {
       "id": 10390,
@@ -31163,7 +31163,7 @@
       "isGender": 0,
       "typesId": "14, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10221.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/858-gmax.png"
     },
     {
       "id": 10391,
@@ -31186,7 +31186,7 @@
       "isGender": 0,
       "typesId": "17, 18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10222.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/861-gmax.png"
     },
     {
       "id": 10392,
@@ -31209,7 +31209,7 @@
       "isGender": 0,
       "typesId": "18",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10223.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/869-gmax.png"
     },
     {
       "id": 10393,
@@ -31232,7 +31232,7 @@
       "isGender": 0,
       "typesId": "9",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10224.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/879-gmax.png"
     },
     {
       "id": 10394,
@@ -31255,7 +31255,7 @@
       "isGender": 0,
       "typesId": "9, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10225.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/884-gmax.png"
     },
     {
       "id": 10395,
@@ -31278,7 +31278,7 @@
       "isGender": 0,
       "typesId": "2, 17",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10226.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892-gmax.png"
     },
     {
       "id": 10396,
@@ -31301,7 +31301,7 @@
       "isGender": 0,
       "typesId": "2, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10227.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/892-gmax.png"
     },
     {
       "id": 10397,
@@ -31324,7 +31324,7 @@
       "isGender": 0,
       "typesId": "13, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10228.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/849-gmax.png"
     },
     {
       "id": 10398,
@@ -31347,7 +31347,7 @@
       "isGender": 0,
       "typesId": "10, 6",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10229.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58-hisui.png"
     },
     {
       "id": 10399,
@@ -31370,7 +31370,7 @@
       "isGender": 0,
       "typesId": "10, 6",
       "evolvesFrom": 10398,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10230.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59-hisui.png"
     },
     {
       "id": 10400,
@@ -31393,7 +31393,7 @@
       "isGender": 0,
       "typesId": "13, 12",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10231.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100-hisui.png"
     },
     {
       "id": 10401,
@@ -31416,7 +31416,7 @@
       "isGender": 0,
       "typesId": "13, 12",
       "evolvesFrom": 100,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10232.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101-hisui.png"
     },
     {
       "id": 10402,
@@ -31439,7 +31439,7 @@
       "isGender": 0,
       "typesId": "10, 8",
       "evolvesFrom": 156,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10233.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157-hisui.png"
     },
     {
       "id": 10403,
@@ -31462,7 +31462,7 @@
       "isGender": 0,
       "typesId": "17, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10234.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211-hisui.png"
     },
     {
       "id": 10404,
@@ -31485,7 +31485,7 @@
       "isGender": 1,
       "typesId": "2, 4",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10235.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215-hisui.png"
     },
     {
       "id": 10405,
@@ -31508,7 +31508,7 @@
       "isGender": 0,
       "typesId": "11, 17",
       "evolvesFrom": 502,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10236.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/503-hisui.png"
     },
     {
       "id": 10406,
@@ -31531,7 +31531,7 @@
       "isGender": 0,
       "typesId": "12, 2",
       "evolvesFrom": 548,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10237.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/549-hisui.png"
     },
     {
       "id": 10407,
@@ -31554,7 +31554,7 @@
       "isGender": 0,
       "typesId": "1, 8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10238.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/570-hisui.png"
     },
     {
       "id": 10408,
@@ -31577,7 +31577,7 @@
       "isGender": 0,
       "typesId": "1, 8",
       "evolvesFrom": 570,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10239.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/571-hisui.png"
     },
     {
       "id": 10409,
@@ -31600,7 +31600,7 @@
       "isGender": 0,
       "typesId": "14, 3",
       "evolvesFrom": 627,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10240.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/628-hisui.png"
     },
     {
       "id": 10410,
@@ -31623,7 +31623,7 @@
       "isGender": 0,
       "typesId": "9, 16",
       "evolvesFrom": 704,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10241.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/705-hisui.png"
     },
     {
       "id": 10411,
@@ -31646,7 +31646,7 @@
       "isGender": 0,
       "typesId": "9, 16",
       "evolvesFrom": 705,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10242.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/706-hisui.png"
     },
     {
       "id": 10412,
@@ -31669,7 +31669,7 @@
       "isGender": 0,
       "typesId": "15, 6",
       "evolvesFrom": 712,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10243.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/713-hisui.png"
     },
     {
       "id": 10413,
@@ -31692,7 +31692,7 @@
       "isGender": 0,
       "typesId": "12, 2",
       "evolvesFrom": 723,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10244.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/724-hisui.png"
     },
     {
       "id": 10414,
@@ -31715,7 +31715,7 @@
       "isGender": 0,
       "typesId": "9, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10245.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/483-origin.png"
     },
     {
       "id": 10415,
@@ -31738,7 +31738,7 @@
       "isGender": 0,
       "typesId": "11, 16",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10246.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/484-origin.png"
     },
     {
       "id": 10416,
@@ -31761,7 +31761,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10247.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/550-white-striped.png"
     },
     {
       "id": 10417,
@@ -31784,7 +31784,7 @@
       "isGender": 1,
       "typesId": "11, 8",
       "evolvesFrom": 550,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10248.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/902-female.png"
     },
     {
       "id": 10418,
@@ -31807,7 +31807,7 @@
       "isGender": 0,
       "typesId": "18, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10249.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/905-therian.png"
     },
     {
       "id": 10419,
@@ -31830,7 +31830,7 @@
       "isGender": 0,
       "typesId": "2",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10250.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128-paldea-combat-breed.png"
     },
     {
       "id": 10420,
@@ -31853,7 +31853,7 @@
       "isGender": 0,
       "typesId": "2, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10251.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128-paldea-blaze-breed.png"
     },
     {
       "id": 10421,
@@ -31876,7 +31876,7 @@
       "isGender": 0,
       "typesId": "2, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10252.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128-paldea-aqua-breed.png"
     },
     {
       "id": 10422,
@@ -31899,7 +31899,7 @@
       "isGender": 0,
       "typesId": "4, 5",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10253.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194-paldea.png"
     },
     {
       "id": 10423,
@@ -31922,7 +31922,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": 915,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10254.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/916-female.png"
     },
     {
       "id": 10424,
@@ -31945,7 +31945,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": 206,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10255.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/982-three-segment.png"
     },
     {
       "id": 10425,
@@ -31968,7 +31968,7 @@
       "isGender": 0,
       "typesId": "11",
       "evolvesFrom": 963,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10256.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/964-hero.png"
     },
     {
       "id": 10426,
@@ -31991,7 +31991,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": 924,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10257.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/925-family-of-three.png"
     },
     {
       "id": 10427,
@@ -32014,7 +32014,7 @@
       "isGender": 0,
       "typesId": "16, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10258.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978-droopy.png"
     },
     {
       "id": 10428,
@@ -32037,7 +32037,7 @@
       "isGender": 0,
       "typesId": "16, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10259.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/978-stretchy.png"
     },
     {
       "id": 10429,
@@ -32060,7 +32060,7 @@
       "isGender": 0,
       "typesId": "1, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10260.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931-blue-plumage.png"
     },
     {
       "id": 10430,
@@ -32083,7 +32083,7 @@
       "isGender": 0,
       "typesId": "1, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10261.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931-yellow-plumage.png"
     },
     {
       "id": 10431,
@@ -32106,7 +32106,7 @@
       "isGender": 0,
       "typesId": "1, 3",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10262.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/931-white-plumage.png"
     },
     {
       "id": 10432,
@@ -32129,7 +32129,7 @@
       "isGender": 0,
       "typesId": "8",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10263.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/999-roaming.png"
     },
     {
       "id": 10441,
@@ -32152,7 +32152,7 @@
       "isGender": 0,
       "typesId": "5, 1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10272.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/901-bloodmoon.png"
     },
     {
       "id": 10442,
@@ -32175,7 +32175,7 @@
       "isGender": 0,
       "typesId": "12, 11",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10273.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017-wellspring-mask.png"
     },
     {
       "id": 10443,
@@ -32198,7 +32198,7 @@
       "isGender": 0,
       "typesId": "12, 10",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10274.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017-hearthflame-mask.png"
     },
     {
       "id": 10444,
@@ -32221,7 +32221,7 @@
       "isGender": 0,
       "typesId": "12, 6",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10275.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1017-cornerstone-mask.png"
     },
     {
       "id": 10445,
@@ -32244,7 +32244,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10276.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024-terastal.png"
     },
     {
       "id": 10446,
@@ -32267,7 +32267,7 @@
       "isGender": 0,
       "typesId": "1",
       "evolvesFrom": null,
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10277.png"
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1024-stellar.png"
     }
   ]
 }
