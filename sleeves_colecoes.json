@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "name": "Coleção Treinador Avançado",
+      "id": 1
+    },
+    {
+      "name": "Coleção Treinador Avançado USA",
+      "id": 2
+    },
+    {
+      "name": "Coleção de Batalha",
+      "id": 3
+    },
+    {
+      "name": "World Championships",
+      "id": 4
+    },
+    {
+      "name": "Ferramentas de Treinador ",
+      "id": 5
+    },
+    {
+      "name": "Play! Pokémon",
+      "id": 6
+    },
+    {
+      "name": "Play! Pokémon Championships",
+      "id": 7
+    },
+    {
+      "name": "Pokémon Center",
+      "id": 8
+    },
+    {
+      "name": "Pokémon Coleção Ultra-Premium",
+      "id": 9
+    },
+    {
+      "name": "Premium Tournament Collection",
+      "id": 10
+    }
+  ]
+}
