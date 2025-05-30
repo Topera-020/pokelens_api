@@ -2774,6 +2774,21 @@
       "nomePt": "Amigos de jornada",
       "formatoLiga": "000",
       "releaseDate": "2025/03/28"
+    },
+    {
+      "id": "sv10",
+      "language": "en",
+      "name": "Destined Rivals",
+      "printedTotal": 182,
+      "total": 244,
+      "ptcgo": "DRI",
+      "image": "https://images.pokemontcg.io/sv10/logo.png",
+      "codigoLiga": "DRI",
+      "numeroLiga": 182,
+      "codigoMyp": "DRI",
+      "numeroMyp": 182,
+      "formatoLiga": "000",
+      "releaseDate": "2025/05/30"
     }
   ]
 }
