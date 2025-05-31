@@ -2779,6 +2779,7 @@
       "id": "sv10",
       "language": "en",
       "name": "Destined Rivals",
+      "seriesId": 17,
       "printedTotal": 182,
       "total": 244,
       "ptcgo": "DRI",
@@ -2787,6 +2788,7 @@
       "numeroLiga": 182,
       "codigoMyp": "DRI",
       "numeroMyp": 182,
+      "nomePt": "Rivais Predestinados",
       "formatoLiga": "000",
       "releaseDate": "2025/05/30"
     }
