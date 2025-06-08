@@ -16,7 +16,8 @@
       "artistId": "131",
       "numeroLiga": "(212/091)",
       "codigoLiga": "forretress ex (212/091)",
-      "myp": "paf_212"
+      "myp": "paf_212",
+      "image": "https://images.pokemontcg.io/sv4pt5/212.png"
     },
     {
       "id": "sv4pt5-213",
@@ -34,7 +35,8 @@
       "artistId": "131",
       "numeroLiga": "(213/091)",
       "codigoLiga": "toedscruel ex (213/091)",
-      "myp": "paf_213"
+      "myp": "paf_213",
+      "image": "https://images.pokemontcg.io/sv4pt5/213.png"
     },
     {
       "id": "sv4pt5-214",
@@ -52,7 +54,8 @@
       "artistId": "226",
       "numeroLiga": "(214/091)",
       "codigoLiga": "espathra ex (214/091)",
-      "myp": "paf_214"
+      "myp": "paf_214",
+      "image": "https://images.pokemontcg.io/sv4pt5/214.png"
     },
     {
       "id": "sv4pt5-215",
@@ -70,7 +73,8 @@
       "artistId": "183",
       "numeroLiga": "(215/091)",
       "codigoLiga": "alakazam ex (215/091)",
-      "myp": "paf_215"
+      "myp": "paf_215",
+      "image": "https://images.pokemontcg.io/sv4pt5/215.png"
     },
     {
       "id": "sv4pt5-216",
@@ -88,7 +92,8 @@
       "artistId": "178",
       "numeroLiga": "(216/091)",
       "codigoLiga": "mew ex (216/091)",
-      "myp": "paf_216"
+      "myp": "paf_216",
+      "image": "https://images.pokemontcg.io/sv4pt5/216.png"
     },
     {
       "id": "sv4pt5-217",
@@ -106,7 +111,8 @@
       "artistId": "236",
       "numeroLiga": "(217/091)",
       "codigoLiga": "gardevoir ex (217/091)",
-      "myp": "paf_217"
+      "myp": "paf_217",
+      "image": "https://images.pokemontcg.io/sv4pt5/217.png"
     },
     {
       "id": "sv4pt5-218",
@@ -124,7 +130,8 @@
       "artistId": "131",
       "numeroLiga": "(218/091)",
       "codigoLiga": "glimmora ex (218/091)",
-      "myp": "paf_218"
+      "myp": "paf_218",
+      "image": "https://images.pokemontcg.io/sv4pt5/218.png"
     },
     {
       "id": "sv4pt5-219",
@@ -143,7 +150,8 @@
       "artistId": "216",
       "numeroLiga": "(219/091)",
       "codigoLiga": "paldean clodsire ex (219/091)",
-      "myp": "paf_219"
+      "myp": "paf_219",
+      "image": "https://images.pokemontcg.io/sv4pt5/219.png"
     },
     {
       "id": "sv4pt5-220",
@@ -161,7 +169,8 @@
       "artistId": "133",
       "numeroLiga": "(220/091)",
       "codigoLiga": "noivern ex (220/091)",
-      "myp": "paf_220"
+      "myp": "paf_220",
+      "image": "https://images.pokemontcg.io/sv4pt5/220.png"
     },
     {
       "id": "sv4pt5-221",
@@ -179,7 +188,8 @@
       "artistId": "226",
       "numeroLiga": "(221/091)",
       "codigoLiga": "pidgeot ex (221/091)",
-      "myp": "paf_221"
+      "myp": "paf_221",
+      "image": "https://images.pokemontcg.io/sv4pt5/221.png"
     },
     {
       "id": "sv4pt5-222",
@@ -197,7 +207,8 @@
       "artistId": "221",
       "numeroLiga": "(222/091)",
       "codigoLiga": "wigglytuff ex (222/091)",
-      "myp": "paf_222"
+      "myp": "paf_222",
+      "image": "https://images.pokemontcg.io/sv4pt5/222.png"
     },
     {
       "id": "sv4pt5-223",
@@ -215,7 +226,8 @@
       "artistId": "216",
       "numeroLiga": "(223/091)",
       "codigoLiga": "squawkabilly ex (223/091)",
-      "myp": "paf_223"
+      "myp": "paf_223",
+      "image": "https://images.pokemontcg.io/sv4pt5/223.png"
     }
   ]
 }
