@@ -17,7 +17,8 @@
       "artistId": "131",
       "numeroLiga": "(13/10)",
       "codigoLiga": "noivern (13/10)",
-      "myp": "tk1b_013"
+      "myp": "tk1b_013",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/13/low.png"
     },
     {
       "id": "tk6a-30",
@@ -36,7 +37,8 @@
       "artistId": "131",
       "numeroLiga": "(30/10)",
       "codigoLiga": "noivern (30/10)",
-      "myp": "tk1b_030"
+      "myp": "tk1b_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/30/low.png"
     },
     {
       "id": "tk6b-15",
@@ -55,7 +57,8 @@
       "artistId": "131",
       "numeroLiga": "(15/30)",
       "codigoLiga": "sylveon (15/30)",
-      "myp": "_015"
+      "myp": "_015",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/15/low.png"
     },
     {
       "id": "tk6b-30",
@@ -74,7 +77,8 @@
       "artistId": "131",
       "numeroLiga": "(30/30)",
       "codigoLiga": "sylveon (30/30)",
-      "myp": "_030"
+      "myp": "_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/30/low.png"
     },
     {
       "id": "tk8b-4",
@@ -93,7 +97,8 @@
       "artistId": "45",
       "numeroLiga": "(4/30)",
       "codigoLiga": "fletchling (4/30)",
-      "myp": "_004"
+      "myp": "_004",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/4/low.png"
     },
     {
       "id": "tk8a-13",
@@ -112,7 +117,8 @@
       "artistId": "71",
       "numeroLiga": "(13/30)",
       "codigoLiga": "latios (13/30)",
-      "myp": "_013"
+      "myp": "_013",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/13/low.png"
     },
     {
       "id": "tk8b-14",
@@ -131,7 +137,8 @@
       "artistId": "71",
       "numeroLiga": "(14/30)",
       "codigoLiga": "latias (14/30)",
-      "myp": "_014"
+      "myp": "_014",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/14/low.png"
     },
     {
       "id": "tk8a-30",
@@ -150,7 +157,8 @@
       "artistId": "71",
       "numeroLiga": "(30/30)",
       "codigoLiga": "latios (30/30)",
-      "myp": "_030"
+      "myp": "_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/30/low.png"
     },
     {
       "id": "tk8b-30",
@@ -169,7 +177,8 @@
       "artistId": "71",
       "numeroLiga": "(30/30)",
       "codigoLiga": "latias (30/30)",
-      "myp": "_030"
+      "myp": "_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/30/low.png"
     },
     {
       "id": "tk9a-7",
@@ -188,7 +197,8 @@
       "artistId": "12",
       "numeroLiga": "(7/12)",
       "codigoLiga": "taillow (7/12)",
-      "myp": "tk2a_007"
+      "myp": "tk2a_007",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/7/low.png"
     },
     {
       "id": "tk9a-11",
@@ -207,7 +217,8 @@
       "artistId": "130",
       "numeroLiga": "(11/12)",
       "codigoLiga": "electrike (11/12)",
-      "myp": "tk2a_011"
+      "myp": "tk2a_011",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/11/low.png"
     },
     {
       "id": "tk9a-13",
@@ -226,7 +237,8 @@
       "artistId": "115",
       "numeroLiga": "(13/12)",
       "codigoLiga": "manectric (13/12)",
-      "myp": "tk2a_013"
+      "myp": "tk2a_013",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/13/low.png"
     },
     {
       "id": "tk9a-14",
@@ -245,7 +257,8 @@
       "artistId": "152",
       "numeroLiga": "(14/12)",
       "codigoLiga": "pikachu mascarada (14/12)",
-      "myp": "tk2a_014"
+      "myp": "tk2a_014",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/14/low.png"
     },
     {
       "id": "tk9a-16",
@@ -264,7 +277,8 @@
       "artistId": "85",
       "numeroLiga": "(16/12)",
       "codigoLiga": "fletchling (16/12)",
-      "myp": "tk2a_016"
+      "myp": "tk2a_016",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/16/low.png"
     },
     {
       "id": "tk9a-22",
@@ -283,7 +297,8 @@
       "artistId": "115",
       "numeroLiga": "(22/12)",
       "codigoLiga": "manectric (22/12)",
-      "myp": "tk2a_022"
+      "myp": "tk2a_022",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/22/low.png"
     },
     {
       "id": "tk9a-28",
@@ -302,7 +317,8 @@
       "artistId": "130",
       "numeroLiga": "(28/12)",
       "codigoLiga": "electrike (28/12)",
-      "myp": "tk2a_028"
+      "myp": "tk2a_028",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/28/low.png"
     },
     {
       "id": "tk9a-30",
@@ -321,7 +337,8 @@
       "artistId": "152",
       "numeroLiga": "(30/12)",
       "codigoLiga": "pikachu mascarada (30/12)",
-      "myp": "tk2a_030"
+      "myp": "tk2a_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-p/30/low.png"
     },
     {
       "id": "tk9b-4",
@@ -340,7 +357,8 @@
       "artistId": "61",
       "numeroLiga": "(4/12)",
       "codigoLiga": "eevee (4/12)",
-      "myp": "tk2b_004"
+      "myp": "tk2b_004",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-su/4/low.png"
     },
     {
       "id": "tk9b-14",
@@ -359,7 +377,8 @@
       "artistId": "152",
       "numeroLiga": "(14/12)",
       "codigoLiga": "suicune (14/12)",
-      "myp": "tk2b_014"
+      "myp": "tk2b_014",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-su/14/low.png"
     },
     {
       "id": "tk9b-30",
@@ -378,7 +397,8 @@
       "artistId": "152",
       "numeroLiga": "(30/12)",
       "codigoLiga": "suicune (30/12)",
-      "myp": "tk2b_030"
+      "myp": "tk2b_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-su/30/low.png"
     },
     {
       "id": "tk10a-16",
@@ -397,7 +417,8 @@
       "artistId": "131",
       "numeroLiga": "(16/30)",
       "codigoLiga": "lycanroc (16/30)",
-      "myp": "_016"
+      "myp": "_016",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/16/low.png"
     },
     {
       "id": "tk10a-30",
@@ -416,7 +437,8 @@
       "artistId": "131",
       "numeroLiga": "(30/30)",
       "codigoLiga": "lycanroc (30/30)",
-      "myp": "_030"
+      "myp": "_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/30/low.png"
     },
     {
       "id": "tk10b-14",
@@ -435,7 +457,8 @@
       "artistId": "161",
       "numeroLiga": "(14/30)",
       "codigoLiga": "pikachu (14/30)",
-      "myp": "_014"
+      "myp": "_014",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/14/low.png"
     },
     {
       "id": "tk10b-17",
@@ -454,7 +477,8 @@
       "artistId": "131",
       "numeroLiga": "(17/30)",
       "codigoLiga": "raichu de alola (17/30)",
-      "myp": "_017"
+      "myp": "_017",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/17/low.png"
     },
     {
       "id": "tk10b-29",
@@ -473,7 +497,8 @@
       "artistId": "161",
       "numeroLiga": "(29/30)",
       "codigoLiga": "pikachu (29/30)",
-      "myp": "_029"
+      "myp": "_029",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/29/low.png"
     },
     {
       "id": "tk10b-30",
@@ -492,7 +517,8 @@
       "artistId": "131",
       "numeroLiga": "(30/30)",
       "codigoLiga": "raichu de alola (30/30)",
-      "myp": "_030"
+      "myp": "_030",
+      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/30/low.png"
     }
   ]
 }
