@@ -18,7 +18,8 @@
       "artistId": "131",
       "numeroLiga": "(14/172)",
       "codigoLiga": "shaymin-vstar (14/172)",
-      "myp": "brs_014"
+      "myp": "brs_014",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh9/014/low.png"
     },
     {
       "id": "swsh9-18",
@@ -38,7 +39,8 @@
       "artistId": "131",
       "numeroLiga": "(18/172)",
       "codigoLiga": "charizard-vstar (18/172)",
-      "myp": "brs_018"
+      "myp": "brs_018",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh9/018/low.png"
     },
     {
       "id": "swsh9-65",
@@ -58,7 +60,8 @@
       "artistId": "131",
       "numeroLiga": "(65/172)",
       "codigoLiga": "whimsicott-vstar (65/172)",
-      "myp": "brs_065"
+      "myp": "brs_065",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh9/065/low.png"
     },
     {
       "id": "swsh9-123",
@@ -78,7 +81,8 @@
       "artistId": "131",
       "numeroLiga": "(123/172)",
       "codigoLiga": "arceus-vstar (123/172)",
-      "myp": "brs_123"
+      "myp": "brs_123",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh9/123/low.png"
     },
     {
       "id": "swsh10-18",
@@ -98,7 +102,8 @@
       "artistId": "131",
       "numeroLiga": "(018/189)",
       "codigoLiga": "hisuian lilligant-vstar (018/189)",
-      "myp": "asr_018"
+      "myp": "asr_018",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/018/low.png"
     },
     {
       "id": "swsh10-40",
@@ -118,7 +123,8 @@
       "artistId": "178",
       "numeroLiga": "(040/189)",
       "codigoLiga": "origin forme palkia-vstar (040/189)",
-      "myp": "asr_040"
+      "myp": "asr_040",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/040/low.png"
     },
     {
       "id": "swsh10-54",
@@ -138,7 +144,8 @@
       "artistId": "131",
       "numeroLiga": "(054/189)",
       "codigoLiga": "hisuian typhlosion-vstar (054/189)",
-      "myp": "asr_054"
+      "myp": "asr_054",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/054/low.png"
     },
     {
       "id": "swsh10-84",
@@ -158,7 +165,8 @@
       "artistId": "131",
       "numeroLiga": "(084/189)",
       "codigoLiga": "hisuian decidueye-vstar (084/189)",
-      "myp": "asr_084"
+      "myp": "asr_084",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/084/low.png"
     },
     {
       "id": "swsh10-99",
@@ -178,7 +186,8 @@
       "artistId": "131",
       "numeroLiga": "(099/189)",
       "codigoLiga": "darkrai-vstar (099/189)",
-      "myp": "asr_099"
+      "myp": "asr_099",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/099/low.png"
     },
     {
       "id": "swsh10-102",
@@ -198,7 +207,8 @@
       "artistId": "131",
       "numeroLiga": "(102/189)",
       "codigoLiga": "hisuian samurott-vstar (102/189)",
-      "myp": "asr_102"
+      "myp": "asr_102",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/102/low.png"
     },
     {
       "id": "swsh10-114",
@@ -218,7 +228,8 @@
       "artistId": "131",
       "numeroLiga": "(114/189)",
       "codigoLiga": "origin forme dialga-vstar (114/189)",
-      "myp": "asr_114"
+      "myp": "asr_114",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/114/low.png"
     },
     {
       "id": "pgo-31",
@@ -238,7 +249,8 @@
       "artistId": "216",
       "numeroLiga": "(031/78)",
       "codigoLiga": "mewtwo-vstar (031/78)",
-      "myp": "pgo_031"
+      "myp": "pgo_031",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10.5/031/low.png"
     },
     {
       "id": "pgo-50",
@@ -258,7 +270,8 @@
       "artistId": "183",
       "numeroLiga": "(050/78)",
       "codigoLiga": "dragonite-vstar (050/78)",
-      "myp": "pgo_050"
+      "myp": "pgo_050",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10.5/050/low.png"
     },
     {
       "id": "swsh11-57",
@@ -278,7 +291,8 @@
       "artistId": "216",
       "numeroLiga": "(057/196)",
       "codigoLiga": "magnezone-vstar (057/196)",
-      "myp": "lor_057"
+      "myp": "lor_057",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/057/low.png"
     },
     {
       "id": "swsh11-93",
@@ -298,7 +312,8 @@
       "artistId": "131",
       "numeroLiga": "(093/196)",
       "codigoLiga": "aerodactyl-vstar (093/196)",
-      "myp": "lor_093"
+      "myp": "lor_093",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/093/low.png"
     },
     {
       "id": "swsh11-119",
@@ -318,7 +333,8 @@
       "artistId": "216",
       "numeroLiga": "(119/196)",
       "codigoLiga": "drapion-vstar (119/196)",
-      "myp": "lor_119"
+      "myp": "lor_119",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/119/low.png"
     },
     {
       "id": "swsh11-131",
@@ -338,7 +354,8 @@
       "artistId": "131",
       "numeroLiga": "(131/196)",
       "codigoLiga": "giratina-vstar (131/196)",
-      "myp": "lor_131"
+      "myp": "lor_131",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/131/low.png"
     },
     {
       "id": "swsh11-136",
@@ -358,7 +375,8 @@
       "artistId": "131",
       "numeroLiga": "(136/196)",
       "codigoLiga": "hisuian goodra-vstar (136/196)",
-      "myp": "lor_136"
+      "myp": "lor_136",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/136/low.png"
     },
     {
       "id": "swsh11-147",
@@ -378,7 +396,8 @@
       "artistId": "178",
       "numeroLiga": "(147/196)",
       "codigoLiga": "hisuian zoroark-vstar (147/196)",
-      "myp": "lor_147"
+      "myp": "lor_147",
+      "image": "https://images.pokemontcg.io/swsh11/147.png"
     },
     {
       "id": "swsh12-8",
@@ -398,7 +417,8 @@
       "artistId": "216",
       "numeroLiga": "(008/195)",
       "codigoLiga": "serperior-vstar (008/195)",
-      "myp": "sit_008"
+      "myp": "sit_008",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/008/low.png"
     },
     {
       "id": "swsh12-34",
@@ -418,7 +438,8 @@
       "artistId": "241",
       "numeroLiga": "(034/195)",
       "codigoLiga": "alolan vulpix-vstar (034/195)",
-      "myp": "sit_034"
+      "myp": "sit_034",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/034/low.png"
     },
     {
       "id": "swsh12-66",
@@ -438,7 +459,8 @@
       "artistId": "216",
       "numeroLiga": "(066/195)",
       "codigoLiga": "unown-vstar (066/195)",
-      "myp": "sit_066"
+      "myp": "sit_066",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/066/low.png"
     },
     {
       "id": "swsh12-71",
@@ -458,7 +480,8 @@
       "artistId": "216",
       "numeroLiga": "(071/195)",
       "codigoLiga": "mawile-vstar (071/195)",
-      "myp": "sit_071"
+      "myp": "sit_071",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/071/low.png"
     },
     {
       "id": "swsh12-136",
@@ -478,7 +501,8 @@
       "artistId": "225",
       "numeroLiga": "(136/195)",
       "codigoLiga": "regidrago-vstar (136/195)",
-      "myp": "sit_136"
+      "myp": "sit_136",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/136/low.png"
     },
     {
       "id": "swsh12-139",
@@ -498,7 +522,8 @@
       "artistId": "216",
       "numeroLiga": "(139/195)",
       "codigoLiga": "lugia-vstar (139/195)",
-      "myp": "sit_139"
+      "myp": "sit_139",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/139/low.png"
     },
     {
       "id": "swsh12pt5-14",
@@ -518,7 +543,8 @@
       "artistId": "241",
       "numeroLiga": "(014/159)",
       "codigoLiga": "leafeon-vstar (014/159)",
-      "myp": "crz_014"
+      "myp": "crz_014",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/014/low.png"
     },
     {
       "id": "swsh12pt5-19",
@@ -538,7 +564,8 @@
       "artistId": "131",
       "numeroLiga": "(019/159)",
       "codigoLiga": "charizard-vstar (019/159)",
-      "myp": "crz_019"
+      "myp": "crz_019",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/019/low.png"
     },
     {
       "id": "swsh12pt5-23",
@@ -558,7 +585,8 @@
       "artistId": "131",
       "numeroLiga": "(023/159)",
       "codigoLiga": "simisear-vstar (023/159)",
-      "myp": "crz_023"
+      "myp": "crz_023",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/023/low.png"
     },
     {
       "id": "swsh12pt5-46",
@@ -578,7 +606,8 @@
       "artistId": "131",
       "numeroLiga": "(046/159)",
       "codigoLiga": "rotom-vstar (046/159)",
-      "myp": "crz_046"
+      "myp": "crz_046",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/046/low.png"
     },
     {
       "id": "swsh12pt5-55",
@@ -598,7 +627,8 @@
       "artistId": "178",
       "numeroLiga": "(055/159)",
       "codigoLiga": "zeraora-vstar (055/159)",
-      "myp": "crz_055"
+      "myp": "crz_055",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/055/low.png"
     },
     {
       "id": "swsh12pt5-96",
@@ -618,7 +648,8 @@
       "artistId": "131",
       "numeroLiga": "(096/159)",
       "codigoLiga": "zacian-vstar (096/159)",
-      "myp": "crz_096"
+      "myp": "crz_096",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/096/low.png"
     },
     {
       "id": "swsh12pt5-99",
@@ -638,7 +669,8 @@
       "artistId": "131",
       "numeroLiga": "(099/159)",
       "codigoLiga": "zamazenta-vstar (099/159)",
-      "myp": "crz_099"
+      "myp": "crz_099",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/099/low.png"
     },
     {
       "id": "swsh12pt5-114",
@@ -658,7 +690,8 @@
       "artistId": "216",
       "numeroLiga": "(114/159)",
       "codigoLiga": "regigigas-vstar (114/159)",
-      "myp": "crz_114"
+      "myp": "crz_114",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/114/low.png"
     },
     {
       "id": "swsh12pt5gg-GG35",
@@ -679,7 +712,8 @@
       "artistId": "262",
       "numeroLiga": "(GG35/gg70)",
       "codigoLiga": "leafeon-vstar (GG35/gg70)",
-      "myp": "crz_035"
+      "myp": "crz_035",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG35/low.png"
     },
     {
       "id": "swsh12pt5gg-GG37",
@@ -700,7 +734,8 @@
       "artistId": "291",
       "numeroLiga": "(GG37/gg70)",
       "codigoLiga": "simisear-vstar (GG37/gg70)",
-      "myp": "crz_037"
+      "myp": "crz_037",
+      "image": "https://images.pokemontcg.io/swsh12pt5gg/GG37.png"
     },
     {
       "id": "swsh12pt5gg-GG40",
@@ -721,7 +756,8 @@
       "artistId": "266",
       "numeroLiga": "(GG40/gg70)",
       "codigoLiga": "glaceon-vstar (GG40/gg70)",
-      "myp": "crz_040"
+      "myp": "crz_040",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG40/low.png"
     },
     {
       "id": "swsh12pt5gg-GG43",
@@ -742,7 +778,8 @@
       "artistId": "260",
       "numeroLiga": "(GG43/gg70)",
       "codigoLiga": "zeraora-vstar (GG43/gg70)",
-      "myp": "crz_043"
+      "myp": "crz_043",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG43/low.png"
     },
     {
       "id": "swsh12pt5gg-GG44",
@@ -763,7 +800,8 @@
       "artistId": "234",
       "numeroLiga": "(GG44/gg70)",
       "codigoLiga": "mewtwo-vstar (GG44/gg70)",
-      "myp": "crz_044"
+      "myp": "crz_044",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG44/low.png"
     },
     {
       "id": "swsh12pt5gg-GG46",
@@ -784,7 +822,8 @@
       "artistId": "240",
       "numeroLiga": "(GG46/gg70)",
       "codigoLiga": "deoxys-vstar (GG46/gg70)",
-      "myp": "crz_046"
+      "myp": "crz_046",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG46/low.png"
     },
     {
       "id": "swsh12pt5gg-GG50",
@@ -805,7 +844,8 @@
       "artistId": "199",
       "numeroLiga": "(GG50/gg70)",
       "codigoLiga": "darkrai-vstar (GG50/gg70)",
-      "myp": "crz_050"
+      "myp": "crz_050",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG50/low.png"
     },
     {
       "id": "swsh12pt5gg-GG52",
@@ -826,7 +866,8 @@
       "artistId": "163",
       "numeroLiga": "(GG52/gg70)",
       "codigoLiga": "hisuian samurott-vstar (GG52/gg70)",
-      "myp": "crz_052"
+      "myp": "crz_052",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG52/low.png"
     },
     {
       "id": "swsh12pt5gg-GG55",
@@ -847,7 +888,8 @@
       "artistId": "34",
       "numeroLiga": "(GG55/gg70)",
       "codigoLiga": "regigigas-vstar (GG55/gg70)",
-      "myp": "crz_055"
+      "myp": "crz_055",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG55/low.png"
     },
     {
       "id": "swsh12pt5gg-GG56",
@@ -868,7 +910,8 @@
       "artistId": "284",
       "numeroLiga": "(GG56/gg70)",
       "codigoLiga": "hisuian zoroark-vstar (GG56/gg70)",
-      "myp": "crz_056"
+      "myp": "crz_056",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/GG56/low.png"
     }
   ]
 }
