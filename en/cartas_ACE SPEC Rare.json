@@ -14,7 +14,8 @@
       "rarityId": "15",
       "numeroLiga": "(058/064)",
       "codigoLiga": "dangerous laser (058/064)",
-      "myp": "sfa_058"
+      "myp": "sfa_058",
+      "image": "https://images.pokemontcg.io/sv6pt5/58.png"
     },
     {
       "id": "sv6pt5-60",
@@ -30,7 +31,8 @@
       "rarityId": "15",
       "numeroLiga": "(060/064)",
       "codigoLiga": "neutralization zone (060/064)",
-      "myp": "sfa_060"
+      "myp": "sfa_060",
+      "image": "https://images.pokemontcg.io/sv6pt5/60.png"
     },
     {
       "id": "sv6pt5-62",
@@ -46,7 +48,8 @@
       "rarityId": "15",
       "numeroLiga": "(062/064)",
       "codigoLiga": "poké vital a (062/064)",
-      "myp": "sfa_062"
+      "myp": "sfa_062",
+      "image": "https://images.pokemontcg.io/sv6pt5/62.png"
     },
     {
       "id": "sv7-134",
@@ -62,7 +65,8 @@
       "rarityId": "15",
       "numeroLiga": "(134/142)",
       "codigoLiga": "deluxe bomb (134/142)",
-      "myp": "scr_134"
+      "myp": "scr_134",
+      "image": "https://images.pokemontcg.io/sv7/134.png"
     },
     {
       "id": "sv7-136",
@@ -78,7 +82,8 @@
       "rarityId": "15",
       "numeroLiga": "(136/142)",
       "codigoLiga": "grand tree (136/142)",
-      "myp": "scr_136"
+      "myp": "scr_136",
+      "image": "https://images.pokemontcg.io/sv7/136.png"
     },
     {
       "id": "sv7-142",
@@ -93,7 +98,8 @@
       "rarityId": "15",
       "numeroLiga": "(142/142)",
       "codigoLiga": "sparkling crystal (142/142)",
-      "myp": "scr_142"
+      "myp": "scr_142",
+      "image": "https://images.pokemontcg.io/sv7/142.png"
     },
     {
       "id": "sv8-162",
@@ -108,7 +114,8 @@
       "rarityId": "15",
       "numeroLiga": "(162/191)",
       "codigoLiga": "amulet of hope (162/191)",
-      "myp": "ssp_162"
+      "myp": "ssp_162",
+      "image": "https://images.pokemontcg.io/sv8/162.png"
     },
     {
       "id": "sv8-164",
@@ -123,7 +130,8 @@
       "rarityId": "15",
       "numeroLiga": "(164/191)",
       "codigoLiga": "brilliant blender (164/191)",
-      "myp": "ssp_164"
+      "myp": "ssp_164",
+      "image": "https://images.pokemontcg.io/sv8/164.png"
     },
     {
       "id": "sv8-176",
@@ -137,7 +145,8 @@
       "rarityId": "15",
       "numeroLiga": "(176/191)",
       "codigoLiga": "energy search pro (176/191)",
-      "myp": "ssp_176"
+      "myp": "ssp_176",
+      "image": "https://images.pokemontcg.io/sv8/176.png"
     },
     {
       "id": "sv8-182",
@@ -151,7 +160,8 @@
       "rarityId": "15",
       "numeroLiga": "(182/191)",
       "codigoLiga": "megaton blower (182/191)",
-      "myp": "ssp_182"
+      "myp": "ssp_182",
+      "image": "https://images.pokemontcg.io/sv8/182.png"
     },
     {
       "id": "sv8-183",
@@ -165,7 +175,8 @@
       "rarityId": "15",
       "numeroLiga": "(183/191)",
       "codigoLiga": "miracle headset (183/191)",
-      "myp": "ssp_183"
+      "myp": "ssp_183",
+      "image": "https://images.pokemontcg.io/sv8/183.png"
     },
     {
       "id": "sv8-185",
@@ -179,7 +190,8 @@
       "rarityId": "15",
       "numeroLiga": "(185/191)",
       "codigoLiga": "precious trolley (185/191)",
-      "myp": "ssp_185"
+      "myp": "ssp_185",
+      "image": "https://images.pokemontcg.io/sv8/185.png"
     },
     {
       "id": "sv8-186",
@@ -194,7 +206,8 @@
       "rarityId": "15",
       "numeroLiga": "(186/191)",
       "codigoLiga": "scramble switch (186/191)",
-      "myp": "ssp_186"
+      "myp": "ssp_186",
+      "image": "https://images.pokemontcg.io/sv8/186.png"
     },
     {
       "id": "sv8-191",
@@ -208,7 +221,8 @@
       "rarityId": "15",
       "numeroLiga": "(191/191)",
       "codigoLiga": "enriching energy (191/191)",
-      "myp": "ssp_191"
+      "myp": "ssp_191",
+      "image": "https://images.pokemontcg.io/sv8/191.png"
     },
     {
       "id": "sv8pt5-116",
@@ -223,7 +237,8 @@
       "rarityId": "15",
       "numeroLiga": "(116/131)",
       "codigoLiga": "max rod (116/131)",
-      "myp": "pre_116"
+      "myp": "pre_116",
+      "image": "https://images.pokemontcg.io/sv8pt5/116.png"
     },
     {
       "id": "sv8pt5-117",
@@ -238,7 +253,8 @@
       "rarityId": "15",
       "numeroLiga": "(117/131)",
       "codigoLiga": "maximum belt (117/131)",
-      "myp": "pre_117"
+      "myp": "pre_117",
+      "image": "https://images.pokemontcg.io/sv8pt5/117.png"
     },
     {
       "id": "sv8pt5-119",
@@ -253,7 +269,8 @@
       "rarityId": "15",
       "numeroLiga": "(119/131)",
       "codigoLiga": "prime catcher (119/131)",
-      "myp": "pre_119"
+      "myp": "pre_119",
+      "image": "https://images.pokemontcg.io/sv8pt5/119.png"
     },
     {
       "id": "sv8pt5-128",
@@ -268,7 +285,8 @@
       "rarityId": "15",
       "numeroLiga": "(128/131)",
       "codigoLiga": "scoop up cyclone (128/131)",
-      "myp": "pre_128"
+      "myp": "pre_128",
+      "image": "https://images.pokemontcg.io/sv8pt5/128.png"
     },
     {
       "id": "sv8pt5-129",
@@ -283,7 +301,8 @@
       "rarityId": "15",
       "numeroLiga": "(129/131)",
       "codigoLiga": "sparkling crystal (129/131)",
-      "myp": "pre_129"
+      "myp": "pre_129",
+      "image": "https://images.pokemontcg.io/sv8pt5/129.png"
     },
     {
       "id": "sv8pt5-131",
@@ -298,7 +317,8 @@
       "rarityId": "15",
       "numeroLiga": "(131/131)",
       "codigoLiga": "treasure tracker (131/131)",
-      "myp": "pre_131"
+      "myp": "pre_131",
+      "image": "https://images.pokemontcg.io/sv8pt5/131.png"
     }
   ]
 }
