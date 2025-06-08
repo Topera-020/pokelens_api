@@ -17,7 +17,8 @@
       "artistId": "71",
       "numeroLiga": "(107/111)",
       "codigoLiga": "mudkip star (107/111)",
-      "myp": "trr_107"
+      "myp": "trr_107",
+      "image": "https://images.pokemontcg.io/ex7/107.png"
     },
     {
       "id": "ex7-108",
@@ -36,7 +37,8 @@
       "artistId": "71",
       "numeroLiga": "(108/111)",
       "codigoLiga": "torchic star (108/111)",
-      "myp": "trr_108"
+      "myp": "trr_108",
+      "image": "https://images.pokemontcg.io/ex7/108.png"
     },
     {
       "id": "ex7-109",
@@ -55,7 +57,8 @@
       "artistId": "71",
       "numeroLiga": "(109/111)",
       "codigoLiga": "treecko star (109/111)",
-      "myp": "trr_109"
+      "myp": "trr_109",
+      "image": "https://images.pokemontcg.io/ex7/109.png"
     },
     {
       "id": "ex8-105",
@@ -74,7 +77,8 @@
       "artistId": "71",
       "numeroLiga": "(105/107)",
       "codigoLiga": "latias star (105/107)",
-      "myp": "dx_105"
+      "myp": "dx_105",
+      "image": "https://images.pokemontcg.io/ex8/105.png"
     },
     {
       "id": "ex8-106",
@@ -93,7 +97,8 @@
       "artistId": "71",
       "numeroLiga": "(106/107)",
       "codigoLiga": "latios star (106/107)",
-      "myp": "dx_106"
+      "myp": "dx_106",
+      "image": "https://images.pokemontcg.io/ex8/106.png"
     },
     {
       "id": "ex8-107",
@@ -112,7 +117,8 @@
       "artistId": "71",
       "numeroLiga": "(107/107)",
       "codigoLiga": "rayquaza star (107/107)",
-      "myp": "dx_107"
+      "myp": "dx_107",
+      "image": "https://images.pokemontcg.io/ex8/107.png"
     },
     {
       "id": "ex10-113",
@@ -131,7 +137,8 @@
       "artistId": "71",
       "numeroLiga": "(113/145)",
       "codigoLiga": "entei star (113/145)",
-      "myp": "uf_113"
+      "myp": "uf_113",
+      "image": "https://images.pokemontcg.io/ex10/113.png"
     },
     {
       "id": "ex10-114",
@@ -150,7 +157,8 @@
       "artistId": "71",
       "numeroLiga": "(114/145)",
       "codigoLiga": "raikou star (114/145)",
-      "myp": "uf_114"
+      "myp": "uf_114",
+      "image": "https://images.pokemontcg.io/ex10/114.png"
     },
     {
       "id": "ex10-115",
@@ -169,7 +177,8 @@
       "artistId": "71",
       "numeroLiga": "(115/145)",
       "codigoLiga": "suicune star (115/145)",
-      "myp": "uf_115"
+      "myp": "uf_115",
+      "image": "https://images.pokemontcg.io/ex10/115.png"
     },
     {
       "id": "ex11-111",
@@ -188,7 +197,8 @@
       "artistId": "71",
       "numeroLiga": "(111/113)",
       "codigoLiga": "groudon star (111/113)",
-      "myp": "ds_111"
+      "myp": "ds_111",
+      "image": "https://images.pokemontcg.io/ex11/111.png"
     },
     {
       "id": "ex11-112",
@@ -207,7 +217,8 @@
       "artistId": "71",
       "numeroLiga": "(112/113)",
       "codigoLiga": "kyogre star (112/113)",
-      "myp": "ds_112"
+      "myp": "ds_112",
+      "image": "https://images.pokemontcg.io/ex11/112.png"
     },
     {
       "id": "ex11-113",
@@ -226,7 +237,8 @@
       "artistId": "71",
       "numeroLiga": "(113/113)",
       "codigoLiga": "metagross star (113/113)",
-      "myp": "ds_113"
+      "myp": "ds_113",
+      "image": "https://images.pokemontcg.io/ex11/113.png"
     },
     {
       "id": "ex12-90",
@@ -245,7 +257,8 @@
       "artistId": "71",
       "numeroLiga": "(90/92)",
       "codigoLiga": "regice star (90/92)",
-      "myp": "lm_090"
+      "myp": "lm_090",
+      "image": "https://images.pokemontcg.io/ex12/90.png"
     },
     {
       "id": "ex12-91",
@@ -264,7 +277,8 @@
       "artistId": "71",
       "numeroLiga": "(91/92)",
       "codigoLiga": "regirock star (91/92)",
-      "myp": "lm_091"
+      "myp": "lm_091",
+      "image": "https://images.pokemontcg.io/ex12/91.png"
     },
     {
       "id": "ex12-92",
@@ -283,7 +297,8 @@
       "artistId": "71",
       "numeroLiga": "(92/92)",
       "codigoLiga": "registeel star (92/92)",
-      "myp": "lm_092"
+      "myp": "lm_092",
+      "image": "https://images.pokemontcg.io/ex12/92.png"
     },
     {
       "id": "ex13-102",
@@ -302,7 +317,8 @@
       "artistId": "71",
       "numeroLiga": "(102/110)",
       "codigoLiga": "gyarados star (102/110)",
-      "myp": "hp_102"
+      "myp": "hp_102",
+      "image": "https://images.pokemontcg.io/ex13/102.png"
     },
     {
       "id": "ex13-103",
@@ -321,7 +337,8 @@
       "artistId": "71",
       "numeroLiga": "(103/110)",
       "codigoLiga": "mewtwo star (103/110)",
-      "myp": "hp_103"
+      "myp": "hp_103",
+      "image": "https://images.pokemontcg.io/ex13/103.png"
     },
     {
       "id": "ex13-104",
@@ -340,7 +357,8 @@
       "artistId": "71",
       "numeroLiga": "(104/110)",
       "codigoLiga": "pikachu star (104/110)",
-      "myp": "hp_104"
+      "myp": "hp_104",
+      "image": "https://images.pokemontcg.io/ex13/104.png"
     },
     {
       "id": "ex14-99",
@@ -359,7 +377,8 @@
       "artistId": "71",
       "numeroLiga": "(99/100)",
       "codigoLiga": "alakazam star (99/100)",
-      "myp": "cg_099"
+      "myp": "cg_099",
+      "image": "https://images.pokemontcg.io/ex14/99.png"
     },
     {
       "id": "ex14-100",
@@ -378,7 +397,8 @@
       "artistId": "71",
       "numeroLiga": "(100/100)",
       "codigoLiga": "celebi star (100/100)",
-      "myp": "cg_100"
+      "myp": "cg_100",
+      "image": "https://images.pokemontcg.io/ex14/100.png"
     },
     {
       "id": "ex15-100",
@@ -397,7 +417,8 @@
       "artistId": "71",
       "numeroLiga": "(100/101)",
       "codigoLiga": "charizard star (100/101)",
-      "myp": "df_100"
+      "myp": "df_100",
+      "image": "https://images.pokemontcg.io/ex15/100.png"
     },
     {
       "id": "ex15-101",
@@ -416,7 +437,8 @@
       "artistId": "71",
       "numeroLiga": "(101/101)",
       "codigoLiga": "mew star (101/101)",
-      "myp": "df_101"
+      "myp": "df_101",
+      "image": "https://images.pokemontcg.io/ex15/101.png"
     },
     {
       "id": "ex16-100",
@@ -435,7 +457,8 @@
       "artistId": "71",
       "numeroLiga": "(100/108)",
       "codigoLiga": "flareon star (100/108)",
-      "myp": "pk_100"
+      "myp": "pk_100",
+      "image": "https://images.pokemontcg.io/ex16/100.png"
     },
     {
       "id": "ex16-101",
@@ -454,7 +477,8 @@
       "artistId": "71",
       "numeroLiga": "(101/108)",
       "codigoLiga": "jolteon star (101/108)",
-      "myp": "pk_101"
+      "myp": "pk_101",
+      "image": "https://images.pokemontcg.io/ex16/101.png"
     },
     {
       "id": "ex16-102",
@@ -473,7 +497,8 @@
       "artistId": "71",
       "numeroLiga": "(102/108)",
       "codigoLiga": "vaporeon star (102/108)",
-      "myp": "pk_102"
+      "myp": "pk_102",
+      "image": "https://images.pokemontcg.io/ex16/102.png"
     }
   ]
 }
