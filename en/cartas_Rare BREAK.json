@@ -17,7 +17,8 @@
       "artistId": "131",
       "numeroLiga": "(12/162)",
       "codigoLiga": "chesnaught break (12/162)",
-      "myp": "bkt_012"
+      "myp": "bkt_012",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/12/low.png"
     },
     {
       "id": "xy8-50",
@@ -37,7 +38,8 @@
       "artistId": "131",
       "numeroLiga": "(50/162)",
       "codigoLiga": "raichu break (50/162)",
-      "myp": "bkt_050"
+      "myp": "bkt_050",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/50/low.png"
     },
     {
       "id": "xy8-79",
@@ -57,7 +59,8 @@
       "artistId": "131",
       "numeroLiga": "(79/162)",
       "codigoLiga": "marowak break (79/162)",
-      "myp": "bkt_079"
+      "myp": "bkt_079",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/79/low.png"
     },
     {
       "id": "xy8-92",
@@ -77,7 +80,8 @@
       "artistId": "131",
       "numeroLiga": "(92/162)",
       "codigoLiga": "zoroark break (92/162)",
-      "myp": "bkt_092"
+      "myp": "bkt_092",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/92/low.png"
     },
     {
       "id": "xy8-104",
@@ -97,7 +101,8 @@
       "artistId": "131",
       "numeroLiga": "(104/162)",
       "codigoLiga": "florges break (104/162)",
-      "myp": "bkt_104"
+      "myp": "bkt_104",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/104/low.png"
     },
     {
       "id": "xy8-113",
@@ -117,7 +122,8 @@
       "artistId": "131",
       "numeroLiga": "(113/162)",
       "codigoLiga": "noivern break (113/162)",
-      "myp": "bkt_113"
+      "myp": "bkt_113",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/113/low.png"
     },
     {
       "id": "xy9-18",
@@ -137,7 +143,8 @@
       "artistId": "131",
       "numeroLiga": "(18/122)",
       "codigoLiga": "golduck break (18/122)",
-      "myp": "bkp_018"
+      "myp": "bkp_018",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/18/low.png"
     },
     {
       "id": "xy9-41",
@@ -157,7 +164,8 @@
       "artistId": "131",
       "numeroLiga": "(41/122)",
       "codigoLiga": "greninja break (41/122)",
-      "myp": "bkp_041"
+      "myp": "bkp_041",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/41/low.png"
     },
     {
       "id": "xy9-47",
@@ -177,7 +185,8 @@
       "artistId": "131",
       "numeroLiga": "(47/122)",
       "codigoLiga": "luxray break (47/122)",
-      "myp": "bkp_047"
+      "myp": "bkp_047",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/47/low.png"
     },
     {
       "id": "xy9-66",
@@ -197,7 +206,8 @@
       "artistId": "131",
       "numeroLiga": "(66/122)",
       "codigoLiga": "trevenant break (66/122)",
-      "myp": "bkp_066"
+      "myp": "bkp_066",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/66/low.png"
     },
     {
       "id": "xy9-89",
@@ -217,7 +227,8 @@
       "artistId": "131",
       "numeroLiga": "(89/122)",
       "codigoLiga": "raticate break (89/122)",
-      "myp": "bkp_089"
+      "myp": "bkp_089",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/89/low.png"
     },
     {
       "id": "xy10-14",
@@ -237,7 +248,8 @@
       "artistId": "131",
       "numeroLiga": "(14/124)",
       "codigoLiga": "delphox break (14/124)",
-      "myp": "fco_014"
+      "myp": "fco_014",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/14/low.png"
     },
     {
       "id": "xy10-19",
@@ -257,7 +269,8 @@
       "artistId": "131",
       "numeroLiga": "(19/124)",
       "codigoLiga": "omastar break (19/124)",
-      "myp": "fco_019"
+      "myp": "fco_019",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/19/low.png"
     },
     {
       "id": "xy10-51",
@@ -277,7 +290,8 @@
       "artistId": "131",
       "numeroLiga": "(51/124)",
       "codigoLiga": "carbink break (51/124)",
-      "myp": "fco_051"
+      "myp": "fco_051",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/51/low.png"
     },
     {
       "id": "xy10-62",
@@ -297,7 +311,8 @@
       "artistId": "131",
       "numeroLiga": "(62/124)",
       "codigoLiga": "bronzong break (62/124)",
-      "myp": "fco_062"
+      "myp": "fco_062",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/62/low.png"
     },
     {
       "id": "xy10-79",
@@ -317,7 +332,8 @@
       "artistId": "131",
       "numeroLiga": "(79/124)",
       "codigoLiga": "lugia break (79/124)",
-      "myp": "fco_079"
+      "myp": "fco_079",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/79/low.png"
     },
     {
       "id": "xy11-8",
@@ -337,7 +353,8 @@
       "artistId": "131",
       "numeroLiga": "(8/114)",
       "codigoLiga": "yanmega break (8/114)",
-      "myp": "sts_008"
+      "myp": "sts_008",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/8/low.png"
     },
     {
       "id": "xy11-21",
@@ -357,7 +374,8 @@
       "artistId": "131",
       "numeroLiga": "(21/114)",
       "codigoLiga": "talonflame break (21/114)",
-      "myp": "sts_021"
+      "myp": "sts_021",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/21/low.png"
     },
     {
       "id": "xy11-24",
@@ -377,7 +395,8 @@
       "artistId": "131",
       "numeroLiga": "(24/114)",
       "codigoLiga": "pyroar break (24/114)",
-      "myp": "sts_024"
+      "myp": "sts_024",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/24/low.png"
     },
     {
       "id": "xy11-35",
@@ -397,7 +416,8 @@
       "artistId": "131",
       "numeroLiga": "(35/114)",
       "codigoLiga": "clawitzer break (35/114)",
-      "myp": "sts_035"
+      "myp": "sts_035",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/35/low.png"
     },
     {
       "id": "xy11-66",
@@ -417,7 +437,8 @@
       "artistId": "131",
       "numeroLiga": "(66/114)",
       "codigoLiga": "yveltal break (66/114)",
-      "myp": "sts_066"
+      "myp": "sts_066",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/66/low.png"
     },
     {
       "id": "xy11-82",
@@ -437,7 +458,8 @@
       "artistId": "131",
       "numeroLiga": "(82/114)",
       "codigoLiga": "xerneas break (82/114)",
-      "myp": "sts_082"
+      "myp": "sts_082",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/82/low.png"
     },
     {
       "id": "xy11-87",
@@ -457,7 +479,8 @@
       "artistId": "131",
       "numeroLiga": "(87/114)",
       "codigoLiga": "hydreigon break (87/114)",
-      "myp": "sts_087"
+      "myp": "sts_087",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/87/low.png"
     },
     {
       "id": "xy12-16",
@@ -477,7 +500,8 @@
       "artistId": "131",
       "numeroLiga": "(16/108)",
       "codigoLiga": "ninetales break (16/108)",
-      "myp": "evo_016"
+      "myp": "evo_016",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/16/low.png"
     },
     {
       "id": "xy12-32",
@@ -497,7 +521,8 @@
       "artistId": "131",
       "numeroLiga": "(32/108)",
       "codigoLiga": "starmie break (32/108)",
-      "myp": "evo_032"
+      "myp": "evo_032",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/32/low.png"
     },
     {
       "id": "xy12-46",
@@ -517,7 +542,8 @@
       "artistId": "131",
       "numeroLiga": "(46/108)",
       "codigoLiga": "nidoking break (46/108)",
-      "myp": "evo_046"
+      "myp": "evo_046",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/46/low.png"
     },
     {
       "id": "xy12-60",
@@ -537,7 +563,8 @@
       "artistId": "131",
       "numeroLiga": "(60/108)",
       "codigoLiga": "machamp break (60/108)",
-      "myp": "evo_060"
+      "myp": "evo_060",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/60/low.png"
     }
   ]
 }
