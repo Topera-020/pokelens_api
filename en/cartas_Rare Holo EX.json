@@ -16,7 +16,8 @@
       "artistId": "69",
       "numeroLiga": "(96/109)",
       "codigoLiga": "chansey ex (96/109)",
-      "myp": "rs_096"
+      "myp": "rs_096",
+      "image": "https://images.pokemontcg.io/ex1/96.png"
     },
     {
       "id": "ex1-97",
@@ -34,7 +35,8 @@
       "artistId": "23",
       "numeroLiga": "(97/109)",
       "codigoLiga": "electabuzz ex (97/109)",
-      "myp": "rs_097"
+      "myp": "rs_097",
+      "image": "https://images.pokemontcg.io/ex1/97.png"
     },
     {
       "id": "ex1-98",
@@ -52,7 +54,8 @@
       "artistId": "9",
       "numeroLiga": "(98/109)",
       "codigoLiga": "hitmonchan ex (98/109)",
-      "myp": "rs_098"
+      "myp": "rs_098",
+      "image": "https://images.pokemontcg.io/ex1/98.png"
     },
     {
       "id": "ex1-99",
@@ -70,7 +73,8 @@
       "artistId": "23",
       "numeroLiga": "(99/109)",
       "codigoLiga": "lapras ex (99/109)",
-      "myp": "rs_099"
+      "myp": "rs_099",
+      "image": "https://images.pokemontcg.io/ex1/99.png"
     },
     {
       "id": "ex1-100",
@@ -88,7 +92,8 @@
       "artistId": "23",
       "numeroLiga": "(100/109)",
       "codigoLiga": "magmar ex (100/109)",
-      "myp": "rs_100"
+      "myp": "rs_100",
+      "image": "https://images.pokemontcg.io/ex1/100.png"
     },
     {
       "id": "ex1-101",
@@ -106,7 +111,8 @@
       "artistId": "59",
       "numeroLiga": "(101/109)",
       "codigoLiga": "mewtwo ex (101/109)",
-      "myp": "rs_101"
+      "myp": "rs_101",
+      "image": "https://images.pokemontcg.io/ex1/101.png"
     },
     {
       "id": "ex1-102",
@@ -124,7 +130,8 @@
       "artistId": "69",
       "numeroLiga": "(102/109)",
       "codigoLiga": "scyther ex (102/109)",
-      "myp": "rs_102"
+      "myp": "rs_102",
+      "image": "https://images.pokemontcg.io/ex1/102.png"
     },
     {
       "id": "ex1-103",
@@ -142,7 +149,8 @@
       "artistId": "69",
       "numeroLiga": "(103/109)",
       "codigoLiga": "sneasel ex (103/109)",
-      "myp": "rs_103"
+      "myp": "rs_103",
+      "image": "https://images.pokemontcg.io/ex1/103.png"
     },
     {
       "id": "ex2-94",
@@ -160,7 +168,8 @@
       "artistId": "23",
       "numeroLiga": "(94/100)",
       "codigoLiga": "aerodactyl ex (94/100)",
-      "myp": "ss_094"
+      "myp": "ss_094",
+      "image": "https://images.pokemontcg.io/ex2/94.png"
     },
     {
       "id": "ex2-95",
@@ -178,7 +187,8 @@
       "artistId": "23",
       "numeroLiga": "(95/100)",
       "codigoLiga": "aggron ex (95/100)",
-      "myp": "ss_095"
+      "myp": "ss_095",
+      "image": "https://images.pokemontcg.io/ex2/95.png"
     },
     {
       "id": "ex2-96",
@@ -196,7 +206,8 @@
       "artistId": "23",
       "numeroLiga": "(96/100)",
       "codigoLiga": "gardevoir ex (96/100)",
-      "myp": "ss_096"
+      "myp": "ss_096",
+      "image": "https://images.pokemontcg.io/ex2/96.png"
     },
     {
       "id": "ex2-97",
@@ -214,7 +225,8 @@
       "artistId": "69",
       "numeroLiga": "(97/100)",
       "codigoLiga": "kabutops ex (97/100)",
-      "myp": "ss_097"
+      "myp": "ss_097",
+      "image": "https://images.pokemontcg.io/ex2/97.png"
     },
     {
       "id": "ex2-98",
@@ -232,7 +244,8 @@
       "artistId": "69",
       "numeroLiga": "(98/100)",
       "codigoLiga": "raichu ex (98/100)",
-      "myp": "ss_098"
+      "myp": "ss_098",
+      "image": "https://images.pokemontcg.io/ex2/98.png"
     },
     {
       "id": "ex2-99",
@@ -250,7 +263,8 @@
       "artistId": "23",
       "numeroLiga": "(99/100)",
       "codigoLiga": "typhlosion ex (99/100)",
-      "myp": "ss_099"
+      "myp": "ss_099",
+      "image": "https://images.pokemontcg.io/ex2/99.png"
     },
     {
       "id": "ex2-100",
@@ -268,7 +282,8 @@
       "artistId": "69",
       "numeroLiga": "(100/100)",
       "codigoLiga": "wailord ex (100/100)",
-      "myp": "ss_100"
+      "myp": "ss_100",
+      "image": "https://images.pokemontcg.io/ex2/100.png"
     },
     {
       "id": "ex3-89",
@@ -286,7 +301,8 @@
       "artistId": "69",
       "numeroLiga": "(89/100)",
       "codigoLiga": "ampharos ex (89/100)",
-      "myp": "dr_089"
+      "myp": "dr_089",
+      "image": "https://images.pokemontcg.io/ex3/89.png"
     },
     {
       "id": "ex3-90",
@@ -304,7 +320,8 @@
       "artistId": "69",
       "numeroLiga": "(90/100)",
       "codigoLiga": "dragonite ex (90/100)",
-      "myp": "dr_090"
+      "myp": "dr_090",
+      "image": "https://images.pokemontcg.io/ex3/90.png"
     },
     {
       "id": "ex3-91",
@@ -322,7 +339,8 @@
       "artistId": "23",
       "numeroLiga": "(91/100)",
       "codigoLiga": "golem ex (91/100)",
-      "myp": "dr_091"
+      "myp": "dr_091",
+      "image": "https://images.pokemontcg.io/ex3/91.png"
     },
     {
       "id": "ex3-92",
@@ -340,7 +358,8 @@
       "artistId": "23",
       "numeroLiga": "(92/100)",
       "codigoLiga": "kingdra ex (92/100)",
-      "myp": "dr_092"
+      "myp": "dr_092",
+      "image": "https://images.pokemontcg.io/ex3/92.png"
     },
     {
       "id": "ex3-93",
@@ -358,7 +377,8 @@
       "artistId": "69",
       "numeroLiga": "(93/100)",
       "codigoLiga": "latias ex (93/100)",
-      "myp": "dr_093"
+      "myp": "dr_093",
+      "image": "https://images.pokemontcg.io/ex3/93.png"
     },
     {
       "id": "ex3-94",
@@ -376,7 +396,8 @@
       "artistId": "69",
       "numeroLiga": "(94/100)",
       "codigoLiga": "latios ex (94/100)",
-      "myp": "dr_094"
+      "myp": "dr_094",
+      "image": "https://images.pokemontcg.io/ex3/94.png"
     },
     {
       "id": "ex3-95",
@@ -394,7 +415,8 @@
       "artistId": "23",
       "numeroLiga": "(95/100)",
       "codigoLiga": "magcargo ex (95/100)",
-      "myp": "dr_095"
+      "myp": "dr_095",
+      "image": "https://images.pokemontcg.io/ex3/95.png"
     },
     {
       "id": "ex3-96",
@@ -412,7 +434,8 @@
       "artistId": "23",
       "numeroLiga": "(96/100)",
       "codigoLiga": "muk ex (96/100)",
-      "myp": "dr_096"
+      "myp": "dr_096",
+      "image": "https://images.pokemontcg.io/ex3/96.png"
     },
     {
       "id": "ex3-97",
@@ -430,7 +453,8 @@
       "artistId": "23",
       "numeroLiga": "(97/100)",
       "codigoLiga": "rayquaza ex (97/100)",
-      "myp": "dr_097"
+      "myp": "dr_097",
+      "image": "https://images.pokemontcg.io/ex3/97.png"
     },
     {
       "id": "ex4-89",
@@ -448,7 +472,8 @@
       "artistId": "23",
       "numeroLiga": "(89/97)",
       "codigoLiga": "blaziken ex (89/97)",
-      "myp": "ma_089"
+      "myp": "ma_089",
+      "image": "https://images.pokemontcg.io/ex4/89.png"
     },
     {
       "id": "ex4-90",
@@ -466,7 +491,8 @@
       "artistId": "69",
       "numeroLiga": "(90/97)",
       "codigoLiga": "cradily ex (90/97)",
-      "myp": "ma_090"
+      "myp": "ma_090",
+      "image": "https://images.pokemontcg.io/ex4/90.png"
     },
     {
       "id": "ex4-91",
@@ -484,7 +510,8 @@
       "artistId": "69",
       "numeroLiga": "(91/97)",
       "codigoLiga": "entei ex (91/97)",
-      "myp": "ma_091"
+      "myp": "ma_091",
+      "image": "https://images.pokemontcg.io/ex4/91.png"
     },
     {
       "id": "ex4-92",
@@ -502,7 +529,8 @@
       "artistId": "69",
       "numeroLiga": "(92/97)",
       "codigoLiga": "raikou ex (92/97)",
-      "myp": "ma_092"
+      "myp": "ma_092",
+      "image": "https://images.pokemontcg.io/ex4/92.png"
     },
     {
       "id": "ex4-93",
@@ -520,7 +548,8 @@
       "artistId": "23",
       "numeroLiga": "(93/97)",
       "codigoLiga": "sceptile ex (93/97)",
-      "myp": "ma_093"
+      "myp": "ma_093",
+      "image": "https://images.pokemontcg.io/ex4/93.png"
     },
     {
       "id": "ex4-94",
@@ -538,7 +567,8 @@
       "artistId": "69",
       "numeroLiga": "(94/97)",
       "codigoLiga": "suicune ex (94/97)",
-      "myp": "ma_094"
+      "myp": "ma_094",
+      "image": "https://images.pokemontcg.io/ex4/94.png"
     },
     {
       "id": "ex4-95",
@@ -556,7 +586,8 @@
       "artistId": "23",
       "numeroLiga": "(95/97)",
       "codigoLiga": "swampert ex (95/97)",
-      "myp": "ma_095"
+      "myp": "ma_095",
+      "image": "https://images.pokemontcg.io/ex4/95.png"
     },
     {
       "id": "ex5-93",
@@ -574,7 +605,8 @@
       "artistId": "23",
       "numeroLiga": "(93/102)",
       "codigoLiga": "groudon ex (93/102)",
-      "myp": "hl_093"
+      "myp": "hl_093",
+      "image": "https://images.pokemontcg.io/ex5/93.png"
     },
     {
       "id": "ex5-94",
@@ -592,7 +624,8 @@
       "artistId": "23",
       "numeroLiga": "(94/102)",
       "codigoLiga": "kyogre ex (94/102)",
-      "myp": "hl_094"
+      "myp": "hl_094",
+      "image": "https://images.pokemontcg.io/ex5/94.png"
     },
     {
       "id": "ex5-95",
@@ -610,7 +643,8 @@
       "artistId": "2",
       "numeroLiga": "(95/102)",
       "codigoLiga": "metagross ex (95/102)",
-      "myp": "hl_095"
+      "myp": "hl_095",
+      "image": "https://images.pokemontcg.io/ex5/95.png"
     },
     {
       "id": "ex5-96",
@@ -628,7 +662,8 @@
       "artistId": "69",
       "numeroLiga": "(96/102)",
       "codigoLiga": "ninetales ex (96/102)",
-      "myp": "hl_096"
+      "myp": "hl_096",
+      "image": "https://images.pokemontcg.io/ex5/96.png"
     },
     {
       "id": "ex5-97",
@@ -646,7 +681,8 @@
       "artistId": "2",
       "numeroLiga": "(97/102)",
       "codigoLiga": "regice ex (97/102)",
-      "myp": "hl_097"
+      "myp": "hl_097",
+      "image": "https://images.pokemontcg.io/ex5/97.png"
     },
     {
       "id": "ex5-98",
@@ -664,7 +700,8 @@
       "artistId": "2",
       "numeroLiga": "(98/102)",
       "codigoLiga": "regirock ex (98/102)",
-      "myp": "hl_098"
+      "myp": "hl_098",
+      "image": "https://images.pokemontcg.io/ex5/98.png"
     },
     {
       "id": "ex5-99",
@@ -682,7 +719,8 @@
       "artistId": "2",
       "numeroLiga": "(99/102)",
       "codigoLiga": "registeel ex (99/102)",
-      "myp": "hl_099"
+      "myp": "hl_099",
+      "image": "https://images.pokemontcg.io/ex5/99.png"
     },
     {
       "id": "ex5-100",
@@ -700,7 +738,8 @@
       "artistId": "69",
       "numeroLiga": "(100/102)",
       "codigoLiga": "vileplume ex (100/102)",
-      "myp": "hl_100"
+      "myp": "hl_100",
+      "image": "https://images.pokemontcg.io/ex5/100.png"
     },
     {
       "id": "ex5-101",
@@ -718,7 +757,8 @@
       "artistId": "69",
       "numeroLiga": "(101/102)",
       "codigoLiga": "wigglytuff ex (101/102)",
-      "myp": "hl_101"
+      "myp": "hl_101",
+      "image": "https://images.pokemontcg.io/ex5/101.png"
     },
     {
       "id": "ex6-104",
@@ -736,7 +776,8 @@
       "artistId": "23",
       "numeroLiga": "(104/116)",
       "codigoLiga": "blastoise ex (104/116)",
-      "myp": "rg_104"
+      "myp": "rg_104",
+      "image": "https://images.pokemontcg.io/ex6/104.png"
     },
     {
       "id": "ex6-105",
@@ -754,7 +795,8 @@
       "artistId": "9",
       "numeroLiga": "(105/116)",
       "codigoLiga": "charizard ex (105/116)",
-      "myp": "rg_105"
+      "myp": "rg_105",
+      "image": "https://images.pokemontcg.io/ex6/105.png"
     },
     {
       "id": "ex6-106",
@@ -772,7 +814,8 @@
       "artistId": "2",
       "numeroLiga": "(106/116)",
       "codigoLiga": "clefable ex (106/116)",
-      "myp": "rg_106"
+      "myp": "rg_106",
+      "image": "https://images.pokemontcg.io/ex6/106.png"
     },
     {
       "id": "ex6-107",
@@ -790,7 +833,8 @@
       "artistId": "69",
       "numeroLiga": "(107/116)",
       "codigoLiga": "electrode ex (107/116)",
-      "myp": "rg_107"
+      "myp": "rg_107",
+      "image": "https://images.pokemontcg.io/ex6/107.png"
     },
     {
       "id": "ex6-108",
@@ -808,7 +852,8 @@
       "artistId": "2",
       "numeroLiga": "(108/116)",
       "codigoLiga": "gengar ex (108/116)",
-      "myp": "rg_108"
+      "myp": "rg_108",
+      "image": "https://images.pokemontcg.io/ex6/108.png"
     },
     {
       "id": "ex6-109",
@@ -826,7 +871,8 @@
       "artistId": "23",
       "numeroLiga": "(109/116)",
       "codigoLiga": "gyarados ex (109/116)",
-      "myp": "rg_109"
+      "myp": "rg_109",
+      "image": "https://images.pokemontcg.io/ex6/109.png"
     },
     {
       "id": "ex6-110",
@@ -844,7 +890,8 @@
       "artistId": "69",
       "numeroLiga": "(110/116)",
       "codigoLiga": "mr. mime ex (110/116)",
-      "myp": "rg_110"
+      "myp": "rg_110",
+      "image": "https://images.pokemontcg.io/ex6/110.png"
     },
     {
       "id": "ex6-111",
@@ -862,7 +909,8 @@
       "artistId": "69",
       "numeroLiga": "(111/116)",
       "codigoLiga": "mr. mime ex (111/116)",
-      "myp": "rg_111"
+      "myp": "rg_111",
+      "image": "https://images.pokemontcg.io/ex6/111.png"
     },
     {
       "id": "ex6-112",
@@ -880,7 +928,8 @@
       "artistId": "69",
       "numeroLiga": "(112/116)",
       "codigoLiga": "venusaur ex (112/116)",
-      "myp": "rg_112"
+      "myp": "rg_112",
+      "image": "https://images.pokemontcg.io/ex6/112.png"
     },
     {
       "id": "ex7-96",
@@ -898,7 +947,8 @@
       "artistId": "69",
       "numeroLiga": "(96/111)",
       "codigoLiga": "rocket's articuno ex (96/111)",
-      "myp": "trr_096"
+      "myp": "trr_096",
+      "image": "https://images.pokemontcg.io/ex7/96.png"
     },
     {
       "id": "ex7-97",
@@ -916,7 +966,8 @@
       "artistId": "69",
       "numeroLiga": "(97/111)",
       "codigoLiga": "rocket's entei ex (97/111)",
-      "myp": "trr_097"
+      "myp": "trr_097",
+      "image": "https://images.pokemontcg.io/ex7/97.png"
     },
     {
       "id": "ex7-98",
@@ -934,7 +985,8 @@
       "artistId": "2",
       "numeroLiga": "(98/111)",
       "codigoLiga": "rocket's hitmonchan ex (98/111)",
-      "myp": "trr_098"
+      "myp": "trr_098",
+      "image": "https://images.pokemontcg.io/ex7/98.png"
     },
     {
       "id": "ex7-99",
@@ -952,7 +1004,8 @@
       "artistId": "2",
       "numeroLiga": "(99/111)",
       "codigoLiga": "rocket's mewtwo ex (99/111)",
-      "myp": "trr_099"
+      "myp": "trr_099",
+      "image": "https://images.pokemontcg.io/ex7/99.png"
     },
     {
       "id": "ex7-100",
@@ -970,7 +1023,8 @@
       "artistId": "69",
       "numeroLiga": "(100/111)",
       "codigoLiga": "rocket's moltres ex (100/111)",
-      "myp": "trr_100"
+      "myp": "trr_100",
+      "image": "https://images.pokemontcg.io/ex7/100.png"
     },
     {
       "id": "ex7-101",
@@ -988,7 +1042,8 @@
       "artistId": "23",
       "numeroLiga": "(101/111)",
       "codigoLiga": "rocket's scizor ex (101/111)",
-      "myp": "trr_101"
+      "myp": "trr_101",
+      "image": "https://images.pokemontcg.io/ex7/101.png"
     },
     {
       "id": "ex7-102",
@@ -1006,7 +1061,8 @@
       "artistId": "23",
       "numeroLiga": "(102/111)",
       "codigoLiga": "rocket's scyther ex (102/111)",
-      "myp": "trr_102"
+      "myp": "trr_102",
+      "image": "https://images.pokemontcg.io/ex7/102.png"
     },
     {
       "id": "ex7-103",
@@ -1024,7 +1080,8 @@
       "artistId": "69",
       "numeroLiga": "(103/111)",
       "codigoLiga": "rocket's sneasel ex (103/111)",
-      "myp": "trr_103"
+      "myp": "trr_103",
+      "image": "https://images.pokemontcg.io/ex7/103.png"
     },
     {
       "id": "ex7-104",
@@ -1042,7 +1099,8 @@
       "artistId": "2",
       "numeroLiga": "(104/111)",
       "codigoLiga": "rocket's snorlax ex (104/111)",
-      "myp": "trr_104"
+      "myp": "trr_104",
+      "image": "https://images.pokemontcg.io/ex7/104.png"
     },
     {
       "id": "ex7-105",
@@ -1060,7 +1118,8 @@
       "artistId": "69",
       "numeroLiga": "(105/111)",
       "codigoLiga": "rocket's suicune ex (105/111)",
-      "myp": "trr_105"
+      "myp": "trr_105",
+      "image": "https://images.pokemontcg.io/ex7/105.png"
     },
     {
       "id": "ex7-106",
@@ -1078,7 +1137,8 @@
       "artistId": "69",
       "numeroLiga": "(106/111)",
       "codigoLiga": "rocket's zapdos ex (106/111)",
-      "myp": "trr_106"
+      "myp": "trr_106",
+      "image": "https://images.pokemontcg.io/ex7/106.png"
     },
     {
       "id": "ex8-96",
@@ -1096,7 +1156,8 @@
       "artistId": "69",
       "numeroLiga": "(96/107)",
       "codigoLiga": "crobat ex (96/107)",
-      "myp": "dx_096"
+      "myp": "dx_096",
+      "image": "https://images.pokemontcg.io/ex8/96.png"
     },
     {
       "id": "ex8-97",
@@ -1114,7 +1175,8 @@
       "artistId": "2",
       "numeroLiga": "(97/107)",
       "codigoLiga": "deoxys ex (97/107)",
-      "myp": "dx_097"
+      "myp": "dx_097",
+      "image": "https://images.pokemontcg.io/ex8/97.png"
     },
     {
       "id": "ex8-98",
@@ -1132,7 +1194,8 @@
       "artistId": "2",
       "numeroLiga": "(98/107)",
       "codigoLiga": "deoxys ex (98/107)",
-      "myp": "dx_098"
+      "myp": "dx_098",
+      "image": "https://images.pokemontcg.io/ex8/98.png"
     },
     {
       "id": "ex8-99",
@@ -1150,7 +1213,8 @@
       "artistId": "2",
       "numeroLiga": "(99/107)",
       "codigoLiga": "deoxys ex (99/107)",
-      "myp": "dx_099"
+      "myp": "dx_099",
+      "image": "https://images.pokemontcg.io/ex8/99.png"
     },
     {
       "id": "ex8-100",
@@ -1168,7 +1232,8 @@
       "artistId": "69",
       "numeroLiga": "(100/107)",
       "codigoLiga": "hariyama ex (100/107)",
-      "myp": "dx_100"
+      "myp": "dx_100",
+      "image": "https://images.pokemontcg.io/ex8/100.png"
     },
     {
       "id": "ex8-101",
@@ -1186,7 +1251,8 @@
       "artistId": "23",
       "numeroLiga": "(101/107)",
       "codigoLiga": "manectric ex (101/107)",
-      "myp": "dx_101"
+      "myp": "dx_101",
+      "image": "https://images.pokemontcg.io/ex8/101.png"
     },
     {
       "id": "ex8-102",
@@ -1204,7 +1270,8 @@
       "artistId": "47",
       "numeroLiga": "(102/107)",
       "codigoLiga": "rayquaza ex (102/107)",
-      "myp": "dx_102"
+      "myp": "dx_102",
+      "image": "https://images.pokemontcg.io/ex8/102.png"
     },
     {
       "id": "ex8-103",
@@ -1222,7 +1289,8 @@
       "artistId": "23",
       "numeroLiga": "(103/107)",
       "codigoLiga": "salamence ex (103/107)",
-      "myp": "dx_103"
+      "myp": "dx_103",
+      "image": "https://images.pokemontcg.io/ex8/103.png"
     },
     {
       "id": "ex8-104",
@@ -1240,7 +1308,8 @@
       "artistId": "23",
       "numeroLiga": "(104/107)",
       "codigoLiga": "sharpedo ex (104/107)",
-      "myp": "dx_104"
+      "myp": "dx_104",
+      "image": "https://images.pokemontcg.io/ex8/104.png"
     },
     {
       "id": "ex9-90",
@@ -1258,7 +1327,8 @@
       "artistId": "69",
       "numeroLiga": "(90/106)",
       "codigoLiga": "altaria ex (90/106)",
-      "myp": "em_090"
+      "myp": "em_090",
+      "image": "https://images.pokemontcg.io/ex9/90.png"
     },
     {
       "id": "ex9-91",
@@ -1276,7 +1346,8 @@
       "artistId": "23",
       "numeroLiga": "(91/106)",
       "codigoLiga": "cacturne ex (91/106)",
-      "myp": "em_091"
+      "myp": "em_091",
+      "image": "https://images.pokemontcg.io/ex9/91.png"
     },
     {
       "id": "ex9-92",
@@ -1294,7 +1365,8 @@
       "artistId": "69",
       "numeroLiga": "(92/106)",
       "codigoLiga": "camerupt ex (92/106)",
-      "myp": "em_092"
+      "myp": "em_092",
+      "image": "https://images.pokemontcg.io/ex9/92.png"
     },
     {
       "id": "ex9-93",
@@ -1312,7 +1384,8 @@
       "artistId": "2",
       "numeroLiga": "(93/106)",
       "codigoLiga": "deoxys ex (93/106)",
-      "myp": "em_093"
+      "myp": "em_093",
+      "image": "https://images.pokemontcg.io/ex9/93.png"
     },
     {
       "id": "ex9-94",
@@ -1330,7 +1403,8 @@
       "artistId": "2",
       "numeroLiga": "(94/106)",
       "codigoLiga": "dusclops ex (94/106)",
-      "myp": "em_094"
+      "myp": "em_094",
+      "image": "https://images.pokemontcg.io/ex9/94.png"
     },
     {
       "id": "ex9-95",
@@ -1348,7 +1422,8 @@
       "artistId": "23",
       "numeroLiga": "(95/106)",
       "codigoLiga": "medicham ex (95/106)",
-      "myp": "em_095"
+      "myp": "em_095",
+      "image": "https://images.pokemontcg.io/ex9/95.png"
     },
     {
       "id": "ex9-96",
@@ -1366,7 +1441,8 @@
       "artistId": "69",
       "numeroLiga": "(96/106)",
       "codigoLiga": "milotic ex (96/106)",
-      "myp": "em_096"
+      "myp": "em_096",
+      "image": "https://images.pokemontcg.io/ex9/96.png"
     },
     {
       "id": "ex9-97",
@@ -1384,7 +1460,8 @@
       "artistId": "2",
       "numeroLiga": "(97/106)",
       "codigoLiga": "raichu ex (97/106)",
-      "myp": "em_097"
+      "myp": "em_097",
+      "image": "https://images.pokemontcg.io/ex9/97.png"
     },
     {
       "id": "ex9-98",
@@ -1402,7 +1479,8 @@
       "artistId": "23",
       "numeroLiga": "(98/106)",
       "codigoLiga": "regice ex (98/106)",
-      "myp": "em_098"
+      "myp": "em_098",
+      "image": "https://images.pokemontcg.io/ex9/98.png"
     },
     {
       "id": "ex9-99",
@@ -1420,7 +1498,8 @@
       "artistId": "23",
       "numeroLiga": "(99/106)",
       "codigoLiga": "regirock ex (99/106)",
-      "myp": "em_099"
+      "myp": "em_099",
+      "image": "https://images.pokemontcg.io/ex9/99.png"
     },
     {
       "id": "ex9-100",
@@ -1438,7 +1517,8 @@
       "artistId": "23",
       "numeroLiga": "(100/106)",
       "codigoLiga": "registeel ex (100/106)",
-      "myp": "em_100"
+      "myp": "em_100",
+      "image": "https://images.pokemontcg.io/ex9/100.png"
     },
     {
       "id": "ex10-101",
@@ -1456,7 +1536,8 @@
       "artistId": "69",
       "numeroLiga": "(101/145)",
       "codigoLiga": "blissey ex (101/145)",
-      "myp": "uf_101"
+      "myp": "uf_101",
+      "image": "https://images.pokemontcg.io/ex10/101.png"
     },
     {
       "id": "ex10-102",
@@ -1474,7 +1555,8 @@
       "artistId": "69",
       "numeroLiga": "(102/145)",
       "codigoLiga": "espeon ex (102/145)",
-      "myp": "uf_102"
+      "myp": "uf_102",
+      "image": "https://images.pokemontcg.io/ex10/102.png"
     },
     {
       "id": "ex10-103",
@@ -1492,7 +1574,8 @@
       "artistId": "23",
       "numeroLiga": "(103/145)",
       "codigoLiga": "feraligatr ex (103/145)",
-      "myp": "uf_103"
+      "myp": "uf_103",
+      "image": "https://images.pokemontcg.io/ex10/103.png"
     },
     {
       "id": "ex10-104",
@@ -1510,7 +1593,8 @@
       "artistId": "2",
       "numeroLiga": "(104/145)",
       "codigoLiga": "ho-oh ex (104/145)",
-      "myp": "uf_104"
+      "myp": "uf_104",
+      "image": "https://images.pokemontcg.io/ex10/104.png"
     },
     {
       "id": "ex10-105",
@@ -1528,7 +1612,8 @@
       "artistId": "23",
       "numeroLiga": "(105/145)",
       "codigoLiga": "lugia ex (105/145)",
-      "myp": "uf_105"
+      "myp": "uf_105",
+      "image": "https://images.pokemontcg.io/ex10/105.png"
     },
     {
       "id": "ex10-106",
@@ -1546,7 +1631,8 @@
       "artistId": "69",
       "numeroLiga": "(106/145)",
       "codigoLiga": "meganium ex (106/145)",
-      "myp": "uf_106"
+      "myp": "uf_106",
+      "image": "https://images.pokemontcg.io/ex10/106.png"
     },
     {
       "id": "ex10-107",
@@ -1564,7 +1650,8 @@
       "artistId": "69",
       "numeroLiga": "(107/145)",
       "codigoLiga": "politoed ex (107/145)",
-      "myp": "uf_107"
+      "myp": "uf_107",
+      "image": "https://images.pokemontcg.io/ex10/107.png"
     },
     {
       "id": "ex10-108",
@@ -1582,7 +1669,8 @@
       "artistId": "2",
       "numeroLiga": "(108/145)",
       "codigoLiga": "scizor ex (108/145)",
-      "myp": "uf_108"
+      "myp": "uf_108",
+      "image": "https://images.pokemontcg.io/ex10/108.png"
     },
     {
       "id": "ex10-109",
@@ -1600,7 +1688,8 @@
       "artistId": "69",
       "numeroLiga": "(109/145)",
       "codigoLiga": "steelix ex (109/145)",
-      "myp": "uf_109"
+      "myp": "uf_109",
+      "image": "https://images.pokemontcg.io/ex10/109.png"
     },
     {
       "id": "ex10-110",
@@ -1618,7 +1707,8 @@
       "artistId": "2",
       "numeroLiga": "(110/145)",
       "codigoLiga": "typhlosion ex (110/145)",
-      "myp": "uf_110"
+      "myp": "uf_110",
+      "image": "https://images.pokemontcg.io/ex10/110.png"
     },
     {
       "id": "ex10-111",
@@ -1636,7 +1726,8 @@
       "artistId": "2",
       "numeroLiga": "(111/145)",
       "codigoLiga": "tyranitar ex (111/145)",
-      "myp": "uf_111"
+      "myp": "uf_111",
+      "image": "https://images.pokemontcg.io/ex10/111.png"
     },
     {
       "id": "ex10-112",
@@ -1654,7 +1745,8 @@
       "artistId": "69",
       "numeroLiga": "(112/145)",
       "codigoLiga": "umbreon ex (112/145)",
-      "myp": "uf_112"
+      "myp": "uf_112",
+      "image": "https://images.pokemontcg.io/ex10/112.png"
     },
     {
       "id": "ex11-108",
@@ -1672,7 +1764,8 @@
       "artistId": "69",
       "numeroLiga": "(108/113)",
       "codigoLiga": "flareon ex (108/113)",
-      "myp": "ds_108"
+      "myp": "ds_108",
+      "image": "https://images.pokemontcg.io/ex11/108.png"
     },
     {
       "id": "ex11-109",
@@ -1690,7 +1783,8 @@
       "artistId": "2",
       "numeroLiga": "(109/113)",
       "codigoLiga": "jolteon ex (109/113)",
-      "myp": "ds_109"
+      "myp": "ds_109",
+      "image": "https://images.pokemontcg.io/ex11/109.png"
     },
     {
       "id": "ex11-110",
@@ -1708,7 +1802,8 @@
       "artistId": "23",
       "numeroLiga": "(110/113)",
       "codigoLiga": "vaporeon ex (110/113)",
-      "myp": "ds_110"
+      "myp": "ds_110",
+      "image": "https://images.pokemontcg.io/ex11/110.png"
     },
     {
       "id": "ex12-83",
@@ -1726,7 +1821,8 @@
       "artistId": "23",
       "numeroLiga": "(83/92)",
       "codigoLiga": "arcanine ex (83/92)",
-      "myp": "lm_083"
+      "myp": "lm_083",
+      "image": "https://images.pokemontcg.io/ex12/83.png"
     },
     {
       "id": "ex12-84",
@@ -1744,7 +1840,8 @@
       "artistId": "35",
       "numeroLiga": "(84/92)",
       "codigoLiga": "armaldo ex (84/92)",
-      "myp": "lm_084"
+      "myp": "lm_084",
+      "image": "https://images.pokemontcg.io/ex12/84.png"
     },
     {
       "id": "ex12-85",
@@ -1762,7 +1859,8 @@
       "artistId": "2",
       "numeroLiga": "(85/92)",
       "codigoLiga": "banette ex (85/92)",
-      "myp": "lm_085"
+      "myp": "lm_085",
+      "image": "https://images.pokemontcg.io/ex12/85.png"
     },
     {
       "id": "ex12-86",
@@ -1780,7 +1878,8 @@
       "artistId": "2",
       "numeroLiga": "(86/92)",
       "codigoLiga": "dustox ex (86/92)",
-      "myp": "lm_086"
+      "myp": "lm_086",
+      "image": "https://images.pokemontcg.io/ex12/86.png"
     },
     {
       "id": "ex12-87",
@@ -1798,7 +1897,8 @@
       "artistId": "69",
       "numeroLiga": "(87/92)",
       "codigoLiga": "flygon ex (87/92)",
-      "myp": "lm_087"
+      "myp": "lm_087",
+      "image": "https://images.pokemontcg.io/ex12/87.png"
     },
     {
       "id": "ex12-88",
@@ -1816,7 +1916,8 @@
       "artistId": "69",
       "numeroLiga": "(88/92)",
       "codigoLiga": "mew ex (88/92)",
-      "myp": "lm_088"
+      "myp": "lm_088",
+      "image": "https://images.pokemontcg.io/ex12/88.png"
     },
     {
       "id": "ex12-89",
@@ -1834,7 +1935,8 @@
       "artistId": "35",
       "numeroLiga": "(89/92)",
       "codigoLiga": "walrein ex (89/92)",
-      "myp": "lm_089"
+      "myp": "lm_089",
+      "image": "https://images.pokemontcg.io/ex12/89.png"
     },
     {
       "id": "ex13-99",
@@ -1852,7 +1954,8 @@
       "artistId": "69",
       "numeroLiga": "(99/110)",
       "codigoLiga": "crawdaunt ex (99/110)",
-      "myp": "hp_099"
+      "myp": "hp_099",
+      "image": "https://images.pokemontcg.io/ex13/99.png"
     },
     {
       "id": "ex13-100",
@@ -1870,7 +1973,8 @@
       "artistId": "69",
       "numeroLiga": "(100/110)",
       "codigoLiga": "mew ex (100/110)",
-      "myp": "hp_100"
+      "myp": "hp_100",
+      "image": "https://images.pokemontcg.io/ex13/100.png"
     },
     {
       "id": "ex13-101",
@@ -1888,7 +1992,8 @@
       "artistId": "69",
       "numeroLiga": "(101/110)",
       "codigoLiga": "mightyena ex (101/110)",
-      "myp": "hp_101"
+      "myp": "hp_101",
+      "image": "https://images.pokemontcg.io/ex13/101.png"
     },
     {
       "id": "ex14-89",
@@ -1906,7 +2011,8 @@
       "artistId": "69",
       "numeroLiga": "(89/100)",
       "codigoLiga": "aggron ex (89/100)",
-      "myp": "cg_089"
+      "myp": "cg_089",
+      "image": "https://images.pokemontcg.io/ex14/89.png"
     },
     {
       "id": "ex14-90",
@@ -1924,7 +2030,8 @@
       "artistId": "2",
       "numeroLiga": "(90/100)",
       "codigoLiga": "blaziken ex (90/100)",
-      "myp": "cg_090"
+      "myp": "cg_090",
+      "image": "https://images.pokemontcg.io/ex14/90.png"
     },
     {
       "id": "ex14-91",
@@ -1942,7 +2049,8 @@
       "artistId": "87",
       "numeroLiga": "(91/100)",
       "codigoLiga": "delcatty ex (91/100)",
-      "myp": "cg_091"
+      "myp": "cg_091",
+      "image": "https://images.pokemontcg.io/ex14/91.png"
     },
     {
       "id": "ex14-92",
@@ -1960,7 +2068,8 @@
       "artistId": "2",
       "numeroLiga": "(92/100)",
       "codigoLiga": "exploud ex (92/100)",
-      "myp": "cg_092"
+      "myp": "cg_092",
+      "image": "https://images.pokemontcg.io/ex14/92.png"
     },
     {
       "id": "ex14-93",
@@ -1978,7 +2087,8 @@
       "artistId": "88",
       "numeroLiga": "(93/100)",
       "codigoLiga": "groudon ex (93/100)",
-      "myp": "cg_093"
+      "myp": "cg_093",
+      "image": "https://images.pokemontcg.io/ex14/93.png"
     },
     {
       "id": "ex14-94",
@@ -1996,7 +2106,8 @@
       "artistId": "87",
       "numeroLiga": "(94/100)",
       "codigoLiga": "jirachi ex (94/100)",
-      "myp": "cg_094"
+      "myp": "cg_094",
+      "image": "https://images.pokemontcg.io/ex14/94.png"
     },
     {
       "id": "ex14-95",
@@ -2014,7 +2125,8 @@
       "artistId": "89",
       "numeroLiga": "(95/100)",
       "codigoLiga": "kyogre ex (95/100)",
-      "myp": "cg_095"
+      "myp": "cg_095",
+      "image": "https://images.pokemontcg.io/ex14/95.png"
     },
     {
       "id": "ex14-96",
@@ -2033,7 +2145,8 @@
       "artistId": "87",
       "numeroLiga": "(96/100)",
       "codigoLiga": "sceptile ex (96/100)",
-      "myp": "cg_096"
+      "myp": "cg_096",
+      "image": "https://images.pokemontcg.io/ex14/96.png"
     },
     {
       "id": "ex14-97",
@@ -2051,7 +2164,8 @@
       "artistId": "69",
       "numeroLiga": "(97/100)",
       "codigoLiga": "shiftry ex (97/100)",
-      "myp": "cg_097"
+      "myp": "cg_097",
+      "image": "https://images.pokemontcg.io/ex14/97.png"
     },
     {
       "id": "ex14-98",
@@ -2069,7 +2183,8 @@
       "artistId": "69",
       "numeroLiga": "(98/100)",
       "codigoLiga": "swampert ex (98/100)",
-      "myp": "cg_098"
+      "myp": "cg_098",
+      "image": "https://images.pokemontcg.io/ex14/98.png"
     },
     {
       "id": "ex15-90",
@@ -2088,7 +2203,8 @@
       "artistId": "87",
       "numeroLiga": "(90/101)",
       "codigoLiga": "altaria ex (90/101)",
-      "myp": "df_090"
+      "myp": "df_090",
+      "image": "https://images.pokemontcg.io/ex15/90.png"
     },
     {
       "id": "ex15-91",
@@ -2107,7 +2223,8 @@
       "artistId": "69",
       "numeroLiga": "(91/101)",
       "codigoLiga": "dragonite ex (91/101)",
-      "myp": "df_091"
+      "myp": "df_091",
+      "image": "https://images.pokemontcg.io/ex15/91.png"
     },
     {
       "id": "ex15-92",
@@ -2126,7 +2243,8 @@
       "artistId": "70",
       "numeroLiga": "(92/101)",
       "codigoLiga": "flygon ex (92/101)",
-      "myp": "df_092"
+      "myp": "df_092",
+      "image": "https://images.pokemontcg.io/ex15/92.png"
     },
     {
       "id": "ex15-93",
@@ -2145,7 +2263,8 @@
       "artistId": "90",
       "numeroLiga": "(93/101)",
       "codigoLiga": "gardevoir ex (93/101)",
-      "myp": "df_093"
+      "myp": "df_093",
+      "image": "https://images.pokemontcg.io/ex15/93.png"
     },
     {
       "id": "ex15-94",
@@ -2164,7 +2283,8 @@
       "artistId": "90",
       "numeroLiga": "(94/101)",
       "codigoLiga": "kingdra ex (94/101)",
-      "myp": "df_094"
+      "myp": "df_094",
+      "image": "https://images.pokemontcg.io/ex15/94.png"
     },
     {
       "id": "ex15-95",
@@ -2183,7 +2303,8 @@
       "artistId": "87",
       "numeroLiga": "(95/101)",
       "codigoLiga": "latias ex (95/101)",
-      "myp": "df_095"
+      "myp": "df_095",
+      "image": "https://images.pokemontcg.io/ex15/95.png"
     },
     {
       "id": "ex15-96",
@@ -2202,7 +2323,8 @@
       "artistId": "69",
       "numeroLiga": "(96/101)",
       "codigoLiga": "latios ex (96/101)",
-      "myp": "df_096"
+      "myp": "df_096",
+      "image": "https://images.pokemontcg.io/ex15/96.png"
     },
     {
       "id": "ex15-97",
@@ -2221,7 +2343,8 @@
       "artistId": "69",
       "numeroLiga": "(97/101)",
       "codigoLiga": "rayquaza ex (97/101)",
-      "myp": "df_097"
+      "myp": "df_097",
+      "image": "https://images.pokemontcg.io/ex15/97.png"
     },
     {
       "id": "ex15-98",
@@ -2240,7 +2363,8 @@
       "artistId": "69",
       "numeroLiga": "(98/101)",
       "codigoLiga": "salamence ex (98/101)",
-      "myp": "df_098"
+      "myp": "df_098",
+      "image": "https://images.pokemontcg.io/ex15/98.png"
     },
     {
       "id": "ex15-99",
@@ -2259,7 +2383,8 @@
       "artistId": "91",
       "numeroLiga": "(99/101)",
       "codigoLiga": "tyranitar ex (99/101)",
-      "myp": "df_099"
+      "myp": "df_099",
+      "image": "https://images.pokemontcg.io/ex15/99.png"
     },
     {
       "id": "ex16-92",
@@ -2277,7 +2402,8 @@
       "artistId": "69",
       "numeroLiga": "(92/108)",
       "codigoLiga": "absol ex (92/108)",
-      "myp": "pk_092"
+      "myp": "pk_092",
+      "image": "https://images.pokemontcg.io/ex16/92.png"
     },
     {
       "id": "ex16-93",
@@ -2295,7 +2421,8 @@
       "artistId": "69",
       "numeroLiga": "(93/108)",
       "codigoLiga": "claydol ex (93/108)",
-      "myp": "pk_093"
+      "myp": "pk_093",
+      "image": "https://images.pokemontcg.io/ex16/93.png"
     },
     {
       "id": "ex16-94",
@@ -2313,7 +2440,8 @@
       "artistId": "2",
       "numeroLiga": "(94/108)",
       "codigoLiga": "flygon ex (94/108)",
-      "myp": "pk_094"
+      "myp": "pk_094",
+      "image": "https://images.pokemontcg.io/ex16/94.png"
     },
     {
       "id": "ex16-95",
@@ -2331,7 +2459,8 @@
       "artistId": "69",
       "numeroLiga": "(95/108)",
       "codigoLiga": "metagross ex (95/108)",
-      "myp": "pk_095"
+      "myp": "pk_095",
+      "image": "https://images.pokemontcg.io/ex16/95.png"
     },
     {
       "id": "ex16-96",
@@ -2349,7 +2478,8 @@
       "artistId": "2",
       "numeroLiga": "(96/108)",
       "codigoLiga": "salamence ex (96/108)",
-      "myp": "pk_096"
+      "myp": "pk_096",
+      "image": "https://images.pokemontcg.io/ex16/96.png"
     },
     {
       "id": "ex16-97",
@@ -2367,7 +2497,8 @@
       "artistId": "69",
       "numeroLiga": "(97/108)",
       "codigoLiga": "shiftry ex (97/108)",
-      "myp": "pk_097"
+      "myp": "pk_097",
+      "image": "https://images.pokemontcg.io/ex16/97.png"
     },
     {
       "id": "ex16-98",
@@ -2385,7 +2516,8 @@
       "artistId": "69",
       "numeroLiga": "(98/108)",
       "codigoLiga": "skarmory ex (98/108)",
-      "myp": "pk_098"
+      "myp": "pk_098",
+      "image": "https://images.pokemontcg.io/ex16/98.png"
     },
     {
       "id": "ex16-99",
@@ -2403,7 +2535,8 @@
       "artistId": "69",
       "numeroLiga": "(99/108)",
       "codigoLiga": "walrein ex (99/108)",
-      "myp": "pk_099"
+      "myp": "pk_099",
+      "image": "https://images.pokemontcg.io/ex16/99.png"
     },
     {
       "id": "bw4-5",
@@ -2421,7 +2554,8 @@
       "artistId": "87",
       "numeroLiga": "(5/99)",
       "codigoLiga": "shaymin-ex (5/99)",
-      "myp": "nxd_005"
+      "myp": "nxd_005",
+      "image": "https://images.pokemontcg.io/bw4/5.png"
     },
     {
       "id": "bw4-22",
@@ -2439,7 +2573,8 @@
       "artistId": "87",
       "numeroLiga": "(22/99)",
       "codigoLiga": "reshiram-ex (22/99)",
-      "myp": "nxd_022"
+      "myp": "nxd_022",
+      "image": "https://images.pokemontcg.io/bw4/22.png"
     },
     {
       "id": "bw4-38",
@@ -2457,7 +2592,8 @@
       "artistId": "87",
       "numeroLiga": "(38/99)",
       "codigoLiga": "kyurem-ex (38/99)",
-      "myp": "nxd_038"
+      "myp": "nxd_038",
+      "image": "https://images.pokemontcg.io/bw4/38.png"
     },
     {
       "id": "bw4-51",
@@ -2475,7 +2611,8 @@
       "artistId": "87",
       "numeroLiga": "(51/99)",
       "codigoLiga": "zekrom-ex (51/99)",
-      "myp": "nxd_051"
+      "myp": "nxd_051",
+      "image": "https://images.pokemontcg.io/bw4/51.png"
     },
     {
       "id": "bw4-54",
@@ -2493,7 +2630,8 @@
       "artistId": "87",
       "numeroLiga": "(54/99)",
       "codigoLiga": "mewtwo-ex (54/99)",
-      "myp": "nxd_054"
+      "myp": "nxd_054",
+      "image": "https://images.pokemontcg.io/bw4/54.png"
     },
     {
       "id": "bw4-82",
@@ -2511,7 +2649,8 @@
       "artistId": "87",
       "numeroLiga": "(82/99)",
       "codigoLiga": "regigigas-ex (82/99)",
-      "myp": "nxd_082"
+      "myp": "nxd_082",
+      "image": "https://images.pokemontcg.io/bw4/82.png"
     },
     {
       "id": "bw5-13",
@@ -2529,7 +2668,8 @@
       "artistId": "87",
       "numeroLiga": "(13/108)",
       "codigoLiga": "entei-ex (13/108)",
-      "myp": "dex_013"
+      "myp": "dex_013",
+      "image": "https://images.pokemontcg.io/bw5/13.png"
     },
     {
       "id": "bw5-26",
@@ -2547,7 +2687,8 @@
       "artistId": "87",
       "numeroLiga": "(26/108)",
       "codigoLiga": "kyogre-ex (26/108)",
-      "myp": "dex_026"
+      "myp": "dex_026",
+      "image": "https://images.pokemontcg.io/bw5/26.png"
     },
     {
       "id": "bw5-38",
@@ -2565,7 +2706,8 @@
       "artistId": "87",
       "numeroLiga": "(38/108)",
       "codigoLiga": "raikou-ex (38/108)",
-      "myp": "dex_038"
+      "myp": "dex_038",
+      "image": "https://images.pokemontcg.io/bw5/38.png"
     },
     {
       "id": "bw5-54",
@@ -2583,7 +2725,8 @@
       "artistId": "87",
       "numeroLiga": "(54/108)",
       "codigoLiga": "groudon-ex (54/108)",
-      "myp": "dex_054"
+      "myp": "dex_054",
+      "image": "https://images.pokemontcg.io/bw5/54.png"
     },
     {
       "id": "bw5-63",
@@ -2601,7 +2744,8 @@
       "artistId": "87",
       "numeroLiga": "(63/108)",
       "codigoLiga": "darkrai-ex (63/108)",
-      "myp": "dex_063"
+      "myp": "dex_063",
+      "image": "https://images.pokemontcg.io/bw5/63.png"
     },
     {
       "id": "bw5-90",
@@ -2619,7 +2763,8 @@
       "artistId": "87",
       "numeroLiga": "(90/108)",
       "codigoLiga": "tornadus-ex (90/108)",
-      "myp": "dex_090"
+      "myp": "dex_090",
+      "image": "https://images.pokemontcg.io/bw5/90.png"
     },
     {
       "id": "bw6-22",
@@ -2637,7 +2782,8 @@
       "artistId": "133",
       "numeroLiga": "(22/124)",
       "codigoLiga": "ho-oh-ex (22/124)",
-      "myp": "drx_022"
+      "myp": "drx_022",
+      "image": "https://images.pokemontcg.io/bw6/22.png"
     },
     {
       "id": "bw6-46",
@@ -2655,7 +2801,8 @@
       "artistId": "133",
       "numeroLiga": "(46/124)",
       "codigoLiga": "mew-ex (46/124)",
-      "myp": "drx_046"
+      "myp": "drx_046",
+      "image": "https://images.pokemontcg.io/bw6/46.png"
     },
     {
       "id": "bw6-71",
@@ -2673,7 +2820,8 @@
       "artistId": "133",
       "numeroLiga": "(71/124)",
       "codigoLiga": "terrakion-ex (71/124)",
-      "myp": "drx_071"
+      "myp": "drx_071",
+      "image": "https://images.pokemontcg.io/bw6/71.png"
     },
     {
       "id": "bw6-81",
@@ -2691,7 +2839,8 @@
       "artistId": "133",
       "numeroLiga": "(81/124)",
       "codigoLiga": "registeel-ex (81/124)",
-      "myp": "drx_081"
+      "myp": "drx_081",
+      "image": "https://images.pokemontcg.io/bw6/81.png"
     },
     {
       "id": "bw6-85",
@@ -2709,7 +2858,8 @@
       "artistId": "133",
       "numeroLiga": "(85/124)",
       "codigoLiga": "rayquaza-ex (85/124)",
-      "myp": "drx_085"
+      "myp": "drx_085",
+      "image": "https://images.pokemontcg.io/bw6/85.png"
     },
     {
       "id": "bw6-92",
@@ -2727,7 +2877,8 @@
       "artistId": "133",
       "numeroLiga": "(92/124)",
       "codigoLiga": "giratina-ex (92/124)",
-      "myp": "drx_092"
+      "myp": "drx_092",
+      "image": "https://images.pokemontcg.io/bw6/92.png"
     },
     {
       "id": "bw7-9",
@@ -2745,7 +2896,8 @@
       "artistId": "132",
       "numeroLiga": "(9/149)",
       "codigoLiga": "celebi-ex (9/149)",
-      "myp": "bcr_009"
+      "myp": "bcr_009",
+      "image": "https://images.pokemontcg.io/bw7/9.png"
     },
     {
       "id": "bw7-49",
@@ -2763,7 +2915,8 @@
       "artistId": "132",
       "numeroLiga": "(49/149)",
       "codigoLiga": "keldeo-ex (49/149)",
-      "myp": "bcr_049"
+      "myp": "bcr_049",
+      "image": "https://images.pokemontcg.io/bw7/49.png"
     },
     {
       "id": "bw7-67",
@@ -2781,7 +2934,8 @@
       "artistId": "117",
       "numeroLiga": "(67/149)",
       "codigoLiga": "cresselia-ex (67/149)",
-      "myp": "bcr_067"
+      "myp": "bcr_067",
+      "image": "https://images.pokemontcg.io/bw7/67.png"
     },
     {
       "id": "bw7-89",
@@ -2799,7 +2953,8 @@
       "artistId": "133",
       "numeroLiga": "(89/149)",
       "codigoLiga": "landorus-ex (89/149)",
-      "myp": "bcr_089"
+      "myp": "bcr_089",
+      "image": "https://images.pokemontcg.io/bw7/89.png"
     },
     {
       "id": "bw7-101",
@@ -2817,7 +2972,8 @@
       "artistId": "133",
       "numeroLiga": "(101/149)",
       "codigoLiga": "black kyurem-ex (101/149)",
-      "myp": "bcr_101"
+      "myp": "bcr_101",
+      "image": "https://images.pokemontcg.io/bw7/101.png"
     },
     {
       "id": "bw7-103",
@@ -2835,7 +2991,8 @@
       "artistId": "133",
       "numeroLiga": "(103/149)",
       "codigoLiga": "white kyurem-ex (103/149)",
-      "myp": "bcr_103"
+      "myp": "bcr_103",
+      "image": "https://images.pokemontcg.io/bw7/103.png"
     },
     {
       "id": "bw8-14",
@@ -2853,7 +3010,8 @@
       "artistId": "133",
       "numeroLiga": "(14/135)",
       "codigoLiga": "moltres-ex (14/135)",
-      "myp": "pls_014"
+      "myp": "pls_014",
+      "image": "https://images.pokemontcg.io/bw8/14.png"
     },
     {
       "id": "bw8-18",
@@ -2871,7 +3029,8 @@
       "artistId": "133",
       "numeroLiga": "(18/135)",
       "codigoLiga": "victini-ex (18/135)",
-      "myp": "pls_018"
+      "myp": "pls_018",
+      "image": "https://images.pokemontcg.io/bw8/18.png"
     },
     {
       "id": "bw8-25",
@@ -2889,7 +3048,8 @@
       "artistId": "132",
       "numeroLiga": "(25/135)",
       "codigoLiga": "articuno-ex (25/135)",
-      "myp": "pls_025"
+      "myp": "pls_025",
+      "image": "https://images.pokemontcg.io/bw8/25.png"
     },
     {
       "id": "bw8-48",
@@ -2907,7 +3067,8 @@
       "artistId": "133",
       "numeroLiga": "(48/135)",
       "codigoLiga": "zapdos-ex (48/135)",
-      "myp": "pls_048"
+      "myp": "pls_048",
+      "image": "https://images.pokemontcg.io/bw8/48.png"
     },
     {
       "id": "bw8-93",
@@ -2925,7 +3086,8 @@
       "artistId": "133",
       "numeroLiga": "(93/135)",
       "codigoLiga": "cobalion-ex (93/135)",
-      "myp": "pls_093"
+      "myp": "pls_093",
+      "image": "https://images.pokemontcg.io/bw8/93.png"
     },
     {
       "id": "bw8-95",
@@ -2943,7 +3105,8 @@
       "artistId": "87",
       "numeroLiga": "(95/135)",
       "codigoLiga": "black kyurem-ex (95/135)",
-      "myp": "pls_095"
+      "myp": "pls_095",
+      "image": "https://images.pokemontcg.io/bw8/95.png"
     },
     {
       "id": "bw8-96",
@@ -2961,7 +3124,8 @@
       "artistId": "87",
       "numeroLiga": "(96/135)",
       "codigoLiga": "white kyurem-ex (96/135)",
-      "myp": "pls_096"
+      "myp": "pls_096",
+      "image": "https://images.pokemontcg.io/bw8/96.png"
     },
     {
       "id": "bw8-108",
@@ -2979,7 +3143,8 @@
       "artistId": "132",
       "numeroLiga": "(108/135)",
       "codigoLiga": "lugia-ex (108/135)",
-      "myp": "pls_108"
+      "myp": "pls_108",
+      "image": "https://images.pokemontcg.io/bw8/108.png"
     },
     {
       "id": "bw9-13",
@@ -2997,7 +3162,8 @@
       "artistId": "133",
       "numeroLiga": "(13/116)",
       "codigoLiga": "heatran-ex (13/116)",
-      "myp": "plf_013"
+      "myp": "plf_013",
+      "image": "https://images.pokemontcg.io/bw9/13.png"
     },
     {
       "id": "bw9-38",
@@ -3015,7 +3181,8 @@
       "artistId": "133",
       "numeroLiga": "(38/116)",
       "codigoLiga": "thundurus-ex (38/116)",
-      "myp": "plf_038"
+      "myp": "plf_038",
+      "image": "https://images.pokemontcg.io/bw9/38.png"
     },
     {
       "id": "bw9-53",
@@ -3033,7 +3200,8 @@
       "artistId": "133",
       "numeroLiga": "(53/116)",
       "codigoLiga": "deoxys-ex (53/116)",
-      "myp": "plf_053"
+      "myp": "plf_053",
+      "image": "https://images.pokemontcg.io/bw9/53.png"
     },
     {
       "id": "bw9-85",
@@ -3051,7 +3219,8 @@
       "artistId": "69",
       "numeroLiga": "(85/116)",
       "codigoLiga": "latias-ex (85/116)",
-      "myp": "plf_085"
+      "myp": "plf_085",
+      "image": "https://images.pokemontcg.io/bw9/85.png"
     },
     {
       "id": "bw9-86",
@@ -3069,7 +3238,8 @@
       "artistId": "69",
       "numeroLiga": "(86/116)",
       "codigoLiga": "latios-ex (86/116)",
-      "myp": "plf_086"
+      "myp": "plf_086",
+      "image": "https://images.pokemontcg.io/bw9/86.png"
     },
     {
       "id": "bw9-98",
@@ -3087,7 +3257,8 @@
       "artistId": "133",
       "numeroLiga": "(98/116)",
       "codigoLiga": "tornadus-ex (98/116)",
-      "myp": "plf_098"
+      "myp": "plf_098",
+      "image": "https://images.pokemontcg.io/bw9/98.png"
     },
     {
       "id": "bw10-9",
@@ -3105,7 +3276,8 @@
       "artistId": "69",
       "numeroLiga": "(9/101)",
       "codigoLiga": "virizion-ex (9/101)",
-      "myp": "plb_009"
+      "myp": "plb_009",
+      "image": "https://images.pokemontcg.io/bw10/9.png"
     },
     {
       "id": "bw10-11",
@@ -3123,7 +3295,8 @@
       "artistId": "133",
       "numeroLiga": "(11/101)",
       "codigoLiga": "genesect-ex (11/101)",
-      "myp": "plb_011"
+      "myp": "plb_011",
+      "image": "https://images.pokemontcg.io/bw10/11.png"
     },
     {
       "id": "bw10-30",
@@ -3141,7 +3314,8 @@
       "artistId": "133",
       "numeroLiga": "(30/101)",
       "codigoLiga": "kyurem-ex (30/101)",
-      "myp": "plb_030"
+      "myp": "plb_030",
+      "image": "https://images.pokemontcg.io/bw10/30.png"
     },
     {
       "id": "bw10-60",
@@ -3159,7 +3333,8 @@
       "artistId": "69",
       "numeroLiga": "(60/101)",
       "codigoLiga": "jirachi-ex (60/101)",
-      "myp": "plb_060"
+      "myp": "plb_060",
+      "image": "https://images.pokemontcg.io/bw10/60.png"
     },
     {
       "id": "bw10-65",
@@ -3177,7 +3352,8 @@
       "artistId": "133",
       "numeroLiga": "(65/101)",
       "codigoLiga": "dialga-ex (65/101)",
-      "myp": "plb_065"
+      "myp": "plb_065",
+      "image": "https://images.pokemontcg.io/bw10/65.png"
     },
     {
       "id": "bw10-66",
@@ -3195,7 +3371,8 @@
       "artistId": "133",
       "numeroLiga": "(66/101)",
       "codigoLiga": "palkia-ex (66/101)",
-      "myp": "plb_066"
+      "myp": "plb_066",
+      "image": "https://images.pokemontcg.io/bw10/66.png"
     },
     {
       "id": "bw11-24",
@@ -3213,7 +3390,8 @@
       "artistId": "133",
       "numeroLiga": "(24/113)",
       "codigoLiga": "victini-ex (24/113)",
-      "myp": "ltr_024"
+      "myp": "ltr_024",
+      "image": "https://images.pokemontcg.io/bw11/24.png"
     },
     {
       "id": "bw11-29",
@@ -3231,7 +3409,8 @@
       "artistId": "87",
       "numeroLiga": "(29/113)",
       "codigoLiga": "reshiram-ex (29/113)",
-      "myp": "ltr_029"
+      "myp": "ltr_029",
+      "image": "https://images.pokemontcg.io/bw11/29.png"
     },
     {
       "id": "bw11-44",
@@ -3249,7 +3428,8 @@
       "artistId": "87",
       "numeroLiga": "(44/113)",
       "codigoLiga": "kyurem-ex (44/113)",
-      "myp": "ltr_044"
+      "myp": "ltr_044",
+      "image": "https://images.pokemontcg.io/bw11/44.png"
     },
     {
       "id": "bw11-45",
@@ -3267,7 +3447,8 @@
       "artistId": "132",
       "numeroLiga": "(45/113)",
       "codigoLiga": "keldeo-ex (45/113)",
-      "myp": "ltr_045"
+      "myp": "ltr_045",
+      "image": "https://images.pokemontcg.io/bw11/45.png"
     },
     {
       "id": "bw11-52",
@@ -3285,7 +3466,8 @@
       "artistId": "87",
       "numeroLiga": "(52/113)",
       "codigoLiga": "zekrom-ex (52/113)",
-      "myp": "ltr_052"
+      "myp": "ltr_052",
+      "image": "https://images.pokemontcg.io/bw11/52.png"
     },
     {
       "id": "bw11-54",
@@ -3303,7 +3485,8 @@
       "artistId": "87",
       "numeroLiga": "(54/113)",
       "codigoLiga": "mewtwo-ex (54/113)",
-      "myp": "ltr_054"
+      "myp": "ltr_054",
+      "image": "https://images.pokemontcg.io/bw11/54.png"
     },
     {
       "id": "bw11-77",
@@ -3321,7 +3504,8 @@
       "artistId": "69",
       "numeroLiga": "(77/113)",
       "codigoLiga": "chandelure-ex (77/113)",
-      "myp": "ltr_077"
+      "myp": "ltr_077",
+      "image": "https://images.pokemontcg.io/bw11/77.png"
     },
     {
       "id": "bw11-82",
@@ -3339,7 +3523,8 @@
       "artistId": "69",
       "numeroLiga": "(82/113)",
       "codigoLiga": "excadrill-ex (82/113)",
-      "myp": "ltr_082"
+      "myp": "ltr_082",
+      "image": "https://images.pokemontcg.io/bw11/82.png"
     },
     {
       "id": "bw11-88",
@@ -3357,7 +3542,8 @@
       "artistId": "87",
       "numeroLiga": "(88/113)",
       "codigoLiga": "darkrai-ex (88/113)",
-      "myp": "ltr_088"
+      "myp": "ltr_088",
+      "image": "https://images.pokemontcg.io/bw11/88.png"
     },
     {
       "id": "bw11-100",
@@ -3375,7 +3561,8 @@
       "artistId": "133",
       "numeroLiga": "(100/113)",
       "codigoLiga": "black kyurem-ex (100/113)",
-      "myp": "ltr_100"
+      "myp": "ltr_100",
+      "image": "https://images.pokemontcg.io/bw11/100.png"
     },
     {
       "id": "bw11-101",
@@ -3393,7 +3580,8 @@
       "artistId": "133",
       "numeroLiga": "(101/113)",
       "codigoLiga": "white kyurem-ex (101/113)",
-      "myp": "ltr_101"
+      "myp": "ltr_101",
+      "image": "https://images.pokemontcg.io/bw11/101.png"
     },
     {
       "id": "bw11-102",
@@ -3411,7 +3599,8 @@
       "artistId": "132",
       "numeroLiga": "(102/113)",
       "codigoLiga": "lugia-ex (102/113)",
-      "myp": "ltr_102"
+      "myp": "ltr_102",
+      "image": "https://images.pokemontcg.io/bw11/102.png"
     },
     {
       "id": "xy1-1",
@@ -3431,7 +3620,8 @@
       "artistId": "133",
       "numeroLiga": "(1/146)",
       "codigoLiga": "venusaur-ex (1/146)",
-      "myp": "xy_001"
+      "myp": "xy_001",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/1/low.png"
     },
     {
       "id": "xy1-2",
@@ -3450,7 +3640,8 @@
       "artistId": "131",
       "numeroLiga": "(2/146)",
       "codigoLiga": "m venusaur-ex (2/146)",
-      "myp": "xy_002"
+      "myp": "xy_002",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/2/low.png"
     },
     {
       "id": "xy1-29",
@@ -3469,7 +3660,8 @@
       "artistId": "133",
       "numeroLiga": "(29/146)",
       "codigoLiga": "blastoise-ex (29/146)",
-      "myp": "xy_029"
+      "myp": "xy_029",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/29/low.png"
     },
     {
       "id": "xy1-30",
@@ -3488,7 +3680,8 @@
       "artistId": "131",
       "numeroLiga": "(30/146)",
       "codigoLiga": "m blastoise-ex (30/146)",
-      "myp": "xy_030"
+      "myp": "xy_030",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/30/low.png"
     },
     {
       "id": "xy1-46",
@@ -3507,7 +3700,8 @@
       "artistId": "133",
       "numeroLiga": "(46/146)",
       "codigoLiga": "emolga-ex (46/146)",
-      "myp": "xy_046"
+      "myp": "xy_046",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/46/low.png"
     },
     {
       "id": "xy1-79",
@@ -3526,7 +3720,8 @@
       "artistId": "131",
       "numeroLiga": "(79/146)",
       "codigoLiga": "yveltal-ex (79/146)",
-      "myp": "xy_079"
+      "myp": "xy_079",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/79/low.png"
     },
     {
       "id": "xy1-80",
@@ -3545,7 +3740,8 @@
       "artistId": "133",
       "numeroLiga": "(80/146)",
       "codigoLiga": "skarmory-ex (80/146)",
-      "myp": "xy_080"
+      "myp": "xy_080",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/80/low.png"
     },
     {
       "id": "xy1-97",
@@ -3564,7 +3760,8 @@
       "artistId": "131",
       "numeroLiga": "(97/146)",
       "codigoLiga": "xerneas-ex (97/146)",
-      "myp": "xy_097"
+      "myp": "xy_097",
+      "image": "https://assets.tcgdex.net/pt/xy/xy1/97/low.png"
     },
     {
       "id": "xy2-11",
@@ -3583,7 +3780,8 @@
       "artistId": "133",
       "numeroLiga": "(11/106)",
       "codigoLiga": "charizard-ex (11/106)",
-      "myp": "flf_011"
+      "myp": "flf_011",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/11/low.png"
     },
     {
       "id": "xy2-12",
@@ -3602,7 +3800,8 @@
       "artistId": "145",
       "numeroLiga": "(12/106)",
       "codigoLiga": "charizard-ex (12/106)",
-      "myp": "flf_012"
+      "myp": "flf_012",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/12/low.png"
     },
     {
       "id": "xy2-13",
@@ -3621,7 +3820,8 @@
       "artistId": "131",
       "numeroLiga": "(13/106)",
       "codigoLiga": "m charizard-ex (13/106)",
-      "myp": "flf_013"
+      "myp": "flf_013",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/13/low.png"
     },
     {
       "id": "xy2-35",
@@ -3640,7 +3840,8 @@
       "artistId": "133",
       "numeroLiga": "(35/106)",
       "codigoLiga": "magnezone-ex (35/106)",
-      "myp": "flf_035"
+      "myp": "flf_035",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/35/low.png"
     },
     {
       "id": "xy2-41",
@@ -3659,7 +3860,8 @@
       "artistId": "145",
       "numeroLiga": "(41/106)",
       "codigoLiga": "toxicroak-ex (41/106)",
-      "myp": "flf_041"
+      "myp": "flf_041",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/41/low.png"
     },
     {
       "id": "xy2-69",
@@ -3678,7 +3880,8 @@
       "artistId": "131",
       "numeroLiga": "(69/106)",
       "codigoLiga": "m charizard-ex (69/106)",
-      "myp": "flf_069"
+      "myp": "flf_069",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/69/low.png"
     },
     {
       "id": "xy2-78",
@@ -3697,7 +3900,8 @@
       "artistId": "133",
       "numeroLiga": "(78/106)",
       "codigoLiga": "kangaskhan-ex (78/106)",
-      "myp": "flf_078"
+      "myp": "flf_078",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/78/low.png"
     },
     {
       "id": "xy2-79",
@@ -3716,7 +3920,8 @@
       "artistId": "131",
       "numeroLiga": "(79/106)",
       "codigoLiga": "m kangaskhan-ex (79/106)",
-      "myp": "flf_079"
+      "myp": "flf_079",
+      "image": "https://assets.tcgdex.net/pt/xy/xy2/79/low.png"
     },
     {
       "id": "xy3-4",
@@ -3735,7 +3940,8 @@
       "artistId": "133",
       "numeroLiga": "(4/111)",
       "codigoLiga": "heracross-ex (4/111)",
-      "myp": "ffi_004"
+      "myp": "ffi_004",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/4/low.png"
     },
     {
       "id": "xy3-5",
@@ -3754,7 +3960,8 @@
       "artistId": "131",
       "numeroLiga": "(5/111)",
       "codigoLiga": "m heracross-ex (5/111)",
-      "myp": "ffi_005"
+      "myp": "ffi_005",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/5/low.png"
     },
     {
       "id": "xy3-20",
@@ -3773,7 +3980,8 @@
       "artistId": "133",
       "numeroLiga": "(20/111)",
       "codigoLiga": "seismitoad-ex (20/111)",
-      "myp": "ffi_020"
+      "myp": "ffi_020",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/20/low.png"
     },
     {
       "id": "xy3-54",
@@ -3792,7 +4000,8 @@
       "artistId": "133",
       "numeroLiga": "(54/111)",
       "codigoLiga": "lucario-ex (54/111)",
-      "myp": "ffi_054"
+      "myp": "ffi_054",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/54/low.png"
     },
     {
       "id": "xy3-55",
@@ -3811,7 +4020,8 @@
       "artistId": "131",
       "numeroLiga": "(55/111)",
       "codigoLiga": "m lucario-ex (55/111)",
-      "myp": "ffi_055"
+      "myp": "ffi_055",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/55/low.png"
     },
     {
       "id": "xy3-64",
@@ -3830,7 +4040,8 @@
       "artistId": "131",
       "numeroLiga": "(64/111)",
       "codigoLiga": "hawlucha-ex (64/111)",
-      "myp": "ffi_064"
+      "myp": "ffi_064",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/64/low.png"
     },
     {
       "id": "xy3-74",
@@ -3849,7 +4060,8 @@
       "artistId": "133",
       "numeroLiga": "(74/111)",
       "codigoLiga": "dragonite-ex (74/111)",
-      "myp": "ffi_074"
+      "myp": "ffi_074",
+      "image": "https://assets.tcgdex.net/pt/xy/xy3/74/low.png"
     },
     {
       "id": "xy4-23",
@@ -3868,7 +4080,8 @@
       "artistId": "133",
       "numeroLiga": "(23/119)",
       "codigoLiga": "manectric-ex (23/119)",
-      "myp": "phf_023"
+      "myp": "phf_023",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/23/low.png"
     },
     {
       "id": "xy4-24",
@@ -3887,7 +4100,8 @@
       "artistId": "131",
       "numeroLiga": "(24/119)",
       "codigoLiga": "m manectric-ex (24/119)",
-      "myp": "phf_024"
+      "myp": "phf_024",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/24/low.png"
     },
     {
       "id": "xy4-34",
@@ -3906,7 +4120,8 @@
       "artistId": "133",
       "numeroLiga": "(34/119)",
       "codigoLiga": "gengar-ex (34/119)",
-      "myp": "phf_034"
+      "myp": "phf_034",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/34/low.png"
     },
     {
       "id": "xy4-35",
@@ -3925,7 +4140,8 @@
       "artistId": "131",
       "numeroLiga": "(35/119)",
       "codigoLiga": "m gengar-ex (35/119)",
-      "myp": "phf_035"
+      "myp": "phf_035",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/35/low.png"
     },
     {
       "id": "xy4-58",
@@ -3944,7 +4160,8 @@
       "artistId": "133",
       "numeroLiga": "(58/119)",
       "codigoLiga": "malamar-ex (58/119)",
-      "myp": "phf_058"
+      "myp": "phf_058",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/58/low.png"
     },
     {
       "id": "xy4-62",
@@ -3963,7 +4180,8 @@
       "artistId": "126",
       "numeroLiga": "(62/119)",
       "codigoLiga": "dialga-ex (62/119)",
-      "myp": "phf_062"
+      "myp": "phf_062",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/62/low.png"
     },
     {
       "id": "xy4-65",
@@ -3982,7 +4200,8 @@
       "artistId": "126",
       "numeroLiga": "(65/119)",
       "codigoLiga": "aegislash-ex (65/119)",
-      "myp": "phf_065"
+      "myp": "phf_065",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/65/low.png"
     },
     {
       "id": "xy4-67",
@@ -4001,7 +4220,8 @@
       "artistId": "133",
       "numeroLiga": "(67/119)",
       "codigoLiga": "florges-ex (67/119)",
-      "myp": "phf_067"
+      "myp": "phf_067",
+      "image": "https://assets.tcgdex.net/pt/xy/xy4/67/low.png"
     },
     {
       "id": "xy5-19",
@@ -4020,7 +4240,8 @@
       "artistId": "133",
       "numeroLiga": "(19/160)",
       "codigoLiga": "trevenant-ex (19/160)",
-      "myp": "prc_019"
+      "myp": "prc_019",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/19/low.png"
     },
     {
       "id": "xy5-29",
@@ -4039,7 +4260,8 @@
       "artistId": "133",
       "numeroLiga": "(29/160)",
       "codigoLiga": "camerupt-ex (29/160)",
-      "myp": "prc_029"
+      "myp": "prc_029",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/29/low.png"
     },
     {
       "id": "xy5-38",
@@ -4058,7 +4280,8 @@
       "artistId": "133",
       "numeroLiga": "(38/160)",
       "codigoLiga": "wailord-ex (38/160)",
-      "myp": "prc_038"
+      "myp": "prc_038",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/38/low.png"
     },
     {
       "id": "xy5-54",
@@ -4077,7 +4300,8 @@
       "artistId": "154",
       "numeroLiga": "(54/160)",
       "codigoLiga": "kyogre-ex (54/160)",
-      "myp": "prc_054"
+      "myp": "prc_054",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/54/low.png"
     },
     {
       "id": "xy5-55",
@@ -4096,7 +4320,8 @@
       "artistId": "131",
       "numeroLiga": "(55/160)",
       "codigoLiga": "primal kyogre-ex (55/160)",
-      "myp": "prc_055"
+      "myp": "prc_055",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/55/low.png"
     },
     {
       "id": "xy5-85",
@@ -4115,7 +4340,8 @@
       "artistId": "154",
       "numeroLiga": "(85/160)",
       "codigoLiga": "groudon-ex (85/160)",
-      "myp": "prc_085"
+      "myp": "prc_085",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/85/low.png"
     },
     {
       "id": "xy5-86",
@@ -4134,7 +4360,8 @@
       "artistId": "131",
       "numeroLiga": "(86/160)",
       "codigoLiga": "primal groudon-ex (86/160)",
-      "myp": "prc_086"
+      "myp": "prc_086",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/86/low.png"
     },
     {
       "id": "xy5-91",
@@ -4153,7 +4380,8 @@
       "artistId": "133",
       "numeroLiga": "(91/160)",
       "codigoLiga": "sharpedo-ex (91/160)",
-      "myp": "prc_091"
+      "myp": "prc_091",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/91/low.png"
     },
     {
       "id": "xy5-93",
@@ -4172,7 +4400,8 @@
       "artistId": "133",
       "numeroLiga": "(93/160)",
       "codigoLiga": "aggron-ex (93/160)",
-      "myp": "prc_093"
+      "myp": "prc_093",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/93/low.png"
     },
     {
       "id": "xy5-94",
@@ -4191,7 +4420,8 @@
       "artistId": "131",
       "numeroLiga": "(94/160)",
       "codigoLiga": "m aggron-ex (94/160)",
-      "myp": "prc_094"
+      "myp": "prc_094",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/94/low.png"
     },
     {
       "id": "xy5-105",
@@ -4210,7 +4440,8 @@
       "artistId": "133",
       "numeroLiga": "(105/160)",
       "codigoLiga": "gardevoir-ex (105/160)",
-      "myp": "prc_105"
+      "myp": "prc_105",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/105/low.png"
     },
     {
       "id": "xy5-106",
@@ -4229,7 +4460,8 @@
       "artistId": "131",
       "numeroLiga": "(106/160)",
       "codigoLiga": "m gardevoir-ex (106/160)",
-      "myp": "prc_106"
+      "myp": "prc_106",
+      "image": "https://assets.tcgdex.net/pt/xy/xy5/106/low.png"
     },
     {
       "id": "xy6-26",
@@ -4248,7 +4480,8 @@
       "artistId": "133",
       "numeroLiga": "(26/108)",
       "codigoLiga": "thundurus-ex (26/108)",
-      "myp": "ros_026"
+      "myp": "ros_026",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/26/low.png"
     },
     {
       "id": "xy6-34",
@@ -4267,7 +4500,8 @@
       "artistId": "133",
       "numeroLiga": "(34/108)",
       "codigoLiga": "gallade-ex (34/108)",
-      "myp": "ros_034"
+      "myp": "ros_034",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/34/low.png"
     },
     {
       "id": "xy6-35",
@@ -4286,7 +4520,8 @@
       "artistId": "131",
       "numeroLiga": "(35/108)",
       "codigoLiga": "m gallade-ex (35/108)",
-      "myp": "ros_035"
+      "myp": "ros_035",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/35/low.png"
     },
     {
       "id": "xy6-58",
@@ -4305,7 +4540,8 @@
       "artistId": "126",
       "numeroLiga": "(58/108)",
       "codigoLiga": "latios-ex (58/108)",
-      "myp": "ros_058"
+      "myp": "ros_058",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/58/low.png"
     },
     {
       "id": "xy6-59",
@@ -4324,7 +4560,8 @@
       "artistId": "131",
       "numeroLiga": "(59/108)",
       "codigoLiga": "m latios-ex (59/108)",
-      "myp": "ros_059"
+      "myp": "ros_059",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/59/low.png"
     },
     {
       "id": "xy6-60",
@@ -4343,7 +4580,8 @@
       "artistId": "145",
       "numeroLiga": "(60/108)",
       "codigoLiga": "rayquaza-ex (60/108)",
-      "myp": "ros_060"
+      "myp": "ros_060",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/60/low.png"
     },
     {
       "id": "xy6-61",
@@ -4362,7 +4600,8 @@
       "artistId": "131",
       "numeroLiga": "(61/108)",
       "codigoLiga": "m rayquaza-ex (61/108)",
-      "myp": "ros_061"
+      "myp": "ros_061",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/61/low.png"
     },
     {
       "id": "xy6-62",
@@ -4381,7 +4620,8 @@
       "artistId": "133",
       "numeroLiga": "(62/108)",
       "codigoLiga": "hydreigon-ex (62/108)",
-      "myp": "ros_062"
+      "myp": "ros_062",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/62/low.png"
     },
     {
       "id": "xy6-75",
@@ -4400,7 +4640,8 @@
       "artistId": "154",
       "numeroLiga": "(75/108)",
       "codigoLiga": "rayquaza-ex (75/108)",
-      "myp": "ros_075"
+      "myp": "ros_075",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/75/low.png"
     },
     {
       "id": "xy6-76",
@@ -4419,7 +4660,8 @@
       "artistId": "131",
       "numeroLiga": "(76/108)",
       "codigoLiga": "m rayquaza-ex (76/108)",
-      "myp": "ros_076"
+      "myp": "ros_076",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/76/low.png"
     },
     {
       "id": "xy6-77",
@@ -4438,7 +4680,8 @@
       "artistId": "126",
       "numeroLiga": "(77/108)",
       "codigoLiga": "shaymin-ex (77/108)",
-      "myp": "ros_077"
+      "myp": "ros_077",
+      "image": "https://assets.tcgdex.net/pt/xy/xy6/77/low.png"
     },
     {
       "id": "xy7-7",
@@ -4457,7 +4700,8 @@
       "artistId": "133",
       "numeroLiga": "(7/98)",
       "codigoLiga": "sceptile-ex (7/98)",
-      "myp": "aor_007"
+      "myp": "aor_007",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/7/low.png"
     },
     {
       "id": "xy7-8",
@@ -4476,7 +4720,8 @@
       "artistId": "131",
       "numeroLiga": "(8/98)",
       "codigoLiga": "m sceptile-ex (8/98)",
-      "myp": "aor_008"
+      "myp": "aor_008",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/8/low.png"
     },
     {
       "id": "xy7-25",
@@ -4495,7 +4740,8 @@
       "artistId": "145",
       "numeroLiga": "(25/98)",
       "codigoLiga": "kyurem-ex (25/98)",
-      "myp": "aor_025"
+      "myp": "aor_025",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/25/low.png"
     },
     {
       "id": "xy7-27",
@@ -4514,7 +4760,8 @@
       "artistId": "133",
       "numeroLiga": "(27/98)",
       "codigoLiga": "ampharos-ex (27/98)",
-      "myp": "aor_027"
+      "myp": "aor_027",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/27/low.png"
     },
     {
       "id": "xy7-28",
@@ -4533,7 +4780,8 @@
       "artistId": "131",
       "numeroLiga": "(28/98)",
       "codigoLiga": "m ampharos-ex (28/98)",
-      "myp": "aor_028"
+      "myp": "aor_028",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/28/low.png"
     },
     {
       "id": "xy7-36",
@@ -4552,7 +4800,8 @@
       "artistId": "154",
       "numeroLiga": "(36/98)",
       "codigoLiga": "hoopa-ex (36/98)",
-      "myp": "aor_036"
+      "myp": "aor_036",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/36/low.png"
     },
     {
       "id": "xy7-37",
@@ -4571,7 +4820,8 @@
       "artistId": "133",
       "numeroLiga": "(37/98)",
       "codigoLiga": "machamp-ex (37/98)",
-      "myp": "aor_037"
+      "myp": "aor_037",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/37/low.png"
     },
     {
       "id": "xy7-42",
@@ -4590,7 +4840,8 @@
       "artistId": "133",
       "numeroLiga": "(42/98)",
       "codigoLiga": "tyranitar-ex (42/98)",
-      "myp": "aor_042"
+      "myp": "aor_042",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/42/low.png"
     },
     {
       "id": "xy7-43",
@@ -4609,7 +4860,8 @@
       "artistId": "131",
       "numeroLiga": "(43/98)",
       "codigoLiga": "m tyranitar-ex (43/98)",
-      "myp": "aor_043"
+      "myp": "aor_043",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/43/low.png"
     },
     {
       "id": "xy7-57",
@@ -4628,7 +4880,8 @@
       "artistId": "145",
       "numeroLiga": "(57/98)",
       "codigoLiga": "giratina-ex (57/98)",
-      "myp": "aor_057"
+      "myp": "aor_057",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/57/low.png"
     },
     {
       "id": "xy7-68",
@@ -4647,7 +4900,8 @@
       "artistId": "133",
       "numeroLiga": "(68/98)",
       "codigoLiga": "lugia-ex (68/98)",
-      "myp": "aor_068"
+      "myp": "aor_068",
+      "image": "https://assets.tcgdex.net/pt/xy/xy7/68/low.png"
     },
     {
       "id": "xy8-21",
@@ -4666,7 +4920,8 @@
       "artistId": "133",
       "numeroLiga": "(21/162)",
       "codigoLiga": "houndoom-ex (21/162)",
-      "myp": "bkt_021"
+      "myp": "bkt_021",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/21/low.png"
     },
     {
       "id": "xy8-22",
@@ -4685,7 +4940,8 @@
       "artistId": "131",
       "numeroLiga": "(22/162)",
       "codigoLiga": "m houndoom-ex (22/162)",
-      "myp": "bkt_022"
+      "myp": "bkt_022",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/22/low.png"
     },
     {
       "id": "xy8-34",
@@ -4704,7 +4960,8 @@
       "artistId": "133",
       "numeroLiga": "(34/162)",
       "codigoLiga": "glalie-ex (34/162)",
-      "myp": "bkt_034"
+      "myp": "bkt_034",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/34/low.png"
     },
     {
       "id": "xy8-35",
@@ -4723,7 +4980,8 @@
       "artistId": "131",
       "numeroLiga": "(35/162)",
       "codigoLiga": "m glalie-ex (35/162)",
-      "myp": "bkt_035"
+      "myp": "bkt_035",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/35/low.png"
     },
     {
       "id": "xy8-61",
@@ -4742,7 +5000,8 @@
       "artistId": "145",
       "numeroLiga": "(61/162)",
       "codigoLiga": "mewtwo-ex (61/162)",
-      "myp": "bkt_061"
+      "myp": "bkt_061",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/61/low.png"
     },
     {
       "id": "xy8-62",
@@ -4761,7 +5020,8 @@
       "artistId": "145",
       "numeroLiga": "(62/162)",
       "codigoLiga": "mewtwo-ex (62/162)",
-      "myp": "bkt_062"
+      "myp": "bkt_062",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/62/low.png"
     },
     {
       "id": "xy8-63",
@@ -4780,7 +5040,8 @@
       "artistId": "131",
       "numeroLiga": "(63/162)",
       "codigoLiga": "m mewtwo-ex (63/162)",
-      "myp": "bkt_063"
+      "myp": "bkt_063",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/63/low.png"
     },
     {
       "id": "xy8-64",
@@ -4799,7 +5060,8 @@
       "artistId": "131",
       "numeroLiga": "(64/162)",
       "codigoLiga": "m mewtwo-ex (64/162)",
-      "myp": "bkt_064"
+      "myp": "bkt_064",
+      "image": "https://assets.tcgdex.net/pt/xy/xy8/64/low.png"
     },
     {
       "id": "xy9-14",
@@ -4818,7 +5080,8 @@
       "artistId": "133",
       "numeroLiga": "(14/122)",
       "codigoLiga": "emboar-ex (14/122)",
-      "myp": "bkp_014"
+      "myp": "bkp_014",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/14/low.png"
     },
     {
       "id": "xy9-26",
@@ -4837,7 +5100,8 @@
       "artistId": "133",
       "numeroLiga": "(26/122)",
       "codigoLiga": "gyarados-ex (26/122)",
-      "myp": "bkp_026"
+      "myp": "bkp_026",
+      "image": "https://images.pokemontcg.io/xy9/26.png"
     },
     {
       "id": "xy9-27",
@@ -4856,7 +5120,8 @@
       "artistId": "131",
       "numeroLiga": "(27/122)",
       "codigoLiga": "m gyarados-ex (27/122)",
-      "myp": "bkp_027"
+      "myp": "bkp_027",
+      "image": "https://images.pokemontcg.io/xy9/27.png"
     },
     {
       "id": "xy9-31",
@@ -4875,7 +5140,8 @@
       "artistId": "133",
       "numeroLiga": "(31/122)",
       "codigoLiga": "palkia-ex (31/122)",
-      "myp": "bkp_031"
+      "myp": "bkp_031",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/31/low.png"
     },
     {
       "id": "xy9-32",
@@ -4894,7 +5160,8 @@
       "artistId": "133",
       "numeroLiga": "(32/122)",
       "codigoLiga": "manaphy-ex (32/122)",
-      "myp": "bkp_032"
+      "myp": "bkp_032",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/32/low.png"
     },
     {
       "id": "xy9-52",
@@ -4913,7 +5180,8 @@
       "artistId": "126",
       "numeroLiga": "(52/122)",
       "codigoLiga": "espeon-ex (52/122)",
-      "myp": "bkp_052"
+      "myp": "bkp_052",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/52/low.png"
     },
     {
       "id": "xy9-74",
@@ -4932,7 +5200,8 @@
       "artistId": "133",
       "numeroLiga": "(74/122)",
       "codigoLiga": "darkrai-ex (74/122)",
-      "myp": "bkp_074"
+      "myp": "bkp_074",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/74/low.png"
     },
     {
       "id": "xy9-76",
@@ -4951,7 +5220,8 @@
       "artistId": "133",
       "numeroLiga": "(76/122)",
       "codigoLiga": "scizor-ex (76/122)",
-      "myp": "bkp_076"
+      "myp": "bkp_076",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/76/low.png"
     },
     {
       "id": "xy9-77",
@@ -4970,7 +5240,8 @@
       "artistId": "131",
       "numeroLiga": "(77/122)",
       "codigoLiga": "m scizor-ex (77/122)",
-      "myp": "bkp_077"
+      "myp": "bkp_077",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/77/low.png"
     },
     {
       "id": "xy9-83",
@@ -4989,7 +5260,8 @@
       "artistId": "133",
       "numeroLiga": "(83/122)",
       "codigoLiga": "togekiss-ex (83/122)",
-      "myp": "bkp_083"
+      "myp": "bkp_083",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/83/low.png"
     },
     {
       "id": "xy9-92",
@@ -5008,7 +5280,8 @@
       "artistId": "133",
       "numeroLiga": "(92/122)",
       "codigoLiga": "ho-oh-ex (92/122)",
-      "myp": "bkp_092"
+      "myp": "bkp_092",
+      "image": "https://assets.tcgdex.net/pt/xy/xy9/92/low.png"
     },
     {
       "id": "g1-1",
@@ -5027,7 +5300,8 @@
       "artistId": "133",
       "numeroLiga": "(1/83)",
       "codigoLiga": "venusaur-ex (1/83)",
-      "myp": "gen_001"
+      "myp": "gen_001",
+      "image": "https://images.pokemontcg.io/g1/1.png"
     },
     {
       "id": "g1-2",
@@ -5045,7 +5319,8 @@
       "artistId": "131",
       "numeroLiga": "(2/83)",
       "codigoLiga": "m venusaur-ex (2/83)",
-      "myp": "gen_002"
+      "myp": "gen_002",
+      "image": "https://images.pokemontcg.io/g1/2.png"
     },
     {
       "id": "g1-10",
@@ -5063,7 +5338,8 @@
       "artistId": "114",
       "numeroLiga": "(10/83)",
       "codigoLiga": "leafeon-ex (10/83)",
-      "myp": "gen_010"
+      "myp": "gen_010",
+      "image": "https://images.pokemontcg.io/g1/10.png"
     },
     {
       "id": "g1-11",
@@ -5081,7 +5357,8 @@
       "artistId": "133",
       "numeroLiga": "(11/83)",
       "codigoLiga": "charizard-ex (11/83)",
-      "myp": "gen_011"
+      "myp": "gen_011",
+      "image": "https://images.pokemontcg.io/g1/11.png"
     },
     {
       "id": "g1-12",
@@ -5099,7 +5376,8 @@
       "artistId": "131",
       "numeroLiga": "(12/83)",
       "codigoLiga": "m charizard-ex (12/83)",
-      "myp": "gen_012"
+      "myp": "gen_012",
+      "image": "https://images.pokemontcg.io/g1/12.png"
     },
     {
       "id": "g1-13",
@@ -5117,7 +5395,8 @@
       "artistId": "133",
       "numeroLiga": "(13/83)",
       "codigoLiga": "ninetales-ex (13/83)",
-      "myp": "gen_013"
+      "myp": "gen_013",
+      "image": "https://images.pokemontcg.io/g1/13.png"
     },
     {
       "id": "g1-17",
@@ -5135,7 +5414,8 @@
       "artistId": "133",
       "numeroLiga": "(17/83)",
       "codigoLiga": "blastoise-ex (17/83)",
-      "myp": "gen_017"
+      "myp": "gen_017",
+      "image": "https://images.pokemontcg.io/g1/17.png"
     },
     {
       "id": "g1-18",
@@ -5153,7 +5433,8 @@
       "artistId": "131",
       "numeroLiga": "(18/83)",
       "codigoLiga": "m blastoise-ex (18/83)",
-      "myp": "gen_018"
+      "myp": "gen_018",
+      "image": "https://images.pokemontcg.io/g1/18.png"
     },
     {
       "id": "g1-24",
@@ -5171,7 +5452,8 @@
       "artistId": "114",
       "numeroLiga": "(24/83)",
       "codigoLiga": "vaporeon-ex (24/83)",
-      "myp": "gen_024"
+      "myp": "gen_024",
+      "image": "https://images.pokemontcg.io/g1/24.png"
     },
     {
       "id": "g1-28",
@@ -5189,7 +5471,8 @@
       "artistId": "114",
       "numeroLiga": "(28/83)",
       "codigoLiga": "jolteon-ex (28/83)",
-      "myp": "gen_028"
+      "myp": "gen_028",
+      "image": "https://images.pokemontcg.io/g1/28.png"
     },
     {
       "id": "g1-37",
@@ -5207,7 +5490,8 @@
       "artistId": "132",
       "numeroLiga": "(37/83)",
       "codigoLiga": "meowstic-ex (37/83)",
-      "myp": "gen_037"
+      "myp": "gen_037",
+      "image": "https://images.pokemontcg.io/g1/37.png"
     },
     {
       "id": "g1-46",
@@ -5225,7 +5509,8 @@
       "artistId": "132",
       "numeroLiga": "(46/83)",
       "codigoLiga": "golem-ex (46/83)",
-      "myp": "gen_046"
+      "myp": "gen_046",
+      "image": "https://images.pokemontcg.io/g1/46.png"
     },
     {
       "id": "g1-RC6",
@@ -5244,7 +5529,8 @@
       "artistId": "12",
       "numeroLiga": "(RC6/83)",
       "codigoLiga": "flareon-ex (RC6/83)",
-      "myp": "gen_006"
+      "myp": "gen_006",
+      "image": "https://images.pokemontcg.io/g2/6.png"
     },
     {
       "id": "g1-RC21",
@@ -5263,7 +5549,8 @@
       "artistId": "109",
       "numeroLiga": "(RC21/83)",
       "codigoLiga": "sylveon-ex (RC21/83)",
-      "myp": "gen_021"
+      "myp": "gen_021",
+      "image": "https://images.pokemontcg.io/g2/21.png"
     },
     {
       "id": "xy10-20",
@@ -5282,7 +5569,8 @@
       "artistId": "126",
       "numeroLiga": "(20/124)",
       "codigoLiga": "glaceon-ex (20/124)",
-      "myp": "fco_020"
+      "myp": "fco_020",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/20/low.png"
     },
     {
       "id": "xy10-25",
@@ -5301,7 +5589,8 @@
       "artistId": "145",
       "numeroLiga": "(25/124)",
       "codigoLiga": "alakazam-ex (25/124)",
-      "myp": "fco_025"
+      "myp": "fco_025",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/25/low.png"
     },
     {
       "id": "xy10-26",
@@ -5320,7 +5609,8 @@
       "artistId": "131",
       "numeroLiga": "(26/124)",
       "codigoLiga": "m alakazam-ex (26/124)",
-      "myp": "fco_026"
+      "myp": "fco_026",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/26/low.png"
     },
     {
       "id": "xy10-43",
@@ -5339,7 +5629,8 @@
       "artistId": "145",
       "numeroLiga": "(43/124)",
       "codigoLiga": "regirock-ex (43/124)",
-      "myp": "fco_043"
+      "myp": "fco_043",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/43/low.png"
     },
     {
       "id": "xy10-54",
@@ -5358,7 +5649,8 @@
       "artistId": "131",
       "numeroLiga": "(54/124)",
       "codigoLiga": "zygarde-ex (54/124)",
-      "myp": "fco_054"
+      "myp": "fco_054",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/54/low.png"
     },
     {
       "id": "xy10-55",
@@ -5377,7 +5669,8 @@
       "artistId": "126",
       "numeroLiga": "(55/124)",
       "codigoLiga": "umbreon-ex (55/124)",
-      "myp": "fco_055"
+      "myp": "fco_055",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/55/low.png"
     },
     {
       "id": "xy10-64",
@@ -5396,7 +5689,8 @@
       "artistId": "133",
       "numeroLiga": "(64/124)",
       "codigoLiga": "genesect-ex (64/124)",
-      "myp": "fco_064"
+      "myp": "fco_064",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/64/low.png"
     },
     {
       "id": "xy10-69",
@@ -5415,7 +5709,8 @@
       "artistId": "131",
       "numeroLiga": "(69/124)",
       "codigoLiga": "m altaria-ex (69/124)",
-      "myp": "fco_069"
+      "myp": "fco_069",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/69/low.png"
     },
     {
       "id": "xy10-72",
@@ -5434,7 +5729,8 @@
       "artistId": "133",
       "numeroLiga": "(72/124)",
       "codigoLiga": "diancie-ex (72/124)",
-      "myp": "fco_072"
+      "myp": "fco_072",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/72/low.png"
     },
     {
       "id": "xy10-73",
@@ -5453,7 +5749,8 @@
       "artistId": "141",
       "numeroLiga": "(73/124)",
       "codigoLiga": "kingdra-ex (73/124)",
-      "myp": "fco_073"
+      "myp": "fco_073",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/73/low.png"
     },
     {
       "id": "xy10-83",
@@ -5472,7 +5769,8 @@
       "artistId": "133",
       "numeroLiga": "(83/124)",
       "codigoLiga": "altaria-ex (83/124)",
-      "myp": "fco_083"
+      "myp": "fco_083",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/83/low.png"
     },
     {
       "id": "xy10-84",
@@ -5491,7 +5789,8 @@
       "artistId": "126",
       "numeroLiga": "(84/124)",
       "codigoLiga": "audino-ex (84/124)",
-      "myp": "fco_084"
+      "myp": "fco_084",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/84/low.png"
     },
     {
       "id": "xy10-85",
@@ -5510,7 +5809,8 @@
       "artistId": "131",
       "numeroLiga": "(85/124)",
       "codigoLiga": "m audino-ex (85/124)",
-      "myp": "fco_085"
+      "myp": "fco_085",
+      "image": "https://assets.tcgdex.net/pt/xy/xy10/85/low.png"
     },
     {
       "id": "xy11-26",
@@ -5529,7 +5829,8 @@
       "artistId": "131",
       "numeroLiga": "(26/114)",
       "codigoLiga": "volcanion-ex (26/114)",
-      "myp": "sts_026"
+      "myp": "sts_026",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/26/low.png"
     },
     {
       "id": "xy11-67",
@@ -5548,7 +5849,8 @@
       "artistId": "133",
       "numeroLiga": "(67/114)",
       "codigoLiga": "steelix-ex (67/114)",
-      "myp": "sts_067"
+      "myp": "sts_067",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/67/low.png"
     },
     {
       "id": "xy11-68",
@@ -5567,7 +5869,8 @@
       "artistId": "131",
       "numeroLiga": "(68/114)",
       "codigoLiga": "m steelix-ex (68/114)",
-      "myp": "sts_068"
+      "myp": "sts_068",
+      "image": "https://images.pokemontcg.io/xy11/68.png"
     },
     {
       "id": "xy11-75",
@@ -5586,7 +5889,8 @@
       "artistId": "131",
       "numeroLiga": "(75/114)",
       "codigoLiga": "magearna-ex (75/114)",
-      "myp": "sts_075"
+      "myp": "sts_075",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/75/low.png"
     },
     {
       "id": "xy11-78",
@@ -5605,7 +5909,8 @@
       "artistId": "133",
       "numeroLiga": "(78/114)",
       "codigoLiga": "gardevoir-ex (78/114)",
-      "myp": "sts_078"
+      "myp": "sts_078",
+      "image": "https://assets.tcgdex.net/pt/xy/xy11/78/low.png"
     },
     {
       "id": "xy11-79",
@@ -5624,7 +5929,8 @@
       "artistId": "131",
       "numeroLiga": "(79/114)",
       "codigoLiga": "m gardevoir-ex (79/114)",
-      "myp": "sts_079"
+      "myp": "sts_079",
+      "image": "https://images.pokemontcg.io/xy11/79.png"
     },
     {
       "id": "xy12-1",
@@ -5644,7 +5950,8 @@
       "artistId": "133",
       "numeroLiga": "(1/108)",
       "codigoLiga": "venusaur-ex (1/108)",
-      "myp": "evo_001"
+      "myp": "evo_001",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/1/low.png"
     },
     {
       "id": "xy12-2",
@@ -5663,7 +5970,8 @@
       "artistId": "131",
       "numeroLiga": "(2/108)",
       "codigoLiga": "m venusaur-ex (2/108)",
-      "myp": "evo_002"
+      "myp": "evo_002",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/2/low.png"
     },
     {
       "id": "xy12-12",
@@ -5682,7 +5990,8 @@
       "artistId": "145",
       "numeroLiga": "(12/108)",
       "codigoLiga": "charizard-ex (12/108)",
-      "myp": "evo_012"
+      "myp": "evo_012",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/12/low.png"
     },
     {
       "id": "xy12-13",
@@ -5701,7 +6010,8 @@
       "artistId": "131",
       "numeroLiga": "(13/108)",
       "codigoLiga": "m charizard-ex (13/108)",
-      "myp": "evo_013"
+      "myp": "evo_013",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/13/low.png"
     },
     {
       "id": "xy12-21",
@@ -5720,7 +6030,8 @@
       "artistId": "133",
       "numeroLiga": "(21/108)",
       "codigoLiga": "blastoise-ex (21/108)",
-      "myp": "evo_021"
+      "myp": "evo_021",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/21/low.png"
     },
     {
       "id": "xy12-22",
@@ -5739,7 +6050,8 @@
       "artistId": "131",
       "numeroLiga": "(22/108)",
       "codigoLiga": "m blastoise-ex (22/108)",
-      "myp": "evo_022"
+      "myp": "evo_022",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/22/low.png"
     },
     {
       "id": "xy12-26",
@@ -5758,7 +6070,8 @@
       "artistId": "126",
       "numeroLiga": "(26/108)",
       "codigoLiga": "slowbro-ex (26/108)",
-      "myp": "evo_026"
+      "myp": "evo_026",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/26/low.png"
     },
     {
       "id": "xy12-27",
@@ -5777,7 +6090,8 @@
       "artistId": "131",
       "numeroLiga": "(27/108)",
       "codigoLiga": "m slowbro-ex (27/108)",
-      "myp": "evo_027"
+      "myp": "evo_027",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/27/low.png"
     },
     {
       "id": "xy12-52",
@@ -5796,7 +6110,8 @@
       "artistId": "133",
       "numeroLiga": "(52/108)",
       "codigoLiga": "mewtwo-ex (52/108)",
-      "myp": "evo_052"
+      "myp": "evo_052",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/52/low.png"
     },
     {
       "id": "xy12-64",
@@ -5815,7 +6130,8 @@
       "artistId": "133",
       "numeroLiga": "(64/108)",
       "codigoLiga": "pidgeot-ex (64/108)",
-      "myp": "evo_064"
+      "myp": "evo_064",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/64/low.png"
     },
     {
       "id": "xy12-65",
@@ -5834,7 +6150,8 @@
       "artistId": "131",
       "numeroLiga": "(65/108)",
       "codigoLiga": "m pidgeot-ex (65/108)",
-      "myp": "evo_065"
+      "myp": "evo_065",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/65/low.png"
     },
     {
       "id": "xy12-72",
@@ -5853,7 +6170,8 @@
       "artistId": "126",
       "numeroLiga": "(72/108)",
       "codigoLiga": "dragonite-ex (72/108)",
-      "myp": "evo_072"
+      "myp": "evo_072",
+      "image": "https://assets.tcgdex.net/pt/xy/xy12/72/low.png"
     }
   ]
 }
