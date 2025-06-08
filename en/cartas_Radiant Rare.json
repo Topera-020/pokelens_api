@@ -18,7 +18,8 @@
       "artistId": "127",
       "numeroLiga": "(027/189)",
       "codigoLiga": "radiant heatran (027/189)",
-      "myp": "asr_027"
+      "myp": "asr_027",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/027/low.png"
     },
     {
       "id": "swsh10-46",
@@ -38,7 +39,8 @@
       "artistId": "213",
       "numeroLiga": "(046/189)",
       "codigoLiga": "radiant greninja (046/189)",
-      "myp": "asr_046"
+      "myp": "asr_046",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/046/low.png"
     },
     {
       "id": "swsh10-81",
@@ -58,7 +60,8 @@
       "artistId": "71",
       "numeroLiga": "(081/189)",
       "codigoLiga": "radiant hawlucha (081/189)",
-      "myp": "asr_081"
+      "myp": "asr_081",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10/081/low.png"
     },
     {
       "id": "pgo-4",
@@ -77,7 +80,8 @@
       "artistId": "171",
       "numeroLiga": "(004/78)",
       "codigoLiga": "radiant venusaur (004/78)",
-      "myp": "pgo_004"
+      "myp": "pgo_004",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10.5/004/low.png"
     },
     {
       "id": "pgo-11",
@@ -97,7 +101,8 @@
       "artistId": "127",
       "numeroLiga": "(011/78)",
       "codigoLiga": "radiant charizard (011/78)",
-      "myp": "pgo_011"
+      "myp": "pgo_011",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10.5/011/low.png"
     },
     {
       "id": "pgo-18",
@@ -117,7 +122,8 @@
       "artistId": "71",
       "numeroLiga": "(018/78)",
       "codigoLiga": "radiant blastoise (018/78)",
-      "myp": "pgo_018"
+      "myp": "pgo_018",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh10.5/018/low.png"
     },
     {
       "id": "swsh11-69",
@@ -137,7 +143,8 @@
       "artistId": "182",
       "numeroLiga": "(069/196)",
       "codigoLiga": "radiant gardevoir (069/196)",
-      "myp": "lor_069"
+      "myp": "lor_069",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/069/low.png"
     },
     {
       "id": "swsh11-123",
@@ -157,7 +164,8 @@
       "artistId": "130",
       "numeroLiga": "(123/196)",
       "codigoLiga": "radiant hisuian sneasler (123/196)",
-      "myp": "lor_123"
+      "myp": "lor_123",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/123/low.png"
     },
     {
       "id": "swsh11-124",
@@ -177,7 +185,8 @@
       "artistId": "146",
       "numeroLiga": "(124/196)",
       "codigoLiga": "radiant steelix (124/196)",
-      "myp": "lor_124"
+      "myp": "lor_124",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh11/124/low.png"
     },
     {
       "id": "swsh12-16",
@@ -197,7 +206,8 @@
       "artistId": "5",
       "numeroLiga": "(016/195)",
       "codigoLiga": "radiant tsareena (016/195)",
-      "myp": "sit_016"
+      "myp": "sit_016",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/016/low.png"
     },
     {
       "id": "swsh12-59",
@@ -217,7 +227,8 @@
       "artistId": "130",
       "numeroLiga": "(059/195)",
       "codigoLiga": "radiant alakazam (059/195)",
-      "myp": "sit_059"
+      "myp": "sit_059",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/059/low.png"
     },
     {
       "id": "swsh12-120",
@@ -237,7 +248,8 @@
       "artistId": "182",
       "numeroLiga": "(120/195)",
       "codigoLiga": "radiant jirachi (120/195)",
-      "myp": "sit_120"
+      "myp": "sit_120",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12/120/low.png"
     },
     {
       "id": "swsh12pt5-20",
@@ -257,7 +269,8 @@
       "artistId": "61",
       "numeroLiga": "(020/159)",
       "codigoLiga": "radiant charizard (020/159)",
-      "myp": "crz_020"
+      "myp": "crz_020",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/020/low.png"
     },
     {
       "id": "swsh12pt5-51",
@@ -277,7 +290,8 @@
       "artistId": "129",
       "numeroLiga": "(051/159)",
       "codigoLiga": "radiant charjabug (051/159)",
-      "myp": "crz_051"
+      "myp": "crz_051",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/051/low.png"
     },
     {
       "id": "swsh12pt5-105",
@@ -297,7 +311,8 @@
       "artistId": "5",
       "numeroLiga": "(105/159)",
       "codigoLiga": "radiant eternatus (105/159)",
-      "myp": "crz_105"
+      "myp": "crz_105",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh12.5/105/low.png"
     }
   ]
 }
