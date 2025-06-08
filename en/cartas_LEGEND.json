@@ -16,7 +16,8 @@
       "artistId": "120",
       "numeroLiga": "(111/123)",
       "codigoLiga": "ho-oh legend (111/123)",
-      "myp": "hs_111"
+      "myp": "hs_111",
+      "image": "https://images.pokemontcg.io/hgss1/111.png"
     },
     {
       "id": "hgss1-112",
@@ -34,7 +35,8 @@
       "artistId": "120",
       "numeroLiga": "(112/123)",
       "codigoLiga": "ho-oh legend (112/123)",
-      "myp": "hs_112"
+      "myp": "hs_112",
+      "image": "https://images.pokemontcg.io/hgss1/112.png"
     },
     {
       "id": "hgss1-113",
@@ -52,7 +54,8 @@
       "artistId": "120",
       "numeroLiga": "(113/123)",
       "codigoLiga": "lugia legend (113/123)",
-      "myp": "hs_113"
+      "myp": "hs_113",
+      "image": "https://images.pokemontcg.io/hgss1/113.png"
     },
     {
       "id": "hgss1-114",
@@ -70,7 +73,8 @@
       "artistId": "120",
       "numeroLiga": "(114/123)",
       "codigoLiga": "lugia legend (114/123)",
-      "myp": "hs_114"
+      "myp": "hs_114",
+      "image": "https://images.pokemontcg.io/hgss1/114.png"
     },
     {
       "id": "hgss2-90",
@@ -88,7 +92,8 @@
       "artistId": "122",
       "numeroLiga": "(90/96)",
       "codigoLiga": "entei & raikou legend (90/96)",
-      "myp": "ul_090"
+      "myp": "ul_090",
+      "image": "https://images.pokemontcg.io/hgss2/90.png"
     },
     {
       "id": "hgss2-91",
@@ -106,7 +111,8 @@
       "artistId": "122",
       "numeroLiga": "(91/96)",
       "codigoLiga": "entei & raikou legend (91/96)",
-      "myp": "ul_091"
+      "myp": "ul_091",
+      "image": "https://images.pokemontcg.io/hgss2/91.png"
     },
     {
       "id": "hgss2-92",
@@ -124,7 +130,8 @@
       "artistId": "123",
       "numeroLiga": "(92/96)",
       "codigoLiga": "raikou & suicune legend (92/96)",
-      "myp": "ul_092"
+      "myp": "ul_092",
+      "image": "https://images.pokemontcg.io/hgss2/92.png"
     },
     {
       "id": "hgss2-93",
@@ -142,7 +149,8 @@
       "artistId": "123",
       "numeroLiga": "(93/96)",
       "codigoLiga": "raikou & suicune legend (93/96)",
-      "myp": "ul_093"
+      "myp": "ul_093",
+      "image": "https://images.pokemontcg.io/hgss2/93.png"
     },
     {
       "id": "hgss2-94",
@@ -160,7 +168,8 @@
       "artistId": "122",
       "numeroLiga": "(94/96)",
       "codigoLiga": "suicune & entei legend (94/96)",
-      "myp": "ul_094"
+      "myp": "ul_094",
+      "image": "https://images.pokemontcg.io/hgss2/94.png"
     },
     {
       "id": "hgss2-95",
@@ -178,7 +187,8 @@
       "artistId": "122",
       "numeroLiga": "(95/96)",
       "codigoLiga": "suicune & entei legend (95/96)",
-      "myp": "ul_095"
+      "myp": "ul_095",
+      "image": "https://images.pokemontcg.io/hgss2/95.png"
     },
     {
       "id": "hgss3-87",
@@ -196,7 +206,8 @@
       "artistId": "122",
       "numeroLiga": "(87/90)",
       "codigoLiga": "kyogre & groudon legend (87/90)",
-      "myp": "ud_087"
+      "myp": "ud_087",
+      "image": "https://images.pokemontcg.io/hgss3/87.png"
     },
     {
       "id": "hgss3-88",
@@ -214,7 +225,8 @@
       "artistId": "122",
       "numeroLiga": "(88/90)",
       "codigoLiga": "kyogre & groudon legend (88/90)",
-      "myp": "ud_088"
+      "myp": "ud_088",
+      "image": "https://images.pokemontcg.io/hgss3/88.png"
     },
     {
       "id": "hgss3-89",
@@ -232,7 +244,8 @@
       "artistId": "122",
       "numeroLiga": "(89/90)",
       "codigoLiga": "rayquaza & deoxys legend (89/90)",
-      "myp": "ud_089"
+      "myp": "ud_089",
+      "image": "https://images.pokemontcg.io/hgss3/89.png"
     },
     {
       "id": "hgss3-90",
@@ -250,7 +263,8 @@
       "artistId": "122",
       "numeroLiga": "(90/90)",
       "codigoLiga": "rayquaza & deoxys legend (90/90)",
-      "myp": "ud_090"
+      "myp": "ud_090",
+      "image": "https://images.pokemontcg.io/hgss3/90.png"
     },
     {
       "id": "hgss4-99",
@@ -268,7 +282,8 @@
       "artistId": "123",
       "numeroLiga": "(99/103)",
       "codigoLiga": "darkrai & cresselia legend (99/103)",
-      "myp": "tm_099"
+      "myp": "tm_099",
+      "image": "https://images.pokemontcg.io/hgss4/99.png"
     },
     {
       "id": "hgss4-100",
@@ -286,7 +301,8 @@
       "artistId": "123",
       "numeroLiga": "(100/103)",
       "codigoLiga": "darkrai & cresselia legend (100/103)",
-      "myp": "tm_100"
+      "myp": "tm_100",
+      "image": "https://images.pokemontcg.io/hgss4/100.png"
     },
     {
       "id": "hgss4-101",
@@ -304,7 +320,8 @@
       "artistId": "122",
       "numeroLiga": "(101/103)",
       "codigoLiga": "palkia & dialga legend (101/103)",
-      "myp": "tm_101"
+      "myp": "tm_101",
+      "image": "https://images.pokemontcg.io/hgss4/101.png"
     },
     {
       "id": "hgss4-102",
@@ -322,7 +339,8 @@
       "artistId": "122",
       "numeroLiga": "(102/103)",
       "codigoLiga": "palkia & dialga legend (102/103)",
-      "myp": "tm_102"
+      "myp": "tm_102",
+      "image": "https://images.pokemontcg.io/hgss4/102.png"
     }
   ]
 }
