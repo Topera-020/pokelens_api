@@ -16,7 +16,8 @@
       "artistId": "1",
       "numeroLiga": "(2/25)",
       "codigoLiga": "blastoise (2/25)",
-      "myp": "cel_002"
+      "myp": "cel_002",
+      "image": "https://images.pokemontcg.io/cel25c/2.png"
     },
     {
       "id": "cel25c-4_A",
@@ -34,7 +35,8 @@
       "artistId": "2",
       "numeroLiga": "(4/25)",
       "codigoLiga": "charizard (4/25)",
-      "myp": "cel_004"
+      "myp": "cel_004",
+      "image": "https://images.pokemontcg.io/cel25c/4.png"
     },
     {
       "id": "cel25c-8_A",
@@ -53,7 +55,8 @@
       "artistId": "5",
       "numeroLiga": "(8/25)",
       "codigoLiga": "dark gyarados (8/25)",
-      "myp": "cel_008"
+      "myp": "cel_008",
+      "image": "https://images.pokemontcg.io/cel25c/8.png"
     },
     {
       "id": "cel25c-9_A",
@@ -72,7 +75,8 @@
       "artistId": "65",
       "numeroLiga": "(9/25)",
       "codigoLiga": "team magma's groudon (9/25)",
-      "myp": "cel_009"
+      "myp": "cel_009",
+      "image": "https://images.pokemontcg.io/cel25c/9.png"
     },
     {
       "id": "cel25c-15_A1",
@@ -91,7 +95,8 @@
       "artistId": "2",
       "numeroLiga": "(15/25)",
       "codigoLiga": "venusaur (15/25)",
-      "myp": "cel_015"
+      "myp": "cel_015",
+      "image": "https://images.Pokémontcg.io/cel25c/15_A.png"
     },
     {
       "id": "cel25c-15_A3",
@@ -111,7 +116,8 @@
       "artistId": "17",
       "numeroLiga": "(15/25)",
       "codigoLiga": "rocket's zapdos (15/25)",
-      "myp": "cel_015"
+      "myp": "cel_015",
+      "image": "https://images.Pokémontcg.io/cel25c/15_C.png"
     },
     {
       "id": "cel25c-15_A4",
@@ -129,7 +135,8 @@
       "artistId": "62",
       "numeroLiga": "(15/25)",
       "codigoLiga": "claydol (15/25)",
-      "myp": "cel_015"
+      "myp": "cel_015",
+      "image": "https://images.Pokémontcg.io/cel25c/15_D.png"
     },
     {
       "id": "cel25c-15_A2",
@@ -146,7 +153,8 @@
       "artistId": "1",
       "numeroLiga": "(15/25)",
       "codigoLiga": "here comes team rocket! (15/25)",
-      "myp": "cel_015"
+      "myp": "cel_015",
+      "image": "https://images.Pokémontcg.io/cel25c/15_B.png"
     },
     {
       "id": "cel25c-17_A",
@@ -165,7 +173,8 @@
       "artistId": "71",
       "numeroLiga": "(17/25)",
       "codigoLiga": "umbreon star (17/25)",
-      "myp": "cel_017"
+      "myp": "cel_017",
+      "image": "https://images.pokemontcg.io/cel25c/17.png"
     },
     {
       "id": "cel25c-20_A",
@@ -183,7 +192,8 @@
       "artistId": "5",
       "numeroLiga": "(20/25)",
       "codigoLiga": "cleffa (20/25)",
-      "myp": "cel_020"
+      "myp": "cel_020",
+      "image": "https://images.pokemontcg.io/cel25c/20.png"
     },
     {
       "id": "cel25c-24_A",
@@ -202,7 +212,8 @@
       "artistId": "5",
       "numeroLiga": "(24/25)",
       "codigoLiga": "______'s pikachu (24/25)",
-      "myp": "cel_024"
+      "myp": "cel_024",
+      "image": "https://images.pokemontcg.io/cel25c/24.png"
     },
     {
       "id": "cel25c-54_A",
@@ -220,7 +231,8 @@
       "artistId": "87",
       "numeroLiga": "(54/25)",
       "codigoLiga": "mewtwo-ex (54/25)",
-      "myp": "cel_054"
+      "myp": "cel_054",
+      "image": "https://images.pokemontcg.io/cel25c/54.png"
     },
     {
       "id": "cel25c-60_A",
@@ -238,7 +250,8 @@
       "artistId": "131",
       "numeroLiga": "(60/25)",
       "codigoLiga": "tapu lele-gx (60/25)",
-      "myp": "cel_060"
+      "myp": "cel_060",
+      "image": "https://images.pokemontcg.io/cel25c/60.png"
     },
     {
       "id": "cel25c-66_A",
@@ -257,7 +270,8 @@
       "artistId": "1",
       "numeroLiga": "(66/25)",
       "codigoLiga": "shining magikarp (66/25)",
-      "myp": "cel_066"
+      "myp": "cel_066",
+      "image": "https://images.pokemontcg.io/cel25c/66.png"
     },
     {
       "id": "cel25c-73_A",
@@ -273,7 +287,8 @@
       "artistId": "1",
       "numeroLiga": "(73/25)",
       "codigoLiga": "imposter professor oak (73/25)",
-      "myp": "cel_073"
+      "myp": "cel_073",
+      "image": "https://images.pokemontcg.io/cel25c/73.png"
     },
     {
       "id": "cel25c-76_A",
@@ -291,7 +306,8 @@
       "artistId": "131",
       "numeroLiga": "(76/25)",
       "codigoLiga": "m rayquaza-ex (76/25)",
-      "myp": "cel_076"
+      "myp": "cel_076",
+      "image": "https://images.pokemontcg.io/cel25c/76.png"
     },
     {
       "id": "cel25c-86_A",
@@ -307,7 +323,8 @@
       "artistId": "1",
       "numeroLiga": "(86/25)",
       "codigoLiga": "rocket's admin. (86/25)",
-      "myp": "cel_086"
+      "myp": "cel_086",
+      "image": "https://images.pokemontcg.io/cel25c/86.png"
     },
     {
       "id": "cel25c-88_A",
@@ -325,7 +342,8 @@
       "artistId": "69",
       "numeroLiga": "(88/25)",
       "codigoLiga": "mew ex (88/25)",
-      "myp": "cel_088"
+      "myp": "cel_088",
+      "image": "https://images.pokemontcg.io/cel25c/88.png"
     },
     {
       "id": "cel25c-93_A",
@@ -344,7 +362,8 @@
       "artistId": "90",
       "numeroLiga": "(93/25)",
       "codigoLiga": "gardevoir ex (93/25)",
-      "myp": "cel_093"
+      "myp": "cel_093",
+      "image": "https://images.pokemontcg.io/cel25c/93.png"
     },
     {
       "id": "cel25c-97_A",
@@ -362,7 +381,8 @@
       "artistId": "131",
       "numeroLiga": "(97/25)",
       "codigoLiga": "xerneas-ex (97/25)",
-      "myp": "cel_097"
+      "myp": "cel_097",
+      "image": "https://images.pokemontcg.io/cel25c/97.png"
     },
     {
       "id": "cel25c-107_A",
@@ -380,7 +400,8 @@
       "artistId": "95",
       "numeroLiga": "(107/25)",
       "codigoLiga": "donphan (107/25)",
-      "myp": "cel_107"
+      "myp": "cel_107",
+      "image": "https://images.pokemontcg.io/cel25c/107.png"
     },
     {
       "id": "cel25c-109_A",
@@ -398,7 +419,8 @@
       "artistId": "2",
       "numeroLiga": "(109/25)",
       "codigoLiga": "luxray gl lv.x (109/25)",
-      "myp": "cel_109"
+      "myp": "cel_109",
+      "image": "https://images.pokemontcg.io/cel25c/109.png"
     },
     {
       "id": "cel25c-113_A",
@@ -416,7 +438,8 @@
       "artistId": "131",
       "numeroLiga": "(113/25)",
       "codigoLiga": "reshiram (113/25)",
-      "myp": "cel_113"
+      "myp": "cel_113",
+      "image": "https://images.pokemontcg.io/cel25c/113.png"
     },
     {
       "id": "cel25c-114_A",
@@ -433,7 +456,8 @@
       "artistId": "131",
       "numeroLiga": "(114/25)",
       "codigoLiga": "zekrom (114/25)",
-      "myp": "cel_114"
+      "myp": "cel_114",
+      "image": "https://images.pokemontcg.io/cel25c/114.png"
     },
     {
       "id": "cel25c-145_A",
@@ -451,7 +475,8 @@
       "artistId": "87",
       "numeroLiga": "(145/25)",
       "codigoLiga": "garchomp c lv.x (145/25)",
-      "myp": "cel_145"
+      "myp": "cel_145",
+      "image": "https://images.pokemontcg.io/cel25c/145.png"
     }
   ]
 }
