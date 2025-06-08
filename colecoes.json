@@ -1248,7 +1248,6 @@
       "numeroLiga": "∞",
       "codigoMyp": "PR_XY",
       "numeroMyp": "211",
-      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/10/12"
     },
     {
@@ -1264,6 +1263,7 @@
       "numeroLiga": "113",
       "codigoMyp": "LTR",
       "numeroMyp": "113",
+      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/11/06"
     },
     {
@@ -1281,6 +1281,7 @@
       "numeroLiga": "113",
       "codigoMyp": "LTR",
       "numeroMyp": "113",
+      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/11/06"
     },
     {
@@ -1945,6 +1946,17 @@
       "codigoMyp": "TEU",
       "numeroMyp": "181",
       "nomePt": "União de Aliados",
+      "releaseDate": "2019/02/01"
+    },
+    {
+      "id": "en19",
+      "language": "en",
+      "name": "2019 Energies",
+      "seriesId": 15,
+      "printedTotal": 9,
+      "total": 9,
+      "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
+      "image": "https://images.pokemontcg.io/sm1/logo.png",
       "releaseDate": "2019/02/01"
     },
     {
@@ -2746,17 +2758,6 @@
       "nomePt": "Evoluções Prismáticas",
       "formatoLiga": "000",
       "releaseDate": "2025/01/17"
-    },
-    {
-      "id": "en19",
-      "language": "en",
-      "name": "2019 Energies",
-      "seriesId": 15,
-      "printedTotal": 9,
-      "total": 9,
-      "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
-      "image": "https://images.pokemontcg.io/sm1/logo.png",
-      "releaseDate": "2019/02/01"
     },
     {
       "id": "sv9",
