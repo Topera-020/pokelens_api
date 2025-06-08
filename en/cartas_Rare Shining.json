@@ -17,7 +17,8 @@
       "artistId": "1",
       "numeroLiga": "(65/64)",
       "codigoLiga": "shining gyarados (65/64)",
-      "myp": "n3_065"
+      "myp": "n3_065",
+      "image": "https://images.pokemontcg.io/neo3/65.png"
     },
     {
       "id": "neo3-66",
@@ -36,7 +37,8 @@
       "artistId": "1",
       "numeroLiga": "(66/64)",
       "codigoLiga": "shining magikarp (66/64)",
-      "myp": "n3_066"
+      "myp": "n3_066",
+      "image": "https://images.pokemontcg.io/neo3/66.png"
     },
     {
       "id": "neo4-106",
@@ -54,7 +56,8 @@
       "artistId": "15",
       "numeroLiga": "(106/105)",
       "codigoLiga": "shining celebi (106/105)",
-      "myp": "n4_106"
+      "myp": "n4_106",
+      "image": "https://images.pokemontcg.io/neo4/106.png"
     },
     {
       "id": "neo4-107",
@@ -72,7 +75,8 @@
       "artistId": "15",
       "numeroLiga": "(107/105)",
       "codigoLiga": "shining charizard (107/105)",
-      "myp": "n4_107"
+      "myp": "n4_107",
+      "image": "https://images.pokemontcg.io/neo4/107.png"
     },
     {
       "id": "neo4-108",
@@ -90,7 +94,8 @@
       "artistId": "15",
       "numeroLiga": "(108/105)",
       "codigoLiga": "shining kabutops (108/105)",
-      "myp": "n4_108"
+      "myp": "n4_108",
+      "image": "https://images.pokemontcg.io/neo4/108.png"
     },
     {
       "id": "neo4-109",
@@ -108,7 +113,8 @@
       "artistId": "15",
       "numeroLiga": "(109/105)",
       "codigoLiga": "shining mewtwo (109/105)",
-      "myp": "n4_109"
+      "myp": "n4_109",
+      "image": "https://images.pokemontcg.io/neo4/109.png"
     },
     {
       "id": "neo4-110",
@@ -126,7 +132,8 @@
       "artistId": "1",
       "numeroLiga": "(110/105)",
       "codigoLiga": "shining noctowl (110/105)",
-      "myp": "n4_110"
+      "myp": "n4_110",
+      "image": "https://images.pokemontcg.io/neo4/110.png"
     },
     {
       "id": "neo4-111",
@@ -144,7 +151,8 @@
       "artistId": "15",
       "numeroLiga": "(111/105)",
       "codigoLiga": "shining raichu (111/105)",
-      "myp": "n4_111"
+      "myp": "n4_111",
+      "image": "https://images.pokemontcg.io/neo4/111.png"
     },
     {
       "id": "neo4-112",
@@ -162,7 +170,8 @@
       "artistId": "1",
       "numeroLiga": "(112/105)",
       "codigoLiga": "shining steelix (112/105)",
-      "myp": "n4_112"
+      "myp": "n4_112",
+      "image": "https://images.pokemontcg.io/neo4/112.png"
     },
     {
       "id": "neo4-113",
@@ -180,7 +189,8 @@
       "artistId": "1",
       "numeroLiga": "(113/105)",
       "codigoLiga": "shining tyranitar (113/105)",
-      "myp": "n4_113"
+      "myp": "n4_113",
+      "image": "https://images.pokemontcg.io/neo4/113.png"
     },
     {
       "id": "sm35-9",
@@ -199,7 +209,8 @@
       "artistId": "148",
       "numeroLiga": "(9/73)",
       "codigoLiga": "shining genesect (9/73)",
-      "myp": "slg_009"
+      "myp": "slg_009",
+      "image": "https://images.pokemontcg.io/sm35/9.png"
     },
     {
       "id": "sm35-27",
@@ -218,7 +229,8 @@
       "artistId": "148",
       "numeroLiga": "(27/73)",
       "codigoLiga": "shining volcanion (27/73)",
-      "myp": "slg_027"
+      "myp": "slg_027",
+      "image": "https://images.pokemontcg.io/sm35/27.png"
     },
     {
       "id": "sm35-40",
@@ -237,7 +249,8 @@
       "artistId": "146",
       "numeroLiga": "(40/73)",
       "codigoLiga": "shining mew (40/73)",
-      "myp": "slg_040"
+      "myp": "slg_040",
+      "image": "https://images.pokemontcg.io/sm35/40.png"
     },
     {
       "id": "sm35-42",
@@ -256,7 +269,8 @@
       "artistId": "127",
       "numeroLiga": "(42/73)",
       "codigoLiga": "shining jirachi (42/73)",
-      "myp": "slg_042"
+      "myp": "slg_042",
+      "image": "https://images.pokemontcg.io/sm35/42.png"
     },
     {
       "id": "sm35-56",
@@ -275,7 +289,8 @@
       "artistId": "114",
       "numeroLiga": "(56/73)",
       "codigoLiga": "shining rayquaza (56/73)",
-      "myp": "slg_056"
+      "myp": "slg_056",
+      "image": "https://images.pokemontcg.io/sm35/56.png"
     },
     {
       "id": "sm35-57",
@@ -294,7 +309,8 @@
       "artistId": "61",
       "numeroLiga": "(57/73)",
       "codigoLiga": "shining arceus (57/73)",
-      "myp": "slg_057"
+      "myp": "slg_057",
+      "image": "https://images.pokemontcg.io/sm35/57.png"
     }
   ]
 }
