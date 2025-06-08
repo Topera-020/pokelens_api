@@ -16,7 +16,8 @@
       "artistId": "131",
       "numeroLiga": "(9/185)",
       "codigoLiga": "celebi (9/185)",
-      "myp": "viv_009"
+      "myp": "viv_009",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4/9/low.png"
     },
     {
       "id": "swsh4-50",
@@ -35,7 +36,8 @@
       "artistId": "160",
       "numeroLiga": "(50/185)",
       "codigoLiga": "raikou (50/185)",
-      "myp": "viv_050"
+      "myp": "viv_050",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4/50/low.png"
     },
     {
       "id": "swsh4-82",
@@ -54,7 +56,8 @@
       "artistId": "106",
       "numeroLiga": "(82/185)",
       "codigoLiga": "zacian (82/185)",
-      "myp": "viv_082"
+      "myp": "viv_082",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4/82/low.png"
     },
     {
       "id": "swsh4-102",
@@ -73,7 +76,8 @@
       "artistId": "178",
       "numeroLiga": "(102/185)",
       "codigoLiga": "zamazenta (102/185)",
-      "myp": "viv_102"
+      "myp": "viv_102",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4/102/low.png"
     },
     {
       "id": "swsh4-119",
@@ -92,7 +96,8 @@
       "artistId": "146",
       "numeroLiga": "(119/185)",
       "codigoLiga": "jirachi (119/185)",
-      "myp": "viv_119"
+      "myp": "viv_119",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4/119/low.png"
     },
     {
       "id": "swsh4-138",
@@ -111,7 +116,8 @@
       "artistId": "131",
       "numeroLiga": "(138/185)",
       "codigoLiga": "rayquaza (138/185)",
-      "myp": "viv_138"
+      "myp": "viv_138",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4/138/low.png"
     },
     {
       "id": "swsh45-17",
@@ -130,7 +136,8 @@
       "artistId": "183",
       "numeroLiga": "(17/72)",
       "codigoLiga": "reshiram (17/72)",
-      "myp": "shf_017"
+      "myp": "shf_017",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/17/low.png"
     },
     {
       "id": "swsh45-21",
@@ -149,7 +156,8 @@
       "artistId": "167",
       "numeroLiga": "(21/72)",
       "codigoLiga": "kyogre (21/72)",
-      "myp": "shf_021"
+      "myp": "shf_021",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/21/low.png"
     },
     {
       "id": "swsh45-46",
@@ -168,7 +176,8 @@
       "artistId": "153",
       "numeroLiga": "(46/72)",
       "codigoLiga": "yveltal (46/72)",
-      "myp": "shf_046"
+      "myp": "shf_046",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/46/low.png"
     }
   ]
 }
