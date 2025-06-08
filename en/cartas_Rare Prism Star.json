@@ -18,7 +18,8 @@
       "artistId": "71",
       "numeroLiga": "(58/156)",
       "codigoLiga": "giratina prism star (58/156)",
-      "myp": "upr_058"
+      "myp": "upr_058",
+      "image": "https://images.pokemontcg.io/sm5/58.png"
     },
     {
       "id": "sm5-62",
@@ -37,7 +38,8 @@
       "artistId": "148",
       "numeroLiga": "(62/156)",
       "codigoLiga": "lunala prism star (62/156)",
-      "myp": "upr_062"
+      "myp": "upr_062",
+      "image": "https://images.pokemontcg.io/sm5/62.png"
     },
     {
       "id": "sm5-77",
@@ -57,7 +59,8 @@
       "artistId": "114",
       "numeroLiga": "(77/156)",
       "codigoLiga": "darkrai prism star (77/156)",
-      "myp": "upr_077"
+      "myp": "upr_077",
+      "image": "https://images.pokemontcg.io/sm5/77.png"
     },
     {
       "id": "sm5-89",
@@ -76,7 +79,8 @@
       "artistId": "106",
       "numeroLiga": "(89/156)",
       "codigoLiga": "solgaleo prism star (89/156)",
-      "myp": "upr_089"
+      "myp": "upr_089",
+      "image": "https://images.pokemontcg.io/sm5/89.png"
     },
     {
       "id": "sm5-120",
@@ -93,7 +97,8 @@
       "artistId": "71",
       "numeroLiga": "(120/156)",
       "codigoLiga": "cyrus prism star (120/156)",
-      "myp": "upr_120"
+      "myp": "upr_120",
+      "image": "https://images.pokemontcg.io/sm5/120.png"
     },
     {
       "id": "sm5-136",
@@ -109,7 +114,8 @@
       "rarityId": "19",
       "numeroLiga": "(136/156)",
       "codigoLiga": "super boost energy prism star (136/156)",
-      "myp": "upr_136"
+      "myp": "upr_136",
+      "image": "https://images.pokemontcg.io/sm5/136.png"
     },
     {
       "id": "sm6-31",
@@ -129,7 +135,8 @@
       "artistId": "114",
       "numeroLiga": "(31/131)",
       "codigoLiga": "volcanion prism star (31/131)",
-      "myp": "fli_031"
+      "myp": "fli_031",
+      "image": "https://images.pokemontcg.io/sm6/31.png"
     },
     {
       "id": "sm6-74",
@@ -149,7 +156,8 @@
       "artistId": "105",
       "numeroLiga": "(74/131)",
       "codigoLiga": "diancie prism star (74/131)",
-      "myp": "fli_074"
+      "myp": "fli_074",
+      "image": "https://images.pokemontcg.io/sm6/74.png"
     },
     {
       "id": "sm6-96",
@@ -169,7 +177,8 @@
       "artistId": "71",
       "numeroLiga": "(96/131)",
       "codigoLiga": "arceus prism star (96/131)",
-      "myp": "fli_096"
+      "myp": "fli_096",
+      "image": "https://images.pokemontcg.io/sm6/96.png"
     },
     {
       "id": "sm6-110",
@@ -185,7 +194,8 @@
       "artistId": "148",
       "numeroLiga": "(110/131)",
       "codigoLiga": "lysandre prism star (110/131)",
-      "myp": "fli_110"
+      "myp": "fli_110",
+      "image": "https://images.pokemontcg.io/sm6/110.png"
     },
     {
       "id": "sm6-117",
@@ -201,7 +211,8 @@
       "rarityId": "19",
       "numeroLiga": "(117/131)",
       "codigoLiga": "beast energy prism star (117/131)",
-      "myp": "fli_117"
+      "myp": "fli_117",
+      "image": "https://images.pokemontcg.io/sm6/117.png"
     },
     {
       "id": "sm7-97",
@@ -221,7 +232,8 @@
       "artistId": "61",
       "numeroLiga": "(97/168)",
       "codigoLiga": "jirachi prism star (97/168)",
-      "myp": "ces_097"
+      "myp": "ces_097",
+      "image": "https://images.pokemontcg.io/sm7/97.png"
     },
     {
       "id": "sm7-107",
@@ -241,7 +253,8 @@
       "artistId": "167",
       "numeroLiga": "(107/168)",
       "codigoLiga": "latias prism star (107/168)",
-      "myp": "ces_107"
+      "myp": "ces_107",
+      "image": "https://images.pokemontcg.io/sm7/107.png"
     },
     {
       "id": "sm7-108",
@@ -261,7 +274,8 @@
       "artistId": "167",
       "numeroLiga": "(108/168)",
       "codigoLiga": "latios prism star (108/168)",
-      "myp": "ces_108"
+      "myp": "ces_108",
+      "image": "https://images.pokemontcg.io/sm7/108.png"
     },
     {
       "id": "sm75-7",
@@ -281,7 +295,8 @@
       "artistId": "106",
       "numeroLiga": "(7/70)",
       "codigoLiga": "victini prism star (7/70)",
-      "myp": "drm_007"
+      "myp": "drm_007",
+      "image": "https://images.pokemontcg.io/sm75/7.png"
     },
     {
       "id": "sm75-61",
@@ -298,7 +313,8 @@
       "artistId": "161",
       "numeroLiga": "(61/70)",
       "codigoLiga": "lance prism star (61/70)",
-      "myp": "drm_061"
+      "myp": "drm_061",
+      "image": "https://images.pokemontcg.io/sm75/61.png"
     },
     {
       "id": "sm8-19",
@@ -318,7 +334,8 @@
       "artistId": "71",
       "numeroLiga": "(19/214)",
       "codigoLiga": "celebi prism star (19/214)",
-      "myp": "lot_019"
+      "myp": "lot_019",
+      "image": "https://images.pokemontcg.io/sm8/19.png"
     },
     {
       "id": "sm8-144",
@@ -338,7 +355,8 @@
       "artistId": "106",
       "numeroLiga": "(144/214)",
       "codigoLiga": "xerneas prism star (144/214)",
-      "myp": "lot_144"
+      "myp": "lot_144",
+      "image": "https://images.pokemontcg.io/sm8/144.png"
     },
     {
       "id": "sm8-154",
@@ -358,7 +376,8 @@
       "artistId": "147",
       "numeroLiga": "(154/214)",
       "codigoLiga": "ditto prism star (154/214)",
-      "myp": "lot_154"
+      "myp": "lot_154",
+      "image": "https://images.pokemontcg.io/sm8/154.png"
     },
     {
       "id": "sm8-178",
@@ -375,7 +394,8 @@
       "artistId": "131",
       "numeroLiga": "(178/214)",
       "codigoLiga": "heat factory prism star (178/214)",
-      "myp": "lot_178"
+      "myp": "lot_178",
+      "image": "https://images.pokemontcg.io/sm8/178.png"
     },
     {
       "id": "sm8-180",
@@ -392,7 +412,8 @@
       "artistId": "131",
       "numeroLiga": "(180/214)",
       "codigoLiga": "life forest prism star (180/214)",
-      "myp": "lot_180"
+      "myp": "lot_180",
+      "image": "https://images.pokemontcg.io/sm8/180.png"
     },
     {
       "id": "sm8-182",
@@ -409,7 +430,8 @@
       "artistId": "156",
       "numeroLiga": "(182/214)",
       "codigoLiga": "lusamine prism star (182/214)",
-      "myp": "lot_182"
+      "myp": "lot_182",
+      "image": "https://images.pokemontcg.io/sm8/182.png"
     },
     {
       "id": "sm8-191",
@@ -426,7 +448,8 @@
       "artistId": "131",
       "numeroLiga": "(191/214)",
       "codigoLiga": "thunder mountain prism star (191/214)",
-      "myp": "lot_191"
+      "myp": "lot_191",
+      "image": "https://images.pokemontcg.io/sm8/191.png"
     },
     {
       "id": "sm9-10",
@@ -446,7 +469,8 @@
       "artistId": "105",
       "numeroLiga": "(10/181)",
       "codigoLiga": "shaymin prism star (10/181)",
-      "myp": "teu_010"
+      "myp": "teu_010",
+      "image": "https://images.pokemontcg.io/sm9/10.png"
     },
     {
       "id": "sm9-51",
@@ -466,7 +490,8 @@
       "artistId": "61",
       "numeroLiga": "(51/181)",
       "codigoLiga": "tapu koko prism star (51/181)",
-      "myp": "teu_051"
+      "myp": "teu_051",
+      "image": "https://images.pokemontcg.io/sm9/51.png"
     },
     {
       "id": "sm9-134",
@@ -483,7 +508,8 @@
       "artistId": "131",
       "numeroLiga": "(134/181)",
       "codigoLiga": "black market prism star (134/181)",
-      "myp": "teu_134"
+      "myp": "teu_134",
+      "image": "https://images.pokemontcg.io/sm9/134.png"
     },
     {
       "id": "sm9-158",
@@ -500,7 +526,8 @@
       "artistId": "131",
       "numeroLiga": "(158/181)",
       "codigoLiga": "wondrous labyrinth prism star (158/181)",
-      "myp": "teu_158"
+      "myp": "teu_158",
+      "image": "https://images.pokemontcg.io/sm9/158.png"
     }
   ]
 }
