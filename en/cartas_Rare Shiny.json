@@ -16,7 +16,8 @@
       "artistId": "127",
       "numeroLiga": "(SV1/68)",
       "codigoLiga": "scyther (SV1/68)",
-      "myp": "sma_001"
+      "myp": "sma_001",
+      "image": "https://images.pokemontcg.io/sma/1.png"
     },
     {
       "id": "sma-SV2",
@@ -34,7 +35,8 @@
       "artistId": "109",
       "numeroLiga": "(SV2/68)",
       "codigoLiga": "rowlet (SV2/68)",
-      "myp": "sma_002"
+      "myp": "sma_002",
+      "image": "https://images.pokemontcg.io/sma/2.png"
     },
     {
       "id": "sma-SV3",
@@ -52,7 +54,8 @@
       "artistId": "127",
       "numeroLiga": "(SV3/68)",
       "codigoLiga": "dartrix (SV3/68)",
-      "myp": "sma_003"
+      "myp": "sma_003",
+      "image": "https://images.pokemontcg.io/sma/3.png"
     },
     {
       "id": "sma-SV4",
@@ -70,7 +73,8 @@
       "artistId": "189",
       "numeroLiga": "(SV4/68)",
       "codigoLiga": "wimpod (SV4/68)",
-      "myp": "sma_004"
+      "myp": "sma_004",
+      "image": "https://images.pokemontcg.io/sma/4.png"
     },
     {
       "id": "sma-SV5",
@@ -88,7 +92,8 @@
       "artistId": "129",
       "numeroLiga": "(SV5/68)",
       "codigoLiga": "pheromosa (SV5/68)",
-      "myp": "sma_005"
+      "myp": "sma_005",
+      "image": "https://images.pokemontcg.io/sma/5.png"
     },
     {
       "id": "sma-SV6",
@@ -107,7 +112,8 @@
       "artistId": "147",
       "numeroLiga": "(SV6/68)",
       "codigoLiga": "charmander (SV6/68)",
-      "myp": "sma_006"
+      "myp": "sma_006",
+      "image": "https://images.pokemontcg.io/sma/6.png"
     },
     {
       "id": "sma-SV7",
@@ -125,7 +131,8 @@
       "artistId": "156",
       "numeroLiga": "(SV7/68)",
       "codigoLiga": "charmeleon (SV7/68)",
-      "myp": "sma_007"
+      "myp": "sma_007",
+      "image": "https://images.pokemontcg.io/sma/7.png"
     },
     {
       "id": "sma-SV8",
@@ -144,7 +151,8 @@
       "artistId": "61",
       "numeroLiga": "(SV8/68)",
       "codigoLiga": "alolan vulpix (SV8/68)",
-      "myp": "sma_008"
+      "myp": "sma_008",
+      "image": "https://images.pokemontcg.io/sma/8.png"
     },
     {
       "id": "sma-SV9",
@@ -163,7 +171,8 @@
       "artistId": "171",
       "numeroLiga": "(SV9/68)",
       "codigoLiga": "wooper (SV9/68)",
-      "myp": "sma_009"
+      "myp": "sma_009",
+      "image": "https://images.pokemontcg.io/sma/9.png"
     },
     {
       "id": "sma-SV10",
@@ -182,7 +191,8 @@
       "artistId": "103",
       "numeroLiga": "(SV10/68)",
       "codigoLiga": "quagsire (SV10/68)",
-      "myp": "sma_010"
+      "myp": "sma_010",
+      "image": "https://images.pokemontcg.io/sma/10.png"
     },
     {
       "id": "sma-SV11",
@@ -201,7 +211,8 @@
       "artistId": "109",
       "numeroLiga": "(SV11/68)",
       "codigoLiga": "froakie (SV11/68)",
-      "myp": "sma_011"
+      "myp": "sma_011",
+      "image": "https://images.pokemontcg.io/sma/11.png"
     },
     {
       "id": "sma-SV12",
@@ -220,7 +231,8 @@
       "artistId": "167",
       "numeroLiga": "(SV12/68)",
       "codigoLiga": "frogadier (SV12/68)",
-      "myp": "sma_012"
+      "myp": "sma_012",
+      "image": "https://images.pokemontcg.io/sma/12.png"
     },
     {
       "id": "sma-SV13",
@@ -239,7 +251,8 @@
       "artistId": "106",
       "numeroLiga": "(SV13/68)",
       "codigoLiga": "voltorb (SV13/68)",
-      "myp": "sma_013"
+      "myp": "sma_013",
+      "image": "https://images.pokemontcg.io/sma/13.png"
     },
     {
       "id": "sma-SV14",
@@ -258,7 +271,8 @@
       "artistId": "114",
       "numeroLiga": "(SV14/68)",
       "codigoLiga": "xurkitree (SV14/68)",
-      "myp": "sma_014"
+      "myp": "sma_014",
+      "image": "https://images.pokemontcg.io/sma/14.png"
     },
     {
       "id": "sma-SV15",
@@ -277,7 +291,8 @@
       "artistId": "189",
       "numeroLiga": "(SV15/68)",
       "codigoLiga": "seviper (SV15/68)",
-      "myp": "sma_015"
+      "myp": "sma_015",
+      "image": "https://images.pokemontcg.io/sma/15.png"
     },
     {
       "id": "sma-SV16",
@@ -296,7 +311,8 @@
       "artistId": "109",
       "numeroLiga": "(SV16/68)",
       "codigoLiga": "shuppet (SV16/68)",
-      "myp": "sma_016"
+      "myp": "sma_016",
+      "image": "https://images.pokemontcg.io/sma/16.png"
     },
     {
       "id": "sma-SV17",
@@ -315,7 +331,8 @@
       "artistId": "127",
       "numeroLiga": "(SV17/68)",
       "codigoLiga": "inkay (SV17/68)",
-      "myp": "sma_017"
+      "myp": "sma_017",
+      "image": "https://images.pokemontcg.io/sma/17.png"
     },
     {
       "id": "sma-SV18",
@@ -334,7 +351,8 @@
       "artistId": "160",
       "numeroLiga": "(SV18/68)",
       "codigoLiga": "malamar (SV18/68)",
-      "myp": "sma_018"
+      "myp": "sma_018",
+      "image": "https://images.pokemontcg.io/sma/18.png"
     },
     {
       "id": "sma-SV19",
@@ -353,7 +371,8 @@
       "artistId": "130",
       "numeroLiga": "(SV19/68)",
       "codigoLiga": "poipole (SV19/68)",
-      "myp": "sma_019"
+      "myp": "sma_019",
+      "image": "https://images.pokemontcg.io/sma/19.png"
     },
     {
       "id": "sma-SV20",
@@ -372,7 +391,8 @@
       "artistId": "45",
       "numeroLiga": "(SV20/68)",
       "codigoLiga": "sudowoodo (SV20/68)",
-      "myp": "sma_020"
+      "myp": "sma_020",
+      "image": "https://images.pokemontcg.io/sma/20.png"
     },
     {
       "id": "sma-SV21",
@@ -391,7 +411,8 @@
       "artistId": "171",
       "numeroLiga": "(SV21/68)",
       "codigoLiga": "riolu (SV21/68)",
-      "myp": "sma_021"
+      "myp": "sma_021",
+      "image": "https://images.pokemontcg.io/sma/21.png"
     },
     {
       "id": "sma-SV22",
@@ -410,7 +431,8 @@
       "artistId": "61",
       "numeroLiga": "(SV22/68)",
       "codigoLiga": "lucario (SV22/68)",
-      "myp": "sma_022"
+      "myp": "sma_022",
+      "image": "https://images.pokemontcg.io/sma/22.png"
     },
     {
       "id": "sma-SV23",
@@ -429,7 +451,8 @@
       "artistId": "71",
       "numeroLiga": "(SV23/68)",
       "codigoLiga": "rockruff (SV23/68)",
-      "myp": "sma_023"
+      "myp": "sma_023",
+      "image": "https://images.pokemontcg.io/sma/23.png"
     },
     {
       "id": "sma-SV24",
@@ -448,7 +471,8 @@
       "artistId": "106",
       "numeroLiga": "(SV24/68)",
       "codigoLiga": "buzzwole (SV24/68)",
-      "myp": "sma_024"
+      "myp": "sma_024",
+      "image": "https://images.pokemontcg.io/sma/24.png"
     },
     {
       "id": "sma-SV25",
@@ -467,7 +491,8 @@
       "artistId": "103",
       "numeroLiga": "(SV25/68)",
       "codigoLiga": "zorua (SV25/68)",
-      "myp": "sma_025"
+      "myp": "sma_025",
+      "image": "https://images.pokemontcg.io/sma/25.png"
     },
     {
       "id": "sma-SV26",
@@ -486,7 +511,8 @@
       "artistId": "71",
       "numeroLiga": "(SV26/68)",
       "codigoLiga": "guzzlord (SV26/68)",
-      "myp": "sma_026"
+      "myp": "sma_026",
+      "image": "https://images.pokemontcg.io/sma/26.png"
     },
     {
       "id": "sma-SV27",
@@ -505,7 +531,8 @@
       "artistId": "189",
       "numeroLiga": "(SV27/68)",
       "codigoLiga": "magnemite (SV27/68)",
-      "myp": "sma_027"
+      "myp": "sma_027",
+      "image": "https://images.pokemontcg.io/sma/27.png"
     },
     {
       "id": "sma-SV28",
@@ -524,7 +551,8 @@
       "artistId": "45",
       "numeroLiga": "(SV28/68)",
       "codigoLiga": "magneton (SV28/68)",
-      "myp": "sma_028"
+      "myp": "sma_028",
+      "image": "https://images.pokemontcg.io/sma/28.png"
     },
     {
       "id": "sma-SV29",
@@ -543,7 +571,8 @@
       "artistId": "171",
       "numeroLiga": "(SV29/68)",
       "codigoLiga": "magnezone (SV29/68)",
-      "myp": "sma_029"
+      "myp": "sma_029",
+      "image": "https://images.pokemontcg.io/sma/29.png"
     },
     {
       "id": "sma-SV30",
@@ -562,7 +591,8 @@
       "artistId": "129",
       "numeroLiga": "(SV30/68)",
       "codigoLiga": "beldum (SV30/68)",
-      "myp": "sma_030"
+      "myp": "sma_030",
+      "image": "https://images.pokemontcg.io/sma/30.png"
     },
     {
       "id": "sma-SV31",
@@ -581,7 +611,8 @@
       "artistId": "103",
       "numeroLiga": "(SV31/68)",
       "codigoLiga": "metang (SV31/68)",
-      "myp": "sma_031"
+      "myp": "sma_031",
+      "image": "https://images.pokemontcg.io/sma/31.png"
     },
     {
       "id": "sma-SV32",
@@ -600,7 +631,8 @@
       "artistId": "61",
       "numeroLiga": "(SV32/68)",
       "codigoLiga": "celesteela (SV32/68)",
-      "myp": "sma_032"
+      "myp": "sma_032",
+      "image": "https://images.pokemontcg.io/sma/32.png"
     },
     {
       "id": "sma-SV33",
@@ -619,7 +651,8 @@
       "artistId": "167",
       "numeroLiga": "(SV33/68)",
       "codigoLiga": "kartana (SV33/68)",
-      "myp": "sma_033"
+      "myp": "sma_033",
+      "image": "https://images.pokemontcg.io/sma/33.png"
     },
     {
       "id": "sma-SV34",
@@ -638,7 +671,8 @@
       "artistId": "45",
       "numeroLiga": "(SV34/68)",
       "codigoLiga": "ralts (SV34/68)",
-      "myp": "sma_034"
+      "myp": "sma_034",
+      "image": "https://images.pokemontcg.io/sma/34.png"
     },
     {
       "id": "sma-SV35",
@@ -657,7 +691,8 @@
       "artistId": "10",
       "numeroLiga": "(SV35/68)",
       "codigoLiga": "kirlia (SV35/68)",
-      "myp": "sma_035"
+      "myp": "sma_035",
+      "image": "https://images.pokemontcg.io/sma/35.png"
     },
     {
       "id": "sma-SV36",
@@ -676,7 +711,8 @@
       "artistId": "130",
       "numeroLiga": "(SV36/68)",
       "codigoLiga": "diancie (SV36/68)",
-      "myp": "sma_036"
+      "myp": "sma_036",
+      "image": "https://images.pokemontcg.io/sma/36.png"
     },
     {
       "id": "sma-SV37",
@@ -695,7 +731,8 @@
       "artistId": "147",
       "numeroLiga": "(SV37/68)",
       "codigoLiga": "altaria (SV37/68)",
-      "myp": "sma_037"
+      "myp": "sma_037",
+      "image": "https://images.pokemontcg.io/sma/37.png"
     },
     {
       "id": "sma-SV38",
@@ -714,7 +751,8 @@
       "artistId": "103",
       "numeroLiga": "(SV38/68)",
       "codigoLiga": "gible (SV38/68)",
-      "myp": "sma_038"
+      "myp": "sma_038",
+      "image": "https://images.pokemontcg.io/sma/38.png"
     },
     {
       "id": "sma-SV39",
@@ -733,7 +771,8 @@
       "artistId": "71",
       "numeroLiga": "(SV39/68)",
       "codigoLiga": "gabite (SV39/68)",
-      "myp": "sma_039"
+      "myp": "sma_039",
+      "image": "https://images.pokemontcg.io/sma/39.png"
     },
     {
       "id": "sma-SV40",
@@ -752,7 +791,8 @@
       "artistId": "106",
       "numeroLiga": "(SV40/68)",
       "codigoLiga": "garchomp (SV40/68)",
-      "myp": "sma_040"
+      "myp": "sma_040",
+      "image": "https://images.pokemontcg.io/sma/40.png"
     },
     {
       "id": "sma-SV41",
@@ -771,7 +811,8 @@
       "artistId": "147",
       "numeroLiga": "(SV41/68)",
       "codigoLiga": "eevee (SV41/68)",
-      "myp": "sma_041"
+      "myp": "sma_041",
+      "image": "https://images.pokemontcg.io/sma/41.png"
     },
     {
       "id": "sma-SV42",
@@ -790,7 +831,8 @@
       "artistId": "127",
       "numeroLiga": "(SV42/68)",
       "codigoLiga": "swablu (SV42/68)",
-      "myp": "sma_042"
+      "myp": "sma_042",
+      "image": "https://images.pokemontcg.io/sma/42.png"
     },
     {
       "id": "sma-SV43",
@@ -809,7 +851,8 @@
       "artistId": "129",
       "numeroLiga": "(SV43/68)",
       "codigoLiga": "noibat (SV43/68)",
-      "myp": "sma_043"
+      "myp": "sma_043",
+      "image": "https://images.pokemontcg.io/sma/43.png"
     },
     {
       "id": "sma-SV44",
@@ -828,7 +871,8 @@
       "artistId": "130",
       "numeroLiga": "(SV44/68)",
       "codigoLiga": "oranguru (SV44/68)",
-      "myp": "sma_044"
+      "myp": "sma_044",
+      "image": "https://images.pokemontcg.io/sma/44.png"
     },
     {
       "id": "sma-SV45",
@@ -848,7 +892,8 @@
       "artistId": "106",
       "numeroLiga": "(SV45/68)",
       "codigoLiga": "type: null (SV45/68)",
-      "myp": "sma_045"
+      "myp": "sma_045",
+      "image": "https://images.pokemontcg.io/sma/45.png"
     },
     {
       "id": "swsh45sv-SV001",
@@ -867,7 +912,8 @@
       "artistId": "130",
       "numeroLiga": "(SV001/S122)",
       "codigoLiga": "rowlet (SV001/S122)",
-      "myp": "shf_001"
+      "myp": "shf_001",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV001/low.png"
     },
     {
       "id": "swsh45sv-SV002",
@@ -886,7 +932,8 @@
       "artistId": "71",
       "numeroLiga": "(SV002/S122)",
       "codigoLiga": "dartrix (SV002/S122)",
-      "myp": "shf_002"
+      "myp": "shf_002",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV002/low.png"
     },
     {
       "id": "swsh45sv-SV003",
@@ -905,7 +952,8 @@
       "artistId": "156",
       "numeroLiga": "(SV003/S122)",
       "codigoLiga": "decidueye (SV003/S122)",
-      "myp": "shf_003"
+      "myp": "shf_003",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV003/low.png"
     },
     {
       "id": "swsh45sv-SV004",
@@ -924,7 +972,8 @@
       "artistId": "146",
       "numeroLiga": "(SV004/S122)",
       "codigoLiga": "grookey (SV004/S122)",
-      "myp": "shf_004"
+      "myp": "shf_004",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV004/low.png"
     },
     {
       "id": "swsh45sv-SV005",
@@ -943,7 +992,8 @@
       "artistId": "172",
       "numeroLiga": "(SV005/S122)",
       "codigoLiga": "thwackey (SV005/S122)",
-      "myp": "shf_005"
+      "myp": "shf_005",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV005/low.png"
     },
     {
       "id": "swsh45sv-SV006",
@@ -962,7 +1012,8 @@
       "artistId": "182",
       "numeroLiga": "(SV006/S122)",
       "codigoLiga": "rillaboom (SV006/S122)",
-      "myp": "shf_006"
+      "myp": "shf_006",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV006/low.png"
     },
     {
       "id": "swsh45sv-SV007",
@@ -981,7 +1032,8 @@
       "artistId": "45",
       "numeroLiga": "(SV007/S122)",
       "codigoLiga": "blipbug (SV007/S122)",
-      "myp": "shf_007"
+      "myp": "shf_007",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV007/low.png"
     },
     {
       "id": "swsh45sv-SV008",
@@ -1000,7 +1052,8 @@
       "artistId": "172",
       "numeroLiga": "(SV008/S122)",
       "codigoLiga": "dottler (SV008/S122)",
-      "myp": "shf_008"
+      "myp": "shf_008",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV008/low.png"
     },
     {
       "id": "swsh45sv-SV009",
@@ -1020,7 +1073,8 @@
       "artistId": "189",
       "numeroLiga": "(SV009/S122)",
       "codigoLiga": "orbeetle (SV009/S122)",
-      "myp": "shf_009"
+      "myp": "shf_009",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV009/low.png"
     },
     {
       "id": "swsh45sv-SV010",
@@ -1040,7 +1094,8 @@
       "artistId": "45",
       "numeroLiga": "(SV010/S122)",
       "codigoLiga": "gossifleur (SV010/S122)",
-      "myp": "shf_010"
+      "myp": "shf_010",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV010/low.png"
     },
     {
       "id": "swsh45sv-SV011",
@@ -1060,7 +1115,8 @@
       "artistId": "129",
       "numeroLiga": "(SV011/S122)",
       "codigoLiga": "eldegoss (SV011/S122)",
-      "myp": "shf_011"
+      "myp": "shf_011",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV011/low.png"
     },
     {
       "id": "swsh45sv-SV012",
@@ -1080,7 +1136,8 @@
       "artistId": "192",
       "numeroLiga": "(SV012/S122)",
       "codigoLiga": "applin (SV012/S122)",
-      "myp": "shf_012"
+      "myp": "shf_012",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV012/low.png"
     },
     {
       "id": "swsh45sv-SV013",
@@ -1100,7 +1157,8 @@
       "artistId": "127",
       "numeroLiga": "(SV013/S122)",
       "codigoLiga": "flapple (SV013/S122)",
-      "myp": "shf_013"
+      "myp": "shf_013",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV013/low.png"
     },
     {
       "id": "swsh45sv-SV014",
@@ -1120,7 +1178,8 @@
       "artistId": "61",
       "numeroLiga": "(SV014/S122)",
       "codigoLiga": "appletun (SV014/S122)",
-      "myp": "shf_014"
+      "myp": "shf_014",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV014/low.png"
     },
     {
       "id": "swsh45sv-SV015",
@@ -1140,7 +1199,8 @@
       "artistId": "116",
       "numeroLiga": "(SV015/S122)",
       "codigoLiga": "scorbunny (SV015/S122)",
-      "myp": "shf_015"
+      "myp": "shf_015",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV015/low.png"
     },
     {
       "id": "swsh45sv-SV016",
@@ -1160,7 +1220,8 @@
       "artistId": "102",
       "numeroLiga": "(SV016/S122)",
       "codigoLiga": "raboot (SV016/S122)",
-      "myp": "shf_016"
+      "myp": "shf_016",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV016/low.png"
     },
     {
       "id": "swsh45sv-SV017",
@@ -1180,7 +1241,8 @@
       "artistId": "148",
       "numeroLiga": "(SV017/S122)",
       "codigoLiga": "cinderace (SV017/S122)",
-      "myp": "shf_017"
+      "myp": "shf_017",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV017/low.png"
     },
     {
       "id": "swsh45sv-SV018",
@@ -1200,7 +1262,8 @@
       "artistId": "127",
       "numeroLiga": "(SV018/S122)",
       "codigoLiga": "sizzlipede (SV018/S122)",
-      "myp": "shf_018"
+      "myp": "shf_018",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV018/low.png"
     },
     {
       "id": "swsh45sv-SV019",
@@ -1220,7 +1283,8 @@
       "artistId": "189",
       "numeroLiga": "(SV019/S122)",
       "codigoLiga": "centiskorch (SV019/S122)",
-      "myp": "shf_019"
+      "myp": "shf_019",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV019/low.png"
     },
     {
       "id": "swsh45sv-SV020",
@@ -1241,7 +1305,8 @@
       "artistId": "71",
       "numeroLiga": "(SV020/S122)",
       "codigoLiga": "galarian mr. mime (SV020/S122)",
-      "myp": "shf_020"
+      "myp": "shf_020",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV020/low.png"
     },
     {
       "id": "swsh45sv-SV021",
@@ -1262,7 +1327,8 @@
       "artistId": "160",
       "numeroLiga": "(SV021/S122)",
       "codigoLiga": "galarian mr. rime (SV021/S122)",
-      "myp": "shf_021"
+      "myp": "shf_021",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV021/low.png"
     },
     {
       "id": "swsh45sv-SV022",
@@ -1282,7 +1348,8 @@
       "artistId": "5",
       "numeroLiga": "(SV022/S122)",
       "codigoLiga": "suicune (SV022/S122)",
-      "myp": "shf_022"
+      "myp": "shf_022",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV022/low.png"
     },
     {
       "id": "swsh45sv-SV023",
@@ -1303,7 +1370,8 @@
       "artistId": "189",
       "numeroLiga": "(SV023/S122)",
       "codigoLiga": "galarian darumaka (SV023/S122)",
-      "myp": "shf_023"
+      "myp": "shf_023",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV023/low.png"
     },
     {
       "id": "swsh45sv-SV024",
@@ -1323,7 +1391,8 @@
       "artistId": "156",
       "numeroLiga": "(SV024/S122)",
       "codigoLiga": "galarian darmanitan (SV024/S122)",
-      "myp": "shf_024"
+      "myp": "shf_024",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV024/low.png"
     },
     {
       "id": "swsh45sv-SV025",
@@ -1343,7 +1412,8 @@
       "artistId": "103",
       "numeroLiga": "(SV025/S122)",
       "codigoLiga": "sobble (SV025/S122)",
-      "myp": "shf_025"
+      "myp": "shf_025",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV025/low.png"
     },
     {
       "id": "swsh45sv-SV026",
@@ -1363,7 +1433,8 @@
       "artistId": "182",
       "numeroLiga": "(SV026/S122)",
       "codigoLiga": "drizzile (SV026/S122)",
-      "myp": "shf_026"
+      "myp": "shf_026",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV026/low.png"
     },
     {
       "id": "swsh45sv-SV027",
@@ -1383,7 +1454,8 @@
       "artistId": "156",
       "numeroLiga": "(SV027/S122)",
       "codigoLiga": "inteleon (SV027/S122)",
-      "myp": "shf_027"
+      "myp": "shf_027",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV027/low.png"
     },
     {
       "id": "swsh45sv-SV028",
@@ -1403,7 +1475,8 @@
       "artistId": "192",
       "numeroLiga": "(SV028/S122)",
       "codigoLiga": "chewtle (SV028/S122)",
-      "myp": "shf_028"
+      "myp": "shf_028",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV028/low.png"
     },
     {
       "id": "swsh45sv-SV029",
@@ -1423,7 +1496,8 @@
       "artistId": "106",
       "numeroLiga": "(SV029/S122)",
       "codigoLiga": "drednaw (SV029/S122)",
-      "myp": "shf_029"
+      "myp": "shf_029",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV029/low.png"
     },
     {
       "id": "swsh45sv-SV030",
@@ -1443,7 +1517,8 @@
       "artistId": "130",
       "numeroLiga": "(SV030/S122)",
       "codigoLiga": "cramorant (SV030/S122)",
-      "myp": "shf_030"
+      "myp": "shf_030",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV030/low.png"
     },
     {
       "id": "swsh45sv-SV031",
@@ -1463,7 +1538,8 @@
       "artistId": "127",
       "numeroLiga": "(SV031/S122)",
       "codigoLiga": "arrokuda (SV031/S122)",
-      "myp": "shf_031"
+      "myp": "shf_031",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV031/low.png"
     },
     {
       "id": "swsh45sv-SV032",
@@ -1483,7 +1559,8 @@
       "artistId": "171",
       "numeroLiga": "(SV032/S122)",
       "codigoLiga": "barraskewda (SV032/S122)",
-      "myp": "shf_032"
+      "myp": "shf_032",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV032/low.png"
     },
     {
       "id": "swsh45sv-SV033",
@@ -1503,7 +1580,8 @@
       "artistId": "166",
       "numeroLiga": "(SV033/S122)",
       "codigoLiga": "snom (SV033/S122)",
-      "myp": "shf_033"
+      "myp": "shf_033",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV033/low.png"
     },
     {
       "id": "swsh45sv-SV034",
@@ -1523,7 +1601,8 @@
       "artistId": "130",
       "numeroLiga": "(SV034/S122)",
       "codigoLiga": "frosmoth (SV034/S122)",
-      "myp": "shf_034"
+      "myp": "shf_034",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV034/low.png"
     },
     {
       "id": "swsh45sv-SV035",
@@ -1543,7 +1622,8 @@
       "artistId": "127",
       "numeroLiga": "(SV035/S122)",
       "codigoLiga": "eiscue (SV035/S122)",
-      "myp": "shf_035"
+      "myp": "shf_035",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV035/low.png"
     },
     {
       "id": "swsh45sv-SV036",
@@ -1563,7 +1643,8 @@
       "artistId": "189",
       "numeroLiga": "(SV036/S122)",
       "codigoLiga": "dracovish (SV036/S122)",
-      "myp": "shf_036"
+      "myp": "shf_036",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV036/low.png"
     },
     {
       "id": "swsh45sv-SV037",
@@ -1583,7 +1664,8 @@
       "artistId": "71",
       "numeroLiga": "(SV037/S122)",
       "codigoLiga": "arctovish (SV037/S122)",
-      "myp": "shf_037"
+      "myp": "shf_037",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV037/low.png"
     },
     {
       "id": "swsh45sv-SV038",
@@ -1603,7 +1685,8 @@
       "artistId": "147",
       "numeroLiga": "(SV038/S122)",
       "codigoLiga": "rotom (SV038/S122)",
-      "myp": "shf_038"
+      "myp": "shf_038",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV038/low.png"
     },
     {
       "id": "swsh45sv-SV039",
@@ -1623,7 +1706,8 @@
       "artistId": "193",
       "numeroLiga": "(SV039/S122)",
       "codigoLiga": "yamper (SV039/S122)",
-      "myp": "shf_039"
+      "myp": "shf_039",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV039/low.png"
     },
     {
       "id": "swsh45sv-SV040",
@@ -1643,7 +1727,8 @@
       "artistId": "5",
       "numeroLiga": "(SV040/S122)",
       "codigoLiga": "boltund (SV040/S122)",
-      "myp": "shf_040"
+      "myp": "shf_040",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV040/low.png"
     },
     {
       "id": "swsh45sv-SV041",
@@ -1663,7 +1748,8 @@
       "artistId": "61",
       "numeroLiga": "(SV041/S122)",
       "codigoLiga": "toxel (SV041/S122)",
-      "myp": "shf_041"
+      "myp": "shf_041",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV041/low.png"
     },
     {
       "id": "swsh45sv-SV042",
@@ -1683,7 +1769,8 @@
       "artistId": "160",
       "numeroLiga": "(SV042/S122)",
       "codigoLiga": "toxtricity (SV042/S122)",
-      "myp": "shf_042"
+      "myp": "shf_042",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV042/low.png"
     },
     {
       "id": "swsh45sv-SV043",
@@ -1703,7 +1790,8 @@
       "artistId": "52",
       "numeroLiga": "(SV043/S122)",
       "codigoLiga": "pincurchin (SV043/S122)",
-      "myp": "shf_043"
+      "myp": "shf_043",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV043/low.png"
     },
     {
       "id": "swsh45sv-SV044",
@@ -1723,7 +1811,8 @@
       "artistId": "130",
       "numeroLiga": "(SV044/S122)",
       "codigoLiga": "morpeko (SV044/S122)",
-      "myp": "shf_044"
+      "myp": "shf_044",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV044/low.png"
     },
     {
       "id": "swsh45sv-SV045",
@@ -1743,7 +1832,8 @@
       "artistId": "106",
       "numeroLiga": "(SV045/S122)",
       "codigoLiga": "dracozolt (SV045/S122)",
-      "myp": "shf_045"
+      "myp": "shf_045",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV045/low.png"
     },
     {
       "id": "swsh45sv-SV046",
@@ -1763,7 +1853,8 @@
       "artistId": "156",
       "numeroLiga": "(SV046/S122)",
       "codigoLiga": "arctozolt (SV046/S122)",
-      "myp": "shf_046"
+      "myp": "shf_046",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV046/low.png"
     },
     {
       "id": "swsh45sv-SV047",
@@ -1784,7 +1875,8 @@
       "artistId": "146",
       "numeroLiga": "(SV047/S122)",
       "codigoLiga": "galarian ponyta (SV047/S122)",
-      "myp": "shf_047"
+      "myp": "shf_047",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV047/low.png"
     },
     {
       "id": "swsh45sv-SV048",
@@ -1805,7 +1897,8 @@
       "artistId": "5",
       "numeroLiga": "(SV048/S122)",
       "codigoLiga": "galarian rapidash (SV048/S122)",
-      "myp": "shf_048"
+      "myp": "shf_048",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV048/low.png"
     },
     {
       "id": "swsh45sv-SV049",
@@ -1826,7 +1919,8 @@
       "artistId": "129",
       "numeroLiga": "(SV049/S122)",
       "codigoLiga": "galarian corsola (SV049/S122)",
-      "myp": "shf_049"
+      "myp": "shf_049",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV049/low.png"
     },
     {
       "id": "swsh45sv-SV050",
@@ -1847,7 +1941,8 @@
       "artistId": "106",
       "numeroLiga": "(SV050/S122)",
       "codigoLiga": "galarian cursola (SV050/S122)",
-      "myp": "shf_050"
+      "myp": "shf_050",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV050/low.png"
     },
     {
       "id": "swsh45sv-SV051",
@@ -1867,7 +1962,8 @@
       "artistId": "129",
       "numeroLiga": "(SV051/S122)",
       "codigoLiga": "dedenne (SV051/S122)",
-      "myp": "shf_051"
+      "myp": "shf_051",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV051/low.png"
     },
     {
       "id": "swsh45sv-SV052",
@@ -1887,7 +1983,8 @@
       "artistId": "116",
       "numeroLiga": "(SV052/S122)",
       "codigoLiga": "sinistea (SV052/S122)",
-      "myp": "shf_052"
+      "myp": "shf_052",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV052/low.png"
     },
     {
       "id": "swsh45sv-SV053",
@@ -1907,7 +2004,8 @@
       "artistId": "146",
       "numeroLiga": "(SV053/S122)",
       "codigoLiga": "polteageist (SV053/S122)",
-      "myp": "shf_053"
+      "myp": "shf_053",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV053/low.png"
     },
     {
       "id": "swsh45sv-SV054",
@@ -1927,7 +2025,8 @@
       "artistId": "192",
       "numeroLiga": "(SV054/S122)",
       "codigoLiga": "hatenna (SV054/S122)",
-      "myp": "shf_054"
+      "myp": "shf_054",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV054/low.png"
     },
     {
       "id": "swsh45sv-SV055",
@@ -1947,7 +2046,8 @@
       "artistId": "102",
       "numeroLiga": "(SV055/S122)",
       "codigoLiga": "hattrem (SV055/S122)",
-      "myp": "shf_055"
+      "myp": "shf_055",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV055/low.png"
     },
     {
       "id": "swsh45sv-SV056",
@@ -1967,7 +2067,8 @@
       "artistId": "130",
       "numeroLiga": "(SV056/S122)",
       "codigoLiga": "hatterene (SV056/S122)",
-      "myp": "shf_056"
+      "myp": "shf_056",
+      "image": "https://images.pokemontcg.io/swsh45sv/SV056.png"
     },
     {
       "id": "swsh45sv-SV057",
@@ -1987,7 +2088,8 @@
       "artistId": "52",
       "numeroLiga": "(SV057/S122)",
       "codigoLiga": "milcery (SV057/S122)",
-      "myp": "shf_057"
+      "myp": "shf_057",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV057/low.png"
     },
     {
       "id": "swsh45sv-SV058",
@@ -2007,7 +2109,8 @@
       "artistId": "116",
       "numeroLiga": "(SV058/S122)",
       "codigoLiga": "alcremie (SV058/S122)",
-      "myp": "shf_058"
+      "myp": "shf_058",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV058/low.png"
     },
     {
       "id": "swsh45sv-SV059",
@@ -2027,7 +2130,8 @@
       "artistId": "103",
       "numeroLiga": "(SV059/S122)",
       "codigoLiga": "indeedee (SV059/S122)",
-      "myp": "shf_059"
+      "myp": "shf_059",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV059/low.png"
     },
     {
       "id": "swsh45sv-SV060",
@@ -2047,7 +2151,8 @@
       "artistId": "71",
       "numeroLiga": "(SV060/S122)",
       "codigoLiga": "dreepy (SV060/S122)",
-      "myp": "shf_060"
+      "myp": "shf_060",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV060/low.png"
     },
     {
       "id": "swsh45sv-SV061",
@@ -2067,7 +2172,8 @@
       "artistId": "172",
       "numeroLiga": "(SV061/S122)",
       "codigoLiga": "drakloak (SV061/S122)",
-      "myp": "shf_061"
+      "myp": "shf_061",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV061/low.png"
     },
     {
       "id": "swsh45sv-SV062",
@@ -2087,7 +2193,8 @@
       "artistId": "114",
       "numeroLiga": "(SV062/S122)",
       "codigoLiga": "dragapult (SV062/S122)",
-      "myp": "shf_062"
+      "myp": "shf_062",
+      "image": "https://images.pokemontcg.io/swsh45sv/SV062.png"
     },
     {
       "id": "swsh45sv-SV063",
@@ -2108,7 +2215,8 @@
       "artistId": "5",
       "numeroLiga": "(SV063/S122)",
       "codigoLiga": "galarian farfetch'd (SV063/S122)",
-      "myp": "shf_063"
+      "myp": "shf_063",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV063/low.png"
     },
     {
       "id": "swsh45sv-SV064",
@@ -2129,7 +2237,8 @@
       "artistId": "61",
       "numeroLiga": "(SV064/S122)",
       "codigoLiga": "galarian sirfetch'd (SV064/S122)",
-      "myp": "shf_064"
+      "myp": "shf_064",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV064/low.png"
     },
     {
       "id": "swsh45sv-SV065",
@@ -2150,7 +2259,8 @@
       "artistId": "193",
       "numeroLiga": "(SV065/S122)",
       "codigoLiga": "galarian yamask (SV065/S122)",
-      "myp": "shf_065"
+      "myp": "shf_065",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV065/low.png"
     },
     {
       "id": "swsh45sv-SV066",
@@ -2171,7 +2281,8 @@
       "artistId": "106",
       "numeroLiga": "(SV066/S122)",
       "codigoLiga": "galarian runerigus (SV066/S122)",
-      "myp": "shf_066"
+      "myp": "shf_066",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV066/low.png"
     },
     {
       "id": "swsh45sv-SV067",
@@ -2191,7 +2302,8 @@
       "artistId": "127",
       "numeroLiga": "(SV067/S122)",
       "codigoLiga": "rolycoly (SV067/S122)",
-      "myp": "shf_067"
+      "myp": "shf_067",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV067/low.png"
     },
     {
       "id": "swsh45sv-SV068",
@@ -2211,7 +2323,8 @@
       "artistId": "172",
       "numeroLiga": "(SV068/S122)",
       "codigoLiga": "carkol (SV068/S122)",
-      "myp": "shf_068"
+      "myp": "shf_068",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV068/low.png"
     },
     {
       "id": "swsh45sv-SV069",
@@ -2231,7 +2344,8 @@
       "artistId": "156",
       "numeroLiga": "(SV069/S122)",
       "codigoLiga": "coalossal (SV069/S122)",
-      "myp": "shf_069"
+      "myp": "shf_069",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV069/low.png"
     },
     {
       "id": "swsh45sv-SV070",
@@ -2251,7 +2365,8 @@
       "artistId": "130",
       "numeroLiga": "(SV070/S122)",
       "codigoLiga": "silicobra (SV070/S122)",
-      "myp": "shf_070"
+      "myp": "shf_070",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV070/low.png"
     },
     {
       "id": "swsh45sv-SV071",
@@ -2271,7 +2386,8 @@
       "artistId": "106",
       "numeroLiga": "(SV071/S122)",
       "codigoLiga": "sandaconda (SV071/S122)",
-      "myp": "shf_071"
+      "myp": "shf_071",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV071/low.png"
     },
     {
       "id": "swsh45sv-SV072",
@@ -2291,7 +2407,8 @@
       "artistId": "45",
       "numeroLiga": "(SV072/S122)",
       "codigoLiga": "clobbopus (SV072/S122)",
-      "myp": "shf_072"
+      "myp": "shf_072",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV072/low.png"
     },
     {
       "id": "swsh45sv-SV073",
@@ -2311,7 +2428,8 @@
       "artistId": "71",
       "numeroLiga": "(SV073/S122)",
       "codigoLiga": "grapploct (SV073/S122)",
-      "myp": "shf_073"
+      "myp": "shf_073",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV073/low.png"
     },
     {
       "id": "swsh45sv-SV074",
@@ -2331,7 +2449,8 @@
       "artistId": "61",
       "numeroLiga": "(SV074/S122)",
       "codigoLiga": "falinks (SV074/S122)",
-      "myp": "shf_074"
+      "myp": "shf_074",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV074/low.png"
     },
     {
       "id": "swsh45sv-SV075",
@@ -2351,7 +2470,8 @@
       "artistId": "148",
       "numeroLiga": "(SV075/S122)",
       "codigoLiga": "stonjourner (SV075/S122)",
-      "myp": "shf_075"
+      "myp": "shf_075",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV075/low.png"
     },
     {
       "id": "swsh45sv-SV076",
@@ -2371,7 +2491,8 @@
       "artistId": "166",
       "numeroLiga": "(SV076/S122)",
       "codigoLiga": "koffing (SV076/S122)",
-      "myp": "shf_076"
+      "myp": "shf_076",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV076/low.png"
     },
     {
       "id": "swsh45sv-SV077",
@@ -2392,7 +2513,8 @@
       "artistId": "61",
       "numeroLiga": "(SV077/S122)",
       "codigoLiga": "galarian weezing (SV077/S122)",
-      "myp": "shf_077"
+      "myp": "shf_077",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV077/low.png"
     },
     {
       "id": "swsh45sv-SV078",
@@ -2413,7 +2535,8 @@
       "artistId": "171",
       "numeroLiga": "(SV078/S122)",
       "codigoLiga": "galarian zigzagoon (SV078/S122)",
-      "myp": "shf_078"
+      "myp": "shf_078",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV078/low.png"
     },
     {
       "id": "swsh45sv-SV079",
@@ -2434,7 +2557,8 @@
       "artistId": "106",
       "numeroLiga": "(SV079/S122)",
       "codigoLiga": "galarian linoone (SV079/S122)",
-      "myp": "shf_079"
+      "myp": "shf_079",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV079/low.png"
     },
     {
       "id": "swsh45sv-SV080",
@@ -2455,7 +2579,8 @@
       "artistId": "182",
       "numeroLiga": "(SV080/S122)",
       "codigoLiga": "galarian obstagoon (SV080/S122)",
-      "myp": "shf_080"
+      "myp": "shf_080",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV080/low.png"
     },
     {
       "id": "swsh45sv-SV081",
@@ -2475,7 +2600,8 @@
       "artistId": "103",
       "numeroLiga": "(SV081/S122)",
       "codigoLiga": "nickit (SV081/S122)",
-      "myp": "shf_081"
+      "myp": "shf_081",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV081/low.png"
     },
     {
       "id": "swsh45sv-SV082",
@@ -2495,7 +2621,8 @@
       "artistId": "5",
       "numeroLiga": "(SV082/S122)",
       "codigoLiga": "thievul (SV082/S122)",
-      "myp": "shf_082"
+      "myp": "shf_082",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV082/low.png"
     },
     {
       "id": "swsh45sv-SV083",
@@ -2515,7 +2642,8 @@
       "artistId": "171",
       "numeroLiga": "(SV083/S122)",
       "codigoLiga": "impidimp (SV083/S122)",
-      "myp": "shf_083"
+      "myp": "shf_083",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV083/low.png"
     },
     {
       "id": "swsh45sv-SV084",
@@ -2535,7 +2663,8 @@
       "artistId": "189",
       "numeroLiga": "(SV084/S122)",
       "codigoLiga": "morgrem (SV084/S122)",
-      "myp": "shf_084"
+      "myp": "shf_084",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV084/low.png"
     },
     {
       "id": "swsh45sv-SV085",
@@ -2555,7 +2684,8 @@
       "artistId": "61",
       "numeroLiga": "(SV085/S122)",
       "codigoLiga": "grimmsnarl (SV085/S122)",
-      "myp": "shf_085"
+      "myp": "shf_085",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV085/low.png"
     },
     {
       "id": "swsh45sv-SV086",
@@ -2576,7 +2706,8 @@
       "artistId": "127",
       "numeroLiga": "(SV086/S122)",
       "codigoLiga": "galarian meowth (SV086/S122)",
-      "myp": "shf_086"
+      "myp": "shf_086",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV086/low.png"
     },
     {
       "id": "swsh45sv-SV087",
@@ -2597,7 +2728,8 @@
       "artistId": "182",
       "numeroLiga": "(SV087/S122)",
       "codigoLiga": "galarian perrserker (SV087/S122)",
-      "myp": "shf_087"
+      "myp": "shf_087",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV087/low.png"
     },
     {
       "id": "swsh45sv-SV088",
@@ -2618,7 +2750,8 @@
       "artistId": "172",
       "numeroLiga": "(SV088/S122)",
       "codigoLiga": "galarian stunfisk (SV088/S122)",
-      "myp": "shf_088"
+      "myp": "shf_088",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV088/low.png"
     },
     {
       "id": "swsh45sv-SV089",
@@ -2638,7 +2771,8 @@
       "artistId": "147",
       "numeroLiga": "(SV089/S122)",
       "codigoLiga": "corviknight (SV089/S122)",
-      "myp": "shf_089"
+      "myp": "shf_089",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV089/low.png"
     },
     {
       "id": "swsh45sv-SV090",
@@ -2658,7 +2792,8 @@
       "artistId": "193",
       "numeroLiga": "(SV090/S122)",
       "codigoLiga": "cufant (SV090/S122)",
-      "myp": "shf_090"
+      "myp": "shf_090",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV090/low.png"
     },
     {
       "id": "swsh45sv-SV091",
@@ -2678,7 +2813,8 @@
       "artistId": "106",
       "numeroLiga": "(SV091/S122)",
       "codigoLiga": "copperajah (SV091/S122)",
-      "myp": "shf_091"
+      "myp": "shf_091",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV091/low.png"
     },
     {
       "id": "swsh45sv-SV092",
@@ -2698,7 +2834,8 @@
       "artistId": "213",
       "numeroLiga": "(SV092/S122)",
       "codigoLiga": "duraludon (SV092/S122)",
-      "myp": "shf_092"
+      "myp": "shf_092",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV092/low.png"
     },
     {
       "id": "swsh45sv-SV093",
@@ -2718,7 +2855,8 @@
       "artistId": "116",
       "numeroLiga": "(SV093/S122)",
       "codigoLiga": "minccino (SV093/S122)",
-      "myp": "shf_093"
+      "myp": "shf_093",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV093/low.png"
     },
     {
       "id": "swsh45sv-SV094",
@@ -2738,7 +2876,8 @@
       "artistId": "147",
       "numeroLiga": "(SV094/S122)",
       "codigoLiga": "cinccino (SV094/S122)",
-      "myp": "shf_094"
+      "myp": "shf_094",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV094/low.png"
     },
     {
       "id": "swsh45sv-SV095",
@@ -2758,7 +2897,8 @@
       "artistId": "45",
       "numeroLiga": "(SV095/S122)",
       "codigoLiga": "ducklett (SV095/S122)",
-      "myp": "shf_095"
+      "myp": "shf_095",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV095/low.png"
     },
     {
       "id": "swsh45sv-SV096",
@@ -2778,7 +2918,8 @@
       "artistId": "5",
       "numeroLiga": "(SV096/S122)",
       "codigoLiga": "swanna (SV096/S122)",
-      "myp": "shf_096"
+      "myp": "shf_096",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV096/low.png"
     },
     {
       "id": "swsh45sv-SV097",
@@ -2798,7 +2939,8 @@
       "artistId": "171",
       "numeroLiga": "(SV097/S122)",
       "codigoLiga": "bunnelby (SV097/S122)",
-      "myp": "shf_097"
+      "myp": "shf_097",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV097/low.png"
     },
     {
       "id": "swsh45sv-SV098",
@@ -2818,7 +2960,8 @@
       "artistId": "156",
       "numeroLiga": "(SV098/S122)",
       "codigoLiga": "oranguru (SV098/S122)",
-      "myp": "shf_098"
+      "myp": "shf_098",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV098/low.png"
     },
     {
       "id": "swsh45sv-SV099",
@@ -2838,7 +2981,8 @@
       "artistId": "114",
       "numeroLiga": "(SV099/S122)",
       "codigoLiga": "skwovet (SV099/S122)",
-      "myp": "shf_099"
+      "myp": "shf_099",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV099/low.png"
     },
     {
       "id": "swsh45sv-SV100",
@@ -2858,7 +3002,8 @@
       "artistId": "160",
       "numeroLiga": "(SV100/S122)",
       "codigoLiga": "greedent (SV100/S122)",
-      "myp": "shf_100"
+      "myp": "shf_100",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV100/low.png"
     },
     {
       "id": "swsh45sv-SV101",
@@ -2878,7 +3023,8 @@
       "artistId": "102",
       "numeroLiga": "(SV101/S122)",
       "codigoLiga": "rookidee (SV101/S122)",
-      "myp": "shf_101"
+      "myp": "shf_101",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV101/low.png"
     },
     {
       "id": "swsh45sv-SV102",
@@ -2898,7 +3044,8 @@
       "artistId": "71",
       "numeroLiga": "(SV102/S122)",
       "codigoLiga": "corvisquire (SV102/S122)",
-      "myp": "shf_102"
+      "myp": "shf_102",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV102/low.png"
     },
     {
       "id": "swsh45sv-SV103",
@@ -2918,7 +3065,8 @@
       "artistId": "45",
       "numeroLiga": "(SV103/S122)",
       "codigoLiga": "wooloo (SV103/S122)",
-      "myp": "shf_103"
+      "myp": "shf_103",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV103/low.png"
     },
     {
       "id": "swsh45sv-SV104",
@@ -2938,7 +3086,8 @@
       "artistId": "61",
       "numeroLiga": "(SV104/S122)",
       "codigoLiga": "dubwool (SV104/S122)",
-      "myp": "shf_104"
+      "myp": "shf_104",
+      "image": "https://assets.tcgdex.net/pt/swsh/swsh4.5/SV104/low.png"
     }
   ]
 }
