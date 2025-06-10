@@ -1,4 +1,6 @@
-{   "en": [
+{   
+        
+   "en": [
         "cartas_1.json",
         "cartas_10.json",
         "cartas_11.json",
@@ -15,6 +17,16 @@
         "cartas_6.json",
         "cartas_7.json",
         "cartas_8.json",
+        "cartas_9.json"
+    ],
+
+"ja": [
+        "cartas_1.json",
+        "cartas_16.json",
+        "cartas_17.json",
+        "cartas_2.json",
+        "cartas_3.json",
+        "cartas_4.json",
         "cartas_9.json"
     ],
     
