@@ -15,8 +15,7 @@
       "artistId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "bagon (1/30)",
-      "myp": "_001",
-      "image": "https://images.pokemontcg.io/tk1a/1.png"
+      "myp": "_001"
     },
     {
       "id": "tk1a-2",
@@ -33,8 +32,7 @@
       "artistId": "61",
       "numeroLiga": "(2/30)",
       "codigoLiga": "combusken (2/30)",
-      "myp": "_002",
-      "image": "https://images.pokemontcg.io/tk1a/2.png"
+      "myp": "_002"
     },
     {
       "id": "tk1a-3",
@@ -51,8 +49,7 @@
       "artistId": "62",
       "numeroLiga": "(3/30)",
       "codigoLiga": "delcatty (3/30)",
-      "myp": "_003",
-      "image": "https://images.pokemontcg.io/tk1a/3.png"
+      "myp": "_003"
     },
     {
       "id": "tk1a-4",
@@ -69,8 +66,7 @@
       "artistId": "70",
       "numeroLiga": "(4/30)",
       "codigoLiga": "latias (4/30)",
-      "myp": "_004",
-      "image": "https://images.pokemontcg.io/tk1a/4.png"
+      "myp": "_004"
     },
     {
       "id": "tk1a-5",
@@ -87,8 +83,7 @@
       "artistId": "36",
       "numeroLiga": "(5/30)",
       "codigoLiga": "numel (5/30)",
-      "myp": "_005",
-      "image": "https://images.pokemontcg.io/tk1a/5.png"
+      "myp": "_005"
     },
     {
       "id": "tk1a-6",
@@ -105,8 +100,7 @@
       "artistId": "12",
       "numeroLiga": "(6/30)",
       "codigoLiga": "skitty (6/30)",
-      "myp": "_006",
-      "image": "https://images.pokemontcg.io/tk1a/6.png"
+      "myp": "_006"
     },
     {
       "id": "tk1a-7",
@@ -123,8 +117,7 @@
       "artistId": "15",
       "numeroLiga": "(7/30)",
       "codigoLiga": "torchic (7/30)",
-      "myp": "_007",
-      "image": "https://images.pokemontcg.io/tk1a/7.png"
+      "myp": "_007"
     },
     {
       "id": "tk1a-8",
@@ -139,8 +132,7 @@
       "artistId": "3",
       "numeroLiga": "(8/30)",
       "codigoLiga": "potion (8/30)",
-      "myp": "_008",
-      "image": "https://images.pokemontcg.io/tk1a/8.png"
+      "myp": "_008"
     },
     {
       "id": "tk1a-9",
@@ -155,8 +147,7 @@
       "artistId": "56",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energy search (9/30)",
-      "myp": "_009",
-      "image": "https://images.pokemontcg.io/tk1a/9.png"
+      "myp": "_009"
     },
     {
       "id": "tk1a-10",
@@ -171,8 +162,7 @@
       "supertypeId": "3",
       "numeroLiga": "(10/30)",
       "codigoLiga": "fire energy (10/30)",
-      "myp": "_010",
-      "image": "https://images.pokemontcg.io/tk1a/10.png"
+      "myp": "_010"
     },
     {
       "id": "tk1b-1",
@@ -189,8 +179,7 @@
       "artistId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "electrike (1/30)",
-      "myp": "_001",
-      "image": "https://images.pokemontcg.io/tk1b/1.png"
+      "myp": "_001"
     },
     {
       "id": "tk1b-2",
@@ -207,8 +196,7 @@
       "artistId": "78",
       "numeroLiga": "(2/30)",
       "codigoLiga": "latios (2/30)",
-      "myp": "_002",
-      "image": "https://images.pokemontcg.io/tk1b/2.png"
+      "myp": "_002"
     },
     {
       "id": "tk1b-3",
@@ -225,8 +213,7 @@
       "artistId": "1",
       "numeroLiga": "(3/30)",
       "codigoLiga": "linoone (3/30)",
-      "myp": "_003",
-      "image": "https://images.pokemontcg.io/tk1b/3.png"
+      "myp": "_003"
     },
     {
       "id": "tk1b-4",
@@ -243,8 +230,7 @@
       "artistId": "14",
       "numeroLiga": "(4/30)",
       "codigoLiga": "magnemite (4/30)",
-      "myp": "_004",
-      "image": "https://images.pokemontcg.io/tk1b/4.png"
+      "myp": "_004"
     },
     {
       "id": "tk1b-5",
@@ -261,8 +247,7 @@
       "artistId": "45",
       "numeroLiga": "(5/30)",
       "codigoLiga": "magneton (5/30)",
-      "myp": "_005",
-      "image": "https://images.pokemontcg.io/tk1b/5.png"
+      "myp": "_005"
     },
     {
       "id": "tk1b-6",
@@ -279,8 +264,7 @@
       "artistId": "2",
       "numeroLiga": "(6/30)",
       "codigoLiga": "pikachu (6/30)",
-      "myp": "_006",
-      "image": "https://images.pokemontcg.io/tk1b/6.png"
+      "myp": "_006"
     },
     {
       "id": "tk1b-7",
@@ -297,8 +281,7 @@
       "artistId": "12",
       "numeroLiga": "(7/30)",
       "codigoLiga": "zigzagoon (7/30)",
-      "myp": "_007",
-      "image": "https://images.pokemontcg.io/tk1b/7.png"
+      "myp": "_007"
     },
     {
       "id": "tk1b-8",
@@ -313,8 +296,7 @@
       "artistId": "3",
       "numeroLiga": "(8/30)",
       "codigoLiga": "potion (8/30)",
-      "myp": "_008",
-      "image": "https://images.pokemontcg.io/tk1b/8.png"
+      "myp": "_008"
     },
     {
       "id": "tk1b-9",
@@ -329,8 +311,7 @@
       "artistId": "56",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energy search (9/30)",
-      "myp": "_009",
-      "image": "https://images.pokemontcg.io/tk1b/9.png"
+      "myp": "_009"
     },
     {
       "id": "tk1b-10",
@@ -345,8 +326,7 @@
       "supertypeId": "3",
       "numeroLiga": "(10/30)",
       "codigoLiga": "lightning energy (10/30)",
-      "myp": "_010",
-      "image": "https://images.pokemontcg.io/tk1b/10.png"
+      "myp": "_010"
     },
     {
       "id": "tk2a-1",
@@ -363,8 +343,7 @@
       "artistId": "61",
       "numeroLiga": "(1/30)",
       "codigoLiga": "beldum (1/30)",
-      "myp": "_001",
-      "image": "https://images.pokemontcg.io/tk2a/1.png"
+      "myp": "_001"
     },
     {
       "id": "tk2a-2",
@@ -381,8 +360,7 @@
       "artistId": "84",
       "numeroLiga": "(2/30)",
       "codigoLiga": "electrike (2/30)",
-      "myp": "_002",
-      "image": "https://images.pokemontcg.io/tk2a/2.png"
+      "myp": "_002"
     },
     {
       "id": "tk2a-3",
@@ -399,8 +377,7 @@
       "artistId": "12",
       "numeroLiga": "(3/30)",
       "codigoLiga": "grumpig (3/30)",
-      "myp": "_003",
-      "image": "https://images.pokemontcg.io/tk2a/3.png"
+      "myp": "_003"
     },
     {
       "id": "tk2a-4",
@@ -417,8 +394,7 @@
       "artistId": "71",
       "numeroLiga": "(4/30)",
       "codigoLiga": "meowth (4/30)",
-      "myp": "_004",
-      "image": "https://images.pokemontcg.io/tk2a/4.png"
+      "myp": "_004"
     },
     {
       "id": "tk2a-5",
@@ -435,8 +411,7 @@
       "artistId": "60",
       "numeroLiga": "(5/30)",
       "codigoLiga": "metang (5/30)",
-      "myp": "_005",
-      "image": "https://images.pokemontcg.io/tk2a/5.png"
+      "myp": "_005"
     },
     {
       "id": "tk2a-6",
@@ -453,8 +428,7 @@
       "artistId": "59",
       "numeroLiga": "(6/30)",
       "codigoLiga": "plusle (6/30)",
-      "myp": "_006",
-      "image": "https://images.pokemontcg.io/tk2a/6.png"
+      "myp": "_006"
     },
     {
       "id": "tk2a-7",
@@ -471,8 +445,7 @@
       "artistId": "5",
       "numeroLiga": "(7/30)",
       "codigoLiga": "spoink (7/30)",
-      "myp": "_007",
-      "image": "https://images.pokemontcg.io/tk2a/7.png"
+      "myp": "_007"
     },
     {
       "id": "tk2a-8",
@@ -487,8 +460,7 @@
       "artistId": "56",
       "numeroLiga": "(8/30)",
       "codigoLiga": "energy search (8/30)",
-      "myp": "_008",
-      "image": "https://images.pokemontcg.io/tk2a/8.png"
+      "myp": "_008"
     },
     {
       "id": "tk2a-9",
@@ -503,8 +475,7 @@
       "artistId": "3",
       "numeroLiga": "(9/30)",
       "codigoLiga": "potion (9/30)",
-      "myp": "_009",
-      "image": "https://images.pokemontcg.io/tk2a/9.png"
+      "myp": "_009"
     },
     {
       "id": "tk2a-10",
@@ -518,8 +489,7 @@
       "artistId": "1",
       "numeroLiga": "(10/30)",
       "codigoLiga": "professor cozmo's discovery (10/30)",
-      "myp": "_010",
-      "image": "https://images.pokemontcg.io/tk2a/10.png"
+      "myp": "_010"
     },
     {
       "id": "tk2a-11",
@@ -534,8 +504,7 @@
       "supertypeId": "3",
       "numeroLiga": "(11/30)",
       "codigoLiga": "lightning energy (11/30)",
-      "myp": "_011",
-      "image": "https://images.pokemontcg.io/tk2a/11.png"
+      "myp": "_011"
     },
     {
       "id": "tk2a-12",
@@ -550,8 +519,7 @@
       "supertypeId": "3",
       "numeroLiga": "(12/30)",
       "codigoLiga": "psychic energy (12/30)",
-      "myp": "_012",
-      "image": "https://images.pokemontcg.io/tk2a/12.png"
+      "myp": "_012"
     },
     {
       "id": "tk2b-1",
@@ -568,8 +536,7 @@
       "artistId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "arcanine (1/30)",
-      "myp": "_001",
-      "image": "https://images.pokemontcg.io/tk2b/1.png"
+      "myp": "_001"
     },
     {
       "id": "tk2b-2",
@@ -586,8 +553,7 @@
       "artistId": "62",
       "numeroLiga": "(2/30)",
       "codigoLiga": "charmander (2/30)",
-      "myp": "_002",
-      "image": "https://images.pokemontcg.io/tk2b/2.png"
+      "myp": "_002"
     },
     {
       "id": "tk2b-3",
@@ -605,8 +571,7 @@
       "artistId": "61",
       "numeroLiga": "(3/30)",
       "codigoLiga": "charmeleon (3/30)",
-      "myp": "_003",
-      "image": "https://images.pokemontcg.io/tk2b/3.png"
+      "myp": "_003"
     },
     {
       "id": "tk2b-4",
@@ -623,8 +588,7 @@
       "artistId": "1",
       "numeroLiga": "(4/30)",
       "codigoLiga": "growlithe (4/30)",
-      "myp": "_004",
-      "image": "https://images.pokemontcg.io/tk2b/4.png"
+      "myp": "_004"
     },
     {
       "id": "tk2b-5",
@@ -641,8 +605,7 @@
       "artistId": "25",
       "numeroLiga": "(5/30)",
       "codigoLiga": "mareep (5/30)",
-      "myp": "_005",
-      "image": "https://images.pokemontcg.io/tk2b/5.png"
+      "myp": "_005"
     },
     {
       "id": "tk2b-6",
@@ -659,8 +622,7 @@
       "artistId": "59",
       "numeroLiga": "(6/30)",
       "codigoLiga": "minun (6/30)",
-      "myp": "_006",
-      "image": "https://images.pokemontcg.io/tk2b/6.png"
+      "myp": "_006"
     },
     {
       "id": "tk2b-7",
@@ -677,8 +639,7 @@
       "artistId": "62",
       "numeroLiga": "(7/30)",
       "codigoLiga": "vulpix (7/30)",
-      "myp": "_007",
-      "image": "https://images.pokemontcg.io/tk2b/7.png"
+      "myp": "_007"
     },
     {
       "id": "tk2b-8",
@@ -692,8 +653,7 @@
       "artistId": "1",
       "numeroLiga": "(8/30)",
       "codigoLiga": "celio's network (8/30)",
-      "myp": "_008",
-      "image": "https://images.pokemontcg.io/tk2b/8.png"
+      "myp": "_008"
     },
     {
       "id": "tk2b-9",
@@ -708,8 +668,7 @@
       "artistId": "56",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energy search (9/30)",
-      "myp": "_009",
-      "image": "https://images.pokemontcg.io/tk2b/9.png"
+      "myp": "_009"
     },
     {
       "id": "tk2b-10",
@@ -724,8 +683,7 @@
       "artistId": "3",
       "numeroLiga": "(10/30)",
       "codigoLiga": "potion (10/30)",
-      "myp": "_010",
-      "image": "https://images.pokemontcg.io/tk2b/10.png"
+      "myp": "_010"
     },
     {
       "id": "tk2b-11",
@@ -740,8 +698,7 @@
       "supertypeId": "3",
       "numeroLiga": "(11/30)",
       "codigoLiga": "fire energy (11/30)",
-      "myp": "_011",
-      "image": "https://images.pokemontcg.io/tk2b/11.png"
+      "myp": "_011"
     },
     {
       "id": "tk2b-12",
@@ -756,8 +713,7 @@
       "supertypeId": "3",
       "numeroLiga": "(12/30)",
       "codigoLiga": "lightning energy (12/30)",
-      "myp": "_012",
-      "image": "https://images.pokemontcg.io/tk2b/12.png"
+      "myp": "_012"
     },
     {
       "id": "tk6a-1",
@@ -775,8 +731,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/10)",
       "codigoLiga": "spoink (1/10)",
-      "myp": "tk1b_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/1/low.png"
+      "myp": "tk1b_001"
     },
     {
       "id": "tk6a-2",
@@ -794,8 +749,7 @@
       "rarityId": "3",
       "numeroLiga": "(2/10)",
       "codigoLiga": "gourgeist (2/10)",
-      "myp": "tk1b_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/2/low.png"
+      "myp": "tk1b_002"
     },
     {
       "id": "tk6a-3",
@@ -813,8 +767,7 @@
       "rarityId": "3",
       "numeroLiga": "(3/10)",
       "codigoLiga": "arbok (3/10)",
-      "myp": "tk1b_003",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/3/low.png"
+      "myp": "tk1b_003"
     },
     {
       "id": "tk6a-4",
@@ -832,8 +785,7 @@
       "rarityId": "1",
       "numeroLiga": "(4/10)",
       "codigoLiga": "bunnelby (4/10)",
-      "myp": "tk1b_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/4/low.png"
+      "myp": "tk1b_004"
     },
     {
       "id": "tk6a-5",
@@ -847,8 +799,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/10)",
       "codigoLiga": "energia psíquica (5/10)",
-      "myp": "tk1b_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/5/low.png"
+      "myp": "tk1b_005"
     },
     {
       "id": "tk6a-6",
@@ -862,8 +813,7 @@
       "rarityId": "1",
       "numeroLiga": "(6/10)",
       "codigoLiga": "energia psíquica (6/10)",
-      "myp": "tk1b_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/6/low.png"
+      "myp": "tk1b_006"
     },
     {
       "id": "tk6a-7",
@@ -877,8 +827,7 @@
       "rarityId": "1",
       "numeroLiga": "(7/10)",
       "codigoLiga": "energia psíquica (7/10)",
-      "myp": "tk1b_007",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/7/low.png"
+      "myp": "tk1b_007"
     },
     {
       "id": "tk6a-8",
@@ -892,8 +841,7 @@
       "rarityId": "1",
       "numeroLiga": "(8/10)",
       "codigoLiga": "energia psíquica (8/10)",
-      "myp": "tk1b_008",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/8/low.png"
+      "myp": "tk1b_008"
     },
     {
       "id": "tk6a-9",
@@ -907,8 +855,7 @@
       "rarityId": "1",
       "numeroLiga": "(9/10)",
       "codigoLiga": "energia psíquica (9/10)",
-      "myp": "tk1b_009",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/9/low.png"
+      "myp": "tk1b_009"
     },
     {
       "id": "tk6a-10",
@@ -922,8 +869,7 @@
       "rarityId": "1",
       "numeroLiga": "(10/10)",
       "codigoLiga": "energia psíquica (10/10)",
-      "myp": "tk1b_010",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/10/low.png"
+      "myp": "tk1b_010"
     },
     {
       "id": "tk6a-11",
@@ -941,8 +887,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/10)",
       "codigoLiga": "pumpkaboo (11/10)",
-      "myp": "tk1b_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/11/low.png"
+      "myp": "tk1b_011"
     },
     {
       "id": "tk6a-12",
@@ -960,8 +905,7 @@
       "rarityId": "1",
       "numeroLiga": "(12/10)",
       "codigoLiga": "noibat (12/10)",
-      "myp": "tk1b_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/12/low.png"
+      "myp": "tk1b_012"
     },
     {
       "id": "tk6a-13",
@@ -980,8 +924,7 @@
       "artistId": "131",
       "numeroLiga": "(13/10)",
       "codigoLiga": "noivern (13/10)",
-      "myp": "tk1b_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/13/low.png"
+      "myp": "tk1b_013"
     },
     {
       "id": "tk6a-14",
@@ -996,8 +939,7 @@
       "rarityId": "2",
       "numeroLiga": "(14/10)",
       "codigoLiga": "pegador de pokémon (14/10)",
-      "myp": "tk1b_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/14/low.png"
+      "myp": "tk1b_014"
     },
     {
       "id": "tk6a-15",
@@ -1012,8 +954,7 @@
       "rarityId": "1",
       "numeroLiga": "(15/10)",
       "codigoLiga": "poção (15/10)",
-      "myp": "tk1b_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/15/low.png"
+      "myp": "tk1b_015"
     },
     {
       "id": "tk6a-16",
@@ -1031,8 +972,7 @@
       "rarityId": "1",
       "numeroLiga": "(16/10)",
       "codigoLiga": "ekans (16/10)",
-      "myp": "tk1b_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/16/low.png"
+      "myp": "tk1b_016"
     },
     {
       "id": "tk6a-17",
@@ -1046,8 +986,7 @@
       "rarityId": "1",
       "numeroLiga": "(17/10)",
       "codigoLiga": "energia psíquica (17/10)",
-      "myp": "tk1b_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/17/low.png"
+      "myp": "tk1b_017"
     },
     {
       "id": "tk6a-18",
@@ -1065,8 +1004,7 @@
       "rarityId": "1",
       "numeroLiga": "(18/10)",
       "codigoLiga": "pumpkaboo (18/10)",
-      "myp": "tk1b_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/18/low.png"
+      "myp": "tk1b_018"
     },
     {
       "id": "tk6a-19",
@@ -1080,8 +1018,7 @@
       "rarityId": "1",
       "numeroLiga": "(19/10)",
       "codigoLiga": "energia de escuridão (19/10)",
-      "myp": "tk1b_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/19/low.png"
+      "myp": "tk1b_019"
     },
     {
       "id": "tk6a-20",
@@ -1099,8 +1036,7 @@
       "rarityId": "1",
       "numeroLiga": "(20/10)",
       "codigoLiga": "furfrou (20/10)",
-      "myp": "tk1b_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/20/low.png"
+      "myp": "tk1b_020"
     },
     {
       "id": "tk6a-21",
@@ -1115,8 +1051,7 @@
       "rarityId": "2",
       "numeroLiga": "(21/10)",
       "codigoLiga": "poké ball (21/10)",
-      "myp": "tk1b_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/21/low.png"
+      "myp": "tk1b_021"
     },
     {
       "id": "tk6a-22",
@@ -1130,8 +1065,7 @@
       "rarityId": "1",
       "numeroLiga": "(22/10)",
       "codigoLiga": "energia de escuridão (22/10)",
-      "myp": "tk1b_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/22/low.png"
+      "myp": "tk1b_022"
     },
     {
       "id": "tk6a-23",
@@ -1149,8 +1083,7 @@
       "rarityId": "1",
       "numeroLiga": "(23/10)",
       "codigoLiga": "noibat (23/10)",
-      "myp": "tk1b_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/23/low.png"
+      "myp": "tk1b_023"
     },
     {
       "id": "tk6a-24",
@@ -1165,8 +1098,7 @@
       "rarityId": "2",
       "numeroLiga": "(24/10)",
       "codigoLiga": "carta do professor (24/10)",
-      "myp": "tk1b_024",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/24/low.png"
+      "myp": "tk1b_024"
     },
     {
       "id": "tk6a-25",
@@ -1180,8 +1112,7 @@
       "rarityId": "1",
       "numeroLiga": "(25/10)",
       "codigoLiga": "energia psíquica (25/10)",
-      "myp": "tk1b_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/25/low.png"
+      "myp": "tk1b_025"
     },
     {
       "id": "tk6a-26",
@@ -1195,8 +1126,7 @@
       "rarityId": "1",
       "numeroLiga": "(26/10)",
       "codigoLiga": "energia de escuridão (26/10)",
-      "myp": "tk1b_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/26/low.png"
+      "myp": "tk1b_026"
     },
     {
       "id": "tk6a-27",
@@ -1211,8 +1141,7 @@
       "rarityId": "1",
       "numeroLiga": "(27/10)",
       "codigoLiga": "poção (27/10)",
-      "myp": "tk1b_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/27/low.png"
+      "myp": "tk1b_027"
     },
     {
       "id": "tk6a-28",
@@ -1226,8 +1155,7 @@
       "rarityId": "1",
       "numeroLiga": "(28/10)",
       "codigoLiga": "energia de escuridão (28/10)",
-      "myp": "tk1b_028",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/28/low.png"
+      "myp": "tk1b_028"
     },
     {
       "id": "tk6a-29",
@@ -1242,8 +1170,7 @@
       "rarityId": "1",
       "numeroLiga": "(29/10)",
       "codigoLiga": "substituição (29/10)",
-      "myp": "tk1b_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/29/low.png"
+      "myp": "tk1b_029"
     },
     {
       "id": "tk6a-30",
@@ -1262,8 +1189,7 @@
       "artistId": "131",
       "numeroLiga": "(30/10)",
       "codigoLiga": "noivern (30/10)",
-      "myp": "tk1b_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-n/30/low.png"
+      "myp": "tk1b_030"
     },
     {
       "id": "tk6b-1",
@@ -1281,8 +1207,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "fletchling (1/30)",
-      "myp": "_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/1/low.png"
+      "myp": "_001"
     },
     {
       "id": "tk6b-2",
@@ -1296,8 +1221,7 @@
       "rarityId": "1",
       "numeroLiga": "(2/30)",
       "codigoLiga": "energia de fada (2/30)",
-      "myp": "_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/2/low.png"
+      "myp": "_002"
     },
     {
       "id": "tk6b-3",
@@ -1311,8 +1235,7 @@
       "rarityId": "1",
       "numeroLiga": "(3/30)",
       "codigoLiga": "energia de fada (3/30)",
-      "myp": "_003",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/3/low.png"
+      "myp": "_003"
     },
     {
       "id": "tk6b-4",
@@ -1327,8 +1250,7 @@
       "rarityId": "1",
       "numeroLiga": "(4/30)",
       "codigoLiga": "substituição (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk6b-5",
@@ -1342,8 +1264,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/30)",
       "codigoLiga": "energia de fada (5/30)",
-      "myp": "_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/5/low.png"
+      "myp": "_005"
     },
     {
       "id": "tk6b-6",
@@ -1357,8 +1278,7 @@
       "rarityId": "1",
       "numeroLiga": "(6/30)",
       "codigoLiga": "energia de fada (6/30)",
-      "myp": "_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/6/low.png"
+      "myp": "_006"
     },
     {
       "id": "tk6b-7",
@@ -1372,8 +1292,7 @@
       "rarityId": "1",
       "numeroLiga": "(7/30)",
       "codigoLiga": "energia de fada (7/30)",
-      "myp": "_007",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/7/low.png"
+      "myp": "_007"
     },
     {
       "id": "tk6b-8",
@@ -1387,8 +1306,7 @@
       "rarityId": "1",
       "numeroLiga": "(8/30)",
       "codigoLiga": "energia de fada (8/30)",
-      "myp": "_008",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/8/low.png"
+      "myp": "_008"
     },
     {
       "id": "tk6b-9",
@@ -1402,8 +1320,7 @@
       "rarityId": "1",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energia de fada (9/30)",
-      "myp": "_009",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/9/low.png"
+      "myp": "_009"
     },
     {
       "id": "tk6b-10",
@@ -1417,8 +1334,7 @@
       "rarityId": "1",
       "numeroLiga": "(10/30)",
       "codigoLiga": "energia de fada (10/30)",
-      "myp": "_010",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/10/low.png"
+      "myp": "_010"
     },
     {
       "id": "tk6b-11",
@@ -1436,8 +1352,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "snubbull (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk6b-12",
@@ -1451,8 +1366,7 @@
       "rarityId": "1",
       "numeroLiga": "(12/30)",
       "codigoLiga": "energia de fada (12/30)",
-      "myp": "_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/12/low.png"
+      "myp": "_012"
     },
     {
       "id": "tk6b-13",
@@ -1470,8 +1384,7 @@
       "rarityId": "1",
       "numeroLiga": "(13/30)",
       "codigoLiga": "eevee (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk6b-14",
@@ -1489,8 +1402,7 @@
       "rarityId": "1",
       "numeroLiga": "(14/30)",
       "codigoLiga": "granbull (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk6b-15",
@@ -1509,8 +1421,7 @@
       "artistId": "131",
       "numeroLiga": "(15/30)",
       "codigoLiga": "sylveon (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk6b-16",
@@ -1528,8 +1439,7 @@
       "rarityId": "1",
       "numeroLiga": "(16/30)",
       "codigoLiga": "furfrou (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk6b-17",
@@ -1543,8 +1453,7 @@
       "rarityId": "1",
       "numeroLiga": "(17/30)",
       "codigoLiga": "energia de fada (17/30)",
-      "myp": "_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/17/low.png"
+      "myp": "_017"
     },
     {
       "id": "tk6b-18",
@@ -1558,8 +1467,7 @@
       "rarityId": "1",
       "numeroLiga": "(18/30)",
       "codigoLiga": "energia de fada (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk6b-19",
@@ -1577,8 +1485,7 @@
       "rarityId": "1",
       "numeroLiga": "(19/30)",
       "codigoLiga": "fletchling (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk6b-20",
@@ -1593,8 +1500,7 @@
       "rarityId": "1",
       "numeroLiga": "(20/30)",
       "codigoLiga": "poção (20/30)",
-      "myp": "_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/20/low.png"
+      "myp": "_020"
     },
     {
       "id": "tk6b-21",
@@ -1612,8 +1518,7 @@
       "rarityId": "1",
       "numeroLiga": "(21/30)",
       "codigoLiga": "eevee (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk6b-22",
@@ -1631,8 +1536,7 @@
       "rarityId": "1",
       "numeroLiga": "(22/30)",
       "codigoLiga": "furfrou (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk6b-23",
@@ -1647,8 +1551,7 @@
       "rarityId": "2",
       "numeroLiga": "(23/30)",
       "codigoLiga": "pegador de pokémon (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk6b-24",
@@ -1663,8 +1566,7 @@
       "rarityId": "1",
       "numeroLiga": "(24/30)",
       "codigoLiga": "poção (24/30)",
-      "myp": "_024",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/24/low.png"
+      "myp": "_024"
     },
     {
       "id": "tk6b-25",
@@ -1678,8 +1580,7 @@
       "rarityId": "1",
       "numeroLiga": "(25/30)",
       "codigoLiga": "energia de fada (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk6b-26",
@@ -1694,8 +1595,7 @@
       "rarityId": "2",
       "numeroLiga": "(26/30)",
       "codigoLiga": "poké ball (26/30)",
-      "myp": "_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/26/low.png"
+      "myp": "_026"
     },
     {
       "id": "tk6b-27",
@@ -1713,8 +1613,7 @@
       "rarityId": "1",
       "numeroLiga": "(27/30)",
       "codigoLiga": "snubbull (27/30)",
-      "myp": "_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/27/low.png"
+      "myp": "_027"
     },
     {
       "id": "tk6b-28",
@@ -1729,8 +1628,7 @@
       "rarityId": "2",
       "numeroLiga": "(28/30)",
       "codigoLiga": "carta do professor (28/30)",
-      "myp": "_028",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/28/low.png"
+      "myp": "_028"
     },
     {
       "id": "tk6b-29",
@@ -1748,8 +1646,7 @@
       "rarityId": "1",
       "numeroLiga": "(29/30)",
       "codigoLiga": "granbull (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk6b-30",
@@ -1768,8 +1665,7 @@
       "artistId": "131",
       "numeroLiga": "(30/30)",
       "codigoLiga": "sylveon (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-sy/30/low.png"
+      "myp": "_030"
     },
     {
       "id": "tk-xy-b-1",
@@ -1787,8 +1683,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "fletchling (1/30)",
-      "myp": "_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/1/low.png"
+      "myp": "_001"
     },
     {
       "id": "tk-xy-b-2",
@@ -1802,8 +1697,7 @@
       "rarityId": "1",
       "numeroLiga": "(2/30)",
       "codigoLiga": "energia de metal (2/30)",
-      "myp": "_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/2/low.png"
+      "myp": "_002"
     },
     {
       "id": "tk-xy-b-3",
@@ -1817,8 +1711,7 @@
       "rarityId": "1",
       "numeroLiga": "(3/30)",
       "codigoLiga": "energia de metal (3/30)",
-      "myp": "_003",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/3/low.png"
+      "myp": "_003"
     },
     {
       "id": "tk-xy-b-4",
@@ -1836,8 +1729,7 @@
       "rarityId": "2",
       "numeroLiga": "(4/30)",
       "codigoLiga": "vigoroth (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk-xy-b-5",
@@ -1851,8 +1743,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/30)",
       "codigoLiga": "energia de metal (5/30)",
-      "myp": "_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/5/low.png"
+      "myp": "_005"
     },
     {
       "id": "tk-xy-b-6",
@@ -1866,8 +1757,7 @@
       "rarityId": "1",
       "numeroLiga": "(6/30)",
       "codigoLiga": "energia de metal (6/30)",
-      "myp": "_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/6/low.png"
+      "myp": "_006"
     },
     {
       "id": "tk-xy-b-7",
@@ -1881,8 +1771,7 @@
       "rarityId": "1",
       "numeroLiga": "(7/30)",
       "codigoLiga": "energia de metal (7/30)",
-      "myp": "_007",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/7/low.png"
+      "myp": "_007"
     },
     {
       "id": "tk-xy-b-8",
@@ -1896,8 +1785,7 @@
       "rarityId": "1",
       "numeroLiga": "(8/30)",
       "codigoLiga": "energia de metal (8/30)",
-      "myp": "_008",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/8/low.png"
+      "myp": "_008"
     },
     {
       "id": "tk-xy-b-9",
@@ -1911,8 +1799,7 @@
       "rarityId": "1",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energia de metal (9/30)",
-      "myp": "_009",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/9/low.png"
+      "myp": "_009"
     },
     {
       "id": "tk-xy-b-10",
@@ -1926,8 +1813,7 @@
       "rarityId": "1",
       "numeroLiga": "(10/30)",
       "codigoLiga": "energia de metal (10/30)",
-      "myp": "_010",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/10/low.png"
+      "myp": "_010"
     },
     {
       "id": "tk-xy-b-11",
@@ -1945,8 +1831,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "honedge (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk-xy-b-12",
@@ -1964,8 +1849,7 @@
       "rarityId": "1",
       "numeroLiga": "(12/30)",
       "codigoLiga": "bidoof (12/30)",
-      "myp": "_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/12/low.png"
+      "myp": "_012"
     },
     {
       "id": "tk-xy-b-13",
@@ -1983,8 +1867,7 @@
       "rarityId": "1",
       "numeroLiga": "(13/30)",
       "codigoLiga": "pawniard (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk-xy-b-14",
@@ -2002,8 +1885,7 @@
       "rarityId": "2",
       "numeroLiga": "(14/30)",
       "codigoLiga": "doublade (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk-xy-b-15",
@@ -2021,8 +1903,7 @@
       "rarityId": "1",
       "numeroLiga": "(15/30)",
       "codigoLiga": "slakoth (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk-xy-b-16",
@@ -2040,8 +1921,7 @@
       "rarityId": "3",
       "numeroLiga": "(16/30)",
       "codigoLiga": "bisharp (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk-xy-b-17",
@@ -2059,8 +1939,7 @@
       "rarityId": "1",
       "numeroLiga": "(17/30)",
       "codigoLiga": "patrat (17/30)",
-      "myp": "_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/17/low.png"
+      "myp": "_017"
     },
     {
       "id": "tk-xy-b-18",
@@ -2074,8 +1953,7 @@
       "rarityId": "1",
       "numeroLiga": "(18/30)",
       "codigoLiga": "energia de metal (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk-xy-b-19",
@@ -2090,8 +1968,7 @@
       "rarityId": "2",
       "numeroLiga": "(19/30)",
       "codigoLiga": "tierno (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk-xy-b-20",
@@ -2106,8 +1983,7 @@
       "rarityId": "2",
       "numeroLiga": "(20/30)",
       "codigoLiga": "trevor (20/30)",
-      "myp": "_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/20/low.png"
+      "myp": "_020"
     },
     {
       "id": "tk-xy-b-21",
@@ -2125,8 +2001,7 @@
       "rarityId": "1",
       "numeroLiga": "(21/30)",
       "codigoLiga": "pawniard (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk-xy-b-22",
@@ -2140,8 +2015,7 @@
       "rarityId": "1",
       "numeroLiga": "(22/30)",
       "codigoLiga": "energia de metal (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk-xy-b-23",
@@ -2159,8 +2033,7 @@
       "rarityId": "2",
       "numeroLiga": "(23/30)",
       "codigoLiga": "doublade (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk-xy-b-24",
@@ -2174,8 +2047,7 @@
       "rarityId": "1",
       "numeroLiga": "(24/30)",
       "codigoLiga": "energia de metal (24/30)",
-      "myp": "_024",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/24/low.png"
+      "myp": "_024"
     },
     {
       "id": "tk-xy-b-25",
@@ -2190,8 +2062,7 @@
       "rarityId": "1",
       "numeroLiga": "(25/30)",
       "codigoLiga": "poção (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk-xy-b-26",
@@ -2209,8 +2080,7 @@
       "rarityId": "1",
       "numeroLiga": "(26/30)",
       "codigoLiga": "slakoth (26/30)",
-      "myp": "_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/26/low.png"
+      "myp": "_026"
     },
     {
       "id": "tk-xy-b-27",
@@ -2228,8 +2098,7 @@
       "rarityId": "1",
       "numeroLiga": "(27/30)",
       "codigoLiga": "honedge (27/30)",
-      "myp": "_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/27/low.png"
+      "myp": "_027"
     },
     {
       "id": "tk-xy-b-28",
@@ -2247,8 +2116,7 @@
       "rarityId": "2",
       "numeroLiga": "(28/30)",
       "codigoLiga": "vigoroth (28/30)",
-      "myp": "_028",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/28/low.png"
+      "myp": "_028"
     },
     {
       "id": "tk-xy-b-29",
@@ -2263,8 +2131,7 @@
       "rarityId": "1",
       "numeroLiga": "(29/30)",
       "codigoLiga": "poção (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk-xy-b-30",
@@ -2282,8 +2149,7 @@
       "rarityId": "3",
       "numeroLiga": "(30/30)",
       "codigoLiga": "bisharp (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-b/30/low.png"
+      "myp": "_030"
     },
     {
       "id": "tk-xy-w-1",
@@ -2301,8 +2167,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "swirlix (1/30)",
-      "myp": "_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/1/low.png"
+      "myp": "_001"
     },
     {
       "id": "tk-xy-w-2",
@@ -2320,8 +2185,7 @@
       "rarityId": "2",
       "numeroLiga": "(2/30)",
       "codigoLiga": "pidgeotto (2/30)",
-      "myp": "_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/2/low.png"
+      "myp": "_002"
     },
     {
       "id": "tk-xy-w-3",
@@ -2335,8 +2199,7 @@
       "rarityId": "1",
       "numeroLiga": "(3/30)",
       "codigoLiga": "energia de fada (3/30)",
-      "myp": "_003",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/3/low.png"
+      "myp": "_003"
     },
     {
       "id": "tk-xy-w-4",
@@ -2354,8 +2217,7 @@
       "rarityId": "1",
       "numeroLiga": "(4/30)",
       "codigoLiga": "sentret (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk-xy-w-5",
@@ -2369,8 +2231,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/30)",
       "codigoLiga": "energia de fada (5/30)",
-      "myp": "_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/5/low.png"
+      "myp": "_005"
     },
     {
       "id": "tk-xy-w-6",
@@ -2384,8 +2245,7 @@
       "rarityId": "1",
       "numeroLiga": "(6/30)",
       "codigoLiga": "energia de fada (6/30)",
-      "myp": "_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/6/low.png"
+      "myp": "_006"
     },
     {
       "id": "tk-xy-w-7",
@@ -2399,8 +2259,7 @@
       "rarityId": "1",
       "numeroLiga": "(7/30)",
       "codigoLiga": "energia de fada (7/30)",
-      "myp": "_007",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/7/low.png"
+      "myp": "_007"
     },
     {
       "id": "tk-xy-w-8",
@@ -2414,8 +2273,7 @@
       "rarityId": "1",
       "numeroLiga": "(8/30)",
       "codigoLiga": "energia de fada (8/30)",
-      "myp": "_008",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/8/low.png"
+      "myp": "_008"
     },
     {
       "id": "tk-xy-w-9",
@@ -2429,8 +2287,7 @@
       "rarityId": "1",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energia de fada (9/30)",
-      "myp": "_009",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/9/low.png"
+      "myp": "_009"
     },
     {
       "id": "tk-xy-w-10",
@@ -2444,8 +2301,7 @@
       "rarityId": "1",
       "numeroLiga": "(10/30)",
       "codigoLiga": "energia de fada (10/30)",
-      "myp": "_010",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/10/low.png"
+      "myp": "_010"
     },
     {
       "id": "tk-xy-w-11",
@@ -2463,8 +2319,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "pidgey (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk-xy-w-12",
@@ -2482,8 +2337,7 @@
       "rarityId": "1",
       "numeroLiga": "(12/30)",
       "codigoLiga": "jigglypuff (12/30)",
-      "myp": "_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/12/low.png"
+      "myp": "_012"
     },
     {
       "id": "tk-xy-w-13",
@@ -2501,8 +2355,7 @@
       "rarityId": "1",
       "numeroLiga": "(13/30)",
       "codigoLiga": "clefairy (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk-xy-w-14",
@@ -2520,8 +2373,7 @@
       "rarityId": "3",
       "numeroLiga": "(14/30)",
       "codigoLiga": "wigglytuff (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk-xy-w-15",
@@ -2536,8 +2388,7 @@
       "rarityId": "1",
       "numeroLiga": "(15/30)",
       "codigoLiga": "poção (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk-xy-w-16",
@@ -2555,8 +2406,7 @@
       "rarityId": "2",
       "numeroLiga": "(16/30)",
       "codigoLiga": "clefable (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk-xy-w-17",
@@ -2570,8 +2420,7 @@
       "rarityId": "1",
       "numeroLiga": "(17/30)",
       "codigoLiga": "energia de fada (17/30)",
-      "myp": "_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/17/low.png"
+      "myp": "_017"
     },
     {
       "id": "tk-xy-w-18",
@@ -2589,8 +2438,7 @@
       "rarityId": "1",
       "numeroLiga": "(18/30)",
       "codigoLiga": "swirlix (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk-xy-w-19",
@@ -2608,8 +2456,7 @@
       "rarityId": "1",
       "numeroLiga": "(19/30)",
       "codigoLiga": "clefairy (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk-xy-w-20",
@@ -2624,8 +2471,7 @@
       "rarityId": "1",
       "numeroLiga": "(20/30)",
       "codigoLiga": "poção (20/30)",
-      "myp": "_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/20/low.png"
+      "myp": "_020"
     },
     {
       "id": "tk-xy-w-21",
@@ -2639,8 +2485,7 @@
       "rarityId": "1",
       "numeroLiga": "(21/30)",
       "codigoLiga": "energia de fada (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk-xy-w-22",
@@ -2654,8 +2499,7 @@
       "rarityId": "1",
       "numeroLiga": "(22/30)",
       "codigoLiga": "energia de fada (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk-xy-w-23",
@@ -2673,8 +2517,7 @@
       "rarityId": "2",
       "numeroLiga": "(23/30)",
       "codigoLiga": "pidgeotto (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk-xy-w-24",
@@ -2689,8 +2532,7 @@
       "rarityId": "2",
       "numeroLiga": "(24/30)",
       "codigoLiga": "trevor (24/30)",
-      "myp": "_024",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/24/low.png"
+      "myp": "_024"
     },
     {
       "id": "tk-xy-w-25",
@@ -2708,8 +2550,7 @@
       "rarityId": "1",
       "numeroLiga": "(25/30)",
       "codigoLiga": "jigglypuff (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk-xy-w-26",
@@ -2724,8 +2565,7 @@
       "rarityId": "2",
       "numeroLiga": "(26/30)",
       "codigoLiga": "tierno (26/30)",
-      "myp": "_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/26/low.png"
+      "myp": "_026"
     },
     {
       "id": "tk-xy-w-27",
@@ -2739,8 +2579,7 @@
       "rarityId": "1",
       "numeroLiga": "(27/30)",
       "codigoLiga": "energia de fada (27/30)",
-      "myp": "_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/27/low.png"
+      "myp": "_027"
     },
     {
       "id": "tk-xy-w-28",
@@ -2758,8 +2597,7 @@
       "rarityId": "2",
       "numeroLiga": "(28/30)",
       "codigoLiga": "clefable (28/30)",
-      "myp": "_028",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/28/low.png"
+      "myp": "_028"
     },
     {
       "id": "tk-xy-w-29",
@@ -2777,8 +2615,7 @@
       "rarityId": "1",
       "numeroLiga": "(29/30)",
       "codigoLiga": "pidgey (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk-xy-w-30",
@@ -2796,8 +2633,7 @@
       "rarityId": "3",
       "numeroLiga": "(30/30)",
       "codigoLiga": "wigglytuff (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-w/30/low.png"
+      "myp": "_030"
     },
     {
       "id": "tk8a-1",
@@ -2815,8 +2651,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "skitty (1/30)",
-      "myp": "_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/1/low.png"
+      "myp": "_001"
     },
     {
       "id": "tk8b-1",
@@ -2830,8 +2665,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "energia de planta (1/30)",
-      "myp": "_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/1/low.png"
+      "myp": "_001"
     },
     {
       "id": "tk8a-2",
@@ -2845,8 +2679,7 @@
       "rarityId": "1",
       "numeroLiga": "(2/30)",
       "codigoLiga": "energia de luta (2/30)",
-      "myp": "_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/2/low.png"
+      "myp": "_002"
     },
     {
       "id": "tk8b-2",
@@ -2860,8 +2693,7 @@
       "rarityId": "1",
       "numeroLiga": "(2/30)",
       "codigoLiga": "energia de planta (2/30)",
-      "myp": "_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/2/low.png"
+      "myp": "_002"
     },
     {
       "id": "tk8a-3",
@@ -2875,8 +2707,7 @@
       "rarityId": "1",
       "numeroLiga": "(3/30)",
       "codigoLiga": "energia de luta (3/30)",
-      "myp": "_003",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/3/low.png"
+      "myp": "_003"
     },
     {
       "id": "tk8b-3",
@@ -2890,8 +2721,7 @@
       "rarityId": "1",
       "numeroLiga": "(3/30)",
       "codigoLiga": "energia de planta (3/30)",
-      "myp": "_003",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/3/low.png"
+      "myp": "_003"
     },
     {
       "id": "tk8a-4",
@@ -2909,8 +2739,7 @@
       "rarityId": "2",
       "numeroLiga": "(4/30)",
       "codigoLiga": "rhydon (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk8b-4",
@@ -2929,8 +2758,7 @@
       "artistId": "45",
       "numeroLiga": "(4/30)",
       "codigoLiga": "fletchling (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk8a-5",
@@ -2944,8 +2772,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/30)",
       "codigoLiga": "energia de luta (5/30)",
-      "myp": "_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/5/low.png"
+      "myp": "_005"
     },
     {
       "id": "tk8b-5",
@@ -2959,8 +2786,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/30)",
       "codigoLiga": "energia de planta (5/30)",
-      "myp": "_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/5/low.png"
+      "myp": "_005"
     },
     {
       "id": "tk8a-6",
@@ -2974,8 +2800,7 @@
       "rarityId": "1",
       "numeroLiga": "(6/30)",
       "codigoLiga": "energia de luta (6/30)",
-      "myp": "_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/6/low.png"
+      "myp": "_006"
     },
     {
       "id": "tk8b-6",
@@ -2993,8 +2818,7 @@
       "rarityId": "2",
       "numeroLiga": "(6/30)",
       "codigoLiga": "lombre (6/30)",
-      "myp": "_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/6/low.png"
+      "myp": "_006"
     },
     {
       "id": "tk8a-7",
@@ -3008,8 +2832,7 @@
       "rarityId": "1",
       "numeroLiga": "(7/30)",
       "codigoLiga": "energia de luta (7/30)",
-      "myp": "_007",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/7/low.png"
+      "myp": "_007"
     },
     {
       "id": "tk8b-7",
@@ -3027,8 +2850,7 @@
       "rarityId": "1",
       "numeroLiga": "(7/30)",
       "codigoLiga": "treecko (7/30)",
-      "myp": "_007",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/7/low.png"
+      "myp": "_007"
     },
     {
       "id": "tk8a-8",
@@ -3042,8 +2864,7 @@
       "rarityId": "1",
       "numeroLiga": "(8/30)",
       "codigoLiga": "energia de luta (8/30)",
-      "myp": "_008",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/8/low.png"
+      "myp": "_008"
     },
     {
       "id": "tk8b-8",
@@ -3057,8 +2878,7 @@
       "rarityId": "1",
       "numeroLiga": "(8/30)",
       "codigoLiga": "energia psíquica (8/30)",
-      "myp": "_008",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/8/low.png"
+      "myp": "_008"
     },
     {
       "id": "tk8a-9",
@@ -3072,8 +2892,7 @@
       "rarityId": "1",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energia de luta (9/30)",
-      "myp": "_009",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/9/low.png"
+      "myp": "_009"
     },
     {
       "id": "tk8b-9",
@@ -3087,8 +2906,7 @@
       "rarityId": "1",
       "numeroLiga": "(9/30)",
       "codigoLiga": "energia psíquica (9/30)",
-      "myp": "_009",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/9/low.png"
+      "myp": "_009"
     },
     {
       "id": "tk8a-10",
@@ -3102,8 +2920,7 @@
       "rarityId": "1",
       "numeroLiga": "(10/30)",
       "codigoLiga": "energia de luta (10/30)",
-      "myp": "_010",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/10/low.png"
+      "myp": "_010"
     },
     {
       "id": "tk8b-10",
@@ -3117,8 +2934,7 @@
       "rarityId": "1",
       "numeroLiga": "(10/30)",
       "codigoLiga": "energia psíquica (10/30)",
-      "myp": "_010",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/10/low.png"
+      "myp": "_010"
     },
     {
       "id": "tk8a-11",
@@ -3136,8 +2952,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "machop (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk8b-11",
@@ -3155,8 +2970,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "lotad (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk8a-12",
@@ -3174,8 +2988,7 @@
       "rarityId": "1",
       "numeroLiga": "(12/30)",
       "codigoLiga": "solrock (12/30)",
-      "myp": "_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/12/low.png"
+      "myp": "_012"
     },
     {
       "id": "tk8b-12",
@@ -3193,8 +3006,7 @@
       "rarityId": "3",
       "numeroLiga": "(12/30)",
       "codigoLiga": "tangrowth (12/30)",
-      "myp": "_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/12/low.png"
+      "myp": "_012"
     },
     {
       "id": "tk8a-13",
@@ -3213,8 +3025,7 @@
       "artistId": "71",
       "numeroLiga": "(13/30)",
       "codigoLiga": "latios (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk8b-13",
@@ -3232,8 +3043,7 @@
       "rarityId": "1",
       "numeroLiga": "(13/30)",
       "codigoLiga": "tangela (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk8a-14",
@@ -3251,8 +3061,7 @@
       "rarityId": "2",
       "numeroLiga": "(14/30)",
       "codigoLiga": "machoke (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk8b-14",
@@ -3271,8 +3080,7 @@
       "artistId": "71",
       "numeroLiga": "(14/30)",
       "codigoLiga": "latias (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk8a-15",
@@ -3290,8 +3098,7 @@
       "rarityId": "1",
       "numeroLiga": "(15/30)",
       "codigoLiga": "rhyhorn (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk8b-15",
@@ -3306,8 +3113,7 @@
       "rarityId": "1",
       "numeroLiga": "(15/30)",
       "codigoLiga": "poção (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk8a-16",
@@ -3321,8 +3127,7 @@
       "rarityId": "1",
       "numeroLiga": "(16/30)",
       "codigoLiga": "energia psíquica (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk8b-16",
@@ -3340,8 +3145,7 @@
       "rarityId": "1",
       "numeroLiga": "(16/30)",
       "codigoLiga": "surskit (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk8a-17",
@@ -3355,8 +3159,7 @@
       "rarityId": "1",
       "numeroLiga": "(17/30)",
       "codigoLiga": "energia de luta (17/30)",
-      "myp": "_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/17/low.png"
+      "myp": "_017"
     },
     {
       "id": "tk8b-17",
@@ -3370,8 +3173,7 @@
       "rarityId": "1",
       "numeroLiga": "(17/30)",
       "codigoLiga": "energia psíquica (17/30)",
-      "myp": "_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/17/low.png"
+      "myp": "_017"
     },
     {
       "id": "tk8a-18",
@@ -3385,8 +3187,7 @@
       "rarityId": "1",
       "numeroLiga": "(18/30)",
       "codigoLiga": "energia psíquica (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk8b-18",
@@ -3404,8 +3205,7 @@
       "rarityId": "2",
       "numeroLiga": "(18/30)",
       "codigoLiga": "grovyle (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk8a-19",
@@ -3423,8 +3223,7 @@
       "rarityId": "3",
       "numeroLiga": "(19/30)",
       "codigoLiga": "delcatty (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk8b-19",
@@ -3438,8 +3237,7 @@
       "rarityId": "1",
       "numeroLiga": "(19/30)",
       "codigoLiga": "energia de planta (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk8a-20",
@@ -3454,8 +3252,7 @@
       "rarityId": "2",
       "numeroLiga": "(20/30)",
       "codigoLiga": "bicicleta acro (20/30)",
-      "myp": "_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/20/low.png"
+      "myp": "_020"
     },
     {
       "id": "tk8b-20",
@@ -3470,8 +3267,7 @@
       "rarityId": "2",
       "numeroLiga": "(20/30)",
       "codigoLiga": "bicicleta acro (20/30)",
-      "myp": "_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/20/low.png"
+      "myp": "_020"
     },
     {
       "id": "tk8a-21",
@@ -3486,8 +3282,7 @@
       "rarityId": "1",
       "numeroLiga": "(21/30)",
       "codigoLiga": "poção (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk8b-21",
@@ -3505,8 +3300,7 @@
       "rarityId": "2",
       "numeroLiga": "(21/30)",
       "codigoLiga": "lombre (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk8a-22",
@@ -3524,8 +3318,7 @@
       "rarityId": "2",
       "numeroLiga": "(22/30)",
       "codigoLiga": "machoke (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk8b-22",
@@ -3539,8 +3332,7 @@
       "rarityId": "1",
       "numeroLiga": "(22/30)",
       "codigoLiga": "energia psíquica (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk8a-23",
@@ -3558,8 +3350,7 @@
       "rarityId": "1",
       "numeroLiga": "(23/30)",
       "codigoLiga": "rhyhorn (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk8b-23",
@@ -3577,8 +3368,7 @@
       "rarityId": "1",
       "numeroLiga": "(23/30)",
       "codigoLiga": "lotad (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk8a-24",
@@ -3596,8 +3386,7 @@
       "rarityId": "3",
       "numeroLiga": "(24/30)",
       "codigoLiga": "delcatty (24/30)",
-      "myp": "_024",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/24/low.png"
+      "myp": "_024"
     },
     {
       "id": "tk8b-24",
@@ -3615,8 +3404,7 @@
       "rarityId": "1",
       "numeroLiga": "(24/30)",
       "codigoLiga": "treecko (24/30)",
-      "myp": "_024",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/24/low.png"
+      "myp": "_024"
     },
     {
       "id": "tk8a-25",
@@ -3634,8 +3422,7 @@
       "rarityId": "2",
       "numeroLiga": "(25/30)",
       "codigoLiga": "rhydon (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk8b-25",
@@ -3653,8 +3440,7 @@
       "rarityId": "3",
       "numeroLiga": "(25/30)",
       "codigoLiga": "tangrowth (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk8a-26",
@@ -3672,8 +3458,7 @@
       "rarityId": "1",
       "numeroLiga": "(26/30)",
       "codigoLiga": "solrock (26/30)",
-      "myp": "_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/26/low.png"
+      "myp": "_026"
     },
     {
       "id": "tk8b-26",
@@ -3691,8 +3476,7 @@
       "rarityId": "1",
       "numeroLiga": "(26/30)",
       "codigoLiga": "tangela (26/30)",
-      "myp": "_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/26/low.png"
+      "myp": "_026"
     },
     {
       "id": "tk8a-27",
@@ -3710,8 +3494,7 @@
       "rarityId": "1",
       "numeroLiga": "(27/30)",
       "codigoLiga": "skitty (27/30)",
-      "myp": "_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/27/low.png"
+      "myp": "_027"
     },
     {
       "id": "tk8b-27",
@@ -3729,8 +3512,7 @@
       "rarityId": "2",
       "numeroLiga": "(27/30)",
       "codigoLiga": "grovyle (27/30)",
-      "myp": "_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/27/low.png"
+      "myp": "_027"
     },
     {
       "id": "tk8a-28",
@@ -3748,8 +3530,7 @@
       "rarityId": "1",
       "numeroLiga": "(28/30)",
       "codigoLiga": "machop (28/30)",
-      "myp": "_028",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/28/low.png"
+      "myp": "_028"
     },
     {
       "id": "tk8b-28",
@@ -3763,8 +3544,7 @@
       "rarityId": "1",
       "numeroLiga": "(28/30)",
       "codigoLiga": "energia psíquica (28/30)",
-      "myp": "_028",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/28/low.png"
+      "myp": "_028"
     },
     {
       "id": "tk8a-29",
@@ -3778,8 +3558,7 @@
       "rarityId": "1",
       "numeroLiga": "(29/30)",
       "codigoLiga": "energia psíquica (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk8b-29",
@@ -3794,8 +3573,7 @@
       "rarityId": "2",
       "numeroLiga": "(29/30)",
       "codigoLiga": "bicicleta acro (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk8a-30",
@@ -3814,8 +3592,7 @@
       "artistId": "71",
       "numeroLiga": "(30/30)",
       "codigoLiga": "latios (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latio/30/low.png"
+      "myp": "_030"
     },
     {
       "id": "tk8b-30",
@@ -3834,8 +3611,7 @@
       "artistId": "71",
       "numeroLiga": "(30/30)",
       "codigoLiga": "latias (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-xy-latia/30/low.png"
+      "myp": "_030"
     },
     {
       "id": "tk10a-1",
@@ -3853,8 +3629,7 @@
       "rarityId": "1",
       "numeroLiga": "(1/30)",
       "codigoLiga": "caterpie (1/30)",
-      "myp": "_001",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/1/low.png"
+      "myp": "_001"
     },
     {
       "id": "tk10a-4",
@@ -3872,8 +3647,7 @@
       "rarityId": "2",
       "numeroLiga": "(4/30)",
       "codigoLiga": "trumbeak (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk10a-5",
@@ -3887,8 +3661,7 @@
       "rarityId": "1",
       "numeroLiga": "(5/30)",
       "codigoLiga": "energia de luta (5/30)",
-      "myp": "_005",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/5/low.png"
+      "myp": "_005"
     },
     {
       "id": "tk10a-11",
@@ -3906,8 +3679,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "fletchling (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk10a-12",
@@ -3925,8 +3697,7 @@
       "rarityId": "1",
       "numeroLiga": "(12/30)",
       "codigoLiga": "yungoos (12/30)",
-      "myp": "_012",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/12/low.png"
+      "myp": "_012"
     },
     {
       "id": "tk10a-13",
@@ -3944,8 +3715,7 @@
       "rarityId": "2",
       "numeroLiga": "(13/30)",
       "codigoLiga": "fletchinder (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk10a-14",
@@ -3963,8 +3733,7 @@
       "rarityId": "1",
       "numeroLiga": "(14/30)",
       "codigoLiga": "rockruff (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk10a-15",
@@ -3982,8 +3751,7 @@
       "rarityId": "1",
       "numeroLiga": "(15/30)",
       "codigoLiga": "pikipek (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk10a-16",
@@ -4002,8 +3770,7 @@
       "artistId": "131",
       "numeroLiga": "(16/30)",
       "codigoLiga": "lycanroc (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk10a-18",
@@ -4021,8 +3788,7 @@
       "rarityId": "1",
       "numeroLiga": "(18/30)",
       "codigoLiga": "makuhita (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk10a-19",
@@ -4037,8 +3803,7 @@
       "rarityId": "2",
       "numeroLiga": "(19/30)",
       "codigoLiga": "hibi (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk10a-21",
@@ -4053,8 +3818,7 @@
       "rarityId": "2",
       "numeroLiga": "(21/30)",
       "codigoLiga": "grande bola (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk10a-22",
@@ -4072,8 +3836,7 @@
       "rarityId": "3",
       "numeroLiga": "(22/30)",
       "codigoLiga": "toucannon (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk10a-23",
@@ -4088,8 +3851,7 @@
       "rarityId": "2",
       "numeroLiga": "(23/30)",
       "codigoLiga": "hibi (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk10a-25",
@@ -4104,8 +3866,7 @@
       "rarityId": "2",
       "numeroLiga": "(25/30)",
       "codigoLiga": "grande bola (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk10a-27",
@@ -4120,8 +3881,7 @@
       "rarityId": "2",
       "numeroLiga": "(27/30)",
       "codigoLiga": "sonho recheado grande (27/30)",
-      "myp": "_027",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/27/low.png"
+      "myp": "_027"
     },
     {
       "id": "tk10a-29",
@@ -4139,8 +3899,7 @@
       "rarityId": "1",
       "numeroLiga": "(29/30)",
       "codigoLiga": "rockruff (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk10a-30",
@@ -4159,8 +3918,7 @@
       "artistId": "131",
       "numeroLiga": "(30/30)",
       "codigoLiga": "lycanroc (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-l/30/low.png"
+      "myp": "_030"
     },
     {
       "id": "tk10b-2",
@@ -4174,8 +3932,7 @@
       "rarityId": "1",
       "numeroLiga": "(2/30)",
       "codigoLiga": "energia de raios (2/30)",
-      "myp": "_002",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/2/low.png"
+      "myp": "_002"
     },
     {
       "id": "tk10b-4",
@@ -4193,8 +3950,7 @@
       "rarityId": "1",
       "numeroLiga": "(4/30)",
       "codigoLiga": "stufful (4/30)",
-      "myp": "_004",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/4/low.png"
+      "myp": "_004"
     },
     {
       "id": "tk10b-6",
@@ -4212,8 +3968,7 @@
       "rarityId": "2",
       "numeroLiga": "(6/30)",
       "codigoLiga": "golbat (6/30)",
-      "myp": "_006",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/6/low.png"
+      "myp": "_006"
     },
     {
       "id": "tk10b-11",
@@ -4231,8 +3986,7 @@
       "rarityId": "1",
       "numeroLiga": "(11/30)",
       "codigoLiga": "zubat (11/30)",
-      "myp": "_011",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/11/low.png"
+      "myp": "_011"
     },
     {
       "id": "tk10b-13",
@@ -4250,8 +4004,7 @@
       "rarityId": "1",
       "numeroLiga": "(13/30)",
       "codigoLiga": "spearow (13/30)",
-      "myp": "_013",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/13/low.png"
+      "myp": "_013"
     },
     {
       "id": "tk10b-14",
@@ -4270,8 +4023,7 @@
       "artistId": "161",
       "numeroLiga": "(14/30)",
       "codigoLiga": "pikachu (14/30)",
-      "myp": "_014",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/14/low.png"
+      "myp": "_014"
     },
     {
       "id": "tk10b-15",
@@ -4286,8 +4038,7 @@
       "rarityId": "2",
       "numeroLiga": "(15/30)",
       "codigoLiga": "poção (15/30)",
-      "myp": "_015",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/15/low.png"
+      "myp": "_015"
     },
     {
       "id": "tk10b-16",
@@ -4305,8 +4056,7 @@
       "rarityId": "1",
       "numeroLiga": "(16/30)",
       "codigoLiga": "grubbin (16/30)",
-      "myp": "_016",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/16/low.png"
+      "myp": "_016"
     },
     {
       "id": "tk10b-17",
@@ -4325,8 +4075,7 @@
       "artistId": "131",
       "numeroLiga": "(17/30)",
       "codigoLiga": "raichu de alola (17/30)",
-      "myp": "_017",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/17/low.png"
+      "myp": "_017"
     },
     {
       "id": "tk10b-18",
@@ -4344,8 +4093,7 @@
       "rarityId": "3",
       "numeroLiga": "(18/30)",
       "codigoLiga": "bewear (18/30)",
-      "myp": "_018",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/18/low.png"
+      "myp": "_018"
     },
     {
       "id": "tk10b-19",
@@ -4360,8 +4108,7 @@
       "rarityId": "2",
       "numeroLiga": "(19/30)",
       "codigoLiga": "hibi (19/30)",
-      "myp": "_019",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/19/low.png"
+      "myp": "_019"
     },
     {
       "id": "tk10b-20",
@@ -4375,8 +4122,7 @@
       "rarityId": "1",
       "numeroLiga": "(20/30)",
       "codigoLiga": "energia psíquica (20/30)",
-      "myp": "_020",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/20/low.png"
+      "myp": "_020"
     },
     {
       "id": "tk10b-21",
@@ -4391,8 +4137,7 @@
       "rarityId": "2",
       "numeroLiga": "(21/30)",
       "codigoLiga": "grande bola (21/30)",
-      "myp": "_021",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/21/low.png"
+      "myp": "_021"
     },
     {
       "id": "tk10b-22",
@@ -4410,8 +4155,7 @@
       "rarityId": "1",
       "numeroLiga": "(22/30)",
       "codigoLiga": "drowzee (22/30)",
-      "myp": "_022",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/22/low.png"
+      "myp": "_022"
     },
     {
       "id": "tk10b-23",
@@ -4426,8 +4170,7 @@
       "rarityId": "2",
       "numeroLiga": "(23/30)",
       "codigoLiga": "hibi (23/30)",
-      "myp": "_023",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/23/low.png"
+      "myp": "_023"
     },
     {
       "id": "tk10b-25",
@@ -4442,8 +4185,7 @@
       "rarityId": "2",
       "numeroLiga": "(25/30)",
       "codigoLiga": "grande bola (25/30)",
-      "myp": "_025",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/25/low.png"
+      "myp": "_025"
     },
     {
       "id": "tk10b-26",
@@ -4461,8 +4203,7 @@
       "rarityId": "1",
       "numeroLiga": "(26/30)",
       "codigoLiga": "togedemaru (26/30)",
-      "myp": "_026",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/26/low.png"
+      "myp": "_026"
     },
     {
       "id": "tk10b-29",
@@ -4481,8 +4222,7 @@
       "artistId": "161",
       "numeroLiga": "(29/30)",
       "codigoLiga": "pikachu (29/30)",
-      "myp": "_029",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/29/low.png"
+      "myp": "_029"
     },
     {
       "id": "tk10b-30",
@@ -4501,8 +4241,7 @@
       "artistId": "131",
       "numeroLiga": "(30/30)",
       "codigoLiga": "raichu de alola (30/30)",
-      "myp": "_030",
-      "image": "https://assets.tcgdex.net/pt/tk/tk-sm-r/30/low.png"
+      "myp": "_030"
     }
   ]
 }
