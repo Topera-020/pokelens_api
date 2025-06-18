@@ -15,8 +15,7 @@
       "artistId": "39",
       "numeroLiga": "(1/18)",
       "codigoLiga": "mew (1/18)",
-      "myp": "si_001",
-      "image": "https://images.pokemontcg.io/si1/1.png"
+      "myp": "si_001"
     },
     {
       "id": "si1-2",
@@ -33,8 +32,7 @@
       "artistId": "39",
       "numeroLiga": "(2/18)",
       "codigoLiga": "pidgeot (2/18)",
-      "myp": "si_002",
-      "image": "https://images.pokemontcg.io/si1/2.png"
+      "myp": "si_002"
     },
     {
       "id": "si1-3",
@@ -51,8 +49,7 @@
       "artistId": "39",
       "numeroLiga": "(3/18)",
       "codigoLiga": "onix (3/18)",
-      "myp": "si_003",
-      "image": "https://images.pokemontcg.io/si1/3.png"
+      "myp": "si_003"
     },
     {
       "id": "si1-4",
@@ -69,8 +66,7 @@
       "artistId": "39",
       "numeroLiga": "(4/18)",
       "codigoLiga": "togepi (4/18)",
-      "myp": "si_004",
-      "image": "https://images.pokemontcg.io/si1/4.png"
+      "myp": "si_004"
     },
     {
       "id": "si1-5",
@@ -87,8 +83,7 @@
       "artistId": "39",
       "numeroLiga": "(5/18)",
       "codigoLiga": "ivysaur (5/18)",
-      "myp": "si_005",
-      "image": "https://images.pokemontcg.io/si1/5.png"
+      "myp": "si_005"
     },
     {
       "id": "si1-6",
@@ -105,8 +100,7 @@
       "artistId": "39",
       "numeroLiga": "(6/18)",
       "codigoLiga": "raticate (6/18)",
-      "myp": "si_006",
-      "image": "https://images.pokemontcg.io/si1/6.png"
+      "myp": "si_006"
     },
     {
       "id": "si1-7",
@@ -123,8 +117,7 @@
       "artistId": "39",
       "numeroLiga": "(7/18)",
       "codigoLiga": "ledyba (7/18)",
-      "myp": "si_007",
-      "image": "https://images.pokemontcg.io/si1/7.png"
+      "myp": "si_007"
     },
     {
       "id": "si1-8",
@@ -141,8 +134,7 @@
       "artistId": "39",
       "numeroLiga": "(8/18)",
       "codigoLiga": "jigglypuff (8/18)",
-      "myp": "si_008",
-      "image": "https://images.pokemontcg.io/si1/8.png"
+      "myp": "si_008"
     },
     {
       "id": "si1-9",
@@ -159,8 +151,7 @@
       "artistId": "39",
       "numeroLiga": "(9/18)",
       "codigoLiga": "butterfree (9/18)",
-      "myp": "si_009",
-      "image": "https://images.pokemontcg.io/si1/9.png"
+      "myp": "si_009"
     },
     {
       "id": "si1-10",
@@ -177,8 +168,7 @@
       "artistId": "25",
       "numeroLiga": "(10/18)",
       "codigoLiga": "tentacruel (10/18)",
-      "myp": "si_010",
-      "image": "https://images.pokemontcg.io/si1/10.png"
+      "myp": "si_010"
     },
     {
       "id": "si1-11",
@@ -195,8 +185,7 @@
       "artistId": "25",
       "numeroLiga": "(11/18)",
       "codigoLiga": "marill (11/18)",
-      "myp": "si_011",
-      "image": "https://images.pokemontcg.io/si1/11.png"
+      "myp": "si_011"
     },
     {
       "id": "si1-12",
@@ -213,8 +202,7 @@
       "artistId": "25",
       "numeroLiga": "(12/18)",
       "codigoLiga": "lapras (12/18)",
-      "myp": "si_012",
-      "image": "https://images.pokemontcg.io/si1/12.png"
+      "myp": "si_012"
     },
     {
       "id": "si1-13",
@@ -231,8 +219,7 @@
       "artistId": "25",
       "numeroLiga": "(13/18)",
       "codigoLiga": "exeggutor (13/18)",
-      "myp": "si_013",
-      "image": "https://images.pokemontcg.io/si1/13.png"
+      "myp": "si_013"
     },
     {
       "id": "si1-14",
@@ -249,8 +236,7 @@
       "artistId": "25",
       "numeroLiga": "(14/18)",
       "codigoLiga": "slowking (14/18)",
-      "myp": "si_014",
-      "image": "https://images.pokemontcg.io/si1/14.png"
+      "myp": "si_014"
     },
     {
       "id": "si1-15",
@@ -267,8 +253,7 @@
       "artistId": "25",
       "numeroLiga": "(15/18)",
       "codigoLiga": "wartortle (15/18)",
-      "myp": "si_015",
-      "image": "https://images.pokemontcg.io/si1/15.png"
+      "myp": "si_015"
     },
     {
       "id": "si1-16",
@@ -285,8 +270,7 @@
       "artistId": "25",
       "numeroLiga": "(16/18)",
       "codigoLiga": "lickitung (16/18)",
-      "myp": "si_016",
-      "image": "https://images.pokemontcg.io/si1/16.png"
+      "myp": "si_016"
     },
     {
       "id": "si1-17",
@@ -303,8 +287,7 @@
       "artistId": "25",
       "numeroLiga": "(17/18)",
       "codigoLiga": "vileplume (17/18)",
-      "myp": "si_017",
-      "image": "https://images.pokemontcg.io/si1/17.png"
+      "myp": "si_017"
     },
     {
       "id": "si1-18",
@@ -321,8 +304,7 @@
       "artistId": "25",
       "numeroLiga": "(18/18)",
       "codigoLiga": "primeape (18/18)",
-      "myp": "si_018",
-      "image": "https://images.pokemontcg.io/si1/18.png"
+      "myp": "si_018"
     },
     {
       "id": "base6-1",
@@ -340,8 +322,7 @@
       "artistId": "1",
       "numeroLiga": "(1/110)",
       "codigoLiga": "alakazam (1/110)",
-      "myp": "lc_001",
-      "image": "https://images.pokemontcg.io/base6/1.png"
+      "myp": "lc_001"
     },
     {
       "id": "base6-2",
@@ -359,8 +340,7 @@
       "artistId": "2",
       "numeroLiga": "(2/110)",
       "codigoLiga": "articuno (2/110)",
-      "myp": "lc_002",
-      "image": "https://images.pokemontcg.io/base6/2.png"
+      "myp": "lc_002"
     },
     {
       "id": "base6-3",
@@ -378,8 +358,7 @@
       "artistId": "2",
       "numeroLiga": "(3/110)",
       "codigoLiga": "charizard (3/110)",
-      "myp": "lc_003",
-      "image": "https://images.pokemontcg.io/base6/3.png"
+      "myp": "lc_003"
     },
     {
       "id": "base6-4",
@@ -397,8 +376,7 @@
       "artistId": "2",
       "numeroLiga": "(4/110)",
       "codigoLiga": "dark blastoise (4/110)",
-      "myp": "lc_004",
-      "image": "https://images.pokemontcg.io/base6/4.png"
+      "myp": "lc_004"
     },
     {
       "id": "base6-5",
@@ -416,8 +394,7 @@
       "artistId": "2",
       "numeroLiga": "(5/110)",
       "codigoLiga": "dark dragonite (5/110)",
-      "myp": "lc_005",
-      "image": "https://images.pokemontcg.io/base6/5.png"
+      "myp": "lc_005"
     },
     {
       "id": "base6-6",
@@ -435,8 +412,7 @@
       "artistId": "17",
       "numeroLiga": "(6/110)",
       "codigoLiga": "dark persian (6/110)",
-      "myp": "lc_006",
-      "image": "https://images.pokemontcg.io/base6/6.png"
+      "myp": "lc_006"
     },
     {
       "id": "base6-7",
@@ -454,8 +430,7 @@
       "artistId": "2",
       "numeroLiga": "(7/110)",
       "codigoLiga": "dark raichu (7/110)",
-      "myp": "lc_007",
-      "image": "https://images.pokemontcg.io/base6/7.png"
+      "myp": "lc_007"
     },
     {
       "id": "base6-8",
@@ -473,8 +448,7 @@
       "artistId": "2",
       "numeroLiga": "(8/110)",
       "codigoLiga": "dark slowbro (8/110)",
-      "myp": "lc_008",
-      "image": "https://images.pokemontcg.io/base6/8.png"
+      "myp": "lc_008"
     },
     {
       "id": "base6-9",
@@ -492,8 +466,7 @@
       "artistId": "2",
       "numeroLiga": "(9/110)",
       "codigoLiga": "dark vaporeon (9/110)",
-      "myp": "lc_009",
-      "image": "https://images.pokemontcg.io/base6/9.png"
+      "myp": "lc_009"
     },
     {
       "id": "base6-10",
@@ -511,8 +484,7 @@
       "artistId": "5",
       "numeroLiga": "(10/110)",
       "codigoLiga": "flareon (10/110)",
-      "myp": "lc_010",
-      "image": "https://images.pokemontcg.io/base6/10.png"
+      "myp": "lc_010"
     },
     {
       "id": "base6-11",
@@ -530,8 +502,7 @@
       "artistId": "3",
       "numeroLiga": "(11/110)",
       "codigoLiga": "gengar (11/110)",
-      "myp": "lc_011",
-      "image": "https://images.pokemontcg.io/base6/11.png"
+      "myp": "lc_011"
     },
     {
       "id": "base6-12",
@@ -549,8 +520,7 @@
       "artistId": "2",
       "numeroLiga": "(12/110)",
       "codigoLiga": "gyarados (12/110)",
-      "myp": "lc_012",
-      "image": "https://images.pokemontcg.io/base6/12.png"
+      "myp": "lc_012"
     },
     {
       "id": "base6-13",
@@ -568,8 +538,7 @@
       "artistId": "1",
       "numeroLiga": "(13/110)",
       "codigoLiga": "hitmonlee (13/110)",
-      "myp": "lc_013",
-      "image": "https://images.pokemontcg.io/base6/13.png"
+      "myp": "lc_013"
     },
     {
       "id": "base6-14",
@@ -587,8 +556,7 @@
       "artistId": "5",
       "numeroLiga": "(14/110)",
       "codigoLiga": "jolteon (14/110)",
-      "myp": "lc_014",
-      "image": "https://images.pokemontcg.io/base6/14.png"
+      "myp": "lc_014"
     },
     {
       "id": "base6-15",
@@ -606,8 +574,7 @@
       "artistId": "1",
       "numeroLiga": "(15/110)",
       "codigoLiga": "machamp (15/110)",
-      "myp": "lc_015",
-      "image": "https://images.pokemontcg.io/base6/15.png"
+      "myp": "lc_015"
     },
     {
       "id": "base6-16",
@@ -625,8 +592,7 @@
       "artistId": "2",
       "numeroLiga": "(16/110)",
       "codigoLiga": "muk (16/110)",
-      "myp": "lc_016",
-      "image": "https://images.pokemontcg.io/base6/16.png"
+      "myp": "lc_016"
     },
     {
       "id": "base6-17",
@@ -644,8 +610,7 @@
       "artistId": "1",
       "numeroLiga": "(17/110)",
       "codigoLiga": "ninetales (17/110)",
-      "myp": "lc_017",
-      "image": "https://images.pokemontcg.io/base6/17.png"
+      "myp": "lc_017"
     },
     {
       "id": "base6-18",
@@ -663,8 +628,7 @@
       "artistId": "2",
       "numeroLiga": "(18/110)",
       "codigoLiga": "venusaur (18/110)",
-      "myp": "lc_018",
-      "image": "https://images.pokemontcg.io/base6/18.png"
+      "myp": "lc_018"
     },
     {
       "id": "base6-19",
@@ -682,8 +646,7 @@
       "artistId": "1",
       "numeroLiga": "(19/110)",
       "codigoLiga": "zapdos (19/110)",
-      "myp": "lc_019",
-      "image": "https://images.pokemontcg.io/base6/19.png"
+      "myp": "lc_019"
     },
     {
       "id": "base6-20",
@@ -701,8 +664,7 @@
       "artistId": "1",
       "numeroLiga": "(20/110)",
       "codigoLiga": "beedrill (20/110)",
-      "myp": "lc_020",
-      "image": "https://images.pokemontcg.io/base6/20.png"
+      "myp": "lc_020"
     },
     {
       "id": "base6-21",
@@ -720,8 +682,7 @@
       "artistId": "5",
       "numeroLiga": "(21/110)",
       "codigoLiga": "butterfree (21/110)",
-      "myp": "lc_021",
-      "image": "https://images.pokemontcg.io/base6/21.png"
+      "myp": "lc_021"
     },
     {
       "id": "base6-22",
@@ -739,8 +700,7 @@
       "artistId": "2",
       "numeroLiga": "(22/110)",
       "codigoLiga": "electrode (22/110)",
-      "myp": "lc_022",
-      "image": "https://images.pokemontcg.io/base6/22.png"
+      "myp": "lc_022"
     },
     {
       "id": "base6-23",
@@ -758,8 +718,7 @@
       "artistId": "5",
       "numeroLiga": "(23/110)",
       "codigoLiga": "exeggutor (23/110)",
-      "myp": "lc_023",
-      "image": "https://images.pokemontcg.io/base6/23.png"
+      "myp": "lc_023"
     },
     {
       "id": "base6-24",
@@ -777,8 +736,7 @@
       "artistId": "5",
       "numeroLiga": "(24/110)",
       "codigoLiga": "golem (24/110)",
-      "myp": "lc_024",
-      "image": "https://images.pokemontcg.io/base6/24.png"
+      "myp": "lc_024"
     },
     {
       "id": "base6-25",
@@ -796,8 +754,7 @@
       "artistId": "1",
       "numeroLiga": "(25/110)",
       "codigoLiga": "hypno (25/110)",
-      "myp": "lc_025",
-      "image": "https://images.pokemontcg.io/base6/25.png"
+      "myp": "lc_025"
     },
     {
       "id": "base6-26",
@@ -815,8 +772,7 @@
       "artistId": "1",
       "numeroLiga": "(26/110)",
       "codigoLiga": "jynx (26/110)",
-      "myp": "lc_026",
-      "image": "https://images.pokemontcg.io/base6/26.png"
+      "myp": "lc_026"
     },
     {
       "id": "base6-27",
@@ -834,8 +790,7 @@
       "artistId": "1",
       "numeroLiga": "(27/110)",
       "codigoLiga": "kabutops (27/110)",
-      "myp": "lc_027",
-      "image": "https://images.pokemontcg.io/base6/27.png"
+      "myp": "lc_027"
     },
     {
       "id": "base6-28",
@@ -853,8 +808,7 @@
       "artistId": "1",
       "numeroLiga": "(28/110)",
       "codigoLiga": "magneton (28/110)",
-      "myp": "lc_028",
-      "image": "https://images.pokemontcg.io/base6/28.png"
+      "myp": "lc_028"
     },
     {
       "id": "base6-29",
@@ -872,8 +826,7 @@
       "artistId": "7",
       "numeroLiga": "(29/110)",
       "codigoLiga": "mewtwo (29/110)",
-      "myp": "lc_029",
-      "image": "https://images.pokemontcg.io/base6/29.png"
+      "myp": "lc_029"
     },
     {
       "id": "base6-30",
@@ -891,8 +844,7 @@
       "artistId": "2",
       "numeroLiga": "(30/110)",
       "codigoLiga": "moltres (30/110)",
-      "myp": "lc_030",
-      "image": "https://images.pokemontcg.io/base6/30.png"
+      "myp": "lc_030"
     },
     {
       "id": "base6-31",
@@ -910,8 +862,7 @@
       "artistId": "1",
       "numeroLiga": "(31/110)",
       "codigoLiga": "nidoking (31/110)",
-      "myp": "lc_031",
-      "image": "https://images.pokemontcg.io/base6/31.png"
+      "myp": "lc_031"
     },
     {
       "id": "base6-32",
@@ -929,8 +880,7 @@
       "artistId": "1",
       "numeroLiga": "(32/110)",
       "codigoLiga": "nidoqueen (32/110)",
-      "myp": "lc_032",
-      "image": "https://images.pokemontcg.io/base6/32.png"
+      "myp": "lc_032"
     },
     {
       "id": "base6-33",
@@ -948,8 +898,7 @@
       "artistId": "5",
       "numeroLiga": "(33/110)",
       "codigoLiga": "pidgeot (33/110)",
-      "myp": "lc_033",
-      "image": "https://images.pokemontcg.io/base6/33.png"
+      "myp": "lc_033"
     },
     {
       "id": "base6-34",
@@ -967,8 +916,7 @@
       "artistId": "1",
       "numeroLiga": "(34/110)",
       "codigoLiga": "pidgeotto (34/110)",
-      "myp": "lc_034",
-      "image": "https://images.pokemontcg.io/base6/34.png"
+      "myp": "lc_034"
     },
     {
       "id": "base6-35",
@@ -986,8 +934,7 @@
       "artistId": "5",
       "numeroLiga": "(35/110)",
       "codigoLiga": "rhydon (35/110)",
-      "myp": "lc_035",
-      "image": "https://images.pokemontcg.io/base6/35.png"
+      "myp": "lc_035"
     },
     {
       "id": "base6-36",
@@ -1005,8 +952,7 @@
       "artistId": "1",
       "numeroLiga": "(36/110)",
       "codigoLiga": "arcanine (36/110)",
-      "myp": "lc_036",
-      "image": "https://images.pokemontcg.io/base6/36.png"
+      "myp": "lc_036"
     },
     {
       "id": "base6-37",
@@ -1024,8 +970,7 @@
       "artistId": "2",
       "numeroLiga": "(37/110)",
       "codigoLiga": "charmeleon (37/110)",
-      "myp": "lc_037",
-      "image": "https://images.pokemontcg.io/base6/37.png"
+      "myp": "lc_037"
     },
     {
       "id": "base6-38",
@@ -1043,8 +988,7 @@
       "artistId": "5",
       "numeroLiga": "(38/110)",
       "codigoLiga": "dark dragonair (38/110)",
-      "myp": "lc_038",
-      "image": "https://images.pokemontcg.io/base6/38.png"
+      "myp": "lc_038"
     },
     {
       "id": "base6-39",
@@ -1062,8 +1006,7 @@
       "artistId": "5",
       "numeroLiga": "(39/110)",
       "codigoLiga": "dark wartortle (39/110)",
-      "myp": "lc_039",
-      "image": "https://images.pokemontcg.io/base6/39.png"
+      "myp": "lc_039"
     },
     {
       "id": "base6-40",
@@ -1081,8 +1024,7 @@
       "artistId": "2",
       "numeroLiga": "(40/110)",
       "codigoLiga": "dewgong (40/110)",
-      "myp": "lc_040",
-      "image": "https://images.pokemontcg.io/base6/40.png"
+      "myp": "lc_040"
     },
     {
       "id": "base6-41",
@@ -1100,8 +1042,7 @@
       "artistId": "2",
       "numeroLiga": "(41/110)",
       "codigoLiga": "dodrio (41/110)",
-      "myp": "lc_041",
-      "image": "https://images.pokemontcg.io/base6/41.png"
+      "myp": "lc_041"
     },
     {
       "id": "base6-42",
@@ -1119,8 +1060,7 @@
       "artistId": "2",
       "numeroLiga": "(42/110)",
       "codigoLiga": "fearow (42/110)",
-      "myp": "lc_042",
-      "image": "https://images.pokemontcg.io/base6/42.png"
+      "myp": "lc_042"
     },
     {
       "id": "base6-43",
@@ -1138,8 +1078,7 @@
       "artistId": "5",
       "numeroLiga": "(43/110)",
       "codigoLiga": "golduck (43/110)",
-      "myp": "lc_043",
-      "image": "https://images.pokemontcg.io/base6/43.png"
+      "myp": "lc_043"
     },
     {
       "id": "base6-44",
@@ -1157,8 +1096,7 @@
       "artistId": "5",
       "numeroLiga": "(44/110)",
       "codigoLiga": "graveler (44/110)",
-      "myp": "lc_044",
-      "image": "https://images.pokemontcg.io/base6/44.png"
+      "myp": "lc_044"
     },
     {
       "id": "base6-45",
@@ -1176,8 +1114,7 @@
       "artistId": "1",
       "numeroLiga": "(45/110)",
       "codigoLiga": "growlithe (45/110)",
-      "myp": "lc_045",
-      "image": "https://images.pokemontcg.io/base6/45.png"
+      "myp": "lc_045"
     },
     {
       "id": "base6-46",
@@ -1195,8 +1132,7 @@
       "artistId": "1",
       "numeroLiga": "(46/110)",
       "codigoLiga": "haunter (46/110)",
-      "myp": "lc_046",
-      "image": "https://images.pokemontcg.io/base6/46.png"
+      "myp": "lc_046"
     },
     {
       "id": "base6-47",
@@ -1214,8 +1150,7 @@
       "artistId": "1",
       "numeroLiga": "(47/110)",
       "codigoLiga": "ivysaur (47/110)",
-      "myp": "lc_047",
-      "image": "https://images.pokemontcg.io/base6/47.png"
+      "myp": "lc_047"
     },
     {
       "id": "base6-48",
@@ -1233,8 +1168,7 @@
       "artistId": "1",
       "numeroLiga": "(48/110)",
       "codigoLiga": "kabuto (48/110)",
-      "myp": "lc_048",
-      "image": "https://images.pokemontcg.io/base6/48.png"
+      "myp": "lc_048"
     },
     {
       "id": "base6-49",
@@ -1252,8 +1186,7 @@
       "artistId": "1",
       "numeroLiga": "(49/110)",
       "codigoLiga": "kadabra (49/110)",
-      "myp": "lc_049",
-      "image": "https://images.pokemontcg.io/base6/49.png"
+      "myp": "lc_049"
     },
     {
       "id": "base6-50",
@@ -1271,8 +1204,7 @@
       "artistId": "3",
       "numeroLiga": "(50/110)",
       "codigoLiga": "kakuna (50/110)",
-      "myp": "lc_050",
-      "image": "https://images.pokemontcg.io/base6/50.png"
+      "myp": "lc_050"
     },
     {
       "id": "base6-51",
@@ -1290,8 +1222,7 @@
       "artistId": "1",
       "numeroLiga": "(51/110)",
       "codigoLiga": "machoke (51/110)",
-      "myp": "lc_051",
-      "image": "https://images.pokemontcg.io/base6/51.png"
+      "myp": "lc_051"
     },
     {
       "id": "base6-52",
@@ -1309,8 +1240,7 @@
       "artistId": "2",
       "numeroLiga": "(52/110)",
       "codigoLiga": "magikarp (52/110)",
-      "myp": "lc_052",
-      "image": "https://images.pokemontcg.io/base6/52.png"
+      "myp": "lc_052"
     },
     {
       "id": "base6-53",
@@ -1328,8 +1258,7 @@
       "artistId": "2",
       "numeroLiga": "(53/110)",
       "codigoLiga": "meowth (53/110)",
-      "myp": "lc_053",
-      "image": "https://images.pokemontcg.io/base6/53.png"
+      "myp": "lc_053"
     },
     {
       "id": "base6-54",
@@ -1347,8 +1276,7 @@
       "artistId": "1",
       "numeroLiga": "(54/110)",
       "codigoLiga": "metapod (54/110)",
-      "myp": "lc_054",
-      "image": "https://images.pokemontcg.io/base6/54.png"
+      "myp": "lc_054"
     },
     {
       "id": "base6-55",
@@ -1366,8 +1294,7 @@
       "artistId": "1",
       "numeroLiga": "(55/110)",
       "codigoLiga": "nidorina (55/110)",
-      "myp": "lc_055",
-      "image": "https://images.pokemontcg.io/base6/55.png"
+      "myp": "lc_055"
     },
     {
       "id": "base6-56",
@@ -1385,8 +1312,7 @@
       "artistId": "2",
       "numeroLiga": "(56/110)",
       "codigoLiga": "nidorino (56/110)",
-      "myp": "lc_056",
-      "image": "https://images.pokemontcg.io/base6/56.png"
+      "myp": "lc_056"
     },
     {
       "id": "base6-57",
@@ -1404,8 +1330,7 @@
       "artistId": "5",
       "numeroLiga": "(57/110)",
       "codigoLiga": "omanyte (57/110)",
-      "myp": "lc_057",
-      "image": "https://images.pokemontcg.io/base6/57.png"
+      "myp": "lc_057"
     },
     {
       "id": "base6-58",
@@ -1423,8 +1348,7 @@
       "artistId": "1",
       "numeroLiga": "(58/110)",
       "codigoLiga": "omastar (58/110)",
-      "myp": "lc_058",
-      "image": "https://images.pokemontcg.io/base6/58.png"
+      "myp": "lc_058"
     },
     {
       "id": "base6-59",
@@ -1442,8 +1366,7 @@
       "artistId": "5",
       "numeroLiga": "(59/110)",
       "codigoLiga": "primeape (59/110)",
-      "myp": "lc_059",
-      "image": "https://images.pokemontcg.io/base6/59.png"
+      "myp": "lc_059"
     },
     {
       "id": "base6-60",
@@ -1461,8 +1384,7 @@
       "artistId": "2",
       "numeroLiga": "(60/110)",
       "codigoLiga": "rapidash (60/110)",
-      "myp": "lc_060",
-      "image": "https://images.pokemontcg.io/base6/60.png"
+      "myp": "lc_060"
     },
     {
       "id": "base6-61",
@@ -1480,8 +1402,7 @@
       "artistId": "1",
       "numeroLiga": "(61/110)",
       "codigoLiga": "raticate (61/110)",
-      "myp": "lc_061",
-      "image": "https://images.pokemontcg.io/base6/61.png"
+      "myp": "lc_061"
     },
     {
       "id": "base6-62",
@@ -1499,8 +1420,7 @@
       "artistId": "1",
       "numeroLiga": "(62/110)",
       "codigoLiga": "sandslash (62/110)",
-      "myp": "lc_062",
-      "image": "https://images.pokemontcg.io/base6/62.png"
+      "myp": "lc_062"
     },
     {
       "id": "base6-63",
@@ -1518,8 +1438,7 @@
       "artistId": "1",
       "numeroLiga": "(63/110)",
       "codigoLiga": "seadra (63/110)",
-      "myp": "lc_063",
-      "image": "https://images.pokemontcg.io/base6/63.png"
+      "myp": "lc_063"
     },
     {
       "id": "base6-64",
@@ -1537,8 +1456,7 @@
       "artistId": "1",
       "numeroLiga": "(64/110)",
       "codigoLiga": "snorlax (64/110)",
-      "myp": "lc_064",
-      "image": "https://images.pokemontcg.io/base6/64.png"
+      "myp": "lc_064"
     },
     {
       "id": "base6-65",
@@ -1556,8 +1474,7 @@
       "artistId": "5",
       "numeroLiga": "(65/110)",
       "codigoLiga": "tauros (65/110)",
-      "myp": "lc_065",
-      "image": "https://images.pokemontcg.io/base6/65.png"
+      "myp": "lc_065"
     },
     {
       "id": "base6-66",
@@ -1575,8 +1492,7 @@
       "artistId": "5",
       "numeroLiga": "(66/110)",
       "codigoLiga": "tentacruel (66/110)",
-      "myp": "lc_066",
-      "image": "https://images.pokemontcg.io/base6/66.png"
+      "myp": "lc_066"
     },
     {
       "id": "base6-67",
@@ -1594,8 +1510,7 @@
       "artistId": "2",
       "numeroLiga": "(67/110)",
       "codigoLiga": "abra (67/110)",
-      "myp": "lc_067",
-      "image": "https://images.pokemontcg.io/base6/67.png"
+      "myp": "lc_067"
     },
     {
       "id": "base6-68",
@@ -1613,8 +1528,7 @@
       "artistId": "2",
       "numeroLiga": "(68/110)",
       "codigoLiga": "bulbasaur (68/110)",
-      "myp": "lc_068",
-      "image": "https://images.pokemontcg.io/base6/68.png"
+      "myp": "lc_068"
     },
     {
       "id": "base6-69",
@@ -1632,8 +1546,7 @@
       "artistId": "1",
       "numeroLiga": "(69/110)",
       "codigoLiga": "caterpie (69/110)",
-      "myp": "lc_069",
-      "image": "https://images.pokemontcg.io/base6/69.png"
+      "myp": "lc_069"
     },
     {
       "id": "base6-70",
@@ -1651,8 +1564,7 @@
       "artistId": "2",
       "numeroLiga": "(70/110)",
       "codigoLiga": "charmander (70/110)",
-      "myp": "lc_070",
-      "image": "https://images.pokemontcg.io/base6/70.png"
+      "myp": "lc_070"
     },
     {
       "id": "base6-71",
@@ -1670,8 +1582,7 @@
       "artistId": "2",
       "numeroLiga": "(71/110)",
       "codigoLiga": "doduo (71/110)",
-      "myp": "lc_071",
-      "image": "https://images.pokemontcg.io/base6/71.png"
+      "myp": "lc_071"
     },
     {
       "id": "base6-72",
@@ -1689,8 +1600,7 @@
       "artistId": "1",
       "numeroLiga": "(72/110)",
       "codigoLiga": "dratini (72/110)",
-      "myp": "lc_072",
-      "image": "https://images.pokemontcg.io/base6/72.png"
+      "myp": "lc_072"
     },
     {
       "id": "base6-73",
@@ -1708,8 +1618,7 @@
       "artistId": "5",
       "numeroLiga": "(73/110)",
       "codigoLiga": "drowzee (73/110)",
-      "myp": "lc_073",
-      "image": "https://images.pokemontcg.io/base6/73.png"
+      "myp": "lc_073"
     },
     {
       "id": "base6-74",
@@ -1727,8 +1636,7 @@
       "artistId": "5",
       "numeroLiga": "(74/110)",
       "codigoLiga": "eevee (74/110)",
-      "myp": "lc_074",
-      "image": "https://images.pokemontcg.io/base6/74.png"
+      "myp": "lc_074"
     },
     {
       "id": "base6-75",
@@ -1746,8 +1654,7 @@
       "artistId": "2",
       "numeroLiga": "(75/110)",
       "codigoLiga": "exeggcute (75/110)",
-      "myp": "lc_075",
-      "image": "https://images.pokemontcg.io/base6/75.png"
+      "myp": "lc_075"
     },
     {
       "id": "base6-76",
@@ -1765,8 +1672,7 @@
       "artistId": "2",
       "numeroLiga": "(76/110)",
       "codigoLiga": "gastly (76/110)",
-      "myp": "lc_076",
-      "image": "https://images.pokemontcg.io/base6/76.png"
+      "myp": "lc_076"
     },
     {
       "id": "base6-77",
@@ -1784,8 +1690,7 @@
       "artistId": "5",
       "numeroLiga": "(77/110)",
       "codigoLiga": "geodude (77/110)",
-      "myp": "lc_077",
-      "image": "https://images.pokemontcg.io/base6/77.png"
+      "myp": "lc_077"
     },
     {
       "id": "base6-78",
@@ -1803,8 +1708,7 @@
       "artistId": "2",
       "numeroLiga": "(78/110)",
       "codigoLiga": "grimer (78/110)",
-      "myp": "lc_078",
-      "image": "https://images.pokemontcg.io/base6/78.png"
+      "myp": "lc_078"
     },
     {
       "id": "base6-79",
@@ -1822,8 +1726,7 @@
       "artistId": "1",
       "numeroLiga": "(79/110)",
       "codigoLiga": "machop (79/110)",
-      "myp": "lc_079",
-      "image": "https://images.pokemontcg.io/base6/79.png"
+      "myp": "lc_079"
     },
     {
       "id": "base6-80",
@@ -1841,8 +1744,7 @@
       "artistId": "3",
       "numeroLiga": "(80/110)",
       "codigoLiga": "magnemite (80/110)",
-      "myp": "lc_080",
-      "image": "https://images.pokemontcg.io/base6/80.png"
+      "myp": "lc_080"
     },
     {
       "id": "base6-81",
@@ -1860,8 +1762,7 @@
       "artistId": "10",
       "numeroLiga": "(81/110)",
       "codigoLiga": "mankey (81/110)",
-      "myp": "lc_081",
-      "image": "https://images.pokemontcg.io/base6/81.png"
+      "myp": "lc_081"
     },
     {
       "id": "base6-82",
@@ -1880,8 +1781,7 @@
       "artistId": "1",
       "numeroLiga": "(82/110)",
       "codigoLiga": "nidoran female (82/110)",
-      "myp": "lc_082",
-      "image": "https://images.pokemontcg.io/base6/82.png"
+      "myp": "lc_082"
     },
     {
       "id": "base6-83",
@@ -1900,8 +1800,7 @@
       "artistId": "1",
       "numeroLiga": "(83/110)",
       "codigoLiga": "nidoran male (83/110)",
-      "myp": "lc_083",
-      "image": "https://images.pokemontcg.io/base6/83.png"
+      "myp": "lc_083"
     },
     {
       "id": "base6-84",
@@ -1919,8 +1818,7 @@
       "artistId": "1",
       "numeroLiga": "(84/110)",
       "codigoLiga": "onix (84/110)",
-      "myp": "lc_084",
-      "image": "https://images.pokemontcg.io/base6/84.png"
+      "myp": "lc_084"
     },
     {
       "id": "base6-85",
@@ -1938,8 +1836,7 @@
       "artistId": "1",
       "numeroLiga": "(85/110)",
       "codigoLiga": "pidgey (85/110)",
-      "myp": "lc_085",
-      "image": "https://images.pokemontcg.io/base6/85.png"
+      "myp": "lc_085"
     },
     {
       "id": "base6-86",
@@ -1957,8 +1854,7 @@
       "artistId": "1",
       "numeroLiga": "(86/110)",
       "codigoLiga": "pikachu (86/110)",
-      "myp": "lc_086",
-      "image": "https://images.pokemontcg.io/base6/86.png"
+      "myp": "lc_086"
     },
     {
       "id": "base6-87",
@@ -1976,8 +1872,7 @@
       "artistId": "1",
       "numeroLiga": "(87/110)",
       "codigoLiga": "ponyta (87/110)",
-      "myp": "lc_087",
-      "image": "https://images.pokemontcg.io/base6/87.png"
+      "myp": "lc_087"
     },
     {
       "id": "base6-88",
@@ -1995,8 +1890,7 @@
       "artistId": "2",
       "numeroLiga": "(88/110)",
       "codigoLiga": "psyduck (88/110)",
-      "myp": "lc_088",
-      "image": "https://images.pokemontcg.io/base6/88.png"
+      "myp": "lc_088"
     },
     {
       "id": "base6-89",
@@ -2014,8 +1908,7 @@
       "artistId": "2",
       "numeroLiga": "(89/110)",
       "codigoLiga": "rattata (89/110)",
-      "myp": "lc_089",
-      "image": "https://images.pokemontcg.io/base6/89.png"
+      "myp": "lc_089"
     },
     {
       "id": "base6-90",
@@ -2033,8 +1926,7 @@
       "artistId": "2",
       "numeroLiga": "(90/110)",
       "codigoLiga": "rhyhorn (90/110)",
-      "myp": "lc_090",
-      "image": "https://images.pokemontcg.io/base6/90.png"
+      "myp": "lc_090"
     },
     {
       "id": "base6-91",
@@ -2052,8 +1944,7 @@
       "artistId": "1",
       "numeroLiga": "(91/110)",
       "codigoLiga": "sandshrew (91/110)",
-      "myp": "lc_091",
-      "image": "https://images.pokemontcg.io/base6/91.png"
+      "myp": "lc_091"
     },
     {
       "id": "base6-92",
@@ -2071,8 +1962,7 @@
       "artistId": "1",
       "numeroLiga": "(92/110)",
       "codigoLiga": "seel (92/110)",
-      "myp": "lc_092",
-      "image": "https://images.pokemontcg.io/base6/92.png"
+      "myp": "lc_092"
     },
     {
       "id": "base6-93",
@@ -2090,8 +1980,7 @@
       "artistId": "19",
       "numeroLiga": "(93/110)",
       "codigoLiga": "slowpoke (93/110)",
-      "myp": "lc_093",
-      "image": "https://images.pokemontcg.io/base6/93.png"
+      "myp": "lc_093"
     },
     {
       "id": "base6-94",
@@ -2109,8 +1998,7 @@
       "artistId": "2",
       "numeroLiga": "(94/110)",
       "codigoLiga": "spearow (94/110)",
-      "myp": "lc_094",
-      "image": "https://images.pokemontcg.io/base6/94.png"
+      "myp": "lc_094"
     },
     {
       "id": "base6-95",
@@ -2128,8 +2016,7 @@
       "artistId": "2",
       "numeroLiga": "(95/110)",
       "codigoLiga": "squirtle (95/110)",
-      "myp": "lc_095",
-      "image": "https://images.pokemontcg.io/base6/95.png"
+      "myp": "lc_095"
     },
     {
       "id": "base6-96",
@@ -2147,8 +2034,7 @@
       "artistId": "5",
       "numeroLiga": "(96/110)",
       "codigoLiga": "tentacool (96/110)",
-      "myp": "lc_096",
-      "image": "https://images.pokemontcg.io/base6/96.png"
+      "myp": "lc_096"
     },
     {
       "id": "base6-97",
@@ -2166,8 +2052,7 @@
       "artistId": "3",
       "numeroLiga": "(97/110)",
       "codigoLiga": "voltorb (97/110)",
-      "myp": "lc_097",
-      "image": "https://images.pokemontcg.io/base6/97.png"
+      "myp": "lc_097"
     },
     {
       "id": "base6-98",
@@ -2185,8 +2070,7 @@
       "artistId": "1",
       "numeroLiga": "(98/110)",
       "codigoLiga": "vulpix (98/110)",
-      "myp": "lc_098",
-      "image": "https://images.pokemontcg.io/base6/98.png"
+      "myp": "lc_098"
     },
     {
       "id": "base6-99",
@@ -2204,8 +2088,7 @@
       "artistId": "2",
       "numeroLiga": "(99/110)",
       "codigoLiga": "weedle (99/110)",
-      "myp": "lc_099",
-      "image": "https://images.pokemontcg.io/base6/99.png"
+      "myp": "lc_099"
     },
     {
       "id": "base6-100",
@@ -2220,8 +2103,7 @@
       "artistId": "3",
       "numeroLiga": "(100/110)",
       "codigoLiga": "full heal energy (100/110)",
-      "myp": "lc_100",
-      "image": "https://images.pokemontcg.io/base6/100.png"
+      "myp": "lc_100"
     },
     {
       "id": "base6-101",
@@ -2236,8 +2118,7 @@
       "artistId": "3",
       "numeroLiga": "(101/110)",
       "codigoLiga": "potion energy (101/110)",
-      "myp": "lc_101",
-      "image": "https://images.pokemontcg.io/base6/101.png"
+      "myp": "lc_101"
     },
     {
       "id": "base6-102",
@@ -2253,8 +2134,7 @@
       "artistId": "1",
       "numeroLiga": "(102/110)",
       "codigoLiga": "Pokémon breeder (102/110)",
-      "myp": "lc_102",
-      "image": "https://images.pokemontcg.io/base6/102.png"
+      "myp": "lc_102"
     },
     {
       "id": "base6-103",
@@ -2269,8 +2149,7 @@
       "artistId": "1",
       "numeroLiga": "(103/110)",
       "codigoLiga": "Pokémon trader (103/110)",
-      "myp": "lc_103",
-      "image": "https://images.pokemontcg.io/base6/103.png"
+      "myp": "lc_103"
     },
     {
       "id": "base6-104",
@@ -2284,8 +2163,7 @@
       "artistId": "3",
       "numeroLiga": "(104/110)",
       "codigoLiga": "scoop up (104/110)",
-      "myp": "lc_104",
-      "image": "https://images.pokemontcg.io/base6/104.png"
+      "myp": "lc_104"
     },
     {
       "id": "base6-105",
@@ -2299,8 +2177,7 @@
       "artistId": "1",
       "numeroLiga": "(105/110)",
       "codigoLiga": "the boss's way (105/110)",
-      "myp": "lc_105",
-      "image": "https://images.pokemontcg.io/base6/105.png"
+      "myp": "lc_105"
     },
     {
       "id": "base6-106",
@@ -2314,8 +2191,7 @@
       "artistId": "5",
       "numeroLiga": "(106/110)",
       "codigoLiga": "challenge! (106/110)",
-      "myp": "lc_106",
-      "image": "https://images.pokemontcg.io/base6/106.png"
+      "myp": "lc_106"
     },
     {
       "id": "base6-107",
@@ -2330,8 +2206,7 @@
       "artistId": "3",
       "numeroLiga": "(107/110)",
       "codigoLiga": "energy retrieval (107/110)",
-      "myp": "lc_107",
-      "image": "https://images.pokemontcg.io/base6/107.png"
+      "myp": "lc_107"
     },
     {
       "id": "base6-108",
@@ -2345,8 +2220,7 @@
       "artistId": "1",
       "numeroLiga": "(108/110)",
       "codigoLiga": "bill (108/110)",
-      "myp": "lc_108",
-      "image": "https://images.pokemontcg.io/base6/108.png"
+      "myp": "lc_108"
     },
     {
       "id": "base6-109",
@@ -2361,8 +2235,7 @@
       "artistId": "3",
       "numeroLiga": "(109/110)",
       "codigoLiga": "mysterious fossil (109/110)",
-      "myp": "lc_109",
-      "image": "https://images.pokemontcg.io/base6/109.png"
+      "myp": "lc_109"
     },
     {
       "id": "base6-110",
@@ -2377,8 +2250,7 @@
       "artistId": "3",
       "numeroLiga": "(110/110)",
       "codigoLiga": "potion (110/110)",
-      "myp": "lc_110",
-      "image": "https://images.pokemontcg.io/base6/110.png"
+      "myp": "lc_110"
     },
     {
       "id": "bp-1",
@@ -2396,8 +2268,7 @@
       "artistId": "1",
       "numeroLiga": "(1/9)",
       "codigoLiga": "electabuzz (1/9)",
-      "myp": "bp_001",
-      "image": "https://images.pokemontcg.io/bp/1.png"
+      "myp": "bp_001"
     },
     {
       "id": "bp-2",
@@ -2415,8 +2286,7 @@
       "artistId": "1",
       "numeroLiga": "(2/9)",
       "codigoLiga": "hitmonchan (2/9)",
-      "myp": "bp_002",
-      "image": "https://images.pokemontcg.io/bp/2.png"
+      "myp": "bp_002"
     },
     {
       "id": "bp-3",
@@ -2430,8 +2300,7 @@
       "artistId": "1",
       "numeroLiga": "(3/9)",
       "codigoLiga": "professor elm (3/9)",
-      "myp": "bp_003",
-      "image": "https://images.pokemontcg.io/bp/3.png"
+      "myp": "bp_003"
     },
     {
       "id": "bp-4",
@@ -2449,8 +2318,7 @@
       "artistId": "58",
       "numeroLiga": "(4/9)",
       "codigoLiga": "rocket's scizor (4/9)",
-      "myp": "bp_004",
-      "image": "https://images.pokemontcg.io/bp/4.png"
+      "myp": "bp_004"
     },
     {
       "id": "bp-5",
@@ -2468,8 +2336,7 @@
       "artistId": "59",
       "numeroLiga": "(5/9)",
       "codigoLiga": "rocket's sneasel (5/9)",
-      "myp": "bp_005",
-      "image": "https://images.pokemontcg.io/bp/5.png"
+      "myp": "bp_005"
     },
     {
       "id": "bp-6",
@@ -2487,8 +2354,7 @@
       "artistId": "17",
       "numeroLiga": "(6/9)",
       "codigoLiga": "dark ivysaur (6/9)",
-      "myp": "bp_006",
-      "image": "https://images.pokemontcg.io/bp/6.png"
+      "myp": "bp_006"
     },
     {
       "id": "bp-7",
@@ -2506,8 +2372,7 @@
       "artistId": "17",
       "numeroLiga": "(7/9)",
       "codigoLiga": "dark venusaur (7/9)",
-      "myp": "bp_007",
-      "image": "https://images.pokemontcg.io/bp/7.png"
+      "myp": "bp_007"
     },
     {
       "id": "bp-8",
@@ -2525,8 +2390,7 @@
       "artistId": "17",
       "numeroLiga": "(8/9)",
       "codigoLiga": "rocket's mewtwo (8/9)",
-      "myp": "bp_008",
-      "image": "https://images.pokemontcg.io/bp/8.png"
+      "myp": "bp_008"
     },
     {
       "id": "bp-9",
@@ -2544,8 +2408,7 @@
       "artistId": "1",
       "numeroLiga": "(9/9)",
       "codigoLiga": "rocket's hitmonchan (9/9)",
-      "myp": "bp_009",
-      "image": "https://images.pokemontcg.io/bp/9.png"
+      "myp": "bp_009"
     },
     {
       "id": "ru1-1",
@@ -2562,8 +2425,7 @@
       "artistId": "113",
       "numeroLiga": "(1/16)",
       "codigoLiga": "venusaur (1/16)",
-      "myp": "ru1_001",
-      "image": "https://images.pokemontcg.io/ru1/1.png"
+      "myp": "ru1_001"
     },
     {
       "id": "ru1-2",
@@ -2580,8 +2442,7 @@
       "artistId": "113",
       "numeroLiga": "(2/16)",
       "codigoLiga": "cherrim (2/16)",
-      "myp": "ru1_002",
-      "image": "https://images.pokemontcg.io/ru1/2.png"
+      "myp": "ru1_002"
     },
     {
       "id": "ru1-3",
@@ -2598,8 +2459,7 @@
       "artistId": "113",
       "numeroLiga": "(3/16)",
       "codigoLiga": "ninetales (3/16)",
-      "myp": "ru1_003",
-      "image": "https://images.pokemontcg.io/ru1/3.png"
+      "myp": "ru1_003"
     },
     {
       "id": "ru1-4",
@@ -2616,8 +2476,7 @@
       "artistId": "113",
       "numeroLiga": "(4/16)",
       "codigoLiga": "heatran (4/16)",
-      "myp": "ru1_004",
-      "image": "https://images.pokemontcg.io/ru1/4.png"
+      "myp": "ru1_004"
     },
     {
       "id": "ru1-5",
@@ -2634,8 +2493,7 @@
       "artistId": "113",
       "numeroLiga": "(5/16)",
       "codigoLiga": "starmie (5/16)",
-      "myp": "ru1_005",
-      "image": "https://images.pokemontcg.io/ru1/5.png"
+      "myp": "ru1_005"
     },
     {
       "id": "ru1-6",
@@ -2652,8 +2510,7 @@
       "artistId": "113",
       "numeroLiga": "(6/16)",
       "codigoLiga": "gyarados (6/16)",
-      "myp": "ru1_006",
-      "image": "https://images.pokemontcg.io/ru1/6.png"
+      "myp": "ru1_006"
     },
     {
       "id": "ru1-7",
@@ -2670,8 +2527,7 @@
       "artistId": "113",
       "numeroLiga": "(7/16)",
       "codigoLiga": "pikachu (7/16)",
-      "myp": "ru1_007",
-      "image": "https://images.pokemontcg.io/ru1/7.png"
+      "myp": "ru1_007"
     },
     {
       "id": "ru1-8",
@@ -2688,8 +2544,7 @@
       "artistId": "113",
       "numeroLiga": "(8/16)",
       "codigoLiga": "zapdos (8/16)",
-      "myp": "ru1_008",
-      "image": "https://images.pokemontcg.io/ru1/8.png"
+      "myp": "ru1_008"
     },
     {
       "id": "ru1-9",
@@ -2706,8 +2561,7 @@
       "artistId": "113",
       "numeroLiga": "(9/16)",
       "codigoLiga": "mewtwo (9/16)",
-      "myp": "ru1_009",
-      "image": "https://images.pokemontcg.io/ru1/9.png"
+      "myp": "ru1_009"
     },
     {
       "id": "ru1-10",
@@ -2724,8 +2578,7 @@
       "artistId": "113",
       "numeroLiga": "(10/16)",
       "codigoLiga": "mew (10/16)",
-      "myp": "ru1_010",
-      "image": "https://images.pokemontcg.io/ru1/10.png"
+      "myp": "ru1_010"
     },
     {
       "id": "ru1-11",
@@ -2742,8 +2595,7 @@
       "artistId": "113",
       "numeroLiga": "(11/16)",
       "codigoLiga": "diglett (11/16)",
-      "myp": "ru1_011",
-      "image": "https://images.pokemontcg.io/ru1/11.png"
+      "myp": "ru1_011"
     },
     {
       "id": "ru1-12",
@@ -2760,8 +2612,7 @@
       "artistId": "113",
       "numeroLiga": "(12/16)",
       "codigoLiga": "lucario (12/16)",
-      "myp": "ru1_012",
-      "image": "https://images.pokemontcg.io/ru1/12.png"
+      "myp": "ru1_012"
     },
     {
       "id": "ru1-13",
@@ -2778,8 +2629,7 @@
       "artistId": "113",
       "numeroLiga": "(13/16)",
       "codigoLiga": "skuntank (13/16)",
-      "myp": "ru1_013",
-      "image": "https://images.pokemontcg.io/ru1/13.png"
+      "myp": "ru1_013"
     },
     {
       "id": "ru1-14",
@@ -2796,8 +2646,7 @@
       "artistId": "113",
       "numeroLiga": "(14/16)",
       "codigoLiga": "bastiodon (14/16)",
-      "myp": "ru1_014",
-      "image": "https://images.pokemontcg.io/ru1/14.png"
+      "myp": "ru1_014"
     },
     {
       "id": "ru1-15",
@@ -2814,8 +2663,7 @@
       "artistId": "113",
       "numeroLiga": "(15/16)",
       "codigoLiga": "rattata (15/16)",
-      "myp": "ru1_015",
-      "image": "https://images.pokemontcg.io/ru1/15.png"
+      "myp": "ru1_015"
     },
     {
       "id": "ru1-16",
@@ -2832,8 +2680,7 @@
       "artistId": "113",
       "numeroLiga": "(16/16)",
       "codigoLiga": "bibarel (16/16)",
-      "myp": "ru1_016",
-      "image": "https://images.pokemontcg.io/ru1/16.png"
+      "myp": "ru1_016"
     },
     {
       "id": "mcd11-1",
@@ -2850,8 +2697,7 @@
       "artistId": "1",
       "numeroLiga": "(1/12)",
       "codigoLiga": "snivy (1/12)",
-      "myp": "mcd11_001",
-      "image": "https://images.pokemontcg.io/mcd11/1.png"
+      "myp": "mcd11_001"
     },
     {
       "id": "mcd11-2",
@@ -2868,8 +2714,7 @@
       "artistId": "5",
       "numeroLiga": "(2/12)",
       "codigoLiga": "maractus (2/12)",
-      "myp": "mcd11_002",
-      "image": "https://images.pokemontcg.io/mcd11/2.png"
+      "myp": "mcd11_002"
     },
     {
       "id": "mcd11-3",
@@ -2886,8 +2731,7 @@
       "artistId": "1",
       "numeroLiga": "(3/12)",
       "codigoLiga": "tepig (3/12)",
-      "myp": "mcd11_003",
-      "image": "https://images.pokemontcg.io/mcd11/3.png"
+      "myp": "mcd11_003"
     },
     {
       "id": "mcd11-4",
@@ -2904,8 +2748,7 @@
       "artistId": "1",
       "numeroLiga": "(4/12)",
       "codigoLiga": "oshawott (4/12)",
-      "myp": "mcd11_004",
-      "image": "https://images.pokemontcg.io/mcd11/4.png"
+      "myp": "mcd11_004"
     },
     {
       "id": "mcd11-5",
@@ -2922,8 +2765,7 @@
       "artistId": "109",
       "numeroLiga": "(5/12)",
       "codigoLiga": "alomomola (5/12)",
-      "myp": "mcd11_005",
-      "image": "https://images.pokemontcg.io/mcd11/5.png"
+      "myp": "mcd11_005"
     },
     {
       "id": "mcd11-6",
@@ -2940,8 +2782,7 @@
       "artistId": "1",
       "numeroLiga": "(6/12)",
       "codigoLiga": "blitzle (6/12)",
-      "myp": "mcd11_006",
-      "image": "https://images.pokemontcg.io/mcd11/6.png"
+      "myp": "mcd11_006"
     },
     {
       "id": "mcd11-7",
@@ -2958,8 +2799,7 @@
       "artistId": "1",
       "numeroLiga": "(7/12)",
       "codigoLiga": "munna (7/12)",
-      "myp": "mcd11_007",
-      "image": "https://images.pokemontcg.io/mcd11/7.png"
+      "myp": "mcd11_007"
     },
     {
       "id": "mcd11-8",
@@ -2976,8 +2816,7 @@
       "artistId": "1",
       "numeroLiga": "(8/12)",
       "codigoLiga": "sandile (8/12)",
-      "myp": "mcd11_008",
-      "image": "https://images.pokemontcg.io/mcd11/8.png"
+      "myp": "mcd11_008"
     },
     {
       "id": "mcd11-9",
@@ -2994,8 +2833,7 @@
       "artistId": "1",
       "numeroLiga": "(9/12)",
       "codigoLiga": "zorua (9/12)",
-      "myp": "mcd11_009",
-      "image": "https://images.pokemontcg.io/mcd11/9.png"
+      "myp": "mcd11_009"
     },
     {
       "id": "mcd11-10",
@@ -3012,8 +2850,7 @@
       "artistId": "1",
       "numeroLiga": "(10/12)",
       "codigoLiga": "klink (10/12)",
-      "myp": "mcd11_010",
-      "image": "https://images.pokemontcg.io/mcd11/10.png"
+      "myp": "mcd11_010"
     },
     {
       "id": "mcd11-11",
@@ -3030,8 +2867,7 @@
       "artistId": "1",
       "numeroLiga": "(11/12)",
       "codigoLiga": "pidove (11/12)",
-      "myp": "mcd11_011",
-      "image": "https://images.pokemontcg.io/mcd11/11.png"
+      "myp": "mcd11_011"
     },
     {
       "id": "mcd11-12",
@@ -3048,8 +2884,7 @@
       "artistId": "116",
       "numeroLiga": "(12/12)",
       "codigoLiga": "audino (12/12)",
-      "myp": "mcd11_012",
-      "image": "https://images.pokemontcg.io/mcd11/12.png"
+      "myp": "mcd11_012"
     },
     {
       "id": "mcd12-1",
@@ -3066,8 +2901,7 @@
       "artistId": "5",
       "numeroLiga": "(1/12)",
       "codigoLiga": "servine (1/12)",
-      "myp": "mcd12_001",
-      "image": "https://images.pokemontcg.io/mcd12/1.png"
+      "myp": "mcd12_001"
     },
     {
       "id": "mcd12-2",
@@ -3084,8 +2918,7 @@
       "artistId": "61",
       "numeroLiga": "(2/12)",
       "codigoLiga": "pansage (2/12)",
-      "myp": "mcd12_002",
-      "image": "https://images.pokemontcg.io/mcd12/2.png"
+      "myp": "mcd12_002"
     },
     {
       "id": "mcd12-3",
@@ -3102,8 +2935,7 @@
       "artistId": "116",
       "numeroLiga": "(3/12)",
       "codigoLiga": "dwebble (3/12)",
-      "myp": "mcd12_003",
-      "image": "https://images.pokemontcg.io/mcd12/3.png"
+      "myp": "mcd12_003"
     },
     {
       "id": "mcd12-4",
@@ -3120,8 +2952,7 @@
       "artistId": "61",
       "numeroLiga": "(4/12)",
       "codigoLiga": "pignite (4/12)",
-      "myp": "mcd12_004",
-      "image": "https://images.pokemontcg.io/mcd12/4.png"
+      "myp": "mcd12_004"
     },
     {
       "id": "mcd12-5",
@@ -3138,8 +2969,7 @@
       "artistId": "71",
       "numeroLiga": "(5/12)",
       "codigoLiga": "dewott (5/12)",
-      "myp": "mcd12_005",
-      "image": "https://images.pokemontcg.io/mcd12/5.png"
+      "myp": "mcd12_005"
     },
     {
       "id": "mcd12-6",
@@ -3156,8 +2986,7 @@
       "artistId": "61",
       "numeroLiga": "(6/12)",
       "codigoLiga": "emolga (6/12)",
-      "myp": "mcd12_006",
-      "image": "https://images.pokemontcg.io/mcd12/6.png"
+      "myp": "mcd12_006"
     },
     {
       "id": "mcd12-7",
@@ -3174,8 +3003,7 @@
       "artistId": "71",
       "numeroLiga": "(7/12)",
       "codigoLiga": "woobat (7/12)",
-      "myp": "mcd12_007",
-      "image": "https://images.pokemontcg.io/mcd12/7.png"
+      "myp": "mcd12_007"
     },
     {
       "id": "mcd12-8",
@@ -3192,8 +3020,7 @@
       "artistId": "115",
       "numeroLiga": "(8/12)",
       "codigoLiga": "drilbur (8/12)",
-      "myp": "mcd12_008",
-      "image": "https://images.pokemontcg.io/mcd12/8.png"
+      "myp": "mcd12_008"
     },
     {
       "id": "mcd12-9",
@@ -3210,8 +3037,7 @@
       "artistId": "12",
       "numeroLiga": "(9/12)",
       "codigoLiga": "purrloin (9/12)",
-      "myp": "mcd12_009",
-      "image": "https://images.pokemontcg.io/mcd12/9.png"
+      "myp": "mcd12_009"
     },
     {
       "id": "mcd12-10",
@@ -3228,8 +3054,7 @@
       "artistId": "71",
       "numeroLiga": "(10/12)",
       "codigoLiga": "scraggy (10/12)",
-      "myp": "mcd12_010",
-      "image": "https://images.pokemontcg.io/mcd12/10.png"
+      "myp": "mcd12_010"
     },
     {
       "id": "mcd12-11",
@@ -3246,8 +3071,7 @@
       "artistId": "61",
       "numeroLiga": "(11/12)",
       "codigoLiga": "klang (11/12)",
-      "myp": "mcd12_011",
-      "image": "https://images.pokemontcg.io/mcd12/11.png"
+      "myp": "mcd12_011"
     },
     {
       "id": "mcd12-12",
@@ -3264,8 +3088,7 @@
       "artistId": "12",
       "numeroLiga": "(12/12)",
       "codigoLiga": "axew (12/12)",
-      "myp": "mcd12_012",
-      "image": "https://images.pokemontcg.io/mcd12/12.png"
+      "myp": "mcd12_012"
     },
     {
       "id": "mcd14-1",
@@ -3282,8 +3105,7 @@
       "artistId": "130",
       "numeroLiga": "(1/12)",
       "codigoLiga": "weedle (1/12)",
-      "myp": "mcd14_001",
-      "image": "https://images.pokemontcg.io/mcd14/1.png"
+      "myp": "mcd14_001"
     },
     {
       "id": "mcd14-2",
@@ -3300,8 +3122,7 @@
       "artistId": "131",
       "numeroLiga": "(2/12)",
       "codigoLiga": "chespin (2/12)",
-      "myp": "mcd14_002",
-      "image": "https://images.pokemontcg.io/mcd14/2.png"
+      "myp": "mcd14_002"
     },
     {
       "id": "mcd14-3",
@@ -3318,8 +3139,7 @@
       "artistId": "131",
       "numeroLiga": "(3/12)",
       "codigoLiga": "fennekin (3/12)",
-      "myp": "mcd14_003",
-      "image": "https://images.pokemontcg.io/mcd14/3.png"
+      "myp": "mcd14_003"
     },
     {
       "id": "mcd14-4",
@@ -3336,8 +3156,7 @@
       "artistId": "131",
       "numeroLiga": "(4/12)",
       "codigoLiga": "froakie (4/12)",
-      "myp": "mcd14_004",
-      "image": "https://images.pokemontcg.io/mcd14/4.png"
+      "myp": "mcd14_004"
     },
     {
       "id": "mcd14-5",
@@ -3354,8 +3173,7 @@
       "artistId": "116",
       "numeroLiga": "(5/12)",
       "codigoLiga": "pikachu (5/12)",
-      "myp": "mcd14_005",
-      "image": "https://images.pokemontcg.io/mcd14/5.png"
+      "myp": "mcd14_005"
     },
     {
       "id": "mcd14-6",
@@ -3372,8 +3190,7 @@
       "artistId": "131",
       "numeroLiga": "(6/12)",
       "codigoLiga": "inkay (6/12)",
-      "myp": "mcd14_006",
-      "image": "https://images.pokemontcg.io/mcd14/6.png"
+      "myp": "mcd14_006"
     },
     {
       "id": "mcd14-7",
@@ -3390,8 +3207,7 @@
       "artistId": "131",
       "numeroLiga": "(7/12)",
       "codigoLiga": "honedge (7/12)",
-      "myp": "mcd14_007",
-      "image": "https://images.pokemontcg.io/mcd14/7.png"
+      "myp": "mcd14_007"
     },
     {
       "id": "mcd14-8",
@@ -3408,8 +3224,7 @@
       "artistId": "114",
       "numeroLiga": "(8/12)",
       "codigoLiga": "snubbull (8/12)",
-      "myp": "mcd14_008",
-      "image": "https://images.pokemontcg.io/mcd14/8.png"
+      "myp": "mcd14_008"
     },
     {
       "id": "mcd14-9",
@@ -3426,8 +3241,7 @@
       "artistId": "131",
       "numeroLiga": "(9/12)",
       "codigoLiga": "swirlix (9/12)",
-      "myp": "mcd14_009",
-      "image": "https://images.pokemontcg.io/mcd14/9.png"
+      "myp": "mcd14_009"
     },
     {
       "id": "mcd14-10",
@@ -3444,8 +3258,7 @@
       "artistId": "131",
       "numeroLiga": "(10/12)",
       "codigoLiga": "bunnelby (10/12)",
-      "myp": "mcd14_010",
-      "image": "https://images.pokemontcg.io/mcd14/10.png"
+      "myp": "mcd14_010"
     },
     {
       "id": "mcd14-11",
@@ -3462,8 +3275,7 @@
       "artistId": "131",
       "numeroLiga": "(11/12)",
       "codigoLiga": "fletchling (11/12)",
-      "myp": "mcd14_011",
-      "image": "https://images.pokemontcg.io/mcd14/11.png"
+      "myp": "mcd14_011"
     },
     {
       "id": "mcd14-12",
@@ -3480,8 +3292,7 @@
       "artistId": "131",
       "numeroLiga": "(12/12)",
       "codigoLiga": "furfrou (12/12)",
-      "myp": "mcd14_012",
-      "image": "https://images.pokemontcg.io/mcd14/12.png"
+      "myp": "mcd14_012"
     },
     {
       "id": "mcd15-1",
@@ -3498,8 +3309,7 @@
       "artistId": "130",
       "numeroLiga": "(1/12)",
       "codigoLiga": "treecko (1/12)",
-      "myp": "mcd15_001",
-      "image": "https://images.pokemontcg.io/mcd15/1.png"
+      "myp": "mcd15_001"
     },
     {
       "id": "mcd15-2",
@@ -3516,8 +3326,7 @@
       "artistId": "85",
       "numeroLiga": "(2/12)",
       "codigoLiga": "lotad (2/12)",
-      "myp": "mcd15_002",
-      "image": "https://images.pokemontcg.io/mcd15/2.png"
+      "myp": "mcd15_002"
     },
     {
       "id": "mcd15-3",
@@ -3534,8 +3343,7 @@
       "artistId": "109",
       "numeroLiga": "(3/12)",
       "codigoLiga": "torchic (3/12)",
-      "myp": "mcd15_003",
-      "image": "https://images.pokemontcg.io/mcd15/3.png"
+      "myp": "mcd15_003"
     },
     {
       "id": "mcd15-4",
@@ -3552,8 +3360,7 @@
       "artistId": "14",
       "numeroLiga": "(4/12)",
       "codigoLiga": "staryu (4/12)",
-      "myp": "mcd15_004",
-      "image": "https://images.pokemontcg.io/mcd15/4.png"
+      "myp": "mcd15_004"
     },
     {
       "id": "mcd15-5",
@@ -3570,8 +3377,7 @@
       "artistId": "34",
       "numeroLiga": "(5/12)",
       "codigoLiga": "mudkip (5/12)",
-      "myp": "mcd15_005",
-      "image": "https://images.pokemontcg.io/mcd15/5.png"
+      "myp": "mcd15_005"
     },
     {
       "id": "mcd15-6",
@@ -3588,8 +3394,7 @@
       "artistId": "114",
       "numeroLiga": "(6/12)",
       "codigoLiga": "pikachu (6/12)",
-      "myp": "mcd15_006",
-      "image": "https://images.pokemontcg.io/mcd15/6.png"
+      "myp": "mcd15_006"
     },
     {
       "id": "mcd15-7",
@@ -3606,8 +3411,7 @@
       "artistId": "10",
       "numeroLiga": "(7/12)",
       "codigoLiga": "electrike (7/12)",
-      "myp": "mcd15_007",
-      "image": "https://images.pokemontcg.io/mcd15/7.png"
+      "myp": "mcd15_007"
     },
     {
       "id": "mcd15-8",
@@ -3625,8 +3429,7 @@
       "artistId": "62",
       "numeroLiga": "(8/12)",
       "codigoLiga": "rhyhorn (8/12)",
-      "myp": "mcd15_008",
-      "image": "https://images.pokemontcg.io/mcd15/8.png"
+      "myp": "mcd15_008"
     },
     {
       "id": "mcd15-9",
@@ -3643,8 +3446,7 @@
       "artistId": "109",
       "numeroLiga": "(9/12)",
       "codigoLiga": "meditite (9/12)",
-      "myp": "mcd15_009",
-      "image": "https://images.pokemontcg.io/mcd15/9.png"
+      "myp": "mcd15_009"
     },
     {
       "id": "mcd15-10",
@@ -3661,8 +3463,7 @@
       "artistId": "127",
       "numeroLiga": "(10/12)",
       "codigoLiga": "marill (10/12)",
-      "myp": "mcd15_010",
-      "image": "https://images.pokemontcg.io/mcd15/10.png"
+      "myp": "mcd15_010"
     },
     {
       "id": "mcd15-11",
@@ -3679,8 +3480,7 @@
       "artistId": "10",
       "numeroLiga": "(11/12)",
       "codigoLiga": "zigzagoon (11/12)",
-      "myp": "mcd15_011",
-      "image": "https://images.pokemontcg.io/mcd15/11.png"
+      "myp": "mcd15_011"
     },
     {
       "id": "mcd15-12",
@@ -3697,8 +3497,7 @@
       "artistId": "36",
       "numeroLiga": "(12/12)",
       "codigoLiga": "skitty (12/12)",
-      "myp": "mcd15_012",
-      "image": "https://images.pokemontcg.io/mcd15/12.png"
+      "myp": "mcd15_012"
     },
     {
       "id": "mcd16-1",
@@ -3715,8 +3514,7 @@
       "artistId": "147",
       "numeroLiga": "(1/12)",
       "codigoLiga": "vulpix (1/12)",
-      "myp": "mcd16_001",
-      "image": "https://images.pokemontcg.io/mcd16/1.png"
+      "myp": "mcd16_001"
     },
     {
       "id": "mcd16-2",
@@ -3733,8 +3531,7 @@
       "artistId": "109",
       "numeroLiga": "(2/12)",
       "codigoLiga": "torchic (2/12)",
-      "myp": "mcd16_002",
-      "image": "https://images.pokemontcg.io/mcd16/2.png"
+      "myp": "mcd16_002"
     },
     {
       "id": "mcd16-3",
@@ -3751,8 +3548,7 @@
       "artistId": "131",
       "numeroLiga": "(3/12)",
       "codigoLiga": "fennekin (3/12)",
-      "myp": "mcd16_003",
-      "image": "https://images.pokemontcg.io/mcd16/3.png"
+      "myp": "mcd16_003"
     },
     {
       "id": "mcd16-4",
@@ -3769,8 +3565,7 @@
       "artistId": "130",
       "numeroLiga": "(4/12)",
       "codigoLiga": "magikarp (4/12)",
-      "myp": "mcd16_004",
-      "image": "https://images.pokemontcg.io/mcd16/4.png"
+      "myp": "mcd16_004"
     },
     {
       "id": "mcd16-5",
@@ -3787,8 +3582,7 @@
       "artistId": "5",
       "numeroLiga": "(5/12)",
       "codigoLiga": "totodile (5/12)",
-      "myp": "mcd16_005",
-      "image": "https://images.pokemontcg.io/mcd16/5.png"
+      "myp": "mcd16_005"
     },
     {
       "id": "mcd16-6",
@@ -3805,8 +3599,7 @@
       "artistId": "114",
       "numeroLiga": "(6/12)",
       "codigoLiga": "pikachu (6/12)",
-      "myp": "mcd16_006",
-      "image": "https://images.pokemontcg.io/mcd16/6.png"
+      "myp": "mcd16_006"
     },
     {
       "id": "mcd16-7",
@@ -3823,8 +3616,7 @@
       "artistId": "14",
       "numeroLiga": "(7/12)",
       "codigoLiga": "scraggy (7/12)",
-      "myp": "mcd16_007",
-      "image": "https://images.pokemontcg.io/mcd16/7.png"
+      "myp": "mcd16_007"
     },
     {
       "id": "mcd16-8",
@@ -3841,8 +3633,7 @@
       "artistId": "85",
       "numeroLiga": "(8/12)",
       "codigoLiga": "jigglypuff (8/12)",
-      "myp": "mcd16_008",
-      "image": "https://images.pokemontcg.io/mcd16/8.png"
+      "myp": "mcd16_008"
     },
     {
       "id": "mcd16-9",
@@ -3859,8 +3650,7 @@
       "artistId": "134",
       "numeroLiga": "(9/12)",
       "codigoLiga": "togepi (9/12)",
-      "myp": "mcd16_009",
-      "image": "https://images.pokemontcg.io/mcd16/9.png"
+      "myp": "mcd16_009"
     },
     {
       "id": "mcd16-10",
@@ -3877,8 +3667,7 @@
       "artistId": "131",
       "numeroLiga": "(10/12)",
       "codigoLiga": "dedenne (10/12)",
-      "myp": "mcd16_010",
-      "image": "https://images.pokemontcg.io/mcd16/10.png"
+      "myp": "mcd16_010"
     },
     {
       "id": "mcd16-11",
@@ -3895,8 +3684,7 @@
       "artistId": "85",
       "numeroLiga": "(11/12)",
       "codigoLiga": "meowth (11/12)",
-      "myp": "mcd16_011",
-      "image": "https://images.pokemontcg.io/mcd16/11.png"
+      "myp": "mcd16_011"
     },
     {
       "id": "mcd16-12",
@@ -3913,8 +3701,7 @@
       "artistId": "61",
       "numeroLiga": "(12/12)",
       "codigoLiga": "eevee (12/12)",
-      "myp": "mcd16_012",
-      "image": "https://images.pokemontcg.io/mcd16/12.png"
+      "myp": "mcd16_012"
     },
     {
       "id": "mcd17-1",
@@ -3931,8 +3718,7 @@
       "artistId": "137",
       "numeroLiga": "(1/12)",
       "codigoLiga": "rowlet (1/12)",
-      "myp": "mcd17_001",
-      "image": "https://images.pokemontcg.io/mcd17/1.png"
+      "myp": "mcd17_001"
     },
     {
       "id": "mcd17-2",
@@ -3949,8 +3735,7 @@
       "artistId": "130",
       "numeroLiga": "(2/12)",
       "codigoLiga": "grubbin (2/12)",
-      "myp": "mcd17_002",
-      "image": "https://images.pokemontcg.io/mcd17/2.png"
+      "myp": "mcd17_002"
     },
     {
       "id": "mcd17-3",
@@ -3967,8 +3752,7 @@
       "artistId": "130",
       "numeroLiga": "(3/12)",
       "codigoLiga": "litten (3/12)",
-      "myp": "mcd17_003",
-      "image": "https://images.pokemontcg.io/mcd17/3.png"
+      "myp": "mcd17_003"
     },
     {
       "id": "mcd17-4",
@@ -3985,8 +3769,7 @@
       "artistId": "61",
       "numeroLiga": "(4/12)",
       "codigoLiga": "popplio (4/12)",
-      "myp": "mcd17_004",
-      "image": "https://images.pokemontcg.io/mcd17/4.png"
+      "myp": "mcd17_004"
     },
     {
       "id": "mcd17-5",
@@ -4003,8 +3786,7 @@
       "artistId": "147",
       "numeroLiga": "(5/12)",
       "codigoLiga": "pikachu (5/12)",
-      "myp": "mcd17_005",
-      "image": "https://images.pokemontcg.io/mcd17/5.png"
+      "myp": "mcd17_005"
     },
     {
       "id": "mcd17-6",
@@ -4021,8 +3803,7 @@
       "artistId": "137",
       "numeroLiga": "(6/12)",
       "codigoLiga": "cosmog (6/12)",
-      "myp": "mcd17_006",
-      "image": "https://images.pokemontcg.io/mcd17/6.png"
+      "myp": "mcd17_006"
     },
     {
       "id": "mcd17-7",
@@ -4039,8 +3820,7 @@
       "artistId": "106",
       "numeroLiga": "(7/12)",
       "codigoLiga": "crabrawler (7/12)",
-      "myp": "mcd17_007",
-      "image": "https://images.pokemontcg.io/mcd17/7.png"
+      "myp": "mcd17_007"
     },
     {
       "id": "mcd17-8",
@@ -4058,8 +3838,7 @@
       "artistId": "5",
       "numeroLiga": "(8/12)",
       "codigoLiga": "alolan meowth (8/12)",
-      "myp": "mcd17_008",
-      "image": "https://images.pokemontcg.io/mcd17/8.png"
+      "myp": "mcd17_008"
     },
     {
       "id": "mcd17-9",
@@ -4077,8 +3856,7 @@
       "artistId": "137",
       "numeroLiga": "(9/12)",
       "codigoLiga": "alolan diglett (9/12)",
-      "myp": "mcd17_009",
-      "image": "https://images.pokemontcg.io/mcd17/9.png"
+      "myp": "mcd17_009"
     },
     {
       "id": "mcd17-10",
@@ -4095,8 +3873,7 @@
       "artistId": "148",
       "numeroLiga": "(10/12)",
       "codigoLiga": "cutiefly (10/12)",
-      "myp": "mcd17_010",
-      "image": "https://images.pokemontcg.io/mcd17/10.png"
+      "myp": "mcd17_010"
     },
     {
       "id": "mcd17-11",
@@ -4113,8 +3890,7 @@
       "artistId": "106",
       "numeroLiga": "(11/12)",
       "codigoLiga": "pikipek (11/12)",
-      "myp": "mcd17_011",
-      "image": "https://images.pokemontcg.io/mcd17/11.png"
+      "myp": "mcd17_011"
     },
     {
       "id": "mcd17-12",
@@ -4131,8 +3907,7 @@
       "artistId": "115",
       "numeroLiga": "(12/12)",
       "codigoLiga": "yungoos (12/12)",
-      "myp": "mcd17_012",
-      "image": "https://images.pokemontcg.io/mcd17/12.png"
+      "myp": "mcd17_012"
     },
     {
       "id": "mcd18-1",
@@ -4149,8 +3924,7 @@
       "artistId": "116",
       "numeroLiga": "(1/12)",
       "codigoLiga": "growlithe (1/12)",
-      "myp": "mcd18_001",
-      "image": "https://images.pokemontcg.io/mcd18/1.png"
+      "myp": "mcd18_001"
     },
     {
       "id": "mcd18-2",
@@ -4167,8 +3941,7 @@
       "artistId": "163",
       "numeroLiga": "(2/12)",
       "codigoLiga": "psyduck (2/12)",
-      "myp": "mcd18_002",
-      "image": "https://images.pokemontcg.io/mcd18/2.png"
+      "myp": "mcd18_002"
     },
     {
       "id": "mcd18-3",
@@ -4185,8 +3958,7 @@
       "artistId": "103",
       "numeroLiga": "(3/12)",
       "codigoLiga": "horsea (3/12)",
-      "myp": "mcd18_003",
-      "image": "https://images.pokemontcg.io/mcd18/3.png"
+      "myp": "mcd18_003"
     },
     {
       "id": "mcd18-4",
@@ -4203,8 +3975,7 @@
       "artistId": "163",
       "numeroLiga": "(4/12)",
       "codigoLiga": "pikachu (4/12)",
-      "myp": "mcd18_004",
-      "image": "https://images.pokemontcg.io/mcd18/4.png"
+      "myp": "mcd18_004"
     },
     {
       "id": "mcd18-5",
@@ -4221,8 +3992,7 @@
       "artistId": "162",
       "numeroLiga": "(5/12)",
       "codigoLiga": "slowpoke (5/12)",
-      "myp": "mcd18_005",
-      "image": "https://images.pokemontcg.io/mcd18/5.png"
+      "myp": "mcd18_005"
     },
     {
       "id": "mcd18-6",
@@ -4239,8 +4009,7 @@
       "artistId": "71",
       "numeroLiga": "(6/12)",
       "codigoLiga": "machop (6/12)",
-      "myp": "mcd18_006",
-      "image": "https://images.pokemontcg.io/mcd18/6.png"
+      "myp": "mcd18_006"
     },
     {
       "id": "mcd18-7",
@@ -4257,8 +4026,7 @@
       "artistId": "109",
       "numeroLiga": "(7/12)",
       "codigoLiga": "cubone (7/12)",
-      "myp": "mcd18_007",
-      "image": "https://images.pokemontcg.io/mcd18/7.png"
+      "myp": "mcd18_007"
     },
     {
       "id": "mcd18-8",
@@ -4275,8 +4043,7 @@
       "artistId": "116",
       "numeroLiga": "(8/12)",
       "codigoLiga": "magnemite (8/12)",
-      "myp": "mcd18_008",
-      "image": "https://images.pokemontcg.io/mcd18/8.png"
+      "myp": "mcd18_008"
     },
     {
       "id": "mcd18-9",
@@ -4293,8 +4060,7 @@
       "artistId": "25",
       "numeroLiga": "(9/12)",
       "codigoLiga": "dratini (9/12)",
-      "myp": "mcd18_009",
-      "image": "https://images.pokemontcg.io/mcd18/9.png"
+      "myp": "mcd18_009"
     },
     {
       "id": "mcd18-10",
@@ -4311,8 +4077,7 @@
       "artistId": "137",
       "numeroLiga": "(10/12)",
       "codigoLiga": "chansey (10/12)",
-      "myp": "mcd18_010",
-      "image": "https://images.pokemontcg.io/mcd18/10.png"
+      "myp": "mcd18_010"
     },
     {
       "id": "mcd18-11",
@@ -4329,8 +4094,7 @@
       "artistId": "163",
       "numeroLiga": "(11/12)",
       "codigoLiga": "eevee (11/12)",
-      "myp": "mcd18_011",
-      "image": "https://images.pokemontcg.io/mcd18/11.png"
+      "myp": "mcd18_011"
     },
     {
       "id": "mcd18-12",
@@ -4347,8 +4111,7 @@
       "artistId": "106",
       "numeroLiga": "(12/12)",
       "codigoLiga": "porygon (12/12)",
-      "myp": "mcd18_012",
-      "image": "https://images.pokemontcg.io/mcd18/12.png"
+      "myp": "mcd18_012"
     },
     {
       "id": "mcd19-1",
@@ -4364,8 +4127,7 @@
       "artistId": "188",
       "numeroLiga": "(1/12)",
       "codigoLiga": "caterpie (1/12)",
-      "myp": "mcd19_001",
-      "image": "https://images.pokemontcg.io/mcd19/1.png"
+      "myp": "mcd19_001"
     },
     {
       "id": "mcd19-2",
@@ -4382,8 +4144,7 @@
       "artistId": "142",
       "numeroLiga": "(2/12)",
       "codigoLiga": "alolan exeggutor (2/12)",
-      "myp": "mcd19_002",
-      "image": "https://images.pokemontcg.io/mcd19/2.png"
+      "myp": "mcd19_002"
     },
     {
       "id": "mcd19-3",
@@ -4399,8 +4160,7 @@
       "artistId": "166",
       "numeroLiga": "(3/12)",
       "codigoLiga": "magmar (3/12)",
-      "myp": "mcd19_003",
-      "image": "https://images.pokemontcg.io/mcd19/3.png"
+      "myp": "mcd19_003"
     },
     {
       "id": "mcd19-4",
@@ -4417,8 +4177,7 @@
       "artistId": "106",
       "numeroLiga": "(4/12)",
       "codigoLiga": "alolan sandshrew (4/12)",
-      "myp": "mcd19_004",
-      "image": "https://images.pokemontcg.io/mcd19/4.png"
+      "myp": "mcd19_004"
     },
     {
       "id": "mcd19-5",
@@ -4434,8 +4193,7 @@
       "artistId": "103",
       "numeroLiga": "(5/12)",
       "codigoLiga": "lapras (5/12)",
-      "myp": "mcd19_005",
-      "image": "https://images.pokemontcg.io/mcd19/5.png"
+      "myp": "mcd19_005"
     },
     {
       "id": "mcd19-6",
@@ -4452,8 +4210,7 @@
       "artistId": "5",
       "numeroLiga": "(6/12)",
       "codigoLiga": "pikachu (6/12)",
-      "myp": "mcd19_006",
-      "image": "https://images.pokemontcg.io/mcd19/6.png"
+      "myp": "mcd19_006"
     },
     {
       "id": "mcd19-7",
@@ -4470,8 +4227,7 @@
       "artistId": "163",
       "numeroLiga": "(7/12)",
       "codigoLiga": "gastly (7/12)",
-      "myp": "mcd19_007",
-      "image": "https://images.pokemontcg.io/mcd19/7.png"
+      "myp": "mcd19_007"
     },
     {
       "id": "mcd19-8",
@@ -4488,8 +4244,7 @@
       "artistId": "19",
       "numeroLiga": "(8/12)",
       "codigoLiga": "mankey (8/12)",
-      "myp": "mcd19_008",
-      "image": "https://images.pokemontcg.io/mcd19/8.png"
+      "myp": "mcd19_008"
     },
     {
       "id": "mcd19-9",
@@ -4506,8 +4261,7 @@
       "artistId": "2",
       "numeroLiga": "(9/12)",
       "codigoLiga": "onix (9/12)",
-      "myp": "mcd19_009",
-      "image": "https://images.pokemontcg.io/mcd19/9.png"
+      "myp": "mcd19_009"
     },
     {
       "id": "mcd19-10",
@@ -4525,8 +4279,7 @@
       "artistId": "130",
       "numeroLiga": "(10/12)",
       "codigoLiga": "alolan meowth (10/12)",
-      "myp": "mcd19_010",
-      "image": "https://images.pokemontcg.io/mcd19/10.png"
+      "myp": "mcd19_010"
     },
     {
       "id": "mcd19-11",
@@ -4544,8 +4297,7 @@
       "artistId": "137",
       "numeroLiga": "(11/12)",
       "codigoLiga": "alolan dugtrio (11/12)",
-      "myp": "mcd19_011",
-      "image": "https://images.pokemontcg.io/mcd19/11.png"
+      "myp": "mcd19_011"
     },
     {
       "id": "mcd19-12",
@@ -4562,8 +4314,7 @@
       "artistId": "12",
       "numeroLiga": "(12/12)",
       "codigoLiga": "eevee (12/12)",
-      "myp": "mcd19_012",
-      "image": "https://images.pokemontcg.io/mcd19/12.png"
+      "myp": "mcd19_012"
     },
     {
       "id": "fut20-1",
@@ -4580,8 +4331,7 @@
       "artistId": "136",
       "numeroLiga": "(1/5)",
       "codigoLiga": "pikachu on the ball (1/5)",
-      "myp": "fut20_001",
-      "image": "https://images.pokemontcg.io/fut20/1.png"
+      "myp": "fut20_001"
     },
     {
       "id": "fut20-2",
@@ -4598,8 +4348,7 @@
       "artistId": "136",
       "numeroLiga": "(2/5)",
       "codigoLiga": "eevee on the ball (2/5)",
-      "myp": "fut20_002",
-      "image": "https://images.pokemontcg.io/fut20/2.png"
+      "myp": "fut20_002"
     },
     {
       "id": "fut20-3",
@@ -4615,8 +4364,7 @@
       "artistId": "136",
       "numeroLiga": "(3/5)",
       "codigoLiga": "grookey on the ball (3/5)",
-      "myp": "fut20_003",
-      "image": "https://images.pokemontcg.io/fut20/3.png"
+      "myp": "fut20_003"
     },
     {
       "id": "fut20-4",
@@ -4632,8 +4380,7 @@
       "artistId": "136",
       "numeroLiga": "(4/5)",
       "codigoLiga": "scorbunny on the ball (4/5)",
-      "myp": "fut20_004",
-      "image": "https://images.pokemontcg.io/fut20/4.png"
+      "myp": "fut20_004"
     },
     {
       "id": "fut20-5",
@@ -4650,8 +4397,7 @@
       "artistId": "136",
       "numeroLiga": "(5/5)",
       "codigoLiga": "sobble on the ball (5/5)",
-      "myp": "fut20_005",
-      "image": "https://images.pokemontcg.io/fut20/5.png"
+      "myp": "fut20_005"
     },
     {
       "id": "mcd21-1",
@@ -4667,8 +4413,7 @@
       "artistId": "129",
       "numeroLiga": "(1/25)",
       "codigoLiga": "bulbasaur (1/25)",
-      "myp": "mcd21_001",
-      "image": "https://images.pokemontcg.io/mcd21/1.png"
+      "myp": "mcd21_001"
     },
     {
       "id": "mcd21-2",
@@ -4684,8 +4429,7 @@
       "artistId": "193",
       "numeroLiga": "(2/25)",
       "codigoLiga": "chikorita (2/25)",
-      "myp": "mcd21_002",
-      "image": "https://images.pokemontcg.io/mcd21/2.png"
+      "myp": "mcd21_002"
     },
     {
       "id": "mcd21-3",
@@ -4701,8 +4445,7 @@
       "artistId": "130",
       "numeroLiga": "(3/25)",
       "codigoLiga": "treecko (3/25)",
-      "myp": "mcd21_003",
-      "image": "https://images.pokemontcg.io/mcd21/3.png"
+      "myp": "mcd21_003"
     },
     {
       "id": "mcd21-4",
@@ -4719,8 +4462,7 @@
       "artistId": "150",
       "numeroLiga": "(4/25)",
       "codigoLiga": "turtwig (4/25)",
-      "myp": "mcd21_004",
-      "image": "https://images.pokemontcg.io/mcd21/4.png"
+      "myp": "mcd21_004"
     },
     {
       "id": "mcd21-5",
@@ -4737,8 +4479,7 @@
       "artistId": "1",
       "numeroLiga": "(5/25)",
       "codigoLiga": "snivy (5/25)",
-      "myp": "mcd21_005",
-      "image": "https://images.pokemontcg.io/mcd21/5.png"
+      "myp": "mcd21_005"
     },
     {
       "id": "mcd21-6",
@@ -4754,8 +4495,7 @@
       "artistId": "131",
       "numeroLiga": "(6/25)",
       "codigoLiga": "chespin (6/25)",
-      "myp": "mcd21_006",
-      "image": "https://images.pokemontcg.io/mcd21/6.png"
+      "myp": "mcd21_006"
     },
     {
       "id": "mcd21-7",
@@ -4771,8 +4511,7 @@
       "artistId": "137",
       "numeroLiga": "(7/25)",
       "codigoLiga": "rowlet (7/25)",
-      "myp": "mcd21_007",
-      "image": "https://images.pokemontcg.io/mcd21/7.png"
+      "myp": "mcd21_007"
     },
     {
       "id": "mcd21-8",
@@ -4788,8 +4527,7 @@
       "artistId": "147",
       "numeroLiga": "(8/25)",
       "codigoLiga": "grookey (8/25)",
-      "myp": "mcd21_008",
-      "image": "https://images.pokemontcg.io/mcd21/8.png"
+      "myp": "mcd21_008"
     },
     {
       "id": "mcd21-9",
@@ -4805,8 +4543,7 @@
       "artistId": "5",
       "numeroLiga": "(9/25)",
       "codigoLiga": "charmander (9/25)",
-      "myp": "mcd21_009",
-      "image": "https://images.pokemontcg.io/mcd21/9.png"
+      "myp": "mcd21_009"
     },
     {
       "id": "mcd21-10",
@@ -4823,8 +4560,7 @@
       "artistId": "147",
       "numeroLiga": "(10/25)",
       "codigoLiga": "cyndaquil (10/25)",
-      "myp": "mcd21_010",
-      "image": "https://images.pokemontcg.io/mcd21/10.png"
+      "myp": "mcd21_010"
     },
     {
       "id": "mcd21-11",
@@ -4841,8 +4577,7 @@
       "artistId": "109",
       "numeroLiga": "(11/25)",
       "codigoLiga": "torchic (11/25)",
-      "myp": "mcd21_011",
-      "image": "https://images.pokemontcg.io/mcd21/11.png"
+      "myp": "mcd21_011"
     },
     {
       "id": "mcd21-12",
@@ -4859,8 +4594,7 @@
       "artistId": "61",
       "numeroLiga": "(12/25)",
       "codigoLiga": "chimchar (12/25)",
-      "myp": "mcd21_012",
-      "image": "https://images.pokemontcg.io/mcd21/12.png"
+      "myp": "mcd21_012"
     },
     {
       "id": "mcd21-13",
@@ -4877,8 +4611,7 @@
       "artistId": "1",
       "numeroLiga": "(13/25)",
       "codigoLiga": "tepig (13/25)",
-      "myp": "mcd21_013",
-      "image": "https://images.pokemontcg.io/mcd21/13.png"
+      "myp": "mcd21_013"
     },
     {
       "id": "mcd21-14",
@@ -4895,8 +4628,7 @@
       "artistId": "131",
       "numeroLiga": "(14/25)",
       "codigoLiga": "fennekin (14/25)",
-      "myp": "mcd21_014",
-      "image": "https://images.pokemontcg.io/mcd21/14.png"
+      "myp": "mcd21_014"
     },
     {
       "id": "mcd21-15",
@@ -4913,8 +4645,7 @@
       "artistId": "130",
       "numeroLiga": "(15/25)",
       "codigoLiga": "litten (15/25)",
-      "myp": "mcd21_015",
-      "image": "https://images.pokemontcg.io/mcd21/15.png"
+      "myp": "mcd21_015"
     },
     {
       "id": "mcd21-16",
@@ -4931,8 +4662,7 @@
       "artistId": "148",
       "numeroLiga": "(16/25)",
       "codigoLiga": "scorbunny (16/25)",
-      "myp": "mcd21_016",
-      "image": "https://images.pokemontcg.io/mcd21/16.png"
+      "myp": "mcd21_016"
     },
     {
       "id": "mcd21-17",
@@ -4949,8 +4679,7 @@
       "artistId": "172",
       "numeroLiga": "(17/25)",
       "codigoLiga": "squirtle (17/25)",
-      "myp": "mcd21_017",
-      "image": "https://images.pokemontcg.io/mcd21/17.png"
+      "myp": "mcd21_017"
     },
     {
       "id": "mcd21-18",
@@ -4967,8 +4696,7 @@
       "artistId": "5",
       "numeroLiga": "(18/25)",
       "codigoLiga": "totodile (18/25)",
-      "myp": "mcd21_018",
-      "image": "https://images.pokemontcg.io/mcd21/18.png"
+      "myp": "mcd21_018"
     },
     {
       "id": "mcd21-19",
@@ -4985,8 +4713,7 @@
       "artistId": "34",
       "numeroLiga": "(19/25)",
       "codigoLiga": "mudkip (19/25)",
-      "myp": "mcd21_019",
-      "image": "https://images.pokemontcg.io/mcd21/19.png"
+      "myp": "mcd21_019"
     },
     {
       "id": "mcd21-20",
@@ -5003,8 +4730,7 @@
       "artistId": "163",
       "numeroLiga": "(20/25)",
       "codigoLiga": "piplup (20/25)",
-      "myp": "mcd21_020",
-      "image": "https://images.pokemontcg.io/mcd21/20.png"
+      "myp": "mcd21_020"
     },
     {
       "id": "mcd21-21",
@@ -5021,8 +4747,7 @@
       "artistId": "1",
       "numeroLiga": "(21/25)",
       "codigoLiga": "oshawott (21/25)",
-      "myp": "mcd21_021",
-      "image": "https://images.pokemontcg.io/mcd21/21.png"
+      "myp": "mcd21_021"
     },
     {
       "id": "mcd21-22",
@@ -5039,8 +4764,7 @@
       "artistId": "131",
       "numeroLiga": "(22/25)",
       "codigoLiga": "froakie (22/25)",
-      "myp": "mcd21_022",
-      "image": "https://images.pokemontcg.io/mcd21/22.png"
+      "myp": "mcd21_022"
     },
     {
       "id": "mcd21-23",
@@ -5057,8 +4781,7 @@
       "artistId": "61",
       "numeroLiga": "(23/25)",
       "codigoLiga": "popplio (23/25)",
-      "myp": "mcd21_023",
-      "image": "https://images.pokemontcg.io/mcd21/23.png"
+      "myp": "mcd21_023"
     },
     {
       "id": "mcd21-24",
@@ -5075,8 +4798,7 @@
       "artistId": "129",
       "numeroLiga": "(24/25)",
       "codigoLiga": "sobble (24/25)",
-      "myp": "mcd21_024",
-      "image": "https://images.pokemontcg.io/mcd21/24.png"
+      "myp": "mcd21_024"
     },
     {
       "id": "mcd21-25",
@@ -5093,8 +4815,7 @@
       "artistId": "146",
       "numeroLiga": "(25/25)",
       "codigoLiga": "pikachu (25/25)",
-      "myp": "mcd21_025",
-      "image": "https://images.pokemontcg.io/mcd21/25.png"
+      "myp": "mcd21_025"
     },
     {
       "id": "mcd22-1",
@@ -5111,8 +4832,7 @@
       "artistId": "25",
       "numeroLiga": "(001/15)",
       "codigoLiga": "ledyba (001/15)",
-      "myp": "mcd22_001",
-      "image": "https://images.pokemontcg.io/mcd22/1.png"
+      "myp": "mcd22_001"
     },
     {
       "id": "mcd22-2",
@@ -5129,8 +4849,7 @@
       "artistId": "177",
       "numeroLiga": "(002/15)",
       "codigoLiga": "rowlet (002/15)",
-      "myp": "mcd22_002",
-      "image": "https://images.pokemontcg.io/mcd22/2.png"
+      "myp": "mcd22_002"
     },
     {
       "id": "mcd22-3",
@@ -5146,8 +4865,7 @@
       "artistId": "129",
       "numeroLiga": "(003/15)",
       "codigoLiga": "gossifleur (003/15)",
-      "myp": "mcd22_003",
-      "image": "https://images.pokemontcg.io/mcd22/3.png"
+      "myp": "mcd22_003"
     },
     {
       "id": "mcd22-4",
@@ -5163,8 +4881,7 @@
       "artistId": "217",
       "numeroLiga": "(004/15)",
       "codigoLiga": "growlithe (004/15)",
-      "myp": "mcd22_004",
-      "image": "https://images.pokemontcg.io/mcd22/4.png"
+      "myp": "mcd22_004"
     },
     {
       "id": "mcd22-5",
@@ -5180,8 +4897,7 @@
       "artistId": "222",
       "numeroLiga": "(005/15)",
       "codigoLiga": "victini (005/15)",
-      "myp": "mcd22_005",
-      "image": "https://images.pokemontcg.io/mcd22/5.png"
+      "myp": "mcd22_005"
     },
     {
       "id": "mcd22-6",
@@ -5197,8 +4913,7 @@
       "artistId": "220",
       "numeroLiga": "(006/15)",
       "codigoLiga": "lapras (006/15)",
-      "myp": "mcd22_006",
-      "image": "https://images.pokemontcg.io/mcd22/6.png"
+      "myp": "mcd22_006"
     },
     {
       "id": "mcd22-7",
@@ -5215,8 +4930,7 @@
       "artistId": "151",
       "numeroLiga": "(007/15)",
       "codigoLiga": "pikachu (007/15)",
-      "myp": "mcd22_007",
-      "image": "https://images.pokemontcg.io/mcd22/7.png"
+      "myp": "mcd22_007"
     },
     {
       "id": "mcd22-8",
@@ -5232,8 +4946,7 @@
       "artistId": "193",
       "numeroLiga": "(008/15)",
       "codigoLiga": "chinchou (008/15)",
-      "myp": "mcd22_008",
-      "image": "https://images.pokemontcg.io/mcd22/8.png"
+      "myp": "mcd22_008"
     },
     {
       "id": "mcd22-9",
@@ -5249,8 +4962,7 @@
       "artistId": "109",
       "numeroLiga": "(009/15)",
       "codigoLiga": "flaaffy (009/15)",
-      "myp": "mcd22_009",
-      "image": "https://images.pokemontcg.io/mcd22/9.png"
+      "myp": "mcd22_009"
     },
     {
       "id": "mcd22-10",
@@ -5267,8 +4979,7 @@
       "artistId": "193",
       "numeroLiga": "(010/15)",
       "codigoLiga": "tynamo (010/15)",
-      "myp": "mcd22_010",
-      "image": "https://images.pokemontcg.io/mcd22/10.png"
+      "myp": "mcd22_010"
     },
     {
       "id": "mcd22-11",
@@ -5285,8 +4996,7 @@
       "artistId": "37",
       "numeroLiga": "(011/15)",
       "codigoLiga": "cutiefly (011/15)",
-      "myp": "mcd22_011",
-      "image": "https://images.pokemontcg.io/mcd22/11.png"
+      "myp": "mcd22_011"
     },
     {
       "id": "mcd22-12",
@@ -5303,8 +5013,7 @@
       "artistId": "127",
       "numeroLiga": "(012/15)",
       "codigoLiga": "bewear (012/15)",
-      "myp": "mcd22_012",
-      "image": "https://images.pokemontcg.io/mcd22/12.png"
+      "myp": "mcd22_012"
     },
     {
       "id": "mcd22-13",
@@ -5321,8 +5030,7 @@
       "artistId": "177",
       "numeroLiga": "(013/15)",
       "codigoLiga": "pangoro (013/15)",
-      "myp": "mcd22_013",
-      "image": "https://images.pokemontcg.io/mcd22/13.png"
+      "myp": "mcd22_013"
     },
     {
       "id": "mcd22-14",
@@ -5339,8 +5047,7 @@
       "artistId": "14",
       "numeroLiga": "(014/15)",
       "codigoLiga": "drampa (014/15)",
-      "myp": "mcd22_014",
-      "image": "https://images.pokemontcg.io/mcd22/14.png"
+      "myp": "mcd22_014"
     },
     {
       "id": "mcd22-15",
@@ -5357,8 +5064,7 @@
       "artistId": "61",
       "numeroLiga": "(015/15)",
       "codigoLiga": "smeargle (015/15)",
-      "myp": "mcd22_015",
-      "image": "https://images.pokemontcg.io/mcd22/15.png"
+      "myp": "mcd22_015"
     }
   ]
 }
