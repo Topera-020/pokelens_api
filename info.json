@@ -47,7 +47,7 @@
         "info.json",
         "pk_types.json",
         "pokedex.json",
-        "rarity.json",
+        "rarities.json",
         "regions.json",
         "series.json",
         "subtypes.json",
