@@ -12,7 +12,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(1/18)",
       "codigoLiga": "mew (1/18)",
       "myp": "si_001"
@@ -29,7 +28,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(2/18)",
       "codigoLiga": "pidgeot (2/18)",
       "myp": "si_002"
@@ -46,7 +44,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(3/18)",
       "codigoLiga": "onix (3/18)",
       "myp": "si_003"
@@ -63,7 +60,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(4/18)",
       "codigoLiga": "togepi (4/18)",
       "myp": "si_004"
@@ -80,7 +76,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(5/18)",
       "codigoLiga": "ivysaur (5/18)",
       "myp": "si_005"
@@ -97,7 +92,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(6/18)",
       "codigoLiga": "raticate (6/18)",
       "myp": "si_006"
@@ -114,7 +108,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(7/18)",
       "codigoLiga": "ledyba (7/18)",
       "myp": "si_007"
@@ -131,7 +124,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(8/18)",
       "codigoLiga": "jigglypuff (8/18)",
       "myp": "si_008"
@@ -148,7 +140,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "39",
       "numeroLiga": "(9/18)",
       "codigoLiga": "butterfree (9/18)",
       "myp": "si_009"
@@ -165,7 +156,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(10/18)",
       "codigoLiga": "tentacruel (10/18)",
       "myp": "si_010"
@@ -182,7 +172,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(11/18)",
       "codigoLiga": "marill (11/18)",
       "myp": "si_011"
@@ -199,7 +188,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(12/18)",
       "codigoLiga": "lapras (12/18)",
       "myp": "si_012"
@@ -216,7 +204,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(13/18)",
       "codigoLiga": "exeggutor (13/18)",
       "myp": "si_013"
@@ -233,7 +220,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(14/18)",
       "codigoLiga": "slowking (14/18)",
       "myp": "si_014"
@@ -250,7 +236,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(15/18)",
       "codigoLiga": "wartortle (15/18)",
       "myp": "si_015"
@@ -267,7 +252,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(16/18)",
       "codigoLiga": "lickitung (16/18)",
       "myp": "si_016"
@@ -284,7 +268,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(17/18)",
       "codigoLiga": "vileplume (17/18)",
       "myp": "si_017"
@@ -301,7 +284,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(18/18)",
       "codigoLiga": "primeape (18/18)",
       "myp": "si_018"
@@ -319,7 +301,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(1/110)",
       "codigoLiga": "alakazam (1/110)",
       "myp": "lc_001"
@@ -337,7 +318,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(2/110)",
       "codigoLiga": "articuno (2/110)",
       "myp": "lc_002"
@@ -355,7 +335,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(3/110)",
       "codigoLiga": "charizard (3/110)",
       "myp": "lc_003"
@@ -373,7 +352,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(4/110)",
       "codigoLiga": "dark blastoise (4/110)",
       "myp": "lc_004"
@@ -391,7 +369,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(5/110)",
       "codigoLiga": "dark dragonite (5/110)",
       "myp": "lc_005"
@@ -409,7 +386,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "17",
       "numeroLiga": "(6/110)",
       "codigoLiga": "dark persian (6/110)",
       "myp": "lc_006"
@@ -427,7 +403,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(7/110)",
       "codigoLiga": "dark raichu (7/110)",
       "myp": "lc_007"
@@ -445,7 +420,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(8/110)",
       "codigoLiga": "dark slowbro (8/110)",
       "myp": "lc_008"
@@ -463,7 +437,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(9/110)",
       "codigoLiga": "dark vaporeon (9/110)",
       "myp": "lc_009"
@@ -481,7 +454,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "5",
       "numeroLiga": "(10/110)",
       "codigoLiga": "flareon (10/110)",
       "myp": "lc_010"
@@ -499,7 +471,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "3",
       "numeroLiga": "(11/110)",
       "codigoLiga": "gengar (11/110)",
       "myp": "lc_011"
@@ -517,7 +488,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(12/110)",
       "codigoLiga": "gyarados (12/110)",
       "myp": "lc_012"
@@ -535,7 +505,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(13/110)",
       "codigoLiga": "hitmonlee (13/110)",
       "myp": "lc_013"
@@ -553,7 +522,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "5",
       "numeroLiga": "(14/110)",
       "codigoLiga": "jolteon (14/110)",
       "myp": "lc_014"
@@ -571,7 +539,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(15/110)",
       "codigoLiga": "machamp (15/110)",
       "myp": "lc_015"
@@ -589,7 +556,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(16/110)",
       "codigoLiga": "muk (16/110)",
       "myp": "lc_016"
@@ -607,7 +573,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(17/110)",
       "codigoLiga": "ninetales (17/110)",
       "myp": "lc_017"
@@ -625,7 +590,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "2",
       "numeroLiga": "(18/110)",
       "codigoLiga": "venusaur (18/110)",
       "myp": "lc_018"
@@ -643,7 +607,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(19/110)",
       "codigoLiga": "zapdos (19/110)",
       "myp": "lc_019"
@@ -661,7 +624,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(20/110)",
       "codigoLiga": "beedrill (20/110)",
       "myp": "lc_020"
@@ -679,7 +641,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "5",
       "numeroLiga": "(21/110)",
       "codigoLiga": "butterfree (21/110)",
       "myp": "lc_021"
@@ -697,7 +658,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "2",
       "numeroLiga": "(22/110)",
       "codigoLiga": "electrode (22/110)",
       "myp": "lc_022"
@@ -715,7 +675,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "5",
       "numeroLiga": "(23/110)",
       "codigoLiga": "exeggutor (23/110)",
       "myp": "lc_023"
@@ -733,7 +692,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "5",
       "numeroLiga": "(24/110)",
       "codigoLiga": "golem (24/110)",
       "myp": "lc_024"
@@ -751,7 +709,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(25/110)",
       "codigoLiga": "hypno (25/110)",
       "myp": "lc_025"
@@ -769,7 +726,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(26/110)",
       "codigoLiga": "jynx (26/110)",
       "myp": "lc_026"
@@ -787,7 +743,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(27/110)",
       "codigoLiga": "kabutops (27/110)",
       "myp": "lc_027"
@@ -805,7 +760,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(28/110)",
       "codigoLiga": "magneton (28/110)",
       "myp": "lc_028"
@@ -823,7 +777,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "7",
       "numeroLiga": "(29/110)",
       "codigoLiga": "mewtwo (29/110)",
       "myp": "lc_029"
@@ -841,7 +794,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "2",
       "numeroLiga": "(30/110)",
       "codigoLiga": "moltres (30/110)",
       "myp": "lc_030"
@@ -859,7 +811,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(31/110)",
       "codigoLiga": "nidoking (31/110)",
       "myp": "lc_031"
@@ -877,7 +828,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(32/110)",
       "codigoLiga": "nidoqueen (32/110)",
       "myp": "lc_032"
@@ -895,7 +845,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "5",
       "numeroLiga": "(33/110)",
       "codigoLiga": "pidgeot (33/110)",
       "myp": "lc_033"
@@ -913,7 +862,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(34/110)",
       "codigoLiga": "pidgeotto (34/110)",
       "myp": "lc_034"
@@ -931,7 +879,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "5",
       "numeroLiga": "(35/110)",
       "codigoLiga": "rhydon (35/110)",
       "myp": "lc_035"
@@ -949,7 +896,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(36/110)",
       "codigoLiga": "arcanine (36/110)",
       "myp": "lc_036"
@@ -967,7 +913,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(37/110)",
       "codigoLiga": "charmeleon (37/110)",
       "myp": "lc_037"
@@ -985,7 +930,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(38/110)",
       "codigoLiga": "dark dragonair (38/110)",
       "myp": "lc_038"
@@ -1003,7 +947,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(39/110)",
       "codigoLiga": "dark wartortle (39/110)",
       "myp": "lc_039"
@@ -1021,7 +964,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(40/110)",
       "codigoLiga": "dewgong (40/110)",
       "myp": "lc_040"
@@ -1039,7 +981,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(41/110)",
       "codigoLiga": "dodrio (41/110)",
       "myp": "lc_041"
@@ -1057,7 +998,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(42/110)",
       "codigoLiga": "fearow (42/110)",
       "myp": "lc_042"
@@ -1075,7 +1015,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(43/110)",
       "codigoLiga": "golduck (43/110)",
       "myp": "lc_043"
@@ -1093,7 +1032,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(44/110)",
       "codigoLiga": "graveler (44/110)",
       "myp": "lc_044"
@@ -1111,7 +1049,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(45/110)",
       "codigoLiga": "growlithe (45/110)",
       "myp": "lc_045"
@@ -1129,7 +1066,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(46/110)",
       "codigoLiga": "haunter (46/110)",
       "myp": "lc_046"
@@ -1147,7 +1083,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(47/110)",
       "codigoLiga": "ivysaur (47/110)",
       "myp": "lc_047"
@@ -1165,7 +1100,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(48/110)",
       "codigoLiga": "kabuto (48/110)",
       "myp": "lc_048"
@@ -1183,7 +1117,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(49/110)",
       "codigoLiga": "kadabra (49/110)",
       "myp": "lc_049"
@@ -1201,7 +1134,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(50/110)",
       "codigoLiga": "kakuna (50/110)",
       "myp": "lc_050"
@@ -1219,7 +1151,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(51/110)",
       "codigoLiga": "machoke (51/110)",
       "myp": "lc_051"
@@ -1237,7 +1168,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(52/110)",
       "codigoLiga": "magikarp (52/110)",
       "myp": "lc_052"
@@ -1255,7 +1185,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(53/110)",
       "codigoLiga": "meowth (53/110)",
       "myp": "lc_053"
@@ -1273,7 +1202,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(54/110)",
       "codigoLiga": "metapod (54/110)",
       "myp": "lc_054"
@@ -1291,7 +1219,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(55/110)",
       "codigoLiga": "nidorina (55/110)",
       "myp": "lc_055"
@@ -1309,7 +1236,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(56/110)",
       "codigoLiga": "nidorino (56/110)",
       "myp": "lc_056"
@@ -1327,7 +1253,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(57/110)",
       "codigoLiga": "omanyte (57/110)",
       "myp": "lc_057"
@@ -1345,7 +1270,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(58/110)",
       "codigoLiga": "omastar (58/110)",
       "myp": "lc_058"
@@ -1363,7 +1287,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(59/110)",
       "codigoLiga": "primeape (59/110)",
       "myp": "lc_059"
@@ -1381,7 +1304,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "2",
       "numeroLiga": "(60/110)",
       "codigoLiga": "rapidash (60/110)",
       "myp": "lc_060"
@@ -1399,7 +1321,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(61/110)",
       "codigoLiga": "raticate (61/110)",
       "myp": "lc_061"
@@ -1417,7 +1338,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(62/110)",
       "codigoLiga": "sandslash (62/110)",
       "myp": "lc_062"
@@ -1435,7 +1355,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(63/110)",
       "codigoLiga": "seadra (63/110)",
       "myp": "lc_063"
@@ -1453,7 +1372,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(64/110)",
       "codigoLiga": "snorlax (64/110)",
       "myp": "lc_064"
@@ -1471,7 +1389,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(65/110)",
       "codigoLiga": "tauros (65/110)",
       "myp": "lc_065"
@@ -1489,7 +1406,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(66/110)",
       "codigoLiga": "tentacruel (66/110)",
       "myp": "lc_066"
@@ -1507,7 +1423,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(67/110)",
       "codigoLiga": "abra (67/110)",
       "myp": "lc_067"
@@ -1525,7 +1440,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(68/110)",
       "codigoLiga": "bulbasaur (68/110)",
       "myp": "lc_068"
@@ -1543,7 +1457,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(69/110)",
       "codigoLiga": "caterpie (69/110)",
       "myp": "lc_069"
@@ -1561,7 +1474,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(70/110)",
       "codigoLiga": "charmander (70/110)",
       "myp": "lc_070"
@@ -1579,7 +1491,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(71/110)",
       "codigoLiga": "doduo (71/110)",
       "myp": "lc_071"
@@ -1597,7 +1508,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(72/110)",
       "codigoLiga": "dratini (72/110)",
       "myp": "lc_072"
@@ -1615,7 +1525,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "5",
       "numeroLiga": "(73/110)",
       "codigoLiga": "drowzee (73/110)",
       "myp": "lc_073"
@@ -1633,7 +1542,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "5",
       "numeroLiga": "(74/110)",
       "codigoLiga": "eevee (74/110)",
       "myp": "lc_074"
@@ -1651,7 +1559,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(75/110)",
       "codigoLiga": "exeggcute (75/110)",
       "myp": "lc_075"
@@ -1669,7 +1576,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(76/110)",
       "codigoLiga": "gastly (76/110)",
       "myp": "lc_076"
@@ -1687,7 +1593,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "5",
       "numeroLiga": "(77/110)",
       "codigoLiga": "geodude (77/110)",
       "myp": "lc_077"
@@ -1705,7 +1610,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(78/110)",
       "codigoLiga": "grimer (78/110)",
       "myp": "lc_078"
@@ -1723,7 +1627,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(79/110)",
       "codigoLiga": "machop (79/110)",
       "myp": "lc_079"
@@ -1741,7 +1644,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(80/110)",
       "codigoLiga": "magnemite (80/110)",
       "myp": "lc_080"
@@ -1759,7 +1661,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "10",
       "numeroLiga": "(81/110)",
       "codigoLiga": "mankey (81/110)",
       "myp": "lc_081"
@@ -1778,7 +1679,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(82/110)",
       "codigoLiga": "nidoran female (82/110)",
       "myp": "lc_082"
@@ -1797,7 +1697,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(83/110)",
       "codigoLiga": "nidoran male (83/110)",
       "myp": "lc_083"
@@ -1815,7 +1714,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(84/110)",
       "codigoLiga": "onix (84/110)",
       "myp": "lc_084"
@@ -1833,7 +1731,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(85/110)",
       "codigoLiga": "pidgey (85/110)",
       "myp": "lc_085"
@@ -1851,7 +1748,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(86/110)",
       "codigoLiga": "pikachu (86/110)",
       "myp": "lc_086"
@@ -1869,7 +1765,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(87/110)",
       "codigoLiga": "ponyta (87/110)",
       "myp": "lc_087"
@@ -1887,7 +1782,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(88/110)",
       "codigoLiga": "psyduck (88/110)",
       "myp": "lc_088"
@@ -1905,7 +1799,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(89/110)",
       "codigoLiga": "rattata (89/110)",
       "myp": "lc_089"
@@ -1923,7 +1816,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(90/110)",
       "codigoLiga": "rhyhorn (90/110)",
       "myp": "lc_090"
@@ -1941,7 +1833,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(91/110)",
       "codigoLiga": "sandshrew (91/110)",
       "myp": "lc_091"
@@ -1959,7 +1850,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(92/110)",
       "codigoLiga": "seel (92/110)",
       "myp": "lc_092"
@@ -1977,7 +1867,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "19",
       "numeroLiga": "(93/110)",
       "codigoLiga": "slowpoke (93/110)",
       "myp": "lc_093"
@@ -1995,7 +1884,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(94/110)",
       "codigoLiga": "spearow (94/110)",
       "myp": "lc_094"
@@ -2013,7 +1901,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(95/110)",
       "codigoLiga": "squirtle (95/110)",
       "myp": "lc_095"
@@ -2031,7 +1918,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "5",
       "numeroLiga": "(96/110)",
       "codigoLiga": "tentacool (96/110)",
       "myp": "lc_096"
@@ -2049,7 +1935,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(97/110)",
       "codigoLiga": "voltorb (97/110)",
       "myp": "lc_097"
@@ -2067,7 +1952,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(98/110)",
       "codigoLiga": "vulpix (98/110)",
       "myp": "lc_098"
@@ -2085,7 +1969,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "2",
       "numeroLiga": "(99/110)",
       "codigoLiga": "weedle (99/110)",
       "myp": "lc_099"
@@ -2100,7 +1983,6 @@
       "seriesId": "4",
       "supertypeId": "3",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(100/110)",
       "codigoLiga": "full heal energy (100/110)",
       "myp": "lc_100"
@@ -2115,7 +1997,6 @@
       "seriesId": "4",
       "supertypeId": "3",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(101/110)",
       "codigoLiga": "potion energy (101/110)",
       "myp": "lc_101"
@@ -2131,7 +2012,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(102/110)",
       "codigoLiga": "Pokémon breeder (102/110)",
       "myp": "lc_102"
@@ -2146,7 +2026,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(103/110)",
       "codigoLiga": "Pokémon trader (103/110)",
       "myp": "lc_103"
@@ -2160,7 +2039,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "3",
       "numeroLiga": "(104/110)",
       "codigoLiga": "scoop up (104/110)",
       "myp": "lc_104"
@@ -2174,7 +2052,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(105/110)",
       "codigoLiga": "the boss's way (105/110)",
       "myp": "lc_105"
@@ -2188,7 +2065,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "5",
       "numeroLiga": "(106/110)",
       "codigoLiga": "challenge! (106/110)",
       "myp": "lc_106"
@@ -2203,7 +2079,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(107/110)",
       "codigoLiga": "energy retrieval (107/110)",
       "myp": "lc_107"
@@ -2217,7 +2092,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(108/110)",
       "codigoLiga": "bill (108/110)",
       "myp": "lc_108"
@@ -2232,7 +2106,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(109/110)",
       "codigoLiga": "mysterious fossil (109/110)",
       "myp": "lc_109"
@@ -2247,7 +2120,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(110/110)",
       "codigoLiga": "potion (110/110)",
       "myp": "lc_110"
@@ -2265,7 +2137,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "1",
       "numeroLiga": "(1/9)",
       "codigoLiga": "electabuzz (1/9)",
       "myp": "bp_001"
@@ -2283,7 +2154,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "1",
       "numeroLiga": "(2/9)",
       "codigoLiga": "hitmonchan (2/9)",
       "myp": "bp_002"
@@ -2297,7 +2167,6 @@
       "seriesId": "4",
       "supertypeId": "2",
       "rarityId": "4",
-      "artistId": "1",
       "numeroLiga": "(3/9)",
       "codigoLiga": "professor elm (3/9)",
       "myp": "bp_003"
@@ -2315,7 +2184,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "58",
       "numeroLiga": "(4/9)",
       "codigoLiga": "rocket's scizor (4/9)",
       "myp": "bp_004"
@@ -2333,7 +2201,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "59",
       "numeroLiga": "(5/9)",
       "codigoLiga": "rocket's sneasel (5/9)",
       "myp": "bp_005"
@@ -2351,7 +2218,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "17",
       "numeroLiga": "(6/9)",
       "codigoLiga": "dark ivysaur (6/9)",
       "myp": "bp_006"
@@ -2369,7 +2235,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "17",
       "numeroLiga": "(7/9)",
       "codigoLiga": "dark venusaur (7/9)",
       "myp": "bp_007"
@@ -2387,7 +2252,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "17",
       "numeroLiga": "(8/9)",
       "codigoLiga": "rocket's mewtwo (8/9)",
       "myp": "bp_008"
@@ -2405,7 +2269,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "4",
-      "artistId": "1",
       "numeroLiga": "(9/9)",
       "codigoLiga": "rocket's hitmonchan (9/9)",
       "myp": "bp_009"
@@ -2422,7 +2285,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(1/16)",
       "codigoLiga": "venusaur (1/16)",
       "myp": "ru1_001"
@@ -2439,7 +2301,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(2/16)",
       "codigoLiga": "cherrim (2/16)",
       "myp": "ru1_002"
@@ -2456,7 +2317,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(3/16)",
       "codigoLiga": "ninetales (3/16)",
       "myp": "ru1_003"
@@ -2473,7 +2333,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(4/16)",
       "codigoLiga": "heatran (4/16)",
       "myp": "ru1_004"
@@ -2490,7 +2349,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(5/16)",
       "codigoLiga": "starmie (5/16)",
       "myp": "ru1_005"
@@ -2507,7 +2365,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(6/16)",
       "codigoLiga": "gyarados (6/16)",
       "myp": "ru1_006"
@@ -2524,7 +2381,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(7/16)",
       "codigoLiga": "pikachu (7/16)",
       "myp": "ru1_007"
@@ -2541,7 +2397,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(8/16)",
       "codigoLiga": "zapdos (8/16)",
       "myp": "ru1_008"
@@ -2558,7 +2413,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(9/16)",
       "codigoLiga": "mewtwo (9/16)",
       "myp": "ru1_009"
@@ -2575,7 +2429,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(10/16)",
       "codigoLiga": "mew (10/16)",
       "myp": "ru1_010"
@@ -2592,7 +2445,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(11/16)",
       "codigoLiga": "diglett (11/16)",
       "myp": "ru1_011"
@@ -2609,7 +2461,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(12/16)",
       "codigoLiga": "lucario (12/16)",
       "myp": "ru1_012"
@@ -2626,7 +2477,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(13/16)",
       "codigoLiga": "skuntank (13/16)",
       "myp": "ru1_013"
@@ -2643,7 +2493,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(14/16)",
       "codigoLiga": "bastiodon (14/16)",
       "myp": "ru1_014"
@@ -2660,7 +2509,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(15/16)",
       "codigoLiga": "rattata (15/16)",
       "myp": "ru1_015"
@@ -2677,7 +2525,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "113",
       "numeroLiga": "(16/16)",
       "codigoLiga": "bibarel (16/16)",
       "myp": "ru1_016"
@@ -2694,7 +2541,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(1/12)",
       "codigoLiga": "snivy (1/12)",
       "myp": "mcd11_001"
@@ -2711,7 +2557,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(2/12)",
       "codigoLiga": "maractus (2/12)",
       "myp": "mcd11_002"
@@ -2728,7 +2573,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(3/12)",
       "codigoLiga": "tepig (3/12)",
       "myp": "mcd11_003"
@@ -2745,7 +2589,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(4/12)",
       "codigoLiga": "oshawott (4/12)",
       "myp": "mcd11_004"
@@ -2762,7 +2605,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(5/12)",
       "codigoLiga": "alomomola (5/12)",
       "myp": "mcd11_005"
@@ -2779,7 +2621,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(6/12)",
       "codigoLiga": "blitzle (6/12)",
       "myp": "mcd11_006"
@@ -2796,7 +2637,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(7/12)",
       "codigoLiga": "munna (7/12)",
       "myp": "mcd11_007"
@@ -2813,7 +2653,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(8/12)",
       "codigoLiga": "sandile (8/12)",
       "myp": "mcd11_008"
@@ -2830,7 +2669,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(9/12)",
       "codigoLiga": "zorua (9/12)",
       "myp": "mcd11_009"
@@ -2847,7 +2685,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(10/12)",
       "codigoLiga": "klink (10/12)",
       "myp": "mcd11_010"
@@ -2864,7 +2701,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(11/12)",
       "codigoLiga": "pidove (11/12)",
       "myp": "mcd11_011"
@@ -2881,7 +2717,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "116",
       "numeroLiga": "(12/12)",
       "codigoLiga": "audino (12/12)",
       "myp": "mcd11_012"
@@ -2898,7 +2733,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(1/12)",
       "codigoLiga": "servine (1/12)",
       "myp": "mcd12_001"
@@ -2915,7 +2749,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(2/12)",
       "codigoLiga": "pansage (2/12)",
       "myp": "mcd12_002"
@@ -2932,7 +2765,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "116",
       "numeroLiga": "(3/12)",
       "codigoLiga": "dwebble (3/12)",
       "myp": "mcd12_003"
@@ -2949,7 +2781,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(4/12)",
       "codigoLiga": "pignite (4/12)",
       "myp": "mcd12_004"
@@ -2966,7 +2797,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "71",
       "numeroLiga": "(5/12)",
       "codigoLiga": "dewott (5/12)",
       "myp": "mcd12_005"
@@ -2983,7 +2813,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(6/12)",
       "codigoLiga": "emolga (6/12)",
       "myp": "mcd12_006"
@@ -3000,7 +2829,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "71",
       "numeroLiga": "(7/12)",
       "codigoLiga": "woobat (7/12)",
       "myp": "mcd12_007"
@@ -3017,7 +2845,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "115",
       "numeroLiga": "(8/12)",
       "codigoLiga": "drilbur (8/12)",
       "myp": "mcd12_008"
@@ -3034,7 +2861,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "12",
       "numeroLiga": "(9/12)",
       "codigoLiga": "purrloin (9/12)",
       "myp": "mcd12_009"
@@ -3051,7 +2877,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "71",
       "numeroLiga": "(10/12)",
       "codigoLiga": "scraggy (10/12)",
       "myp": "mcd12_010"
@@ -3068,7 +2893,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(11/12)",
       "codigoLiga": "klang (11/12)",
       "myp": "mcd12_011"
@@ -3085,7 +2909,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "12",
       "numeroLiga": "(12/12)",
       "codigoLiga": "axew (12/12)",
       "myp": "mcd12_012"
@@ -3102,7 +2925,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(1/12)",
       "codigoLiga": "weedle (1/12)",
       "myp": "mcd14_001"
@@ -3119,7 +2941,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(2/12)",
       "codigoLiga": "chespin (2/12)",
       "myp": "mcd14_002"
@@ -3136,7 +2957,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(3/12)",
       "codigoLiga": "fennekin (3/12)",
       "myp": "mcd14_003"
@@ -3153,7 +2973,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(4/12)",
       "codigoLiga": "froakie (4/12)",
       "myp": "mcd14_004"
@@ -3170,7 +2989,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "116",
       "numeroLiga": "(5/12)",
       "codigoLiga": "pikachu (5/12)",
       "myp": "mcd14_005"
@@ -3187,7 +3005,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(6/12)",
       "codigoLiga": "inkay (6/12)",
       "myp": "mcd14_006"
@@ -3204,7 +3021,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(7/12)",
       "codigoLiga": "honedge (7/12)",
       "myp": "mcd14_007"
@@ -3221,7 +3037,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "114",
       "numeroLiga": "(8/12)",
       "codigoLiga": "snubbull (8/12)",
       "myp": "mcd14_008"
@@ -3238,7 +3053,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(9/12)",
       "codigoLiga": "swirlix (9/12)",
       "myp": "mcd14_009"
@@ -3255,7 +3069,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(10/12)",
       "codigoLiga": "bunnelby (10/12)",
       "myp": "mcd14_010"
@@ -3272,7 +3085,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(11/12)",
       "codigoLiga": "fletchling (11/12)",
       "myp": "mcd14_011"
@@ -3289,7 +3101,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(12/12)",
       "codigoLiga": "furfrou (12/12)",
       "myp": "mcd14_012"
@@ -3306,7 +3117,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(1/12)",
       "codigoLiga": "treecko (1/12)",
       "myp": "mcd15_001"
@@ -3323,7 +3133,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "85",
       "numeroLiga": "(2/12)",
       "codigoLiga": "lotad (2/12)",
       "myp": "mcd15_002"
@@ -3340,7 +3149,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(3/12)",
       "codigoLiga": "torchic (3/12)",
       "myp": "mcd15_003"
@@ -3357,7 +3165,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "14",
       "numeroLiga": "(4/12)",
       "codigoLiga": "staryu (4/12)",
       "myp": "mcd15_004"
@@ -3374,7 +3181,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "34",
       "numeroLiga": "(5/12)",
       "codigoLiga": "mudkip (5/12)",
       "myp": "mcd15_005"
@@ -3391,7 +3197,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "114",
       "numeroLiga": "(6/12)",
       "codigoLiga": "pikachu (6/12)",
       "myp": "mcd15_006"
@@ -3408,7 +3213,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "10",
       "numeroLiga": "(7/12)",
       "codigoLiga": "electrike (7/12)",
       "myp": "mcd15_007"
@@ -3426,7 +3230,6 @@
       "seriesId": "4",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "62",
       "numeroLiga": "(8/12)",
       "codigoLiga": "rhyhorn (8/12)",
       "myp": "mcd15_008"
@@ -3443,7 +3246,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(9/12)",
       "codigoLiga": "meditite (9/12)",
       "myp": "mcd15_009"
@@ -3460,7 +3262,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "127",
       "numeroLiga": "(10/12)",
       "codigoLiga": "marill (10/12)",
       "myp": "mcd15_010"
@@ -3477,7 +3278,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "10",
       "numeroLiga": "(11/12)",
       "codigoLiga": "zigzagoon (11/12)",
       "myp": "mcd15_011"
@@ -3494,7 +3294,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "36",
       "numeroLiga": "(12/12)",
       "codigoLiga": "skitty (12/12)",
       "myp": "mcd15_012"
@@ -3511,7 +3310,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "147",
       "numeroLiga": "(1/12)",
       "codigoLiga": "vulpix (1/12)",
       "myp": "mcd16_001"
@@ -3528,7 +3326,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(2/12)",
       "codigoLiga": "torchic (2/12)",
       "myp": "mcd16_002"
@@ -3545,7 +3342,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(3/12)",
       "codigoLiga": "fennekin (3/12)",
       "myp": "mcd16_003"
@@ -3562,7 +3358,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(4/12)",
       "codigoLiga": "magikarp (4/12)",
       "myp": "mcd16_004"
@@ -3579,7 +3374,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(5/12)",
       "codigoLiga": "totodile (5/12)",
       "myp": "mcd16_005"
@@ -3596,7 +3390,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "114",
       "numeroLiga": "(6/12)",
       "codigoLiga": "pikachu (6/12)",
       "myp": "mcd16_006"
@@ -3613,7 +3406,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "14",
       "numeroLiga": "(7/12)",
       "codigoLiga": "scraggy (7/12)",
       "myp": "mcd16_007"
@@ -3630,7 +3422,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "85",
       "numeroLiga": "(8/12)",
       "codigoLiga": "jigglypuff (8/12)",
       "myp": "mcd16_008"
@@ -3647,7 +3438,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "134",
       "numeroLiga": "(9/12)",
       "codigoLiga": "togepi (9/12)",
       "myp": "mcd16_009"
@@ -3664,7 +3454,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(10/12)",
       "codigoLiga": "dedenne (10/12)",
       "myp": "mcd16_010"
@@ -3681,7 +3470,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "85",
       "numeroLiga": "(11/12)",
       "codigoLiga": "meowth (11/12)",
       "myp": "mcd16_011"
@@ -3698,7 +3486,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(12/12)",
       "codigoLiga": "eevee (12/12)",
       "myp": "mcd16_012"
@@ -3715,7 +3502,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "137",
       "numeroLiga": "(1/12)",
       "codigoLiga": "rowlet (1/12)",
       "myp": "mcd17_001"
@@ -3732,7 +3518,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(2/12)",
       "codigoLiga": "grubbin (2/12)",
       "myp": "mcd17_002"
@@ -3749,7 +3534,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(3/12)",
       "codigoLiga": "litten (3/12)",
       "myp": "mcd17_003"
@@ -3766,7 +3550,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(4/12)",
       "codigoLiga": "popplio (4/12)",
       "myp": "mcd17_004"
@@ -3783,7 +3566,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "147",
       "numeroLiga": "(5/12)",
       "codigoLiga": "pikachu (5/12)",
       "myp": "mcd17_005"
@@ -3800,7 +3582,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "137",
       "numeroLiga": "(6/12)",
       "codigoLiga": "cosmog (6/12)",
       "myp": "mcd17_006"
@@ -3817,7 +3598,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "106",
       "numeroLiga": "(7/12)",
       "codigoLiga": "crabrawler (7/12)",
       "myp": "mcd17_007"
@@ -3835,7 +3615,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(8/12)",
       "codigoLiga": "alolan meowth (8/12)",
       "myp": "mcd17_008"
@@ -3853,7 +3632,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "137",
       "numeroLiga": "(9/12)",
       "codigoLiga": "alolan diglett (9/12)",
       "myp": "mcd17_009"
@@ -3870,7 +3648,6 @@
       "typeId": "10",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "148",
       "numeroLiga": "(10/12)",
       "codigoLiga": "cutiefly (10/12)",
       "myp": "mcd17_010"
@@ -3887,7 +3664,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "106",
       "numeroLiga": "(11/12)",
       "codigoLiga": "pikipek (11/12)",
       "myp": "mcd17_011"
@@ -3904,7 +3680,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "115",
       "numeroLiga": "(12/12)",
       "codigoLiga": "yungoos (12/12)",
       "myp": "mcd17_012"
@@ -3921,7 +3696,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "116",
       "numeroLiga": "(1/12)",
       "codigoLiga": "growlithe (1/12)",
       "myp": "mcd18_001"
@@ -3938,7 +3712,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "163",
       "numeroLiga": "(2/12)",
       "codigoLiga": "psyduck (2/12)",
       "myp": "mcd18_002"
@@ -3955,7 +3728,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "103",
       "numeroLiga": "(3/12)",
       "codigoLiga": "horsea (3/12)",
       "myp": "mcd18_003"
@@ -3972,7 +3744,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "163",
       "numeroLiga": "(4/12)",
       "codigoLiga": "pikachu (4/12)",
       "myp": "mcd18_004"
@@ -3989,7 +3760,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "162",
       "numeroLiga": "(5/12)",
       "codigoLiga": "slowpoke (5/12)",
       "myp": "mcd18_005"
@@ -4006,7 +3776,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "71",
       "numeroLiga": "(6/12)",
       "codigoLiga": "machop (6/12)",
       "myp": "mcd18_006"
@@ -4023,7 +3792,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(7/12)",
       "codigoLiga": "cubone (7/12)",
       "myp": "mcd18_007"
@@ -4040,7 +3808,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "116",
       "numeroLiga": "(8/12)",
       "codigoLiga": "magnemite (8/12)",
       "myp": "mcd18_008"
@@ -4057,7 +3824,6 @@
       "typeId": "11",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(9/12)",
       "codigoLiga": "dratini (9/12)",
       "myp": "mcd18_009"
@@ -4074,7 +3840,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "137",
       "numeroLiga": "(10/12)",
       "codigoLiga": "chansey (10/12)",
       "myp": "mcd18_010"
@@ -4091,7 +3856,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "163",
       "numeroLiga": "(11/12)",
       "codigoLiga": "eevee (11/12)",
       "myp": "mcd18_011"
@@ -4108,7 +3872,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "106",
       "numeroLiga": "(12/12)",
       "codigoLiga": "porygon (12/12)",
       "myp": "mcd18_012"
@@ -4124,7 +3887,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "188",
       "numeroLiga": "(1/12)",
       "codigoLiga": "caterpie (1/12)",
       "myp": "mcd19_001"
@@ -4141,7 +3903,6 @@
       "subtypeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "142",
       "numeroLiga": "(2/12)",
       "codigoLiga": "alolan exeggutor (2/12)",
       "myp": "mcd19_002"
@@ -4157,7 +3918,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "166",
       "numeroLiga": "(3/12)",
       "codigoLiga": "magmar (3/12)",
       "myp": "mcd19_003"
@@ -4174,7 +3934,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "106",
       "numeroLiga": "(4/12)",
       "codigoLiga": "alolan sandshrew (4/12)",
       "myp": "mcd19_004"
@@ -4190,7 +3949,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "103",
       "numeroLiga": "(5/12)",
       "codigoLiga": "lapras (5/12)",
       "myp": "mcd19_005"
@@ -4207,7 +3965,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(6/12)",
       "codigoLiga": "pikachu (6/12)",
       "myp": "mcd19_006"
@@ -4224,7 +3981,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "163",
       "numeroLiga": "(7/12)",
       "codigoLiga": "gastly (7/12)",
       "myp": "mcd19_007"
@@ -4241,7 +3997,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "19",
       "numeroLiga": "(8/12)",
       "codigoLiga": "mankey (8/12)",
       "myp": "mcd19_008"
@@ -4258,7 +4013,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "2",
       "numeroLiga": "(9/12)",
       "codigoLiga": "onix (9/12)",
       "myp": "mcd19_009"
@@ -4276,7 +4030,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(10/12)",
       "codigoLiga": "alolan meowth (10/12)",
       "myp": "mcd19_010"
@@ -4294,7 +4047,6 @@
       "typeId": "8",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "137",
       "numeroLiga": "(11/12)",
       "codigoLiga": "alolan dugtrio (11/12)",
       "myp": "mcd19_011"
@@ -4311,7 +4063,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "12",
       "numeroLiga": "(12/12)",
       "codigoLiga": "eevee (12/12)",
       "myp": "mcd19_012"
@@ -4328,7 +4079,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "136",
       "numeroLiga": "(1/5)",
       "codigoLiga": "pikachu on the ball (1/5)",
       "myp": "fut20_001"
@@ -4345,7 +4095,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "136",
       "numeroLiga": "(2/5)",
       "codigoLiga": "eevee on the ball (2/5)",
       "myp": "fut20_002"
@@ -4361,7 +4110,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "136",
       "numeroLiga": "(3/5)",
       "codigoLiga": "grookey on the ball (3/5)",
       "myp": "fut20_003"
@@ -4377,7 +4125,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "136",
       "numeroLiga": "(4/5)",
       "codigoLiga": "scorbunny on the ball (4/5)",
       "myp": "fut20_004"
@@ -4394,7 +4141,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "136",
       "numeroLiga": "(5/5)",
       "codigoLiga": "sobble on the ball (5/5)",
       "myp": "fut20_005"
@@ -4410,7 +4156,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "129",
       "numeroLiga": "(1/25)",
       "codigoLiga": "bulbasaur (1/25)",
       "myp": "mcd21_001"
@@ -4426,7 +4171,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "193",
       "numeroLiga": "(2/25)",
       "codigoLiga": "chikorita (2/25)",
       "myp": "mcd21_002"
@@ -4442,7 +4186,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(3/25)",
       "codigoLiga": "treecko (3/25)",
       "myp": "mcd21_003"
@@ -4459,7 +4202,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "150",
       "numeroLiga": "(4/25)",
       "codigoLiga": "turtwig (4/25)",
       "myp": "mcd21_004"
@@ -4476,7 +4218,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(5/25)",
       "codigoLiga": "snivy (5/25)",
       "myp": "mcd21_005"
@@ -4492,7 +4233,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(6/25)",
       "codigoLiga": "chespin (6/25)",
       "myp": "mcd21_006"
@@ -4508,7 +4248,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "137",
       "numeroLiga": "(7/25)",
       "codigoLiga": "rowlet (7/25)",
       "myp": "mcd21_007"
@@ -4524,7 +4263,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "147",
       "numeroLiga": "(8/25)",
       "codigoLiga": "grookey (8/25)",
       "myp": "mcd21_008"
@@ -4540,7 +4278,6 @@
       "subtypeId": "49, 1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(9/25)",
       "codigoLiga": "charmander (9/25)",
       "myp": "mcd21_009"
@@ -4557,7 +4294,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "147",
       "numeroLiga": "(10/25)",
       "codigoLiga": "cyndaquil (10/25)",
       "myp": "mcd21_010"
@@ -4574,7 +4310,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(11/25)",
       "codigoLiga": "torchic (11/25)",
       "myp": "mcd21_011"
@@ -4591,7 +4326,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(12/25)",
       "codigoLiga": "chimchar (12/25)",
       "myp": "mcd21_012"
@@ -4608,7 +4342,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(13/25)",
       "codigoLiga": "tepig (13/25)",
       "myp": "mcd21_013"
@@ -4625,7 +4358,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(14/25)",
       "codigoLiga": "fennekin (14/25)",
       "myp": "mcd21_014"
@@ -4642,7 +4374,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "130",
       "numeroLiga": "(15/25)",
       "codigoLiga": "litten (15/25)",
       "myp": "mcd21_015"
@@ -4659,7 +4390,6 @@
       "typeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "148",
       "numeroLiga": "(16/25)",
       "codigoLiga": "scorbunny (16/25)",
       "myp": "mcd21_016"
@@ -4676,7 +4406,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "172",
       "numeroLiga": "(17/25)",
       "codigoLiga": "squirtle (17/25)",
       "myp": "mcd21_017"
@@ -4693,7 +4422,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "5",
       "numeroLiga": "(18/25)",
       "codigoLiga": "totodile (18/25)",
       "myp": "mcd21_018"
@@ -4710,7 +4438,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "34",
       "numeroLiga": "(19/25)",
       "codigoLiga": "mudkip (19/25)",
       "myp": "mcd21_019"
@@ -4727,7 +4454,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "163",
       "numeroLiga": "(20/25)",
       "codigoLiga": "piplup (20/25)",
       "myp": "mcd21_020"
@@ -4744,7 +4470,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "1",
       "numeroLiga": "(21/25)",
       "codigoLiga": "oshawott (21/25)",
       "myp": "mcd21_021"
@@ -4761,7 +4486,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "131",
       "numeroLiga": "(22/25)",
       "codigoLiga": "froakie (22/25)",
       "myp": "mcd21_022"
@@ -4778,7 +4502,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(23/25)",
       "codigoLiga": "popplio (23/25)",
       "myp": "mcd21_023"
@@ -4795,7 +4518,6 @@
       "typeId": "3",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "129",
       "numeroLiga": "(24/25)",
       "codigoLiga": "sobble (24/25)",
       "myp": "mcd21_024"
@@ -4812,7 +4534,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "146",
       "numeroLiga": "(25/25)",
       "codigoLiga": "pikachu (25/25)",
       "myp": "mcd21_025"
@@ -4829,7 +4550,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "25",
       "numeroLiga": "(001/15)",
       "codigoLiga": "ledyba (001/15)",
       "myp": "mcd22_001"
@@ -4846,7 +4566,6 @@
       "typeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "177",
       "numeroLiga": "(002/15)",
       "codigoLiga": "rowlet (002/15)",
       "myp": "mcd22_002"
@@ -4862,7 +4581,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "129",
       "numeroLiga": "(003/15)",
       "codigoLiga": "gossifleur (003/15)",
       "myp": "mcd22_003"
@@ -4878,7 +4596,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "217",
       "numeroLiga": "(004/15)",
       "codigoLiga": "growlithe (004/15)",
       "myp": "mcd22_004"
@@ -4894,7 +4611,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "222",
       "numeroLiga": "(005/15)",
       "codigoLiga": "victini (005/15)",
       "myp": "mcd22_005"
@@ -4910,7 +4626,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "220",
       "numeroLiga": "(006/15)",
       "codigoLiga": "lapras (006/15)",
       "myp": "mcd22_006"
@@ -4927,7 +4642,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "151",
       "numeroLiga": "(007/15)",
       "codigoLiga": "pikachu (007/15)",
       "myp": "mcd22_007"
@@ -4943,7 +4657,6 @@
       "subtypeId": "1",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "193",
       "numeroLiga": "(008/15)",
       "codigoLiga": "chinchou (008/15)",
       "myp": "mcd22_008"
@@ -4959,7 +4672,6 @@
       "subtypeId": "2",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "109",
       "numeroLiga": "(009/15)",
       "codigoLiga": "flaaffy (009/15)",
       "myp": "mcd22_009"
@@ -4976,7 +4688,6 @@
       "typeId": "4",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "193",
       "numeroLiga": "(010/15)",
       "codigoLiga": "tynamo (010/15)",
       "myp": "mcd22_010"
@@ -4993,7 +4704,6 @@
       "typeId": "5",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "37",
       "numeroLiga": "(011/15)",
       "codigoLiga": "cutiefly (011/15)",
       "myp": "mcd22_011"
@@ -5010,7 +4720,6 @@
       "typeId": "6",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "127",
       "numeroLiga": "(012/15)",
       "codigoLiga": "bewear (012/15)",
       "myp": "mcd22_012"
@@ -5027,7 +4736,6 @@
       "typeId": "7",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "177",
       "numeroLiga": "(013/15)",
       "codigoLiga": "pangoro (013/15)",
       "myp": "mcd22_013"
@@ -5044,7 +4752,6 @@
       "typeId": "11",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "14",
       "numeroLiga": "(014/15)",
       "codigoLiga": "drampa (014/15)",
       "myp": "mcd22_014"
@@ -5061,7 +4768,6 @@
       "typeId": "9",
       "seriesId": "4",
       "supertypeId": "1",
-      "artistId": "61",
       "numeroLiga": "(015/15)",
       "codigoLiga": "smeargle (015/15)",
       "myp": "mcd22_015"
