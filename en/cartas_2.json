@@ -14,7 +14,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(1/132)",
       "codigoLiga": "blaine's moltres (1/132)",
       "myp": "g1_001"
@@ -33,7 +32,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(2/132)",
       "codigoLiga": "brock's rhydon (2/132)",
       "myp": "g1_002"
@@ -52,7 +50,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "12",
       "numeroLiga": "(3/132)",
       "codigoLiga": "erika's clefable (3/132)",
       "myp": "g1_003"
@@ -71,7 +68,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "12",
       "numeroLiga": "(4/132)",
       "codigoLiga": "erika's dragonair (4/132)",
       "myp": "g1_004"
@@ -90,7 +86,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(5/132)",
       "codigoLiga": "erika's vileplume (5/132)",
       "myp": "g1_005"
@@ -109,7 +104,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(6/132)",
       "codigoLiga": "lt. surge's electabuzz (6/132)",
       "myp": "g1_006"
@@ -128,7 +122,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(7/132)",
       "codigoLiga": "lt. surge's fearow (7/132)",
       "myp": "g1_007"
@@ -147,7 +140,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(8/132)",
       "codigoLiga": "lt. surge's magneton (8/132)",
       "myp": "g1_008"
@@ -166,7 +158,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "12",
       "numeroLiga": "(9/132)",
       "codigoLiga": "misty's seadra (9/132)",
       "myp": "g1_009"
@@ -185,7 +176,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(10/132)",
       "codigoLiga": "misty's tentacruel (10/132)",
       "myp": "g1_010"
@@ -203,7 +193,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(11/132)",
       "codigoLiga": "rocket's hitmonchan (11/132)",
       "myp": "g1_011"
@@ -221,7 +210,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(12/132)",
       "codigoLiga": "rocket's moltres (12/132)",
       "myp": "g1_012"
@@ -239,7 +227,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(13/132)",
       "codigoLiga": "rocket's scyther (13/132)",
       "myp": "g1_013"
@@ -258,7 +245,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(14/132)",
       "codigoLiga": "sabrina's gengar (14/132)",
       "myp": "g1_014"
@@ -272,7 +258,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(15/132)",
       "codigoLiga": "brock (15/132)",
       "myp": "g1_015"
@@ -286,7 +271,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(16/132)",
       "codigoLiga": "erika (16/132)",
       "myp": "g1_016"
@@ -301,7 +285,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(17/132)",
       "codigoLiga": "lt. surge (17/132)",
       "myp": "g1_017"
@@ -315,7 +298,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(18/132)",
       "codigoLiga": "misty (18/132)",
       "myp": "g1_018"
@@ -330,7 +312,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(19/132)",
       "codigoLiga": "the rocket's trap (19/132)",
       "myp": "g1_019"
@@ -349,7 +330,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(20/132)",
       "codigoLiga": "brock's golem (20/132)",
       "myp": "g1_020"
@@ -368,7 +348,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "8",
       "numeroLiga": "(21/132)",
       "codigoLiga": "brock's onix (21/132)",
       "myp": "g1_021"
@@ -387,7 +366,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(22/132)",
       "codigoLiga": "brock's rhyhorn (22/132)",
       "myp": "g1_022"
@@ -406,7 +384,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(23/132)",
       "codigoLiga": "brock's sandslash (23/132)",
       "myp": "g1_023"
@@ -425,7 +402,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(24/132)",
       "codigoLiga": "brock's zubat (24/132)",
       "myp": "g1_024"
@@ -444,7 +420,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(25/132)",
       "codigoLiga": "erika's clefairy (25/132)",
       "myp": "g1_025"
@@ -463,7 +438,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(26/132)",
       "codigoLiga": "erika's victreebel (26/132)",
       "myp": "g1_026"
@@ -482,7 +456,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(27/132)",
       "codigoLiga": "lt. surge's electabuzz (27/132)",
       "myp": "g1_027"
@@ -501,7 +474,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(28/132)",
       "codigoLiga": "lt. surge's raichu (28/132)",
       "myp": "g1_028"
@@ -520,7 +492,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(29/132)",
       "codigoLiga": "misty's cloyster (29/132)",
       "myp": "g1_029"
@@ -539,7 +510,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(30/132)",
       "codigoLiga": "misty's goldeen (30/132)",
       "myp": "g1_030"
@@ -558,7 +528,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(31/132)",
       "codigoLiga": "misty's poliwrath (31/132)",
       "myp": "g1_031"
@@ -577,7 +546,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(32/132)",
       "codigoLiga": "misty's tentacool (32/132)",
       "myp": "g1_032"
@@ -595,7 +563,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "17",
       "numeroLiga": "(33/132)",
       "codigoLiga": "rocket's snorlax (33/132)",
       "myp": "g1_033"
@@ -614,7 +581,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(34/132)",
       "codigoLiga": "sabrina's venomoth (34/132)",
       "myp": "g1_034"
@@ -633,7 +599,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(35/132)",
       "codigoLiga": "blaine's growlithe (35/132)",
       "myp": "g1_035"
@@ -652,7 +617,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(36/132)",
       "codigoLiga": "blaine's kangaskhan (36/132)",
       "myp": "g1_036"
@@ -671,7 +635,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(37/132)",
       "codigoLiga": "blaine's magmar (37/132)",
       "myp": "g1_037"
@@ -690,7 +653,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(38/132)",
       "codigoLiga": "brock's geodude (38/132)",
       "myp": "g1_038"
@@ -709,7 +671,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(39/132)",
       "codigoLiga": "brock's golbat (39/132)",
       "myp": "g1_039"
@@ -728,7 +689,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(40/132)",
       "codigoLiga": "brock's graveler (40/132)",
       "myp": "g1_040"
@@ -747,7 +707,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(41/132)",
       "codigoLiga": "brock's lickitung (41/132)",
       "myp": "g1_041"
@@ -766,7 +725,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(42/132)",
       "codigoLiga": "erika's dratini (42/132)",
       "myp": "g1_042"
@@ -785,7 +743,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(43/132)",
       "codigoLiga": "erika's exeggcute (43/132)",
       "myp": "g1_043"
@@ -804,7 +761,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(44/132)",
       "codigoLiga": "erika's exeggutor (44/132)",
       "myp": "g1_044"
@@ -823,7 +779,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(45/132)",
       "codigoLiga": "erika's gloom (45/132)",
       "myp": "g1_045"
@@ -842,7 +797,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(46/132)",
       "codigoLiga": "erika's gloom (46/132)",
       "myp": "g1_046"
@@ -861,7 +815,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(47/132)",
       "codigoLiga": "erika's oddish (47/132)",
       "myp": "g1_047"
@@ -880,7 +833,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(48/132)",
       "codigoLiga": "erika's weepinbell (48/132)",
       "myp": "g1_048"
@@ -899,7 +851,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(49/132)",
       "codigoLiga": "erika's weepinbell (49/132)",
       "myp": "g1_049"
@@ -918,7 +869,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(50/132)",
       "codigoLiga": "lt. surge's magnemite (50/132)",
       "myp": "g1_050"
@@ -937,7 +887,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(51/132)",
       "codigoLiga": "lt. surge's raticate (51/132)",
       "myp": "g1_051"
@@ -956,7 +905,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(52/132)",
       "codigoLiga": "lt. surge's spearow (52/132)",
       "myp": "g1_052"
@@ -975,7 +923,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(53/132)",
       "codigoLiga": "misty's poliwhirl (53/132)",
       "myp": "g1_053"
@@ -994,7 +941,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(54/132)",
       "codigoLiga": "misty's psyduck (54/132)",
       "myp": "g1_054"
@@ -1013,7 +959,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(55/132)",
       "codigoLiga": "misty's seaking (55/132)",
       "myp": "g1_055"
@@ -1032,7 +977,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(56/132)",
       "codigoLiga": "misty's starmie (56/132)",
       "myp": "g1_056"
@@ -1051,7 +995,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(57/132)",
       "codigoLiga": "misty's tentacool (57/132)",
       "myp": "g1_057"
@@ -1070,7 +1013,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(58/132)",
       "codigoLiga": "sabrina's haunter (58/132)",
       "myp": "g1_058"
@@ -1089,7 +1031,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(59/132)",
       "codigoLiga": "sabrina's jynx (59/132)",
       "myp": "g1_059"
@@ -1108,7 +1049,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(60/132)",
       "codigoLiga": "sabrina's slowbro (60/132)",
       "myp": "g1_060"
@@ -1127,7 +1067,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(61/132)",
       "codigoLiga": "blaine's charmander (61/132)",
       "myp": "g1_061"
@@ -1146,7 +1085,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(62/132)",
       "codigoLiga": "blaine's growlithe (62/132)",
       "myp": "g1_062"
@@ -1165,7 +1103,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(63/132)",
       "codigoLiga": "blaine's ponyta (63/132)",
       "myp": "g1_063"
@@ -1184,7 +1121,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(64/132)",
       "codigoLiga": "blaine's tauros (64/132)",
       "myp": "g1_064"
@@ -1203,7 +1139,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(65/132)",
       "codigoLiga": "blaine's vulpix (65/132)",
       "myp": "g1_065"
@@ -1222,7 +1157,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(66/132)",
       "codigoLiga": "brock's geodude (66/132)",
       "myp": "g1_066"
@@ -1241,7 +1175,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(67/132)",
       "codigoLiga": "brock's mankey (67/132)",
       "myp": "g1_067"
@@ -1260,7 +1193,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(68/132)",
       "codigoLiga": "brock's mankey (68/132)",
       "myp": "g1_068"
@@ -1279,7 +1211,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(69/132)",
       "codigoLiga": "brock's onix (69/132)",
       "myp": "g1_069"
@@ -1298,7 +1229,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(70/132)",
       "codigoLiga": "brock's rhyhorn (70/132)",
       "myp": "g1_070"
@@ -1317,7 +1247,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(71/132)",
       "codigoLiga": "brock's sandshrew (71/132)",
       "myp": "g1_071"
@@ -1336,7 +1265,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(72/132)",
       "codigoLiga": "brock's sandshrew (72/132)",
       "myp": "g1_072"
@@ -1355,7 +1283,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(73/132)",
       "codigoLiga": "brock's vulpix (73/132)",
       "myp": "g1_073"
@@ -1374,7 +1301,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(74/132)",
       "codigoLiga": "brock's zubat (74/132)",
       "myp": "g1_074"
@@ -1393,7 +1319,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(75/132)",
       "codigoLiga": "erika's bellsprout (75/132)",
       "myp": "g1_075"
@@ -1412,7 +1337,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(76/132)",
       "codigoLiga": "erika's bellsprout (76/132)",
       "myp": "g1_076"
@@ -1431,7 +1355,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(77/132)",
       "codigoLiga": "erika's exeggcute (77/132)",
       "myp": "g1_077"
@@ -1450,7 +1373,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(78/132)",
       "codigoLiga": "erika's oddish (78/132)",
       "myp": "g1_078"
@@ -1469,7 +1391,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(79/132)",
       "codigoLiga": "erika's tangela (79/132)",
       "myp": "g1_079"
@@ -1488,7 +1409,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(80/132)",
       "codigoLiga": "lt. surge's magnemite (80/132)",
       "myp": "g1_080"
@@ -1507,7 +1427,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(81/132)",
       "codigoLiga": "lt. surge's pikachu (81/132)",
       "myp": "g1_081"
@@ -1526,7 +1445,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(82/132)",
       "codigoLiga": "lt. surge's rattata (82/132)",
       "myp": "g1_082"
@@ -1545,7 +1463,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(83/132)",
       "codigoLiga": "lt. surge's spearow (83/132)",
       "myp": "g1_083"
@@ -1564,7 +1481,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(84/132)",
       "codigoLiga": "lt. surge's voltorb (84/132)",
       "myp": "g1_084"
@@ -1583,7 +1499,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(85/132)",
       "codigoLiga": "misty's goldeen (85/132)",
       "myp": "g1_085"
@@ -1602,7 +1517,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(86/132)",
       "codigoLiga": "misty's horsea (86/132)",
       "myp": "g1_086"
@@ -1621,7 +1535,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(87/132)",
       "codigoLiga": "misty's poliwag (87/132)",
       "myp": "g1_087"
@@ -1640,7 +1553,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(88/132)",
       "codigoLiga": "misty's seel (88/132)",
       "myp": "g1_088"
@@ -1659,7 +1571,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(89/132)",
       "codigoLiga": "misty's shellder (89/132)",
       "myp": "g1_089"
@@ -1678,7 +1589,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(90/132)",
       "codigoLiga": "misty's staryu (90/132)",
       "myp": "g1_090"
@@ -1697,7 +1607,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(91/132)",
       "codigoLiga": "sabrina's abra (91/132)",
       "myp": "g1_091"
@@ -1716,7 +1625,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(92/132)",
       "codigoLiga": "sabrina's drowzee (92/132)",
       "myp": "g1_092"
@@ -1735,7 +1643,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(93/132)",
       "codigoLiga": "sabrina's gastly (93/132)",
       "myp": "g1_093"
@@ -1754,7 +1661,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(94/132)",
       "codigoLiga": "sabrina's mr. mime (94/132)",
       "myp": "g1_094"
@@ -1773,7 +1679,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(95/132)",
       "codigoLiga": "sabrina's slowpoke (95/132)",
       "myp": "g1_095"
@@ -1792,7 +1697,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(96/132)",
       "codigoLiga": "sabrina's venonat (96/132)",
       "myp": "g1_096"
@@ -1806,7 +1710,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(97/132)",
       "codigoLiga": "blaine's quiz #1 (97/132)",
       "myp": "g1_097"
@@ -1820,7 +1723,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(98/132)",
       "codigoLiga": "brock (98/132)",
       "myp": "g1_098"
@@ -1834,7 +1736,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(99/132)",
       "codigoLiga": "charity (99/132)",
       "myp": "g1_099"
@@ -1848,7 +1749,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(100/132)",
       "codigoLiga": "erika (100/132)",
       "myp": "g1_100"
@@ -1863,7 +1763,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(101/132)",
       "codigoLiga": "lt. surge (101/132)",
       "myp": "g1_101"
@@ -1877,7 +1776,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(102/132)",
       "codigoLiga": "misty (102/132)",
       "myp": "g1_102"
@@ -1892,7 +1790,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "3",
       "numeroLiga": "(103/132)",
       "codigoLiga": "no removal gym (103/132)",
       "myp": "g1_103"
@@ -1907,7 +1804,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "3",
       "numeroLiga": "(104/132)",
       "codigoLiga": "the rocket's training gym (104/132)",
       "myp": "g1_104"
@@ -1921,7 +1817,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(105/132)",
       "codigoLiga": "blaine's last resort (105/132)",
       "myp": "g1_105"
@@ -1935,7 +1830,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(106/132)",
       "codigoLiga": "brock's training method (106/132)",
       "myp": "g1_106"
@@ -1950,7 +1844,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(107/132)",
       "codigoLiga": "celadon city gym (107/132)",
       "myp": "g1_107"
@@ -1965,7 +1858,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(108/132)",
       "codigoLiga": "cerulean city gym (108/132)",
       "myp": "g1_108"
@@ -1979,7 +1871,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(109/132)",
       "codigoLiga": "erika's maids (109/132)",
       "myp": "g1_109"
@@ -1993,7 +1884,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(110/132)",
       "codigoLiga": "erika's perfume (110/132)",
       "myp": "g1_110"
@@ -2007,7 +1897,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(111/132)",
       "codigoLiga": "good manners (111/132)",
       "myp": "g1_111"
@@ -2021,7 +1910,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(112/132)",
       "codigoLiga": "lt. surge's treaty (112/132)",
       "myp": "g1_112"
@@ -2036,7 +1924,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(113/132)",
       "codigoLiga": "minion of team rocket (113/132)",
       "myp": "g1_113"
@@ -2050,7 +1937,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(114/132)",
       "codigoLiga": "misty's wrath (114/132)",
       "myp": "g1_114"
@@ -2065,7 +1951,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(115/132)",
       "codigoLiga": "pewter city gym (115/132)",
       "myp": "g1_115"
@@ -2079,7 +1964,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "10",
       "numeroLiga": "(116/132)",
       "codigoLiga": "recall (116/132)",
       "myp": "g1_116"
@@ -2093,7 +1977,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(117/132)",
       "codigoLiga": "sabrina's esp (117/132)",
       "myp": "g1_117"
@@ -2107,7 +1990,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(118/132)",
       "codigoLiga": "secret mission (118/132)",
       "myp": "g1_118"
@@ -2122,7 +2004,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "10",
       "numeroLiga": "(119/132)",
       "codigoLiga": "tickling machine (119/132)",
       "myp": "g1_119"
@@ -2137,7 +2018,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(120/132)",
       "codigoLiga": "vermilion city gym (120/132)",
       "myp": "g1_120"
@@ -2151,7 +2031,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(121/132)",
       "codigoLiga": "blaine's gamble (121/132)",
       "myp": "g1_121"
@@ -2165,7 +2044,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(122/132)",
       "codigoLiga": "energy flow (122/132)",
       "myp": "g1_122"
@@ -2179,7 +2057,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(123/132)",
       "codigoLiga": "misty's duel (123/132)",
       "myp": "g1_123"
@@ -2194,7 +2071,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(124/132)",
       "codigoLiga": "narrow gym (124/132)",
       "myp": "g1_124"
@@ -2208,7 +2084,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(125/132)",
       "codigoLiga": "sabrina's gaze (125/132)",
       "myp": "g1_125"
@@ -2222,7 +2097,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(126/132)",
       "codigoLiga": "trash exchange (126/132)",
       "myp": "g1_126"
@@ -2238,7 +2112,6 @@
       "typeId": "6",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(127/132)",
       "codigoLiga": "fighting energy (127/132)",
       "myp": "g1_127"
@@ -2254,7 +2127,6 @@
       "typeId": "2",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(128/132)",
       "codigoLiga": "fire energy (128/132)",
       "myp": "g1_128"
@@ -2270,7 +2142,6 @@
       "typeId": "1",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(129/132)",
       "codigoLiga": "grass energy (129/132)",
       "myp": "g1_129"
@@ -2286,7 +2157,6 @@
       "typeId": "4",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(130/132)",
       "codigoLiga": "lightning energy (130/132)",
       "myp": "g1_130"
@@ -2302,7 +2172,6 @@
       "typeId": "5",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(131/132)",
       "codigoLiga": "psychic energy (131/132)",
       "myp": "g1_131"
@@ -2318,7 +2187,6 @@
       "typeId": "3",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(132/132)",
       "codigoLiga": "water energy (132/132)",
       "myp": "g1_132"
@@ -2337,7 +2205,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(1/132)",
       "codigoLiga": "blaine's arcanine (1/132)",
       "myp": "g2_001"
@@ -2356,7 +2223,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(2/132)",
       "codigoLiga": "blaine's charizard (2/132)",
       "myp": "g2_002"
@@ -2375,7 +2241,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(3/132)",
       "codigoLiga": "brock's ninetales (3/132)",
       "myp": "g2_003"
@@ -2394,7 +2259,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(4/132)",
       "codigoLiga": "erika's venusaur (4/132)",
       "myp": "g2_004"
@@ -2413,7 +2277,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(5/132)",
       "codigoLiga": "giovanni's gyarados (5/132)",
       "myp": "g2_005"
@@ -2432,7 +2295,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(6/132)",
       "codigoLiga": "giovanni's machamp (6/132)",
       "myp": "g2_006"
@@ -2451,7 +2313,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(7/132)",
       "codigoLiga": "giovanni's nidoking (7/132)",
       "myp": "g2_007"
@@ -2470,7 +2331,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(8/132)",
       "codigoLiga": "giovanni's persian (8/132)",
       "myp": "g2_008"
@@ -2489,7 +2349,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(9/132)",
       "codigoLiga": "koga's beedrill (9/132)",
       "myp": "g2_009"
@@ -2508,7 +2367,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(10/132)",
       "codigoLiga": "koga's ditto (10/132)",
       "myp": "g2_010"
@@ -2527,7 +2385,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(11/132)",
       "codigoLiga": "lt. surge's raichu (11/132)",
       "myp": "g2_011"
@@ -2546,7 +2403,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(12/132)",
       "codigoLiga": "misty's golduck (12/132)",
       "myp": "g2_012"
@@ -2565,7 +2421,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(13/132)",
       "codigoLiga": "misty's gyarados (13/132)",
       "myp": "g2_013"
@@ -2583,7 +2438,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "17",
       "numeroLiga": "(14/132)",
       "codigoLiga": "rocket's mewtwo (14/132)",
       "myp": "g2_014"
@@ -2602,7 +2456,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "17",
       "numeroLiga": "(15/132)",
       "codigoLiga": "rocket's zapdos (15/132)",
       "myp": "g2_015"
@@ -2621,7 +2474,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(16/132)",
       "codigoLiga": "sabrina's alakazam (16/132)",
       "myp": "g2_016"
@@ -2635,7 +2487,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(17/132)",
       "codigoLiga": "blaine (17/132)",
       "myp": "g2_017"
@@ -2649,7 +2500,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(18/132)",
       "codigoLiga": "giovanni (18/132)",
       "myp": "g2_018"
@@ -2663,7 +2513,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(19/132)",
       "codigoLiga": "koga (19/132)",
       "myp": "g2_019"
@@ -2677,7 +2526,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "5",
-      "artistId": "1",
       "numeroLiga": "(20/132)",
       "codigoLiga": "sabrina (20/132)",
       "myp": "g2_020"
@@ -2696,7 +2544,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(21/132)",
       "codigoLiga": "blaine's ninetales (21/132)",
       "myp": "g2_021"
@@ -2715,7 +2562,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(22/132)",
       "codigoLiga": "brock's dugtrio (22/132)",
       "myp": "g2_022"
@@ -2734,7 +2580,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(23/132)",
       "codigoLiga": "giovanni's nidoqueen (23/132)",
       "myp": "g2_023"
@@ -2753,7 +2598,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(24/132)",
       "codigoLiga": "giovanni's pinsir (24/132)",
       "myp": "g2_024"
@@ -2772,7 +2616,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(25/132)",
       "codigoLiga": "koga's arbok (25/132)",
       "myp": "g2_025"
@@ -2791,7 +2634,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(26/132)",
       "codigoLiga": "koga's muk (26/132)",
       "myp": "g2_026"
@@ -2810,7 +2652,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(27/132)",
       "codigoLiga": "koga's pidgeotto (27/132)",
       "myp": "g2_027"
@@ -2829,7 +2670,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(28/132)",
       "codigoLiga": "lt. surge's jolteon (28/132)",
       "myp": "g2_028"
@@ -2848,7 +2688,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(29/132)",
       "codigoLiga": "sabrina's gengar (29/132)",
       "myp": "g2_029"
@@ -2867,7 +2706,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(30/132)",
       "codigoLiga": "sabrina's golduck (30/132)",
       "myp": "g2_030"
@@ -2886,7 +2724,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(31/132)",
       "codigoLiga": "blaine's charmeleon (31/132)",
       "myp": "g2_031"
@@ -2905,7 +2742,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(32/132)",
       "codigoLiga": "blaine's dodrio (32/132)",
       "myp": "g2_032"
@@ -2924,7 +2760,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(33/132)",
       "codigoLiga": "blaine's rapidash (33/132)",
       "myp": "g2_033"
@@ -2943,7 +2778,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(34/132)",
       "codigoLiga": "brock's graveler (34/132)",
       "myp": "g2_034"
@@ -2962,7 +2796,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(35/132)",
       "codigoLiga": "brock's primeape (35/132)",
       "myp": "g2_035"
@@ -2981,7 +2814,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(36/132)",
       "codigoLiga": "brock's sandslash (36/132)",
       "myp": "g2_036"
@@ -3000,7 +2832,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(37/132)",
       "codigoLiga": "brock's vulpix (37/132)",
       "myp": "g2_037"
@@ -3019,7 +2850,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(38/132)",
       "codigoLiga": "erika's bellsprout (38/132)",
       "myp": "g2_038"
@@ -3038,7 +2868,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(39/132)",
       "codigoLiga": "erika's bulbasaur (39/132)",
       "myp": "g2_039"
@@ -3057,7 +2886,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(40/132)",
       "codigoLiga": "erika's clefairy (40/132)",
       "myp": "g2_040"
@@ -3076,7 +2904,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(41/132)",
       "codigoLiga": "erika's ivysaur (41/132)",
       "myp": "g2_041"
@@ -3095,7 +2922,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(42/132)",
       "codigoLiga": "giovanni's machoke (42/132)",
       "myp": "g2_042"
@@ -3114,7 +2940,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(43/132)",
       "codigoLiga": "giovanni's meowth (43/132)",
       "myp": "g2_043"
@@ -3133,7 +2958,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(44/132)",
       "codigoLiga": "giovanni's nidorina (44/132)",
       "myp": "g2_044"
@@ -3152,7 +2976,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(45/132)",
       "codigoLiga": "giovanni's nidorino (45/132)",
       "myp": "g2_045"
@@ -3171,7 +2994,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(46/132)",
       "codigoLiga": "koga's golbat (46/132)",
       "myp": "g2_046"
@@ -3190,7 +3012,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(47/132)",
       "codigoLiga": "koga's kakuna (47/132)",
       "myp": "g2_047"
@@ -3209,7 +3030,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(48/132)",
       "codigoLiga": "koga's koffing (48/132)",
       "myp": "g2_048"
@@ -3228,7 +3048,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(49/132)",
       "codigoLiga": "koga's pidgey (49/132)",
       "myp": "g2_049"
@@ -3247,7 +3066,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(50/132)",
       "codigoLiga": "koga's weezing (50/132)",
       "myp": "g2_050"
@@ -3266,7 +3084,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(51/132)",
       "codigoLiga": "lt. surge's eevee (51/132)",
       "myp": "g2_051"
@@ -3285,7 +3102,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(52/132)",
       "codigoLiga": "lt. surge's electrode (52/132)",
       "myp": "g2_052"
@@ -3304,7 +3120,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(53/132)",
       "codigoLiga": "lt. surge's raticate (53/132)",
       "myp": "g2_053"
@@ -3323,7 +3138,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(54/132)",
       "codigoLiga": "misty's dewgong (54/132)",
       "myp": "g2_054"
@@ -3342,7 +3156,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(55/132)",
       "codigoLiga": "sabrina's haunter (55/132)",
       "myp": "g2_055"
@@ -3361,7 +3174,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(56/132)",
       "codigoLiga": "sabrina's hypno (56/132)",
       "myp": "g2_056"
@@ -3380,7 +3192,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "12",
       "numeroLiga": "(57/132)",
       "codigoLiga": "sabrina's jynx (57/132)",
       "myp": "g2_057"
@@ -3399,7 +3210,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(58/132)",
       "codigoLiga": "sabrina's kadabra (58/132)",
       "myp": "g2_058"
@@ -3418,7 +3228,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(59/132)",
       "codigoLiga": "sabrina's mr. mime (59/132)",
       "myp": "g2_059"
@@ -3437,7 +3246,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(60/132)",
       "codigoLiga": "blaine's charmander (60/132)",
       "myp": "g2_060"
@@ -3456,7 +3264,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(61/132)",
       "codigoLiga": "blaine's doduo (61/132)",
       "myp": "g2_061"
@@ -3475,7 +3282,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(62/132)",
       "codigoLiga": "blaine's growlithe (62/132)",
       "myp": "g2_062"
@@ -3494,7 +3300,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(63/132)",
       "codigoLiga": "blaine's mankey (63/132)",
       "myp": "g2_063"
@@ -3513,7 +3318,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(64/132)",
       "codigoLiga": "blaine's ponyta (64/132)",
       "myp": "g2_064"
@@ -3532,7 +3336,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(65/132)",
       "codigoLiga": "blaine's rhyhorn (65/132)",
       "myp": "g2_065"
@@ -3551,7 +3354,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(66/132)",
       "codigoLiga": "blaine's vulpix (66/132)",
       "myp": "g2_066"
@@ -3570,7 +3372,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(67/132)",
       "codigoLiga": "brock's diglett (67/132)",
       "myp": "g2_067"
@@ -3589,7 +3390,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(68/132)",
       "codigoLiga": "brock's geodude (68/132)",
       "myp": "g2_068"
@@ -3608,7 +3408,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(69/132)",
       "codigoLiga": "erika's jigglypuff (69/132)",
       "myp": "g2_069"
@@ -3627,7 +3426,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(70/132)",
       "codigoLiga": "erika's oddish (70/132)",
       "myp": "g2_070"
@@ -3646,7 +3444,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(71/132)",
       "codigoLiga": "erika's paras (71/132)",
       "myp": "g2_071"
@@ -3665,7 +3462,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(72/132)",
       "codigoLiga": "giovanni's machop (72/132)",
       "myp": "g2_072"
@@ -3684,7 +3480,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(73/132)",
       "codigoLiga": "giovanni's magikarp (73/132)",
       "myp": "g2_073"
@@ -3703,7 +3498,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(74/132)",
       "codigoLiga": "giovanni's meowth (74/132)",
       "myp": "g2_074"
@@ -3722,7 +3516,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(75/132)",
       "codigoLiga": "giovanni's nidoran female (75/132)",
       "myp": "g2_075"
@@ -3741,7 +3534,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(76/132)",
       "codigoLiga": "giovanni's nidoran male (76/132)",
       "myp": "g2_076"
@@ -3760,7 +3552,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(77/132)",
       "codigoLiga": "koga's ekans (77/132)",
       "myp": "g2_077"
@@ -3779,7 +3570,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(78/132)",
       "codigoLiga": "koga's grimer (78/132)",
       "myp": "g2_078"
@@ -3798,7 +3588,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(79/132)",
       "codigoLiga": "koga's koffing (79/132)",
       "myp": "g2_079"
@@ -3817,7 +3606,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(80/132)",
       "codigoLiga": "koga's pidgey (80/132)",
       "myp": "g2_080"
@@ -3836,7 +3624,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(81/132)",
       "codigoLiga": "koga's tangela (81/132)",
       "myp": "g2_081"
@@ -3855,7 +3642,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(82/132)",
       "codigoLiga": "koga's weedle (82/132)",
       "myp": "g2_082"
@@ -3874,7 +3660,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(83/132)",
       "codigoLiga": "koga's zubat (83/132)",
       "myp": "g2_083"
@@ -3893,7 +3678,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(84/132)",
       "codigoLiga": "lt. surge's pikachu (84/132)",
       "myp": "g2_084"
@@ -3912,7 +3696,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(85/132)",
       "codigoLiga": "lt. surge's rattata (85/132)",
       "myp": "g2_085"
@@ -3931,7 +3714,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(86/132)",
       "codigoLiga": "lt. surge's voltorb (86/132)",
       "myp": "g2_086"
@@ -3950,7 +3732,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(87/132)",
       "codigoLiga": "misty's horsea (87/132)",
       "myp": "g2_087"
@@ -3969,7 +3750,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(88/132)",
       "codigoLiga": "misty's magikarp (88/132)",
       "myp": "g2_088"
@@ -3988,7 +3768,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(89/132)",
       "codigoLiga": "misty's poliwag (89/132)",
       "myp": "g2_089"
@@ -4007,7 +3786,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(90/132)",
       "codigoLiga": "misty's psyduck (90/132)",
       "myp": "g2_090"
@@ -4026,7 +3804,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(91/132)",
       "codigoLiga": "misty's seel (91/132)",
       "myp": "g2_091"
@@ -4045,7 +3822,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(92/132)",
       "codigoLiga": "misty's staryu (92/132)",
       "myp": "g2_092"
@@ -4064,7 +3840,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(93/132)",
       "codigoLiga": "sabrina's abra (93/132)",
       "myp": "g2_093"
@@ -4083,7 +3858,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(94/132)",
       "codigoLiga": "sabrina's abra (94/132)",
       "myp": "g2_094"
@@ -4102,7 +3876,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(95/132)",
       "codigoLiga": "sabrina's drowzee (95/132)",
       "myp": "g2_095"
@@ -4121,7 +3894,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(96/132)",
       "codigoLiga": "sabrina's gastly (96/132)",
       "myp": "g2_096"
@@ -4140,7 +3912,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "12",
       "numeroLiga": "(97/132)",
       "codigoLiga": "sabrina's gastly (97/132)",
       "myp": "g2_097"
@@ -4159,7 +3930,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(98/132)",
       "codigoLiga": "sabrina's porygon (98/132)",
       "myp": "g2_098"
@@ -4178,7 +3948,6 @@
       "seriesId": "2",
       "supertypeId": "1",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(99/132)",
       "codigoLiga": "sabrina's psyduck (99/132)",
       "myp": "g2_099"
@@ -4192,7 +3961,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(100/132)",
       "codigoLiga": "blaine (100/132)",
       "myp": "g2_100"
@@ -4206,7 +3974,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(101/132)",
       "codigoLiga": "brock's protection (101/132)",
       "myp": "g2_101"
@@ -4221,7 +3988,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "3",
       "numeroLiga": "(102/132)",
       "codigoLiga": "chaos gym (102/132)",
       "myp": "g2_102"
@@ -4235,7 +4001,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(103/132)",
       "codigoLiga": "erika's kindness (103/132)",
       "myp": "g2_103"
@@ -4249,7 +4014,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(104/132)",
       "codigoLiga": "giovanni (104/132)",
       "myp": "g2_104"
@@ -4263,7 +4027,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(105/132)",
       "codigoLiga": "giovanni's last resort (105/132)",
       "myp": "g2_105"
@@ -4277,7 +4040,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(106/132)",
       "codigoLiga": "koga (106/132)",
       "myp": "g2_106"
@@ -4291,7 +4053,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(107/132)",
       "codigoLiga": "lt. surge's secret plan (107/132)",
       "myp": "g2_107"
@@ -4305,7 +4066,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(108/132)",
       "codigoLiga": "misty's wish (108/132)",
       "myp": "g2_108"
@@ -4320,7 +4080,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "3",
       "numeroLiga": "(109/132)",
       "codigoLiga": "resistance gym (109/132)",
       "myp": "g2_109"
@@ -4334,7 +4093,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "3",
-      "artistId": "1",
       "numeroLiga": "(110/132)",
       "codigoLiga": "sabrina (110/132)",
       "myp": "g2_110"
@@ -4348,7 +4106,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(111/132)",
       "codigoLiga": "blaine's quiz #2 (111/132)",
       "myp": "g2_111"
@@ -4362,7 +4119,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(112/132)",
       "codigoLiga": "blaine's quiz #3 (112/132)",
       "myp": "g2_112"
@@ -4377,7 +4133,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(113/132)",
       "codigoLiga": "cinnabar city gym (113/132)",
       "myp": "g2_113"
@@ -4392,7 +4147,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(114/132)",
       "codigoLiga": "fuchsia city gym (114/132)",
       "myp": "g2_114"
@@ -4406,7 +4160,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "10",
       "numeroLiga": "(115/132)",
       "codigoLiga": "koga's ninja trick (115/132)",
       "myp": "g2_115"
@@ -4421,7 +4174,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(116/132)",
       "codigoLiga": "master ball (116/132)",
       "myp": "g2_116"
@@ -4436,7 +4188,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "23",
       "numeroLiga": "(117/132)",
       "codigoLiga": "max revive (117/132)",
       "myp": "g2_117"
@@ -4450,7 +4201,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(118/132)",
       "codigoLiga": "misty's tears (118/132)",
       "myp": "g2_118"
@@ -4465,7 +4215,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(119/132)",
       "codigoLiga": "rocket's minefield gym (119/132)",
       "myp": "g2_119"
@@ -4480,7 +4229,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(120/132)",
       "codigoLiga": "rocket's secret experiment (120/132)",
       "myp": "g2_120"
@@ -4494,7 +4242,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "1",
       "numeroLiga": "(121/132)",
       "codigoLiga": "sabrina's psychic control (121/132)",
       "myp": "g2_121"
@@ -4509,7 +4256,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(122/132)",
       "codigoLiga": "saffron city gym (122/132)",
       "myp": "g2_122"
@@ -4524,7 +4270,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "2",
-      "artistId": "3",
       "numeroLiga": "(123/132)",
       "codigoLiga": "viridian city gym (123/132)",
       "myp": "g2_123"
@@ -4538,7 +4283,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "1",
       "numeroLiga": "(124/132)",
       "codigoLiga": "fervor (124/132)",
       "myp": "g2_124"
@@ -4552,7 +4296,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(125/132)",
       "codigoLiga": "transparent walls (125/132)",
       "myp": "g2_125"
@@ -4566,7 +4309,6 @@
       "seriesId": "2",
       "supertypeId": "2",
       "rarityId": "1",
-      "artistId": "3",
       "numeroLiga": "(126/132)",
       "codigoLiga": "warp point (126/132)",
       "myp": "g2_126"
@@ -4582,7 +4324,6 @@
       "typeId": "6",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(127/132)",
       "codigoLiga": "fighting energy (127/132)",
       "myp": "g2_127"
@@ -4598,7 +4339,6 @@
       "typeId": "2",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(128/132)",
       "codigoLiga": "fire energy (128/132)",
       "myp": "g2_128"
@@ -4614,7 +4354,6 @@
       "typeId": "1",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(129/132)",
       "codigoLiga": "grass energy (129/132)",
       "myp": "g2_129"
@@ -4630,7 +4369,6 @@
       "typeId": "4",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(130/132)",
       "codigoLiga": "lightning energy (130/132)",
       "myp": "g2_130"
@@ -4646,7 +4384,6 @@
       "typeId": "5",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(131/132)",
       "codigoLiga": "psychic energy (131/132)",
       "myp": "g2_131"
@@ -4662,7 +4399,6 @@
       "typeId": "3",
       "seriesId": "2",
       "supertypeId": "3",
-      "artistId": "3",
       "numeroLiga": "(132/132)",
       "codigoLiga": "water energy (132/132)",
       "myp": "g2_132"
