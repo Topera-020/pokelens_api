@@ -1,74 +1,76 @@
 {
-  "data": [
-    {
-      "name": "Kanto",
-      "id": "1",
-      "releaseDate": "Tue Oct 15 1996 00:00:00 GMT-0200 (Brasilia Summer Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Johto",
-      "id": "2",
-      "releaseDate": "Sun Nov 21 1999 00:00:00 GMT-0200 (Brasilia Summer Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Hoenn",
-      "id": "3",
-      "releaseDate": "Thu Nov 21 2002 00:00:00 GMT-0200 (Brasilia Summer Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Sinnoh",
-      "id": "4",
-      "releaseDate": "Thu Sep 28 2006 00:00:00 GMT-0300 (Brasilia Standard Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Unova",
-      "id": "5",
-      "releaseDate": "Sat Sep 18 2010 00:00:00 GMT-0300 (Brasilia Standard Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Kalos",
-      "id": "6",
-      "releaseDate": "Sat Oct 12 2013 00:00:00 GMT-0300 (Brasilia Standard Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Alola",
-      "id": "7",
-      "releaseDate": "Fri Nov 18 2016 00:00:00 GMT-0200 (Brasilia Summer Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Galar",
-      "id": "8",
-      "releaseDate": "Fri Nov 15 2019 00:00:00 GMT-0300 (Brasilia Standard Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Hissui",
-      "id": "9",
-      "releaseDate": "Fri Jan 28 2022 00:00:00 GMT-0300 (Brasilia Standard Time)",
-      "nomePt": "",
-      "image": ""
-    },
-    {
-      "name": "Paldea",
-      "id": "10",
-      "releaseDate": "Fri Nov 18 2022 00:00:00 GMT-0300 (Brasilia Standard Time)",
-      "nomePt": "",
-      "image": ""
+    "data": {
+        "data": [
+            {
+                "id": "1",
+                "name": "Kanto",
+                "nomePt": "",
+                "releaseDate": "Tue Oct 15 1996 00:0",
+                "image": ""
+            },
+            {
+                "id": "2",
+                "name": "Johto",
+                "nomePt": "",
+                "releaseDate": "Sun Nov 21 1999 00:0",
+                "image": ""
+            },
+            {
+                "id": "3",
+                "name": "Hoenn",
+                "nomePt": "",
+                "releaseDate": "Thu Nov 21 2002 00:0",
+                "image": ""
+            },
+            {
+                "id": "4",
+                "name": "Sinnoh",
+                "nomePt": "",
+                "releaseDate": "Thu Sep 28 2006 00:0",
+                "image": ""
+            },
+            {
+                "id": "5",
+                "name": "Unova",
+                "nomePt": "",
+                "releaseDate": "Sat Sep 18 2010 00:0",
+                "image": ""
+            },
+            {
+                "id": "6",
+                "name": "Kalos",
+                "nomePt": "",
+                "releaseDate": "Sat Oct 12 2013 00:0",
+                "image": ""
+            },
+            {
+                "id": "7",
+                "name": "Alola",
+                "nomePt": "",
+                "releaseDate": "Fri Nov 18 2016 00:0",
+                "image": ""
+            },
+            {
+                "id": "8",
+                "name": "Galar",
+                "nomePt": "",
+                "releaseDate": "Fri Nov 15 2019 00:0",
+                "image": ""
+            },
+            {
+                "id": "9",
+                "name": "Hissui",
+                "nomePt": "",
+                "releaseDate": "Fri Jan 28 2022 00:0",
+                "image": ""
+            },
+            {
+                "id": "10",
+                "name": "Paldea",
+                "nomePt": "",
+                "releaseDate": "Fri Nov 18 2022 00:0",
+                "image": ""
+            }
+        ]
     }
-  ]
 }
