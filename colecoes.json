@@ -1248,7 +1248,6 @@
       "numeroLiga": "∞",
       "codigoMyp": "PR_XY",
       "numeroMyp": "211",
-      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/10/12"
     },
     {
@@ -1264,6 +1263,7 @@
       "numeroLiga": "113",
       "codigoMyp": "LTR",
       "numeroMyp": "113",
+      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/11/06"
     },
     {
@@ -1281,6 +1281,7 @@
       "numeroLiga": "113",
       "codigoMyp": "LTR",
       "numeroMyp": "113",
+      "nomePt": "Tesouros Lendários",
       "releaseDate": "2013/11/06"
     },
     {
@@ -1945,6 +1946,17 @@
       "codigoMyp": "TEU",
       "numeroMyp": "181",
       "nomePt": "União de Aliados",
+      "releaseDate": "2019/02/01"
+    },
+    {
+      "id": "en19",
+      "language": "en",
+      "name": "2019 Energies",
+      "seriesId": 15,
+      "printedTotal": 9,
+      "total": 9,
+      "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
+      "image": "https://images.pokemontcg.io/sm1/logo.png",
       "releaseDate": "2019/02/01"
     },
     {
@@ -2748,17 +2760,6 @@
       "releaseDate": "2025/01/17"
     },
     {
-      "id": "en19",
-      "language": "en",
-      "name": "2019 Energies",
-      "seriesId": 15,
-      "printedTotal": 9,
-      "total": 9,
-      "logoImg": "https://images.pokemontcg.io/sm1/logo.png",
-      "image": "https://images.pokemontcg.io/sm1/logo.png",
-      "releaseDate": "2019/02/01"
-    },
-    {
       "id": "sv9",
       "language": "en",
       "name": "Journey Together",
@@ -2774,6 +2775,55 @@
       "nomePt": "Amigos de jornada",
       "formatoLiga": "000",
       "releaseDate": "2025/03/28"
+    },
+    {
+      "id": "sv10",
+      "language": "en",
+      "name": "Destined Rivals",
+      "seriesId": 17,
+      "printedTotal": 182,
+      "total": 244,
+      "ptcgo": "DRI",
+      "image": "https://images.pokemontcg.io/sv10/logo.png",
+      "codigoLiga": "DRI",
+      "numeroLiga": 182,
+      "codigoMyp": "DRI",
+      "numeroMyp": 182,
+      "nomePt": "Rivais Predestinados",
+      "formatoLiga": "000",
+      "releaseDate": "2025/05/30"
+    },
+    {
+      "id": "zsv10pt5",
+      "language": "en",
+      "name": "Black Bolt",
+      "seriesId": 17,
+      "printedTotal": 86,
+      "total": 172,
+      "ptcgo": "BLK",
+      "image": "https://images.pokemontcg.io/zsv10pt5/logo.png",
+      "codigoLiga": "BLK",
+      "numeroLiga": 86,
+      "codigoMyp": "BLK",
+      "numeroMyp": 86,
+      "formatoLiga": "000",
+      "releaseDate": "2025/07/18"
+    },
+    {
+      "id": "rsv10pt5",
+      "language": "en",
+      "name": "White Flare",
+      "seriesId": 17,
+      "printedTotal": 86,
+      "total": 173,
+      "ptcgo": "WHT",
+      "image": "https://images.pokemontcg.io/rsv10pt5/logo.png",
+      "codigoLiga": "WHT",
+      "numeroLiga": 86,
+      "codigoMyp": "WHT",
+      "numeroMyp": 86,
+      "formatoLiga": "000",
+      "releaseDate": "2025/07/18"
     }
   ]
 }
