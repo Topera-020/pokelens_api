@@ -1,5 +1,5 @@
 {
-    "data": {
+
         "en": [
             "cartas_1.json",
             "cartas_10.json",
@@ -54,5 +54,5 @@
         "last_version_available": "1.1.2",
         "oldest_version_compatible": "1.1.1",
         "update_url": "https://seusite.com/baixar"
-    }
+    
 }
