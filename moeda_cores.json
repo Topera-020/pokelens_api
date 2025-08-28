@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Amarelo",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 2,
+        "name": "Azul",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 3,
+        "name": "Bronze",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 4,
+        "name": "Carmesim",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 5,
+        "name": "Cinza",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 6,
+        "name": "Dourado",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 7,
+        "name": "Laranja",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 8,
+        "name": "Marrom",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 9,
+        "name": "Ouro",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 10,
+        "name": "Prateado",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 11,
+        "name": "Preto",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 12,
+        "name": "Rosa",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 13,
+        "name": "Roxo",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 14,
+        "name": "Verde",
+        "nomePt": null,
+        "image": null
+    },
+    {
+        "id": 15,
+        "name": "Vermelho",
+        "nomePt": null,
+        "image": null
+    }
+]
