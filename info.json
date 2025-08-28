@@ -40,7 +40,6 @@
             "artists.json",
             "colecoes.json",
             "colecoes_ja.json",
-            "info.json",
             "pk_types.json",
             "pokedex.json",
             "rarities.json",
@@ -50,7 +49,7 @@
             "supertypes.json",
             "types.json"
         ],
-        "timestamp": "2025-08-28T03:18:12+02:00",
+        "timestamp": "2025-08-28T03:38:37+02:00",
         "last_version_available": "1.1.2",
         "oldest_version_compatible": "1.1.1",
         "update_url": "https://seusite.com/baixar"
