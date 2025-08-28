@@ -4,67 +4,67 @@
             "id": "1",
             "name": "Grass",
             "nomePt": "Grama",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczPhcxT9MZnIZ60KeUK4FffKZAMNHgnoSGcEonu2ufh---1ZELrAxCkp4KZ"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Grass.png"
         },
         {
             "id": "2",
             "name": "Fire",
             "nomePt": "Fogo",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczMRHC5vbDioZ96quJorEqUGhYx4FOxdLF6qfnw5B5pGZ598N5RkOJOLFx8"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Fire.png"
         },
         {
             "id": "3",
             "name": "Water",
             "nomePt": "Água",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczP2N6O11Pa9AvukF8Uu9tOj68EkKWRlvkKU4FXxr0y-Iu_SreOV9gyQb4O"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Water.png"
         },
         {
             "id": "4",
             "name": "Lightning",
             "nomePt": "Elétrico",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczM03XhXlHGyoWjOCLuW3OqSDsEuX6UqOHAIXjTQ8vhyTyMLmYwtMm3LbeB"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Lightning.png"
         },
         {
             "id": "5",
             "name": "Psychic",
             "nomePt": "Psíquico",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczO_YOquPiIaIheC5E4Ut0_mHwFRkx0N5bZuAxvry6nc0U6qBFP2c4lY65s"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Psychic.png"
         },
         {
             "id": "6",
             "name": "Fighting",
             "nomePt": "Lutador",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczOKJ4Fx_bz4zS3-WQd0WJiLjMrBa3Ho0vPr8g_AcGTrlOMWhukdMQfWV8I"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Fighting.png"
         },
         {
             "id": "7",
             "name": "Darkness",
             "nomePt": "Escuridão",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczPcjB1LqxiCCntR377j2WsguWaSfzgh8KLZwHy2hGDuRuwM0kqMupaz6os"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Darkness.png"
         },
         {
             "id": "8",
             "name": "Metal",
             "nomePt": "Metal",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczMmwxNxOnPnTudISMnT_FCx4OuBKgllNLbuU6Rek9ZNzV-9YA1b0h6EIDv"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Metal.png"
         },
         {
             "id": "9",
             "name": "Colorless",
             "nomePt": "Incolor",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczMIugQVzv3MiQGyQThBvEpdtvqUXPj1DoLv9AkwvfZRHNxYH9c0cbIUiYC"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Colorless.png"
         },
         {
             "id": "10",
             "name": "Fairy",
             "nomePt": "Fada",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczM8Un3x6ikOxxFZaKR8wdAfPA7uOk6xyeMWAsJdFKczXikS488bxtMyKkT"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Fairy.png"
         },
         {
             "id": "11",
             "name": "Dragon",
             "nomePt": "Dragão",
-            "image": "https://lh3.googleusercontent.com/pw/AP1GczMsERWg0sMnr9IAR7YUMmdRj2rmlb1ASfMgOOzSZKqKf-rbmRfaT_4EmZe"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Dragon.png"
         }
     ]
 }
