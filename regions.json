@@ -1,76 +1,72 @@
-{
-    "data": {
-        "data": [
-            {
-                "id": "1",
-                "name": "Kanto",
-                "nomePt": "",
-                "releaseDate": "Tue Oct 15 1996 00:0",
-                "image": ""
-            },
-            {
-                "id": "2",
-                "name": "Johto",
-                "nomePt": "",
-                "releaseDate": "Sun Nov 21 1999 00:0",
-                "image": ""
-            },
-            {
-                "id": "3",
-                "name": "Hoenn",
-                "nomePt": "",
-                "releaseDate": "Thu Nov 21 2002 00:0",
-                "image": ""
-            },
-            {
-                "id": "4",
-                "name": "Sinnoh",
-                "nomePt": "",
-                "releaseDate": "Thu Sep 28 2006 00:0",
-                "image": ""
-            },
-            {
-                "id": "5",
-                "name": "Unova",
-                "nomePt": "",
-                "releaseDate": "Sat Sep 18 2010 00:0",
-                "image": ""
-            },
-            {
-                "id": "6",
-                "name": "Kalos",
-                "nomePt": "",
-                "releaseDate": "Sat Oct 12 2013 00:0",
-                "image": ""
-            },
-            {
-                "id": "7",
-                "name": "Alola",
-                "nomePt": "",
-                "releaseDate": "Fri Nov 18 2016 00:0",
-                "image": ""
-            },
-            {
-                "id": "8",
-                "name": "Galar",
-                "nomePt": "",
-                "releaseDate": "Fri Nov 15 2019 00:0",
-                "image": ""
-            },
-            {
-                "id": "9",
-                "name": "Hissui",
-                "nomePt": "",
-                "releaseDate": "Fri Jan 28 2022 00:0",
-                "image": ""
-            },
-            {
-                "id": "10",
-                "name": "Paldea",
-                "nomePt": "",
-                "releaseDate": "Fri Nov 18 2022 00:0",
-                "image": ""
-            }
-        ]
+[
+    {
+        "id": 1,
+        "releaseDate": "Tue Oct 15 1996 00:0",
+        "name": "Kanto",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 2,
+        "releaseDate": "Sun Nov 21 1999 00:0",
+        "name": "Johto",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 3,
+        "releaseDate": "Thu Nov 21 2002 00:0",
+        "name": "Hoenn",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 4,
+        "releaseDate": "Thu Sep 28 2006 00:0",
+        "name": "Sinnoh",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 5,
+        "releaseDate": "Sat Sep 18 2010 00:0",
+        "name": "Unova",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 6,
+        "releaseDate": "Sat Oct 12 2013 00:0",
+        "name": "Kalos",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 7,
+        "releaseDate": "Fri Nov 18 2016 00:0",
+        "name": "Alola",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 8,
+        "releaseDate": "Fri Nov 15 2019 00:0",
+        "name": "Galar",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 9,
+        "releaseDate": "Fri Jan 28 2022 00:0",
+        "name": "Hissui",
+        "nomePt": "",
+        "image": ""
+    },
+    {
+        "id": 10,
+        "releaseDate": "Fri Nov 18 2022 00:0",
+        "name": "Paldea",
+        "nomePt": "",
+        "image": ""
     }
-}
+]

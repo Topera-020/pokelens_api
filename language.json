@@ -1,0 +1,50 @@
+[
+    {
+        "id": 5,
+        "name": "Alemão"
+    },
+    {
+        "id": 4,
+        "name": "Chinês"
+    },
+    {
+        "id": 11,
+        "name": "Coreano"
+    },
+    {
+        "id": 9,
+        "name": "Espanhol"
+    },
+    {
+        "id": 8,
+        "name": "Francês"
+    },
+    {
+        "id": 7,
+        "name": "Holandês"
+    },
+    {
+        "id": 1,
+        "name": "Inglês"
+    },
+    {
+        "id": 6,
+        "name": "Italiano"
+    },
+    {
+        "id": 2,
+        "name": "Japonês"
+    },
+    {
+        "id": 10,
+        "name": "Polonês"
+    },
+    {
+        "id": 3,
+        "name": "Português"
+    },
+    {
+        "id": 12,
+        "name": "Russo"
+    }
+]

@@ -1,125 +1,121 @@
-{
-    "data": {
-        "data": [
-            {
-                "id": "1",
-                "name": "Base",
-                "nomePt": "",
-                "image": "https://images.pokemontcg.io/base1/logo.png",
-                "releaseDate": "1999-01-09"
-            },
-            {
-                "id": "2",
-                "name": "Gym",
-                "nomePt": "",
-                "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/series/gym.png",
-                "releaseDate": "2000-08-14"
-            },
-            {
-                "id": "3",
-                "name": "Neo",
-                "nomePt": "",
-                "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/series/neo.png",
-                "releaseDate": "2000-12-16"
-            },
-            {
-                "id": "4",
-                "name": "Other",
-                "nomePt": "Outras",
-                "image": "0",
-                "releaseDate": "2001-07-31"
-            },
-            {
-                "id": "5",
-                "name": "E-Card",
-                "nomePt": "E-Serie",
-                "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/series/eseries.png",
-                "releaseDate": "2002-09-15"
-            },
-            {
-                "id": "6",
-                "name": "EX",
-                "nomePt": "",
-                "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/series/ex.png",
-                "releaseDate": "2003-07-01"
-            },
-            {
-                "id": "7",
-                "name": "NP",
-                "nomePt": "",
-                "image": "0",
-                "releaseDate": "2003-10-01"
-            },
-            {
-                "id": "8",
-                "name": "POP",
-                "nomePt": "",
-                "image": "https://images.pokemontcg.io/pop1/logo.png",
-                "releaseDate": "2004-09-01"
-            },
-            {
-                "id": "9",
-                "name": "Trainer kits",
-                "nomePt": "Kit de treinadores",
-                "image": "0",
-                "releaseDate": "2014-03-12"
-            },
-            {
-                "id": "10",
-                "name": "Diamond & Pearl",
-                "nomePt": "Diamente e Pérola",
-                "image": "https://images.pokemontcg.io/dp1/logo.png",
-                "releaseDate": "2007-05-01"
-            },
-            {
-                "id": "11",
-                "name": "Platinum",
-                "nomePt": "Platina",
-                "image": "https://images.pokemontcg.io/pl1/logo.png",
-                "releaseDate": "2009-02-11"
-            },
-            {
-                "id": "12",
-                "name": "HeartGold & SoulSilver",
-                "nomePt": "",
-                "image": "https://images.pokemontcg.io/hgss1/logo.png",
-                "releaseDate": "2010-02-10"
-            },
-            {
-                "id": "13",
-                "name": "Black & White",
-                "nomePt": "Preto e Branco",
-                "image": "https://images.pokemontcg.io/bw1/logo.png",
-                "releaseDate": "2011-04-25"
-            },
-            {
-                "id": "14",
-                "name": "XY",
-                "nomePt": "",
-                "image": "https://images.pokemontcg.io/xy1/logo.png",
-                "releaseDate": "2014-02-05"
-            },
-            {
-                "id": "15",
-                "name": "Sun & Moon",
-                "nomePt": "Sol e Lua",
-                "image": "https://images.pokemontcg.io/sm1/logo.png",
-                "releaseDate": "2017-02-03"
-            },
-            {
-                "id": "16",
-                "name": "Sword & Shield",
-                "nomePt": "Espada e Escudo",
-                "image": "https://images.pokemontcg.io/swsh1/logo.png",
-                "releaseDate": "2020-02-07"
-            },
-            {
-                "id": "17",
-                "name": "Scarlet & Violet",
-                "nomePt": "Escarlate e Violeta",
-                "image": "https://images.pokemontcg.io/sv1/logo.png",
-                "releaseDate": "2023-03-31"
-            }
-        ]
+[
+    {
+        "id": 1,
+        "name": "Base",
+        "nomePt": "",
+        "image": "https:\/\/images.pokemontcg.io\/base1\/logo.png",
+        "releaseDate": "1999-01-09"
+    },
+    {
+        "id": 2,
+        "name": "Gym",
+        "nomePt": "",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/series\/gym.png",
+        "releaseDate": "2000-08-14"
+    },
+    {
+        "id": 3,
+        "name": "Neo",
+        "nomePt": "",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/series\/neo.png",
+        "releaseDate": "2000-12-16"
+    },
+    {
+        "id": 4,
+        "name": "Other",
+        "nomePt": "Outras",
+        "image": "0",
+        "releaseDate": "2001-07-31"
+    },
+    {
+        "id": 5,
+        "name": "E-Card",
+        "nomePt": "E-Serie",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/series\/eseries.png",
+        "releaseDate": "2002-09-15"
+    },
+    {
+        "id": 6,
+        "name": "EX",
+        "nomePt": "",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/series\/ex.png",
+        "releaseDate": "2003-07-01"
+    },
+    {
+        "id": 7,
+        "name": "NP",
+        "nomePt": "",
+        "image": "0",
+        "releaseDate": "2003-10-01"
+    },
+    {
+        "id": 8,
+        "name": "POP",
+        "nomePt": "",
+        "image": "https:\/\/images.pokemontcg.io\/pop1\/logo.png",
+        "releaseDate": "2004-09-01"
+    },
+    {
+        "id": 9,
+        "name": "Trainer kits",
+        "nomePt": "Kit de treinadores",
+        "image": "0",
+        "releaseDate": "2014-03-12"
+    },
+    {
+        "id": 10,
+        "name": "Diamond & Pearl",
+        "nomePt": "Diamente e Pérola",
+        "image": "https:\/\/images.pokemontcg.io\/dp1\/logo.png",
+        "releaseDate": "2007-05-01"
+    },
+    {
+        "id": 11,
+        "name": "Platinum",
+        "nomePt": "Platina",
+        "image": "https:\/\/images.pokemontcg.io\/pl1\/logo.png",
+        "releaseDate": "2009-02-11"
+    },
+    {
+        "id": 12,
+        "name": "HeartGold & SoulSilver",
+        "nomePt": "",
+        "image": "https:\/\/images.pokemontcg.io\/hgss1\/logo.png",
+        "releaseDate": "2010-02-10"
+    },
+    {
+        "id": 13,
+        "name": "Black & White",
+        "nomePt": "Preto e Branco",
+        "image": "https:\/\/images.pokemontcg.io\/bw1\/logo.png",
+        "releaseDate": "2011-04-25"
+    },
+    {
+        "id": 14,
+        "name": "XY",
+        "nomePt": "",
+        "image": "https:\/\/images.pokemontcg.io\/xy1\/logo.png",
+        "releaseDate": "2014-02-05"
+    },
+    {
+        "id": 15,
+        "name": "Sun & Moon",
+        "nomePt": "Sol e Lua",
+        "image": "https:\/\/images.pokemontcg.io\/sm1\/logo.png",
+        "releaseDate": "2017-02-03"
+    },
+    {
+        "id": 16,
+        "name": "Sword & Shield",
+        "nomePt": "Espada e Escudo",
+        "image": "https:\/\/images.pokemontcg.io\/swsh1\/logo.png",
+        "releaseDate": "2020-02-07"
+    },
+    {
+        "id": 17,
+        "name": "Scarlet & Violet",
+        "nomePt": "Escarlate e Violeta",
+        "image": "https:\/\/images.pokemontcg.io\/sv1\/logo.png",
+        "releaseDate": "2023-03-31"
     }
-}
+]

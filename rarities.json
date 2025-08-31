@@ -1,181 +1,212 @@
-{
-    "data": {
-        "data": [
-            {
-                "id": "1",
-                "name": "Common",
-                "nomePt": "Comum"
-            },
-            {
-                "id": "2",
-                "name": "Uncommon",
-                "nomePt": "Incomum"
-            },
-            {
-                "id": "3",
-                "name": "Rare",
-                "nomePt": "Rara"
-            },
-            {
-                "id": "4",
-                "name": "Promo",
-                "nomePt": ""
-            },
-            {
-                "id": "5",
-                "name": "Rare Holo",
-                "nomePt": "Holo"
-            },
-            {
-                "id": "6",
-                "name": "Rare Secret",
-                "nomePt": "Secreta"
-            },
-            {
-                "id": "7",
-                "name": "Rare Shining",
-                "nomePt": "Shining"
-            },
-            {
-                "id": "8",
-                "name": "Rare Holo EX",
-                "nomePt": "Holo EX"
-            },
-            {
-                "id": "9",
-                "name": "Rare Holo Star",
-                "nomePt": "Holo Star"
-            },
-            {
-                "id": "10",
-                "name": "None",
-                "nomePt": ""
-            },
-            {
-                "id": "11",
-                "name": "Rare Holo LV.X",
-                "nomePt": "Holo LV.X"
-            },
-            {
-                "id": "12",
-                "name": "Rare Prime",
-                "nomePt": "Prime"
-            },
-            {
-                "id": "13",
-                "name": "LEGEND",
-                "nomePt": ""
-            },
-            {
-                "id": "14",
-                "name": "Rare Ultra",
-                "nomePt": "Ultra Rara"
-            },
-            {
-                "id": "15",
-                "name": "ACE SPEC",
-                "nomePt": "ACE SPEC"
-            },
-            {
-                "id": "16",
-                "name": "Rare BREAK",
-                "nomePt": "BREAK"
-            },
-            {
-                "id": "17",
-                "name": "Rare Holo GX",
-                "nomePt": "GX"
-            },
-            {
-                "id": "18",
-                "name": "Rare Rainbow",
-                "nomePt": "Arco-ìris"
-            },
-            {
-                "id": "19",
-                "name": "Rare Prism Star",
-                "nomePt": "Estrela Prisma"
-            },
-            {
-                "id": "20",
-                "name": "Rare Shiny",
-                "nomePt": "Brilhante"
-            },
-            {
-                "id": "21",
-                "name": "Rare Shiny GX",
-                "nomePt": "Brilhante GX"
-            },
-            {
-                "id": "22",
-                "name": "Rare Holo V",
-                "nomePt": "V"
-            },
-            {
-                "id": "23",
-                "name": "Rare Holo VMAX",
-                "nomePt": "VMAX"
-            },
-            {
-                "id": "24",
-                "name": "Classic Collection",
-                "nomePt": "Coleção Clássica"
-            },
-            {
-                "id": "25",
-                "name": "Radiant Rare",
-                "nomePt": "Radiante"
-            },
-            {
-                "id": "26",
-                "name": "Rare Holo VSTAR",
-                "nomePt": "VSTAR"
-            },
-            {
-                "id": "27",
-                "name": "Trainer Gallery Rare Holo",
-                "nomePt": "Trainer Gallery"
-            },
-            {
-                "id": "28",
-                "name": "Amazing Rare",
-                "nomePt": "Amazing"
-            },
-            {
-                "id": "29",
-                "name": "Hyper Rare",
-                "nomePt": "Hiper"
-            },
-            {
-                "id": "30",
-                "name": "Double Rare",
-                "nomePt": "Double"
-            },
-            {
-                "id": "31",
-                "name": "Illustration Rare",
-                "nomePt": "Ilustração"
-            },
-            {
-                "id": "32",
-                "name": "Ultra Rare",
-                "nomePt": "Ultra Rara"
-            },
-            {
-                "id": "33",
-                "name": "Special Illustration Rare",
-                "nomePt": "Ilustração Especial"
-            },
-            {
-                "id": "35",
-                "name": "Shiny Ultra Rare",
-                "nomePt": "Brilhante Ultra"
-            },
-            {
-                "id": "36",
-                "name": "Black White Rare",
-                "nomePt": ""
-            }
-        ]
+[
+    {
+        "id": 1,
+        "name": "Common",
+        "nomePt": "Comum",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/common.png"
+    },
+    {
+        "id": 2,
+        "name": "Uncommon",
+        "nomePt": "Incomum",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/uncommon.png"
+    },
+    {
+        "id": 3,
+        "name": "Rare",
+        "nomePt": "Rara",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/rare.png"
+    },
+    {
+        "id": 4,
+        "name": "Promo",
+        "nomePt": "",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/promo.png"
+    },
+    {
+        "id": 5,
+        "name": "Rare Holo",
+        "nomePt": "Holo",
+        "image": null
+    },
+    {
+        "id": 6,
+        "name": "Rare Secret",
+        "nomePt": "Secreta",
+        "image": null
+    },
+    {
+        "id": 7,
+        "name": "Rare Shining",
+        "nomePt": "Shining",
+        "image": null
+    },
+    {
+        "id": 8,
+        "name": "Rare Holo EX",
+        "nomePt": "Holo EX",
+        "image": null
+    },
+    {
+        "id": 9,
+        "name": "Rare Holo Star",
+        "nomePt": "Holo Star",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/rare.png"
+    },
+    {
+        "id": 10,
+        "name": "None",
+        "nomePt": "",
+        "image": null
+    },
+    {
+        "id": 11,
+        "name": "Rare Holo LV.X",
+        "nomePt": "Holo LV.X",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/lv_x.png"
+    },
+    {
+        "id": 12,
+        "name": "Rare Prime",
+        "nomePt": "Prime",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/prime.png"
+    },
+    {
+        "id": 13,
+        "name": "LEGEND",
+        "nomePt": "",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/legend.png"
+    },
+    {
+        "id": 14,
+        "name": "Rare Ultra",
+        "nomePt": "Ultra Rara",
+        "image": null
+    },
+    {
+        "id": 15,
+        "name": "ACE SPEC",
+        "nomePt": "ACE SPEC",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/acespeac_rare.png"
+    },
+    {
+        "id": 16,
+        "name": "Rare BREAK",
+        "nomePt": "BREAK",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/break.png"
+    },
+    {
+        "id": 17,
+        "name": "Rare Holo GX",
+        "nomePt": "GX",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/gx.png"
+    },
+    {
+        "id": 18,
+        "name": "Rare Rainbow",
+        "nomePt": "Arco-ìris",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/rare_secret.png"
+    },
+    {
+        "id": 19,
+        "name": "Rare Prism Star",
+        "nomePt": "Estrela Prisma",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/ultra_burst.png"
+    },
+    {
+        "id": 20,
+        "name": "Rare Shiny",
+        "nomePt": "Brilhante",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/rare_secret.png"
+    },
+    {
+        "id": 21,
+        "name": "Rare Shiny GX",
+        "nomePt": "Brilhante GX",
+        "image": ""
+    },
+    {
+        "id": 22,
+        "name": "Rare Holo V",
+        "nomePt": "V",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/v.png"
+    },
+    {
+        "id": 23,
+        "name": "Rare Holo VMAX",
+        "nomePt": "VMAX",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/vmax.png"
+    },
+    {
+        "id": 24,
+        "name": "Classic Collection",
+        "nomePt": "Coleção Clássica",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/celebracoes.png"
+    },
+    {
+        "id": 25,
+        "name": "Radiant Rare",
+        "nomePt": "Radiante",
+        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/radiant.png"
+    },
+    {
+        "id": 26,
+        "name": "Rare Holo VSTAR",
+        "nomePt": "VSTAR",
+        "image": null
+    },
+    {
+        "id": 27,
+        "name": "Trainer Gallery Rare Holo",
+        "nomePt": "Trainer Gallery",
+        "image": null
+    },
+    {
+        "id": 28,
+        "name": "Amazing Rare",
+        "nomePt": "Amazing",
+        "image": null
+    },
+    {
+        "id": 29,
+        "name": "Hyper Rare",
+        "nomePt": "Hiper",
+        "image": null
+    },
+    {
+        "id": 30,
+        "name": "Double Rare",
+        "nomePt": "Double",
+        "image": null
+    },
+    {
+        "id": 31,
+        "name": "Illustration Rare",
+        "nomePt": "Ilustração",
+        "image": null
+    },
+    {
+        "id": 32,
+        "name": "Ultra Rare",
+        "nomePt": "Ultra Rara",
+        "image": null
+    },
+    {
+        "id": 33,
+        "name": "Special Illustration Rare",
+        "nomePt": "Ilustração Especial",
+        "image": null
+    },
+    {
+        "id": 35,
+        "name": "Shiny Ultra Rare",
+        "nomePt": "Brilhante Ultra",
+        "image": null
+    },
+    {
+        "id": 36,
+        "name": "Black White Rare",
+        "nomePt": null,
+        "image": null
     }
-}
+]
