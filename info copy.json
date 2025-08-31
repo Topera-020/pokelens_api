@@ -1,0 +1,11 @@
+[
+        "pokedex.json",
+        "collections.json",
+        "evolutions.json",
+        "pokedex_associations.json",
+        "pokemon_cards.json",
+        "subtype_associations.json",
+        
+        "types_associations.json"
+    ]
+   
