@@ -1,4 +1,4 @@
-[
+{"data": [
     {
         "id": 1,
         "name": "Grass",
@@ -65,4 +65,4 @@
         "nomePt": "Dragão",
         "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Dragon.png"
     }
-]
+]}
