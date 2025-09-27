@@ -1,152 +1,154 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "Arco-Íris",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 2,
-        "name": "Ardente ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 3,
-        "name": "Bolhas ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 4,
-        "name": "Brocado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 5,
-        "name": "Confete ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 6,
-        "name": "Congelado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 7,
-        "name": "Cosmos ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 8,
-        "name": "Craquelada",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 9,
-        "name": "Craquelado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 10,
-        "name": "Esfumaçada",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 11,
-        "name": "Esfumaçada ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 12,
-        "name": "Espelhada",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 13,
-        "name": "Espelhada ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 14,
-        "name": "Estrelada",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 15,
-        "name": "Fosca",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 16,
-        "name": "Glitter ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 17,
-        "name": "Granulado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 18,
-        "name": "Lantejoula ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 19,
-        "name": "Mancha ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 20,
-        "name": "Metalizado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 21,
-        "name": "Ondulado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 22,
-        "name": "Pixelado ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 23,
-        "name": "Relâmpago ",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 24,
-        "name": "Foil",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 25,
-        "name": "Metal",
-        "nomePt": null,
-        "image": null
-    }
-]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Arco-Íris",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Ardente ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Bolhas ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "Brocado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "Confete ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "Congelado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "Cosmos ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "Craquelada",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Craquelado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Esfumaçada",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "Esfumaçada ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "Espelhada",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "Espelhada ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "Estrelada",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Fosca",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "Glitter ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "Granulado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "Lantejoula ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "Mancha ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 20,
+            "name": "Metalizado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 21,
+            "name": "Ondulado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 22,
+            "name": "Pixelado ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 23,
+            "name": "Relâmpago ",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 24,
+            "name": "Foil",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 25,
+            "name": "Metal",
+            "nomePt": "",
+            "image": ""
+        }
+    ]
+}

@@ -1,110 +1,112 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "normal",
-        "nomePt": "Normal",
-        "image": ""
-    },
-    {
-        "id": 2,
-        "name": "fighting",
-        "nomePt": "Lutador",
-        "image": ""
-    },
-    {
-        "id": 3,
-        "name": "flying",
-        "nomePt": "Voador",
-        "image": ""
-    },
-    {
-        "id": 4,
-        "name": "poison",
-        "nomePt": "Venenoso",
-        "image": ""
-    },
-    {
-        "id": 5,
-        "name": "ground",
-        "nomePt": "Terrestre",
-        "image": ""
-    },
-    {
-        "id": 6,
-        "name": "rock",
-        "nomePt": "Pedra",
-        "image": ""
-    },
-    {
-        "id": 7,
-        "name": "bug",
-        "nomePt": "Inseto",
-        "image": ""
-    },
-    {
-        "id": 8,
-        "name": "ghost",
-        "nomePt": "Fantasma",
-        "image": ""
-    },
-    {
-        "id": 9,
-        "name": "steel",
-        "nomePt": "Aço",
-        "image": ""
-    },
-    {
-        "id": 10,
-        "name": "fire",
-        "nomePt": "Fogo",
-        "image": ""
-    },
-    {
-        "id": 11,
-        "name": "water",
-        "nomePt": "Água",
-        "image": ""
-    },
-    {
-        "id": 12,
-        "name": "grass",
-        "nomePt": "Grama",
-        "image": ""
-    },
-    {
-        "id": 13,
-        "name": "electric",
-        "nomePt": "Elétrico",
-        "image": ""
-    },
-    {
-        "id": 14,
-        "name": "psychic",
-        "nomePt": "Psíquico",
-        "image": ""
-    },
-    {
-        "id": 15,
-        "name": "ice",
-        "nomePt": "Gelo",
-        "image": ""
-    },
-    {
-        "id": 16,
-        "name": "dragon",
-        "nomePt": "Dragão",
-        "image": ""
-    },
-    {
-        "id": 17,
-        "name": "dark",
-        "nomePt": "Sombrio",
-        "image": ""
-    },
-    {
-        "id": 18,
-        "name": "fairy",
-        "nomePt": "Fada",
-        "image": ""
-    }
-]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "normal",
+            "nomePt": "Normal",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "fighting",
+            "nomePt": "Lutador",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "flying",
+            "nomePt": "Voador",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "poison",
+            "nomePt": "Venenoso",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "ground",
+            "nomePt": "Terrestre",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "rock",
+            "nomePt": "Pedra",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "bug",
+            "nomePt": "Inseto",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "ghost",
+            "nomePt": "Fantasma",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "steel",
+            "nomePt": "Aço",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "fire",
+            "nomePt": "Fogo",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "water",
+            "nomePt": "Água",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "grass",
+            "nomePt": "Grama",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "electric",
+            "nomePt": "Elétrico",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "psychic",
+            "nomePt": "Psíquico",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "ice",
+            "nomePt": "Gelo",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "dragon",
+            "nomePt": "Dragão",
+            "image": ""
+        },
+        {
+            "id": 17,
+            "name": "dark",
+            "nomePt": "Sombrio",
+            "image": ""
+        },
+        {
+            "id": 18,
+            "name": "fairy",
+            "nomePt": "Fada",
+            "image": ""
+        }
+    ]
+}

@@ -1,2546 +1,2548 @@
-{"data": [
-    {
-        "id": 122432,
-        "name": "Hoopa",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122432.png"
-    },
-    {
-        "id": 122433,
-        "name": "Rowlet",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122433.png"
-    },
-    {
-        "id": 122434,
-        "name": "Ninetales de Alola",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122434.png"
-    },
-    {
-        "id": 122435,
-        "name": "Darmanitan de Galar",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122435.png"
-    },
-    {
-        "id": 122436,
-        "name": "Lycanroc Forma Crepúsculo",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 6,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122436.png"
-    },
-    {
-        "id": 122437,
-        "name": "Kommo-o",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122437.png"
-    },
-    {
-        "id": 122438,
-        "name": "Zamazenta",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122438.png"
-    },
-    {
-        "id": 122439,
-        "name": "Sirfetch'd de Galar",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122439.png"
-    },
-    {
-        "id": 122441,
-        "name": "Zacian",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122441.png"
-    },
-    {
-        "id": 122442,
-        "name": "Grookey",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122442.png"
-    },
-    {
-        "id": 122482,
-        "name": "Gyarados",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/122482.png"
-    },
-    {
-        "id": 125118,
-        "name": "Mewtwo",
-        "tamanhoId": 1,
-        "corId": 13,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125118.png"
-    },
-    {
-        "id": 125119,
-        "name": "Marnie",
-        "tamanhoId": 3,
-        "corId": 12,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125119.png"
-    },
-    {
-        "id": 125120,
-        "name": "Suicune",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125120.png"
-    },
-    {
-        "id": 125121,
-        "name": "Raikou",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 4,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125121.png"
-    },
-    {
-        "id": 125123,
-        "name": "Charizard",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125123.png"
-    },
-    {
-        "id": 125124,
-        "name": "Victini",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125124.png"
-    },
-    {
-        "id": 125125,
-        "name": "Garchomp",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125125.png"
-    },
-    {
-        "id": 125126,
-        "name": "Detetive Pikachu",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 22,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125126.png"
-    },
-    {
-        "id": 125127,
-        "name": "Raichu",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 22,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125127.png"
-    },
-    {
-        "id": 125128,
-        "name": "Lugia",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125128.png"
-    },
-    {
-        "id": 125129,
-        "name": "Zeraora",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125129.png"
-    },
-    {
-        "id": 125130,
-        "name": "Chespin",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125130.png"
-    },
-    {
-        "id": 125131,
-        "name": "Metagross",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125131.png"
-    },
-    {
-        "id": 125133,
-        "name": "Dragonite",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125133.png"
-    },
-    {
-        "id": 125134,
-        "name": "Fennekin",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125134.png"
-    },
-    {
-        "id": 125136,
-        "name": "Volcanion",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125136.png"
-    },
-    {
-        "id": 125137,
-        "name": "Manaphy",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125137.png"
-    },
-    {
-        "id": 125138,
-        "name": "Empoleon",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125138.png"
-    },
-    {
-        "id": 125139,
-        "name": "Aura's Lucario",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125139.png"
-    },
-    {
-        "id": 125140,
-        "name": "Shaymin",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125140.png"
-    },
-    {
-        "id": 125142,
-        "name": "Kommo-o",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125142.png"
-    },
-    {
-        "id": 125144,
-        "name": "Hydreigon",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125144.png"
-    },
-    {
-        "id": 125145,
-        "name": "Mega Blaziken",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125145.png"
-    },
-    {
-        "id": 125146,
-        "name": "Lycanroc (Dusk Form)",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125146.png"
-    },
-    {
-        "id": 125147,
-        "name": "Lunala",
-        "tamanhoId": 1,
-        "corId": 13,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125147.png"
-    },
-    {
-        "id": 125148,
-        "name": "Litten",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125148.png"
-    },
-    {
-        "id": 125149,
-        "name": "Iniciais de Galar",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125149.png"
-    },
-    {
-        "id": 125150,
-        "name": "Dialga",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125150.png"
-    },
-    {
-        "id": 125151,
-        "name": "Mew",
-        "tamanhoId": 3,
-        "corId": 12,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125151.png"
-    },
-    {
-        "id": 125152,
-        "name": "Blastoise",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125152.png"
-    },
-    {
-        "id": 125153,
-        "name": "Crobat VMAX",
-        "tamanhoId": 3,
-        "corId": 12,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125153.png"
-    },
-    {
-        "id": 125154,
-        "name": "Celebrações 25 anos",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125154.png"
-    },
-    {
-        "id": 125155,
-        "name": "Celebrações 25 anos",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125155.png"
-    },
-    {
-        "id": 125156,
-        "name": "Pikachu",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125156.png"
-    },
-    {
-        "id": 125157,
-        "name": "Calyrex",
-        "tamanhoId": 3,
-        "corId": 13,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125157.png"
-    },
-    {
-        "id": 125158,
-        "name": "Venusaur",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125158.png"
-    },
-    {
-        "id": 125159,
-        "name": "Urshifu Golpe Decisivo",
-        "tamanhoId": 3,
-        "corId": 15,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125159.png"
-    },
-    {
-        "id": 125160,
-        "name": "Urshifu Golpe Fluído",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 21,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125160.png"
-    },
-    {
-        "id": 125176,
-        "name": "Dragapult VMAX",
-        "tamanhoId": 3,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125176.png"
-    },
-    {
-        "id": 125177,
-        "name": "Flareon, Vaporeon e Jolteon",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 4,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125177.png"
-    },
-    {
-        "id": 125178,
-        "name": "Sylveon, Espeon, Glaceon e Vap",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125178.png"
-    },
-    {
-        "id": 125213,
-        "name": "Pikachu Acenando",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 20,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125213.png"
-    },
-    {
-        "id": 125214,
-        "name": "Shaymin",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125214.png"
-    },
-    {
-        "id": 125215,
-        "name": "Genesect",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125215.png"
-    },
-    {
-        "id": 125686,
-        "name": "Blastoise",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125686.png"
-    },
-    {
-        "id": 125687,
-        "name": "Charizard",
-        "tamanhoId": 2,
-        "corId": 7,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125687.png"
-    },
-    {
-        "id": 125688,
-        "name": "Deoxys",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125688.png"
-    },
-    {
-        "id": 125689,
-        "name": "Froakie",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125689.png"
-    },
-    {
-        "id": 125690,
-        "name": "Yveltal",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125690.png"
-    },
-    {
-        "id": 125691,
-        "name": "Popplio",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125691.png"
-    },
-    {
-        "id": 125692,
-        "name": "Ninetales de Alola",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125692.png"
-    },
-    {
-        "id": 125693,
-        "name": "Black Kyurem",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125693.png"
-    },
-    {
-        "id": 125694,
-        "name": "Kyogre",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125694.png"
-    },
-    {
-        "id": 125695,
-        "name": "Ho-oh",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125695.png"
-    },
-    {
-        "id": 125696,
-        "name": "Mega Gyarados Brilhante",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125696.png"
-    },
-    {
-        "id": 125697,
-        "name": "Primal Groudon",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125697.png"
-    },
-    {
-        "id": 125698,
-        "name": "Groudon",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125698.png"
-    },
-    {
-        "id": 125699,
-        "name": "Mega Swampert",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/125699.png"
-    },
-    {
-        "id": 126209,
-        "name": "Celebrações 25 anos",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 20,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126209.png"
-    },
-    {
-        "id": 126212,
-        "name": "Drednaw",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126212.png"
-    },
-    {
-        "id": 126213,
-        "name": "Popplio",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126213.png"
-    },
-    {
-        "id": 126427,
-        "name": "Lucario",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126427.png"
-    },
-    {
-        "id": 126476,
-        "name": "Blastoise",
-        "tamanhoId": 3,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126476.png"
-    },
-    {
-        "id": 126477,
-        "name": "Blastoise",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 20,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126477.png"
-    },
-    {
-        "id": 126478,
-        "name": "Bulbasaur",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126478.png"
-    },
-    {
-        "id": 126744,
-        "name": "Charizard",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126744.png"
-    },
-    {
-        "id": 126745,
-        "name": "Pikachu",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126745.png"
-    },
-    {
-        "id": 126746,
-        "name": "Pokémo GO",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126746.png"
-    },
-    {
-        "id": 126747,
-        "name": "Eevee",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126747.png"
-    },
-    {
-        "id": 126748,
-        "name": "Zeraora",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126748.png"
-    },
-    {
-        "id": 126749,
-        "name": "Grookey",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126749.png"
-    },
-    {
-        "id": 126750,
-        "name": "Venusaur",
-        "tamanhoId": 3,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126750.png"
-    },
-    {
-        "id": 126751,
-        "name": "Charizard",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 22,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126751.png"
-    },
-    {
-        "id": 126752,
-        "name": "Professora Juniper",
-        "tamanhoId": 3,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126752.png"
-    },
-    {
-        "id": 126753,
-        "name": "Suicune",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126753.png"
-    },
-    {
-        "id": 126754,
-        "name": "Groudon",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126754.png"
-    },
-    {
-        "id": 126755,
-        "name": "Gyarados",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126755.png"
-    },
-    {
-        "id": 126756,
-        "name": "Zekrom e Reshiram",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126756.png"
-    },
-    {
-        "id": 126757,
-        "name": "Manaphy",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126757.png"
-    },
-    {
-        "id": 126759,
-        "name": "Kleavor",
-        "tamanhoId": 3,
-        "corId": 3,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126759.png"
-    },
-    {
-        "id": 126760,
-        "name": "Palkia Forma Origem",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126760.png"
-    },
-    {
-        "id": 126761,
-        "name": "Arceus",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126761.png"
-    },
-    {
-        "id": 126762,
-        "name": "Dialga Forma Origem",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126762.png"
-    },
-    {
-        "id": 126763,
-        "name": "Darkrai",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126763.png"
-    },
-    {
-        "id": 126764,
-        "name": "Lucario",
-        "tamanhoId": 3,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126764.png"
-    },
-    {
-        "id": 126786,
-        "name": "Kyogre",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126786.png"
-    },
-    {
-        "id": 126787,
-        "name": "Blastoise",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126787.png"
-    },
-    {
-        "id": 126788,
-        "name": "Equipe Aqua",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126788.png"
-    },
-    {
-        "id": 126789,
-        "name": "Kyogre",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126789.png"
-    },
-    {
-        "id": 126790,
-        "name": "Kyogre Primitivo",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126790.png"
-    },
-    {
-        "id": 126791,
-        "name": "Mega Lucario",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126791.png"
-    },
-    {
-        "id": 126792,
-        "name": "Swampert",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126792.png"
-    },
-    {
-        "id": 126796,
-        "name": "Mega Mewtwo X",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126796.png"
-    },
-    {
-        "id": 126802,
-        "name": "Rayquaza",
-        "tamanhoId": 3,
-        "corId": 14,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126802.png"
-    },
-    {
-        "id": 126803,
-        "name": "Rayquaza",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126803.png"
-    },
-    {
-        "id": 126804,
-        "name": "Shaymin",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126804.png"
-    },
-    {
-        "id": 126981,
-        "name": "Charizard",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126981.png"
-    },
-    {
-        "id": 126982,
-        "name": "Ho-oh",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126982.png"
-    },
-    {
-        "id": 126983,
-        "name": "Raichu",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126983.png"
-    },
-    {
-        "id": 126984,
-        "name": "Ultra Necrozma",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126984.png"
-    },
-    {
-        "id": 126985,
-        "name": "Kyogre Primitivo",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126985.png"
-    },
-    {
-        "id": 126986,
-        "name": "Groudon Primitivo",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126986.png"
-    },
-    {
-        "id": 126987,
-        "name": "Raichu de Alola",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/126987.png"
-    },
-    {
-        "id": 127003,
-        "name": "Pikachu World Challenge",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127003.png"
-    },
-    {
-        "id": 127004,
-        "name": "Squirtle",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127004.png"
-    },
-    {
-        "id": 127005,
-        "name": "Darkrai",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127005.png"
-    },
-    {
-        "id": 127006,
-        "name": "Cyndaquil",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127006.png"
-    },
-    {
-        "id": 127007,
-        "name": "Pikachu Acenando",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127007.png"
-    },
-    {
-        "id": 127008,
-        "name": "Hoopa",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127008.png"
-    },
-    {
-        "id": 127031,
-        "name": "Mega Charizard Y",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127031.png"
-    },
-    {
-        "id": 127032,
-        "name": "Mega Rayquaza",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127032.png"
-    },
-    {
-        "id": 127033,
-        "name": "Eevee",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127033.png"
-    },
-    {
-        "id": 127034,
-        "name": "Umbreon",
-        "tamanhoId": 1,
-        "corId": 5,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127034.png"
-    },
-    {
-        "id": 127035,
-        "name": "Necrozma",
-        "tamanhoId": 1,
-        "corId": 5,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127035.png"
-    },
-    {
-        "id": 127037,
-        "name": "Rayquaza",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127037.png"
-    },
-    {
-        "id": 127047,
-        "name": "Bulbasaur",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127047.png"
-    },
-    {
-        "id": 127048,
-        "name": "Chikorita",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127048.png"
-    },
-    {
-        "id": 127049,
-        "name": "Sceptile",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127049.png"
-    },
-    {
-        "id": 127050,
-        "name": "Rayquaza",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 20,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127050.png"
-    },
-    {
-        "id": 127051,
-        "name": "Iniciais de Unova",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127051.png"
-    },
-    {
-        "id": 127052,
-        "name": "Zeraora",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 4,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127052.png"
-    },
-    {
-        "id": 127054,
-        "name": "Dragonite",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 4,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127054.png"
-    },
-    {
-        "id": 127060,
-        "name": "Charizard",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127060.png"
-    },
-    {
-        "id": 127061,
-        "name": "Scorbunny",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127061.png"
-    },
-    {
-        "id": 127062,
-        "name": "Torchic",
-        "tamanhoId": 2,
-        "corId": 7,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127062.png"
-    },
-    {
-        "id": 127063,
-        "name": "Volcanion",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127063.png"
-    },
-    {
-        "id": 127065,
-        "name": "Mega Charizard Y",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127065.png"
-    },
-    {
-        "id": 127066,
-        "name": "Garchomp e Charizard",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127066.png"
-    },
-    {
-        "id": 127068,
-        "name": "Mew",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127068.png"
-    },
-    {
-        "id": 127071,
-        "name": "Mew",
-        "tamanhoId": 1,
-        "corId": 12,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127071.png"
-    },
-    {
-        "id": 127072,
-        "name": "Alakazam",
-        "tamanhoId": 2,
-        "corId": 13,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127072.png"
-    },
-    {
-        "id": 127074,
-        "name": "Alakazam",
-        "tamanhoId": 2,
-        "corId": 13,
-        "efeitoId": 7,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127074.png"
-    },
-    {
-        "id": 127075,
-        "name": "Genesect",
-        "tamanhoId": 1,
-        "corId": 13,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127075.png"
-    },
-    {
-        "id": 127082,
-        "name": "Mewtwo",
-        "tamanhoId": 1,
-        "corId": 13,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127082.png"
-    },
-    {
-        "id": 127083,
-        "name": "Mewtwo",
-        "tamanhoId": 1,
-        "corId": 13,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127083.png"
-    },
-    {
-        "id": 127084,
-        "name": "Mega Gengar",
-        "tamanhoId": 1,
-        "corId": 13,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127084.png"
-    },
-    {
-        "id": 127085,
-        "name": "Mega Gyarados",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127085.png"
-    },
-    {
-        "id": 127086,
-        "name": "Groudon",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127086.png"
-    },
-    {
-        "id": 127087,
-        "name": "Kyurem Branco",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127087.png"
-    },
-    {
-        "id": 127270,
-        "name": "Emblema Equipe Magma",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127270.png"
-    },
-    {
-        "id": 127271,
-        "name": "Professor Pokémon",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127271.png"
-    },
-    {
-        "id": 127272,
-        "name": "Zoroark",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127272.png"
-    },
-    {
-        "id": 127273,
-        "name": "Charmander",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127273.png"
-    },
-    {
-        "id": 127274,
-        "name": "Kyurem Branco",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127274.png"
-    },
-    {
-        "id": 127275,
-        "name": "Iniciais de Unova",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127275.png"
-    },
-    {
-        "id": 127276,
-        "name": "Mega Lucario",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127276.png"
-    },
-    {
-        "id": 127277,
-        "name": "Infernape e Gallade",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127277.png"
-    },
-    {
-        "id": 127278,
-        "name": "Iniciais de Unova",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127278.png"
-    },
-    {
-        "id": 127279,
-        "name": "Zygarde",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127279.png"
-    },
-    {
-        "id": 127280,
-        "name": "Mega Beedrill",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127280.png"
-    },
-    {
-        "id": 127281,
-        "name": "Mega Mawile",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127281.png"
-    },
-    {
-        "id": 127282,
-        "name": "Drednaw",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127282.png"
-    },
-    {
-        "id": 127283,
-        "name": "Froakie",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127283.png"
-    },
-    {
-        "id": 127284,
-        "name": "Lugia",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127284.png"
-    },
-    {
-        "id": 127285,
-        "name": "Fennekin",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127285.png"
-    },
-    {
-        "id": 127286,
-        "name": "Deoxys",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127286.png"
-    },
-    {
-        "id": 127287,
-        "name": "Genesect",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127287.png"
-    },
-    {
-        "id": 127288,
-        "name": "Yveltal",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127288.png"
-    },
-    {
-        "id": 127289,
-        "name": "Palkia",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127289.png"
-    },
-    {
-        "id": 127290,
-        "name": "Escavalier e Accelgor",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 16,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127290.png"
-    },
-    {
-        "id": 127291,
-        "name": "Rayquaza",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 16,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127291.png"
-    },
-    {
-        "id": 127292,
-        "name": "Charizard VMAX",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 16,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127292.png"
-    },
-    {
-        "id": 127293,
-        "name": "Pikachu",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 22,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127293.png"
-    },
-    {
-        "id": 127294,
-        "name": "Pikachu",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 22,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127294.png"
-    },
-    {
-        "id": 127295,
-        "name": "Iniciais de Hoenn",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127295.png"
-    },
-    {
-        "id": 127296,
-        "name": "Eevee",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127296.png"
-    },
-    {
-        "id": 127297,
-        "name": "Raichu",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127297.png"
-    },
-    {
-        "id": 127298,
-        "name": "Zoroark",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127298.png"
-    },
-    {
-        "id": 127299,
-        "name": "Zoroark",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127299.png"
-    },
-    {
-        "id": 127300,
-        "name": "Entei",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127300.png"
-    },
-    {
-        "id": 127301,
-        "name": "Mega Charizard Y",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127301.png"
-    },
-    {
-        "id": 127302,
-        "name": "Iniciais de Galar",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127302.png"
-    },
-    {
-        "id": 127303,
-        "name": "Jirachi e Shaymin",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 4,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127303.png"
-    },
-    {
-        "id": 127304,
-        "name": "Totodile",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 21,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127304.png"
-    },
-    {
-        "id": 127305,
-        "name": "Eevee",
-        "tamanhoId": 2,
-        "corId": 1,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127305.png"
-    },
-    {
-        "id": 127773,
-        "name": "Klara",
-        "tamanhoId": 3,
-        "corId": 12,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127773.png"
-    },
-    {
-        "id": 127774,
-        "name": "Cyrus",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/127774.png"
-    },
-    {
-        "id": 128093,
-        "name": "Chansey (Wizards 2000)",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128093.png"
-    },
-    {
-        "id": 128094,
-        "name": "Pikachu (Wizards 2000)",
-        "tamanhoId": 2,
-        "corId": 1,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128094.png"
-    },
-    {
-        "id": 128095,
-        "name": "Pikachu (Wizards 2000)",
-        "tamanhoId": 2,
-        "corId": 1,
-        "efeitoId": 7,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128095.png"
-    },
-    {
-        "id": 128096,
-        "name": "Meowth (Wizards 2000)",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 7,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128096.png"
-    },
-    {
-        "id": 128097,
-        "name": "Meowth (Wizards 2000)",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128097.png"
-    },
-    {
-        "id": 128101,
-        "name": "Reshiram e Zekrom (fundo branc",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128101.png"
-    },
-    {
-        "id": 128103,
-        "name": "Reshiram e Zekrom",
-        "tamanhoId": 2,
-        "corId": 11,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128103.png"
-    },
-    {
-        "id": 128109,
-        "name": "Charizard VMAX",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 25,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128109.png"
-    },
-    {
-        "id": 128110,
-        "name": "Lucario",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 25,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128110.png"
-    },
-    {
-        "id": 128111,
-        "name": "Palkia",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128111.png"
-    },
-    {
-        "id": 128112,
-        "name": "Símbolos de Energia",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128112.png"
-    },
-    {
-        "id": 128113,
-        "name": "Símbolos de Energia",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128113.png"
-    },
-    {
-        "id": 128114,
-        "name": "Mega Gengar",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128114.png"
-    },
-    {
-        "id": 128263,
-        "name": "Xerneas",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128263.png"
-    },
-    {
-        "id": 128264,
-        "name": "Black Kyurem",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128264.png"
-    },
-    {
-        "id": 128265,
-        "name": "Starmie (Wizards 2000)",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128265.png"
-    },
-    {
-        "id": 128266,
-        "name": "Treecko",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128266.png"
-    },
-    {
-        "id": 128267,
-        "name": "Celebi",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128267.png"
-    },
-    {
-        "id": 128268,
-        "name": "Hoopa",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128268.png"
-    },
-    {
-        "id": 128269,
-        "name": "Arceus",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128269.png"
-    },
-    {
-        "id": 128270,
-        "name": "Arceus",
-        "tamanhoId": 2,
-        "corId": 4,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128270.png"
-    },
-    {
-        "id": 128271,
-        "name": "Pheromosa",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128271.png"
-    },
-    {
-        "id": 128272,
-        "name": "Solgaleo",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128272.png"
-    },
-    {
-        "id": 128277,
-        "name": "Deoxys",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128277.png"
-    },
-    {
-        "id": 128278,
-        "name": "Iniciais de Unova",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128278.png"
-    },
-    {
-        "id": 128316,
-        "name": "Sobble",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128316.png"
-    },
-    {
-        "id": 128317,
-        "name": "Mega Sharpedo",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128317.png"
-    },
-    {
-        "id": 128318,
-        "name": "Deoxys",
-        "tamanhoId": 3,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128318.png"
-    },
-    {
-        "id": 128319,
-        "name": "Pikachu",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 25,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128319.png"
-    },
-    {
-        "id": 128320,
-        "name": "Exeggutor de Alola",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128320.png"
-    },
-    {
-        "id": 128496,
-        "name": "Tyranitar",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128496.png"
-    },
-    {
-        "id": 128497,
-        "name": "Lucario",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128497.png"
-    },
-    {
-        "id": 128498,
-        "name": "Raikou",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128498.png"
-    },
-    {
-        "id": 128524,
-        "name": "Rayquaza",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128524.png"
-    },
-    {
-        "id": 128525,
-        "name": "Charizard",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128525.png"
-    },
-    {
-        "id": 128567,
-        "name": "Pikachu",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128567.png"
-    },
-    {
-        "id": 128584,
-        "name": "Zeraora",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128584.png"
-    },
-    {
-        "id": 128640,
-        "name": "Mundial 2022",
-        "tamanhoId": 3,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128640.png"
-    },
-    {
-        "id": 128872,
-        "name": "Eevee",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128872.png"
-    },
-    {
-        "id": 128873,
-        "name": "Morpeko",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128873.png"
-    },
-    {
-        "id": 128874,
-        "name": "Turtwig",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128874.png"
-    },
-    {
-        "id": 128875,
-        "name": "Chimchar",
-        "tamanhoId": 2,
-        "corId": 7,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128875.png"
-    },
-    {
-        "id": 128876,
-        "name": "Piplup",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128876.png"
-    },
-    {
-        "id": 128877,
-        "name": "Sylveon",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128877.png"
-    },
-    {
-        "id": 128878,
-        "name": "Rayquaza",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128878.png"
-    },
-    {
-        "id": 128879,
-        "name": "Dialga",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128879.png"
-    },
-    {
-        "id": 128880,
-        "name": "Palkia",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128880.png"
-    },
-    {
-        "id": 128881,
-        "name": "Arceus",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128881.png"
-    },
-    {
-        "id": 128882,
-        "name": "Ditto",
-        "tamanhoId": 2,
-        "corId": 13,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128882.png"
-    },
-    {
-        "id": 128883,
-        "name": "Psyduck",
-        "tamanhoId": 2,
-        "corId": 1,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128883.png"
-    },
-    {
-        "id": 128884,
-        "name": "Slowpoke",
-        "tamanhoId": 2,
-        "corId": 12,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128884.png"
-    },
-    {
-        "id": 128885,
-        "name": "Alakazam",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 19,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128885.png"
-    },
-    {
-        "id": 128886,
-        "name": "Dragonite",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 18,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128886.png"
-    },
-    {
-        "id": 128887,
-        "name": "Fidough",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128887.png"
-    },
-    {
-        "id": 128888,
-        "name": "Tandemaus",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128888.png"
-    },
-    {
-        "id": 128889,
-        "name": "Baxcalibur",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128889.png"
-    },
-    {
-        "id": 128890,
-        "name": "Greedent",
-        "tamanhoId": 2,
-        "corId": 8,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128890.png"
-    },
-    {
-        "id": 128891,
-        "name": "Meltan",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/128891.png"
-    },
-    {
-        "id": 129049,
-        "name": "Zeraora",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129049.png"
-    },
-    {
-        "id": 129050,
-        "name": "Deoxys",
-        "tamanhoId": 2,
-        "corId": 13,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129050.png"
-    },
-    {
-        "id": 129052,
-        "name": "Lucário",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129052.png"
-    },
-    {
-        "id": 129053,
-        "name": "Blastoise",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129053.png"
-    },
-    {
-        "id": 129054,
-        "name": "Fuecoco",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129054.png"
-    },
-    {
-        "id": 129055,
-        "name": "Quaxly",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129055.png"
-    },
-    {
-        "id": 129056,
-        "name": "Sprigatito",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129056.png"
-    },
-    {
-        "id": 129057,
-        "name": "Pikachu",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129057.png"
-    },
-    {
-        "id": 129058,
-        "name": "Pikachu",
-        "tamanhoId": 2,
-        "corId": 9,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129058.png"
-    },
-    {
-        "id": 129059,
-        "name": "Eevee",
-        "tamanhoId": 2,
-        "corId": 5,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129059.png"
-    },
-    {
-        "id": 129081,
-        "name": "Mega Rayquaza",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129081.png"
-    },
-    {
-        "id": 129082,
-        "name": "Melmetal",
-        "tamanhoId": 3,
-        "corId": 5,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129082.png"
-    },
-    {
-        "id": 129083,
-        "name": "Fuecoco",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129083.png"
-    },
-    {
-        "id": 129084,
-        "name": "Scorbunny",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129084.png"
-    },
-    {
-        "id": 129129,
-        "name": "Mewtwo",
-        "tamanhoId": 3,
-        "corId": 13,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129129.png"
-    },
-    {
-        "id": 129130,
-        "name": "Sirfetch'd",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 4,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129130.png"
-    },
-    {
-        "id": 129134,
-        "name": "Suicune",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129134.png"
-    },
-    {
-        "id": 129135,
-        "name": "Xerneas",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129135.png"
-    },
-    {
-        "id": 129136,
-        "name": "Camerupt",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129136.png"
-    },
-    {
-        "id": 129137,
-        "name": "Xerneas",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129137.png"
-    },
-    {
-        "id": 129166,
-        "name": "Mewtwo",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 25,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129166.png"
-    },
-    {
-        "id": 129167,
-        "name": "Quaxly",
-        "tamanhoId": 3,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129167.png"
-    },
-    {
-        "id": 129168,
-        "name": "Vulpix de Alola",
-        "tamanhoId": 3,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129168.png"
-    },
-    {
-        "id": 129740,
-        "name": "Jirachi",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129740.png"
-    },
-    {
-        "id": 129741,
-        "name": "Cyndaquil",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129741.png"
-    },
-    {
-        "id": 129742,
-        "name": "Shaymin",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129742.png"
-    },
-    {
-        "id": 129743,
-        "name": "Munna (fundo vinho)",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129743.png"
-    },
-    {
-        "id": 129744,
-        "name": "Cranidos",
-        "tamanhoId": 2,
-        "corId": 6,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129744.png"
-    },
-    {
-        "id": 129745,
-        "name": "Iniciais de Unova",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129745.png"
-    },
-    {
-        "id": 129746,
-        "name": "Iniciais de Unova",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 17,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129746.png"
-    },
-    {
-        "id": 129748,
-        "name": "Flygon",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129748.png"
-    },
-    {
-        "id": 129749,
-        "name": "Tyranitar",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129749.png"
-    },
-    {
-        "id": 129750,
-        "name": "Munchlax",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129750.png"
-    },
-    {
-        "id": 129751,
-        "name": "Símbolos de Energia",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129751.png"
-    },
-    {
-        "id": 129752,
-        "name": "Vileplume",
-        "tamanhoId": 2,
-        "corId": 14,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129752.png"
-    },
-    {
-        "id": 129753,
-        "name": "Dialga",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129753.png"
-    },
-    {
-        "id": 129754,
-        "name": "Steelix",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129754.png"
-    },
-    {
-        "id": 129755,
-        "name": "Aerodactyl",
-        "tamanhoId": 2,
-        "corId": 8,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129755.png"
-    },
-    {
-        "id": 129756,
-        "name": "Electivire e Magmortar",
-        "tamanhoId": 2,
-        "corId": 15,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129756.png"
-    },
-    {
-        "id": 129757,
-        "name": "Chespin",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129757.png"
-    },
-    {
-        "id": 129758,
-        "name": "Chespin",
-        "tamanhoId": 1,
-        "corId": 14,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129758.png"
-    },
-    {
-        "id": 129782,
-        "name": "Entei",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129782.png"
-    },
-    {
-        "id": 129783,
-        "name": "Xerneas",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129783.png"
-    },
-    {
-        "id": 129784,
-        "name": "Eevee",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 14,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129784.png"
-    },
-    {
-        "id": 129785,
-        "name": "Quaxly",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129785.png"
-    },
-    {
-        "id": 129786,
-        "name": "Corviknight",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129786.png"
-    },
-    {
-        "id": 129787,
-        "name": "Fennekin",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129787.png"
-    },
-    {
-        "id": 129788,
-        "name": "Xerneas",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 5,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129788.png"
-    },
-    {
-        "id": 129789,
-        "name": "Lugia",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 25,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129789.png"
-    },
-    {
-        "id": 129790,
-        "name": "Iniciais de Kalos",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129790.png"
-    },
-    {
-        "id": 129791,
-        "name": "Iniciais de Kalos",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 20,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129791.png"
-    },
-    {
-        "id": 129803,
-        "name": "Mew",
-        "tamanhoId": 3,
-        "corId": 12,
-        "efeitoId": 16,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129803.png"
-    },
-    {
-        "id": 129869,
-        "name": "Pikachu Acenando",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 22,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129869.png"
-    },
-    {
-        "id": 129870,
-        "name": "Gardevoir",
-        "tamanhoId": 3,
-        "corId": 13,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129870.png"
-    },
-    {
-        "id": 129871,
-        "name": "Mewtwo Y",
-        "tamanhoId": 1,
-        "corId": 12,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129871.png"
-    },
-    {
-        "id": 129872,
-        "name": "Absol",
-        "tamanhoId": 1,
-        "corId": 10,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129872.png"
-    },
-    {
-        "id": 129873,
-        "name": "Genesect",
-        "tamanhoId": 1,
-        "corId": 15,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/129873.png"
-    },
-    {
-        "id": 130069,
-        "name": "Pikachu e Bulbasauro",
-        "tamanhoId": 3,
-        "corId": 3,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130069.png"
-    },
-    {
-        "id": 130070,
-        "name": "Squirtle e Charmander",
-        "tamanhoId": 3,
-        "corId": 3,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130070.png"
-    },
-    {
-        "id": 130164,
-        "name": "Fuecoco",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130164.png"
-    },
-    {
-        "id": 130165,
-        "name": "Cranidos",
-        "tamanhoId": 2,
-        "corId": 10,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130165.png"
-    },
-    {
-        "id": 130166,
-        "name": "Victini",
-        "tamanhoId": 1,
-        "corId": 7,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130166.png"
-    },
-    {
-        "id": 130167,
-        "name": "Charizard VMAX",
-        "tamanhoId": 1,
-        "corId": 6,
-        "efeitoId": 8,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130167.png"
-    },
-    {
-        "id": 130168,
-        "name": "Zoroark de Hisui",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130168.png"
-    },
-    {
-        "id": 130370,
-        "name": "Pokémon ex",
-        "tamanhoId": 3,
-        "corId": 14,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130370.png"
-    },
-    {
-        "id": 130546,
-        "name": "Reshiram e Zekrom",
-        "tamanhoId": 2,
-        "corId": 2,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/130546.png"
-    },
-    {
-        "id": 132042,
-        "name": "Ninetales",
-        "tamanhoId": 3,
-        "corId": 15,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/132042.png"
-    },
-    {
-        "id": 132213,
-        "name": "Cetoddle",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 13,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/132213.png"
-    },
-    {
-        "id": 132277,
-        "name": "Pokémon ex",
-        "tamanhoId": 3,
-        "corId": 10,
-        "efeitoId": 15,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/132277.png"
-    },
-    {
-        "id": 132278,
-        "name": "Chien-Pao",
-        "tamanhoId": 1,
-        "corId": 2,
-        "efeitoId": 21,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/132278.png"
-    },
-    {
-        "id": 132354,
-        "name": "Zapdos",
-        "tamanhoId": 3,
-        "corId": 1,
-        "efeitoId": 23,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/132354.png"
-    },
-    {
-        "id": 132452,
-        "name": "Quaquaval",
-        "tamanhoId": 3,
-        "corId": 2,
-        "efeitoId": 1,
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/master\/moedas\/132452.png"
-    }
-]}
+{
+    "data": [
+        {
+            "id": 122432,
+            "name": "Hoopa",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122432.jpg"
+        },
+        {
+            "id": 122433,
+            "name": "Rowlet",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122433.jpg"
+        },
+        {
+            "id": 122434,
+            "name": "Ninetales de Alola",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122434.jpg"
+        },
+        {
+            "id": 122435,
+            "name": "Darmanitan de Galar",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122435.jpg"
+        },
+        {
+            "id": 122436,
+            "name": "Lycanroc Forma Crepúsculo",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 6,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122436.jpg"
+        },
+        {
+            "id": 122437,
+            "name": "Kommo-o",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122437.jpg"
+        },
+        {
+            "id": 122438,
+            "name": "Zamazenta",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122438.jpg"
+        },
+        {
+            "id": 122439,
+            "name": "Sirfetch'd de Galar",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122439.jpg"
+        },
+        {
+            "id": 122441,
+            "name": "Zacian",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122441.jpg"
+        },
+        {
+            "id": 122442,
+            "name": "Grookey",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122442.jpg"
+        },
+        {
+            "id": 122482,
+            "name": "Gyarados",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/122482.jpg"
+        },
+        {
+            "id": 125118,
+            "name": "Mewtwo",
+            "tamanhoId": 1,
+            "corId": 13,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125118.jpg"
+        },
+        {
+            "id": 125119,
+            "name": "Marnie",
+            "tamanhoId": 3,
+            "corId": 12,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125119.jpg"
+        },
+        {
+            "id": 125120,
+            "name": "Suicune",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125120.jpg"
+        },
+        {
+            "id": 125121,
+            "name": "Raikou",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 4,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125121.jpg"
+        },
+        {
+            "id": 125123,
+            "name": "Charizard",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125123.jpg"
+        },
+        {
+            "id": 125124,
+            "name": "Victini",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125124.jpg"
+        },
+        {
+            "id": 125125,
+            "name": "Garchomp",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125125.jpg"
+        },
+        {
+            "id": 125126,
+            "name": "Detetive Pikachu",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 22,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125126.jpg"
+        },
+        {
+            "id": 125127,
+            "name": "Raichu",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 22,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125127.jpg"
+        },
+        {
+            "id": 125128,
+            "name": "Lugia",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125128.jpg"
+        },
+        {
+            "id": 125129,
+            "name": "Zeraora",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125129.jpg"
+        },
+        {
+            "id": 125130,
+            "name": "Chespin",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125130.jpg"
+        },
+        {
+            "id": 125131,
+            "name": "Metagross",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125131.jpg"
+        },
+        {
+            "id": 125133,
+            "name": "Dragonite",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125133.jpg"
+        },
+        {
+            "id": 125134,
+            "name": "Fennekin",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125134.jpg"
+        },
+        {
+            "id": 125136,
+            "name": "Volcanion",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125136.jpg"
+        },
+        {
+            "id": 125137,
+            "name": "Manaphy",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125137.jpg"
+        },
+        {
+            "id": 125138,
+            "name": "Empoleon",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125138.jpg"
+        },
+        {
+            "id": 125139,
+            "name": "Aura's Lucario",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125139.jpg"
+        },
+        {
+            "id": 125140,
+            "name": "Shaymin",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125140.jpg"
+        },
+        {
+            "id": 125142,
+            "name": "Kommo-o",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125142.jpg"
+        },
+        {
+            "id": 125144,
+            "name": "Hydreigon",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125144.jpg"
+        },
+        {
+            "id": 125145,
+            "name": "Mega Blaziken",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125145.jpg"
+        },
+        {
+            "id": 125146,
+            "name": "Lycanroc (Dusk Form)",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125146.jpg"
+        },
+        {
+            "id": 125147,
+            "name": "Lunala",
+            "tamanhoId": 1,
+            "corId": 13,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125147.jpg"
+        },
+        {
+            "id": 125148,
+            "name": "Litten",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125148.jpg"
+        },
+        {
+            "id": 125149,
+            "name": "Iniciais de Galar",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125149.jpg"
+        },
+        {
+            "id": 125150,
+            "name": "Dialga",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125150.jpg"
+        },
+        {
+            "id": 125151,
+            "name": "Mew",
+            "tamanhoId": 3,
+            "corId": 12,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125151.jpg"
+        },
+        {
+            "id": 125152,
+            "name": "Blastoise",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125152.jpg"
+        },
+        {
+            "id": 125153,
+            "name": "Crobat VMAX",
+            "tamanhoId": 3,
+            "corId": 12,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125153.jpg"
+        },
+        {
+            "id": 125154,
+            "name": "Celebrações 25 anos",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125154.jpg"
+        },
+        {
+            "id": 125155,
+            "name": "Celebrações 25 anos",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125155.jpg"
+        },
+        {
+            "id": 125156,
+            "name": "Pikachu",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125156.jpg"
+        },
+        {
+            "id": 125157,
+            "name": "Calyrex",
+            "tamanhoId": 3,
+            "corId": 13,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125157.jpg"
+        },
+        {
+            "id": 125158,
+            "name": "Venusaur",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125158.jpg"
+        },
+        {
+            "id": 125159,
+            "name": "Urshifu Golpe Decisivo",
+            "tamanhoId": 3,
+            "corId": 15,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125159.jpg"
+        },
+        {
+            "id": 125160,
+            "name": "Urshifu Golpe Fluído",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 21,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125160.jpg"
+        },
+        {
+            "id": 125176,
+            "name": "Dragapult VMAX",
+            "tamanhoId": 3,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125176.jpg"
+        },
+        {
+            "id": 125177,
+            "name": "Flareon, Vaporeon e Jolteon",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 4,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125177.jpg"
+        },
+        {
+            "id": 125178,
+            "name": "Sylveon, Espeon, Glaceon e Vap",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125178.jpg"
+        },
+        {
+            "id": 125213,
+            "name": "Pikachu Acenando",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 20,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125213.jpg"
+        },
+        {
+            "id": 125214,
+            "name": "Shaymin",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125214.jpg"
+        },
+        {
+            "id": 125215,
+            "name": "Genesect",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125215.jpg"
+        },
+        {
+            "id": 125686,
+            "name": "Blastoise",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125686.jpg"
+        },
+        {
+            "id": 125687,
+            "name": "Charizard",
+            "tamanhoId": 2,
+            "corId": 7,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125687.jpg"
+        },
+        {
+            "id": 125688,
+            "name": "Deoxys",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125688.jpg"
+        },
+        {
+            "id": 125689,
+            "name": "Froakie",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125689.jpg"
+        },
+        {
+            "id": 125690,
+            "name": "Yveltal",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125690.jpg"
+        },
+        {
+            "id": 125691,
+            "name": "Popplio",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125691.jpg"
+        },
+        {
+            "id": 125692,
+            "name": "Ninetales de Alola",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125692.jpg"
+        },
+        {
+            "id": 125693,
+            "name": "Black Kyurem",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125693.jpg"
+        },
+        {
+            "id": 125694,
+            "name": "Kyogre",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125694.jpg"
+        },
+        {
+            "id": 125695,
+            "name": "Ho-oh",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125695.jpg"
+        },
+        {
+            "id": 125696,
+            "name": "Mega Gyarados Brilhante",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125696.jpg"
+        },
+        {
+            "id": 125697,
+            "name": "Primal Groudon",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125697.jpg"
+        },
+        {
+            "id": 125698,
+            "name": "Groudon",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125698.jpg"
+        },
+        {
+            "id": 125699,
+            "name": "Mega Swampert",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/125699.jpg"
+        },
+        {
+            "id": 126209,
+            "name": "Celebrações 25 anos",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 20,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126209.jpg"
+        },
+        {
+            "id": 126212,
+            "name": "Drednaw",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126212.jpg"
+        },
+        {
+            "id": 126213,
+            "name": "Popplio",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126213.jpg"
+        },
+        {
+            "id": 126427,
+            "name": "Lucario",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126427.jpg"
+        },
+        {
+            "id": 126476,
+            "name": "Blastoise",
+            "tamanhoId": 3,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126476.jpg"
+        },
+        {
+            "id": 126477,
+            "name": "Blastoise",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 20,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126477.jpg"
+        },
+        {
+            "id": 126478,
+            "name": "Bulbasaur",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126478.jpg"
+        },
+        {
+            "id": 126744,
+            "name": "Charizard",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126744.jpg"
+        },
+        {
+            "id": 126745,
+            "name": "Pikachu",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126745.jpg"
+        },
+        {
+            "id": 126746,
+            "name": "Pokémo GO",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126746.jpg"
+        },
+        {
+            "id": 126747,
+            "name": "Eevee",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126747.jpg"
+        },
+        {
+            "id": 126748,
+            "name": "Zeraora",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126748.jpg"
+        },
+        {
+            "id": 126749,
+            "name": "Grookey",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126749.jpg"
+        },
+        {
+            "id": 126750,
+            "name": "Venusaur",
+            "tamanhoId": 3,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126750.jpg"
+        },
+        {
+            "id": 126751,
+            "name": "Charizard",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 22,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126751.jpg"
+        },
+        {
+            "id": 126752,
+            "name": "Professora Juniper",
+            "tamanhoId": 3,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126752.jpg"
+        },
+        {
+            "id": 126753,
+            "name": "Suicune",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126753.jpg"
+        },
+        {
+            "id": 126754,
+            "name": "Groudon",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126754.jpg"
+        },
+        {
+            "id": 126755,
+            "name": "Gyarados",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126755.jpg"
+        },
+        {
+            "id": 126756,
+            "name": "Zekrom e Reshiram",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126756.jpg"
+        },
+        {
+            "id": 126757,
+            "name": "Manaphy",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126757.jpg"
+        },
+        {
+            "id": 126759,
+            "name": "Kleavor",
+            "tamanhoId": 3,
+            "corId": 3,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126759.jpg"
+        },
+        {
+            "id": 126760,
+            "name": "Palkia Forma Origem",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126760.jpg"
+        },
+        {
+            "id": 126761,
+            "name": "Arceus",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126761.jpg"
+        },
+        {
+            "id": 126762,
+            "name": "Dialga Forma Origem",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126762.jpg"
+        },
+        {
+            "id": 126763,
+            "name": "Darkrai",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126763.jpg"
+        },
+        {
+            "id": 126764,
+            "name": "Lucario",
+            "tamanhoId": 3,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126764.jpg"
+        },
+        {
+            "id": 126786,
+            "name": "Kyogre",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126786.jpg"
+        },
+        {
+            "id": 126787,
+            "name": "Blastoise",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126787.jpg"
+        },
+        {
+            "id": 126788,
+            "name": "Equipe Aqua",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126788.jpg"
+        },
+        {
+            "id": 126789,
+            "name": "Kyogre",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126789.jpg"
+        },
+        {
+            "id": 126790,
+            "name": "Kyogre Primitivo",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126790.jpg"
+        },
+        {
+            "id": 126791,
+            "name": "Mega Lucario",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126791.jpg"
+        },
+        {
+            "id": 126792,
+            "name": "Swampert",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126792.jpg"
+        },
+        {
+            "id": 126796,
+            "name": "Mega Mewtwo X",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126796.jpg"
+        },
+        {
+            "id": 126802,
+            "name": "Rayquaza",
+            "tamanhoId": 3,
+            "corId": 14,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126802.jpg"
+        },
+        {
+            "id": 126803,
+            "name": "Rayquaza",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126803.jpg"
+        },
+        {
+            "id": 126804,
+            "name": "Shaymin",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126804.jpg"
+        },
+        {
+            "id": 126981,
+            "name": "Charizard",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126981.jpg"
+        },
+        {
+            "id": 126982,
+            "name": "Ho-oh",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126982.jpg"
+        },
+        {
+            "id": 126983,
+            "name": "Raichu",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126983.jpg"
+        },
+        {
+            "id": 126984,
+            "name": "Ultra Necrozma",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126984.jpg"
+        },
+        {
+            "id": 126985,
+            "name": "Kyogre Primitivo",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126985.jpg"
+        },
+        {
+            "id": 126986,
+            "name": "Groudon Primitivo",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126986.jpg"
+        },
+        {
+            "id": 126987,
+            "name": "Raichu de Alola",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/126987.jpg"
+        },
+        {
+            "id": 127003,
+            "name": "Pikachu World Challenge",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127003.jpg"
+        },
+        {
+            "id": 127004,
+            "name": "Squirtle",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127004.jpg"
+        },
+        {
+            "id": 127005,
+            "name": "Darkrai",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127005.jpg"
+        },
+        {
+            "id": 127006,
+            "name": "Cyndaquil",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127006.jpg"
+        },
+        {
+            "id": 127007,
+            "name": "Pikachu Acenando",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127007.jpg"
+        },
+        {
+            "id": 127008,
+            "name": "Hoopa",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127008.jpg"
+        },
+        {
+            "id": 127031,
+            "name": "Mega Charizard Y",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127031.jpg"
+        },
+        {
+            "id": 127032,
+            "name": "Mega Rayquaza",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127032.jpg"
+        },
+        {
+            "id": 127033,
+            "name": "Eevee",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127033.jpg"
+        },
+        {
+            "id": 127034,
+            "name": "Umbreon",
+            "tamanhoId": 1,
+            "corId": 5,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127034.jpg"
+        },
+        {
+            "id": 127035,
+            "name": "Necrozma",
+            "tamanhoId": 1,
+            "corId": 5,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127035.jpg"
+        },
+        {
+            "id": 127037,
+            "name": "Rayquaza",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127037.jpg"
+        },
+        {
+            "id": 127047,
+            "name": "Bulbasaur",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127047.jpg"
+        },
+        {
+            "id": 127048,
+            "name": "Chikorita",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127048.jpg"
+        },
+        {
+            "id": 127049,
+            "name": "Sceptile",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127049.jpg"
+        },
+        {
+            "id": 127050,
+            "name": "Rayquaza",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 20,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127050.jpg"
+        },
+        {
+            "id": 127051,
+            "name": "Iniciais de Unova",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127051.jpg"
+        },
+        {
+            "id": 127052,
+            "name": "Zeraora",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 4,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127052.jpg"
+        },
+        {
+            "id": 127054,
+            "name": "Dragonite",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 4,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127054.jpg"
+        },
+        {
+            "id": 127060,
+            "name": "Charizard",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127060.jpg"
+        },
+        {
+            "id": 127061,
+            "name": "Scorbunny",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127061.jpg"
+        },
+        {
+            "id": 127062,
+            "name": "Torchic",
+            "tamanhoId": 2,
+            "corId": 7,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127062.jpg"
+        },
+        {
+            "id": 127063,
+            "name": "Volcanion",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127063.jpg"
+        },
+        {
+            "id": 127065,
+            "name": "Mega Charizard Y",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127065.jpg"
+        },
+        {
+            "id": 127066,
+            "name": "Garchomp e Charizard",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127066.jpg"
+        },
+        {
+            "id": 127068,
+            "name": "Mew",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127068.jpg"
+        },
+        {
+            "id": 127071,
+            "name": "Mew",
+            "tamanhoId": 1,
+            "corId": 12,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127071.jpg"
+        },
+        {
+            "id": 127072,
+            "name": "Alakazam",
+            "tamanhoId": 2,
+            "corId": 13,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127072.jpg"
+        },
+        {
+            "id": 127074,
+            "name": "Alakazam",
+            "tamanhoId": 2,
+            "corId": 13,
+            "efeitoId": 7,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127074.jpg"
+        },
+        {
+            "id": 127075,
+            "name": "Genesect",
+            "tamanhoId": 1,
+            "corId": 13,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127075.jpg"
+        },
+        {
+            "id": 127082,
+            "name": "Mewtwo",
+            "tamanhoId": 1,
+            "corId": 13,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127082.jpg"
+        },
+        {
+            "id": 127083,
+            "name": "Mewtwo",
+            "tamanhoId": 1,
+            "corId": 13,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127083.jpg"
+        },
+        {
+            "id": 127084,
+            "name": "Mega Gengar",
+            "tamanhoId": 1,
+            "corId": 13,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127084.jpg"
+        },
+        {
+            "id": 127085,
+            "name": "Mega Gyarados",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127085.jpg"
+        },
+        {
+            "id": 127086,
+            "name": "Groudon",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127086.jpg"
+        },
+        {
+            "id": 127087,
+            "name": "Kyurem Branco",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127087.jpg"
+        },
+        {
+            "id": 127270,
+            "name": "Emblema Equipe Magma",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127270.jpg"
+        },
+        {
+            "id": 127271,
+            "name": "Professor Pokémon",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127271.jpg"
+        },
+        {
+            "id": 127272,
+            "name": "Zoroark",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127272.jpg"
+        },
+        {
+            "id": 127273,
+            "name": "Charmander",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127273.jpg"
+        },
+        {
+            "id": 127274,
+            "name": "Kyurem Branco",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127274.jpg"
+        },
+        {
+            "id": 127275,
+            "name": "Iniciais de Unova",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127275.jpg"
+        },
+        {
+            "id": 127276,
+            "name": "Mega Lucario",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127276.jpg"
+        },
+        {
+            "id": 127277,
+            "name": "Infernape e Gallade",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127277.jpg"
+        },
+        {
+            "id": 127278,
+            "name": "Iniciais de Unova",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127278.jpg"
+        },
+        {
+            "id": 127279,
+            "name": "Zygarde",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127279.jpg"
+        },
+        {
+            "id": 127280,
+            "name": "Mega Beedrill",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127280.jpg"
+        },
+        {
+            "id": 127281,
+            "name": "Mega Mawile",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127281.jpg"
+        },
+        {
+            "id": 127282,
+            "name": "Drednaw",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127282.jpg"
+        },
+        {
+            "id": 127283,
+            "name": "Froakie",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127283.jpg"
+        },
+        {
+            "id": 127284,
+            "name": "Lugia",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127284.jpg"
+        },
+        {
+            "id": 127285,
+            "name": "Fennekin",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127285.jpg"
+        },
+        {
+            "id": 127286,
+            "name": "Deoxys",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127286.jpg"
+        },
+        {
+            "id": 127287,
+            "name": "Genesect",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127287.jpg"
+        },
+        {
+            "id": 127288,
+            "name": "Yveltal",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127288.jpg"
+        },
+        {
+            "id": 127289,
+            "name": "Palkia",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127289.jpg"
+        },
+        {
+            "id": 127290,
+            "name": "Escavalier e Accelgor",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 16,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127290.jpg"
+        },
+        {
+            "id": 127291,
+            "name": "Rayquaza",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 16,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127291.jpg"
+        },
+        {
+            "id": 127292,
+            "name": "Charizard VMAX",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 16,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127292.jpg"
+        },
+        {
+            "id": 127293,
+            "name": "Pikachu",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 22,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127293.jpg"
+        },
+        {
+            "id": 127294,
+            "name": "Pikachu",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 22,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127294.jpg"
+        },
+        {
+            "id": 127295,
+            "name": "Iniciais de Hoenn",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127295.jpg"
+        },
+        {
+            "id": 127296,
+            "name": "Eevee",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127296.jpg"
+        },
+        {
+            "id": 127297,
+            "name": "Raichu",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127297.jpg"
+        },
+        {
+            "id": 127298,
+            "name": "Zoroark",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127298.jpg"
+        },
+        {
+            "id": 127299,
+            "name": "Zoroark",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127299.jpg"
+        },
+        {
+            "id": 127300,
+            "name": "Entei",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127300.jpg"
+        },
+        {
+            "id": 127301,
+            "name": "Mega Charizard Y",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127301.jpg"
+        },
+        {
+            "id": 127302,
+            "name": "Iniciais de Galar",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127302.jpg"
+        },
+        {
+            "id": 127303,
+            "name": "Jirachi e Shaymin",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 4,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127303.jpg"
+        },
+        {
+            "id": 127304,
+            "name": "Totodile",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 21,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127304.jpg"
+        },
+        {
+            "id": 127305,
+            "name": "Eevee",
+            "tamanhoId": 2,
+            "corId": 1,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127305.jpg"
+        },
+        {
+            "id": 127773,
+            "name": "Klara",
+            "tamanhoId": 3,
+            "corId": 12,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127773.jpg"
+        },
+        {
+            "id": 127774,
+            "name": "Cyrus",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/127774.jpg"
+        },
+        {
+            "id": 128093,
+            "name": "Chansey (Wizards 2000)",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128093.jpg"
+        },
+        {
+            "id": 128094,
+            "name": "Pikachu (Wizards 2000)",
+            "tamanhoId": 2,
+            "corId": 1,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128094.jpg"
+        },
+        {
+            "id": 128095,
+            "name": "Pikachu (Wizards 2000)",
+            "tamanhoId": 2,
+            "corId": 1,
+            "efeitoId": 7,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128095.jpg"
+        },
+        {
+            "id": 128096,
+            "name": "Meowth (Wizards 2000)",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 7,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128096.jpg"
+        },
+        {
+            "id": 128097,
+            "name": "Meowth (Wizards 2000)",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128097.jpg"
+        },
+        {
+            "id": 128101,
+            "name": "Reshiram e Zekrom (fundo branc",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128101.jpg"
+        },
+        {
+            "id": 128103,
+            "name": "Reshiram e Zekrom",
+            "tamanhoId": 2,
+            "corId": 11,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128103.jpg"
+        },
+        {
+            "id": 128109,
+            "name": "Charizard VMAX",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 25,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128109.jpg"
+        },
+        {
+            "id": 128110,
+            "name": "Lucario",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 25,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128110.jpg"
+        },
+        {
+            "id": 128111,
+            "name": "Palkia",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128111.jpg"
+        },
+        {
+            "id": 128112,
+            "name": "Símbolos de Energia",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128112.jpg"
+        },
+        {
+            "id": 128113,
+            "name": "Símbolos de Energia",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128113.jpg"
+        },
+        {
+            "id": 128114,
+            "name": "Mega Gengar",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128114.jpg"
+        },
+        {
+            "id": 128263,
+            "name": "Xerneas",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128263.jpg"
+        },
+        {
+            "id": 128264,
+            "name": "Black Kyurem",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128264.jpg"
+        },
+        {
+            "id": 128265,
+            "name": "Starmie (Wizards 2000)",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128265.jpg"
+        },
+        {
+            "id": 128266,
+            "name": "Treecko",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128266.jpg"
+        },
+        {
+            "id": 128267,
+            "name": "Celebi",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128267.jpg"
+        },
+        {
+            "id": 128268,
+            "name": "Hoopa",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128268.jpg"
+        },
+        {
+            "id": 128269,
+            "name": "Arceus",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128269.jpg"
+        },
+        {
+            "id": 128270,
+            "name": "Arceus",
+            "tamanhoId": 2,
+            "corId": 4,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128270.jpg"
+        },
+        {
+            "id": 128271,
+            "name": "Pheromosa",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128271.jpg"
+        },
+        {
+            "id": 128272,
+            "name": "Solgaleo",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128272.jpg"
+        },
+        {
+            "id": 128277,
+            "name": "Deoxys",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128277.jpg"
+        },
+        {
+            "id": 128278,
+            "name": "Iniciais de Unova",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128278.jpg"
+        },
+        {
+            "id": 128316,
+            "name": "Sobble",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128316.jpg"
+        },
+        {
+            "id": 128317,
+            "name": "Mega Sharpedo",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128317.jpg"
+        },
+        {
+            "id": 128318,
+            "name": "Deoxys",
+            "tamanhoId": 3,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128318.jpg"
+        },
+        {
+            "id": 128319,
+            "name": "Pikachu",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 25,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128319.jpg"
+        },
+        {
+            "id": 128320,
+            "name": "Exeggutor de Alola",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128320.jpg"
+        },
+        {
+            "id": 128496,
+            "name": "Tyranitar",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128496.jpg"
+        },
+        {
+            "id": 128497,
+            "name": "Lucario",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128497.jpg"
+        },
+        {
+            "id": 128498,
+            "name": "Raikou",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128498.jpg"
+        },
+        {
+            "id": 128524,
+            "name": "Rayquaza",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128524.jpg"
+        },
+        {
+            "id": 128525,
+            "name": "Charizard",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128525.jpg"
+        },
+        {
+            "id": 128567,
+            "name": "Pikachu",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128567.jpg"
+        },
+        {
+            "id": 128584,
+            "name": "Zeraora",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128584.jpg"
+        },
+        {
+            "id": 128640,
+            "name": "Mundial 2022",
+            "tamanhoId": 3,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128640.jpg"
+        },
+        {
+            "id": 128872,
+            "name": "Eevee",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128872.jpg"
+        },
+        {
+            "id": 128873,
+            "name": "Morpeko",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128873.jpg"
+        },
+        {
+            "id": 128874,
+            "name": "Turtwig",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128874.jpg"
+        },
+        {
+            "id": 128875,
+            "name": "Chimchar",
+            "tamanhoId": 2,
+            "corId": 7,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128875.jpg"
+        },
+        {
+            "id": 128876,
+            "name": "Piplup",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128876.jpg"
+        },
+        {
+            "id": 128877,
+            "name": "Sylveon",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128877.jpg"
+        },
+        {
+            "id": 128878,
+            "name": "Rayquaza",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128878.jpg"
+        },
+        {
+            "id": 128879,
+            "name": "Dialga",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128879.jpg"
+        },
+        {
+            "id": 128880,
+            "name": "Palkia",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128880.jpg"
+        },
+        {
+            "id": 128881,
+            "name": "Arceus",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128881.jpg"
+        },
+        {
+            "id": 128882,
+            "name": "Ditto",
+            "tamanhoId": 2,
+            "corId": 13,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128882.jpg"
+        },
+        {
+            "id": 128883,
+            "name": "Psyduck",
+            "tamanhoId": 2,
+            "corId": 1,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128883.jpg"
+        },
+        {
+            "id": 128884,
+            "name": "Slowpoke",
+            "tamanhoId": 2,
+            "corId": 12,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128884.jpg"
+        },
+        {
+            "id": 128885,
+            "name": "Alakazam",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 19,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128885.jpg"
+        },
+        {
+            "id": 128886,
+            "name": "Dragonite",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 18,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128886.jpg"
+        },
+        {
+            "id": 128887,
+            "name": "Fidough",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128887.jpg"
+        },
+        {
+            "id": 128888,
+            "name": "Tandemaus",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128888.jpg"
+        },
+        {
+            "id": 128889,
+            "name": "Baxcalibur",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128889.jpg"
+        },
+        {
+            "id": 128890,
+            "name": "Greedent",
+            "tamanhoId": 2,
+            "corId": 8,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128890.jpg"
+        },
+        {
+            "id": 128891,
+            "name": "Meltan",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/128891.jpg"
+        },
+        {
+            "id": 129049,
+            "name": "Zeraora",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129049.jpg"
+        },
+        {
+            "id": 129050,
+            "name": "Deoxys",
+            "tamanhoId": 2,
+            "corId": 13,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129050.jpg"
+        },
+        {
+            "id": 129052,
+            "name": "Lucário",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129052.jpg"
+        },
+        {
+            "id": 129053,
+            "name": "Blastoise",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129053.jpg"
+        },
+        {
+            "id": 129054,
+            "name": "Fuecoco",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129054.jpg"
+        },
+        {
+            "id": 129055,
+            "name": "Quaxly",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129055.jpg"
+        },
+        {
+            "id": 129056,
+            "name": "Sprigatito",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129056.jpg"
+        },
+        {
+            "id": 129057,
+            "name": "Pikachu",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129057.jpg"
+        },
+        {
+            "id": 129058,
+            "name": "Pikachu",
+            "tamanhoId": 2,
+            "corId": 9,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129058.jpg"
+        },
+        {
+            "id": 129059,
+            "name": "Eevee",
+            "tamanhoId": 2,
+            "corId": 5,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129059.jpg"
+        },
+        {
+            "id": 129081,
+            "name": "Mega Rayquaza",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129081.jpg"
+        },
+        {
+            "id": 129082,
+            "name": "Melmetal",
+            "tamanhoId": 3,
+            "corId": 5,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129082.jpg"
+        },
+        {
+            "id": 129083,
+            "name": "Fuecoco",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129083.jpg"
+        },
+        {
+            "id": 129084,
+            "name": "Scorbunny",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129084.jpg"
+        },
+        {
+            "id": 129129,
+            "name": "Mewtwo",
+            "tamanhoId": 3,
+            "corId": 13,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129129.jpg"
+        },
+        {
+            "id": 129130,
+            "name": "Sirfetch'd",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 4,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129130.jpg"
+        },
+        {
+            "id": 129134,
+            "name": "Suicune",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129134.jpg"
+        },
+        {
+            "id": 129135,
+            "name": "Xerneas",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129135.jpg"
+        },
+        {
+            "id": 129136,
+            "name": "Camerupt",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129136.jpg"
+        },
+        {
+            "id": 129137,
+            "name": "Xerneas",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129137.jpg"
+        },
+        {
+            "id": 129166,
+            "name": "Mewtwo",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 25,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129166.jpg"
+        },
+        {
+            "id": 129167,
+            "name": "Quaxly",
+            "tamanhoId": 3,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129167.jpg"
+        },
+        {
+            "id": 129168,
+            "name": "Vulpix de Alola",
+            "tamanhoId": 3,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129168.jpg"
+        },
+        {
+            "id": 129740,
+            "name": "Jirachi",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129740.jpg"
+        },
+        {
+            "id": 129741,
+            "name": "Cyndaquil",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129741.jpg"
+        },
+        {
+            "id": 129742,
+            "name": "Shaymin",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129742.jpg"
+        },
+        {
+            "id": 129743,
+            "name": "Munna (fundo vinho)",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129743.jpg"
+        },
+        {
+            "id": 129744,
+            "name": "Cranidos",
+            "tamanhoId": 2,
+            "corId": 6,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129744.jpg"
+        },
+        {
+            "id": 129745,
+            "name": "Iniciais de Unova",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129745.jpg"
+        },
+        {
+            "id": 129746,
+            "name": "Iniciais de Unova",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 17,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129746.jpg"
+        },
+        {
+            "id": 129748,
+            "name": "Flygon",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129748.jpg"
+        },
+        {
+            "id": 129749,
+            "name": "Tyranitar",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129749.jpg"
+        },
+        {
+            "id": 129750,
+            "name": "Munchlax",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129750.jpg"
+        },
+        {
+            "id": 129751,
+            "name": "Símbolos de Energia",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129751.jpg"
+        },
+        {
+            "id": 129752,
+            "name": "Vileplume",
+            "tamanhoId": 2,
+            "corId": 14,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129752.jpg"
+        },
+        {
+            "id": 129753,
+            "name": "Dialga",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129753.jpg"
+        },
+        {
+            "id": 129754,
+            "name": "Steelix",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129754.jpg"
+        },
+        {
+            "id": 129755,
+            "name": "Aerodactyl",
+            "tamanhoId": 2,
+            "corId": 8,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129755.jpg"
+        },
+        {
+            "id": 129756,
+            "name": "Electivire e Magmortar",
+            "tamanhoId": 2,
+            "corId": 15,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129756.jpg"
+        },
+        {
+            "id": 129757,
+            "name": "Chespin",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129757.jpg"
+        },
+        {
+            "id": 129758,
+            "name": "Chespin",
+            "tamanhoId": 1,
+            "corId": 14,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129758.jpg"
+        },
+        {
+            "id": 129782,
+            "name": "Entei",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129782.jpg"
+        },
+        {
+            "id": 129783,
+            "name": "Xerneas",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129783.jpg"
+        },
+        {
+            "id": 129784,
+            "name": "Eevee",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 14,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129784.jpg"
+        },
+        {
+            "id": 129785,
+            "name": "Quaxly",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129785.jpg"
+        },
+        {
+            "id": 129786,
+            "name": "Corviknight",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129786.jpg"
+        },
+        {
+            "id": 129787,
+            "name": "Fennekin",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129787.jpg"
+        },
+        {
+            "id": 129788,
+            "name": "Xerneas",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 5,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129788.jpg"
+        },
+        {
+            "id": 129789,
+            "name": "Lugia",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 25,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129789.jpg"
+        },
+        {
+            "id": 129790,
+            "name": "Iniciais de Kalos",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129790.jpg"
+        },
+        {
+            "id": 129791,
+            "name": "Iniciais de Kalos",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 20,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129791.jpg"
+        },
+        {
+            "id": 129803,
+            "name": "Mew",
+            "tamanhoId": 3,
+            "corId": 12,
+            "efeitoId": 16,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129803.jpg"
+        },
+        {
+            "id": 129869,
+            "name": "Pikachu Acenando",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 22,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129869.jpg"
+        },
+        {
+            "id": 129870,
+            "name": "Gardevoir",
+            "tamanhoId": 3,
+            "corId": 13,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129870.jpg"
+        },
+        {
+            "id": 129871,
+            "name": "Mewtwo Y",
+            "tamanhoId": 1,
+            "corId": 12,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129871.jpg"
+        },
+        {
+            "id": 129872,
+            "name": "Absol",
+            "tamanhoId": 1,
+            "corId": 10,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129872.jpg"
+        },
+        {
+            "id": 129873,
+            "name": "Genesect",
+            "tamanhoId": 1,
+            "corId": 15,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/129873.jpg"
+        },
+        {
+            "id": 130069,
+            "name": "Pikachu e Bulbasauro",
+            "tamanhoId": 3,
+            "corId": 3,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130069.jpg"
+        },
+        {
+            "id": 130070,
+            "name": "Squirtle e Charmander",
+            "tamanhoId": 3,
+            "corId": 3,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130070.jpg"
+        },
+        {
+            "id": 130164,
+            "name": "Fuecoco",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130164.jpg"
+        },
+        {
+            "id": 130165,
+            "name": "Cranidos",
+            "tamanhoId": 2,
+            "corId": 10,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130165.jpg"
+        },
+        {
+            "id": 130166,
+            "name": "Victini",
+            "tamanhoId": 1,
+            "corId": 7,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130166.jpg"
+        },
+        {
+            "id": 130167,
+            "name": "Charizard VMAX",
+            "tamanhoId": 1,
+            "corId": 6,
+            "efeitoId": 8,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130167.jpg"
+        },
+        {
+            "id": 130168,
+            "name": "Zoroark de Hisui",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130168.jpg"
+        },
+        {
+            "id": 130370,
+            "name": "Pokémon ex",
+            "tamanhoId": 3,
+            "corId": 14,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130370.jpg"
+        },
+        {
+            "id": 130546,
+            "name": "Reshiram e Zekrom",
+            "tamanhoId": 2,
+            "corId": 2,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/130546.jpg"
+        },
+        {
+            "id": 132042,
+            "name": "Ninetales",
+            "tamanhoId": 3,
+            "corId": 15,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/132042.jpg"
+        },
+        {
+            "id": 132213,
+            "name": "Cetoddle",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 13,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/132213.jpg"
+        },
+        {
+            "id": 132277,
+            "name": "Pokémon ex",
+            "tamanhoId": 3,
+            "corId": 10,
+            "efeitoId": 15,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/132277.jpg"
+        },
+        {
+            "id": 132278,
+            "name": "Chien-Pao",
+            "tamanhoId": 1,
+            "corId": 2,
+            "efeitoId": 21,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/132278.jpg"
+        },
+        {
+            "id": 132354,
+            "name": "Zapdos",
+            "tamanhoId": 3,
+            "corId": 1,
+            "efeitoId": 23,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/132354.jpg"
+        },
+        {
+            "id": 132452,
+            "name": "Quaquaval",
+            "tamanhoId": 3,
+            "corId": 2,
+            "efeitoId": 1,
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/moedas/132452.jpg"
+        }
+    ]
+}

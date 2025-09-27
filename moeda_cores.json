@@ -1,92 +1,94 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "Amarelo",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 2,
-        "name": "Azul",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 3,
-        "name": "Bronze",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 4,
-        "name": "Carmesim",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 5,
-        "name": "Cinza",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 6,
-        "name": "Dourado",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 7,
-        "name": "Laranja",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 8,
-        "name": "Marrom",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 9,
-        "name": "Ouro",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 10,
-        "name": "Prateado",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 11,
-        "name": "Preto",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 12,
-        "name": "Rosa",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 13,
-        "name": "Roxo",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 14,
-        "name": "Verde",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 15,
-        "name": "Vermelho",
-        "nomePt": null,
-        "image": null
-    }
-]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Amarelo",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Azul",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Bronze",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "name": "Carmesim",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 5,
+            "name": "Cinza",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 6,
+            "name": "Dourado",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 7,
+            "name": "Laranja",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 8,
+            "name": "Marrom",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 9,
+            "name": "Ouro",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 10,
+            "name": "Prateado",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 11,
+            "name": "Preto",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 12,
+            "name": "Rosa",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 13,
+            "name": "Roxo",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 14,
+            "name": "Verde",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Vermelho",
+            "nomePt": "",
+            "image": ""
+        }
+    ]
+}

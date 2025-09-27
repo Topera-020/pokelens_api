@@ -1,93 +1,95 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "1",
-        "color": "Tenho",
-        "icon": "green",
-        "orderId": 0
-    },
-    {
-        "id": 2,
-        "name": "3",
-        "color": "Preciso",
-        "icon": "red",
-        "orderId": 0
-    },
-    {
-        "id": 3,
-        "name": "2",
-        "color": "Tenho reverse",
-        "icon": "blue",
-        "orderId": 0
-    },
-    {
-        "id": 4,
-        "name": "4",
-        "color": "Troca",
-        "icon": "purple",
-        "orderId": 0
-    },
-    {
-        "id": 5,
-        "name": "5",
-        "color": "Compra",
-        "icon": "yellow",
-        "orderId": 0
-    },
-    {
-        "id": 6,
-        "name": "6",
-        "color": "Danificada",
-        "icon": "orange",
-        "orderId": 0
-    },
-    {
-        "id": 7,
-        "name": "7",
-        "color": "Ignorar",
-        "icon": "black",
-        "orderId": 0
-    },
-    {
-        "id": 8,
-        "name": "8",
-        "color": "Favorita",
-        "icon": "pink",
-        "orderId": 0
-    },
-    {
-        "id": 9,
-        "name": "9",
-        "color": "Alterada",
-        "icon": "yellow",
-        "orderId": 0
-    },
-    {
-        "id": 10,
-        "name": "10",
-        "color": "Outro idioma",
-        "icon": "blue2",
-        "orderId": 0
-    },
-    {
-        "id": 11,
-        "name": "11",
-        "color": "Pokeball Foil",
-        "icon": "blue",
-        "orderId": 0
-    },
-    {
-        "id": 12,
-        "name": "12",
-        "color": "Masterball Foil",
-        "icon": "purple",
-        "orderId": 0
-    },
-    {
-        "id": 13,
-        "name": "13",
-        "color": "First Edition",
-        "icon": "green",
-        "orderId": 1
-    }
-]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Tenho",
+            "color": "green",
+            "icon": "check",
+            "orderId": 1
+        },
+        {
+            "id": 2,
+            "name": "Preciso",
+            "color": "red",
+            "icon": "red_eye",
+            "orderId": 3
+        },
+        {
+            "id": 3,
+            "name": "Tenho reverse",
+            "color": "blue",
+            "icon": "star",
+            "orderId": 2
+        },
+        {
+            "id": 4,
+            "name": "Troca",
+            "color": "purple",
+            "icon": "swap",
+            "orderId": 4
+        },
+        {
+            "id": 5,
+            "name": "Compra",
+            "color": "yellow",
+            "icon": "shopping",
+            "orderId": 5
+        },
+        {
+            "id": 6,
+            "name": "Danificada",
+            "color": "orange",
+            "icon": "warning",
+            "orderId": 6
+        },
+        {
+            "id": 7,
+            "name": "Ignorar",
+            "color": "black",
+            "icon": "block",
+            "orderId": 7
+        },
+        {
+            "id": 8,
+            "name": "Favorita",
+            "color": "pink",
+            "icon": "heart",
+            "orderId": 8
+        },
+        {
+            "id": 9,
+            "name": "Alterada",
+            "color": "yellow",
+            "icon": "A",
+            "orderId": 9
+        },
+        {
+            "id": 10,
+            "name": "Outro idioma",
+            "color": "blue2",
+            "icon": "language",
+            "orderId": 10
+        },
+        {
+            "id": 11,
+            "name": "Pokeball Foil",
+            "color": "blue",
+            "icon": "pokemon",
+            "orderId": 11
+        },
+        {
+            "id": 12,
+            "name": "Masterball Foil",
+            "color": "purple",
+            "icon": "pokemon",
+            "orderId": 12
+        },
+        {
+            "id": 13,
+            "name": "First Edition",
+            "color": "green",
+            "icon": "1st",
+            "orderId": 13
+        }
+    ]
+}

@@ -1,416 +1,418 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "Basic",
-        "nomePt": "Básico",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/basico.png"
-    },
-    {
-        "id": 2,
-        "name": "Stage 1",
-        "nomePt": "Estágio 1",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/estagio1.png"
-    },
-    {
-        "id": 3,
-        "name": "Stage 2",
-        "nomePt": "Estágio 2",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/estagio2.png"
-    },
-    {
-        "id": 4,
-        "name": "Item",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/item.png"
-    },
-    {
-        "id": 5,
-        "name": "Supporter",
-        "nomePt": "Apoiador",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/treinador.png"
-    },
-    {
-        "id": 6,
-        "name": "Stadium",
-        "nomePt": "Estádio",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/estadio.png"
-    },
-    {
-        "id": 7,
-        "name": "Pokémon Tool",
-        "nomePt": "Ferramenta",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/tool.png"
-    },
-    {
-        "id": 8,
-        "name": "ACE SPEC",
-        "nomePt": "ACE SPEC",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/acespeac.png"
-    },
-    {
-        "id": 9,
-        "name": "Special Energy",
-        "nomePt": "Energia Especial",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/especial.png"
-    },
-    {
-        "id": 10,
-        "name": "Basic Energy",
-        "nomePt": "Energia básica",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/energia_basica.png"
-    },
-    {
-        "id": 11,
-        "name": "Technical Machine",
-        "nomePt": "Máquina Técnica",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/tm.png"
-    },
-    {
-        "id": 12,
-        "name": "Goldenrod Game Corner",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/goldencornergame.png"
-    },
-    {
-        "id": 13,
-        "name": "Baby",
-        "nomePt": "Bebê",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/baby.png"
-    },
-    {
-        "id": 14,
-        "name": "Restored",
-        "nomePt": "Restaurado",
-        "image": ""
-    },
-    {
-        "id": 15,
-        "name": "Star",
-        "nomePt": "Estrela",
-        "image": ""
-    },
-    {
-        "id": 16,
-        "name": "ex",
-        "nomePt": "ex",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/sv_ex.png"
-    },
-    {
-        "id": 17,
-        "name": "Delta species",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/deltaspicies.png"
-    },
-    {
-        "id": 18,
-        "name": "SP",
-        "nomePt": "",
-        "image": ""
-    },
-    {
-        "id": 19,
-        "name": "Level-Up",
-        "nomePt": "LV.X",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/lv_x.png"
-    },
-    {
-        "id": 24,
-        "name": "Prime",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/prime.png"
-    },
-    {
-        "id": 25,
-        "name": "LEGEND",
-        "nomePt": "LENDA",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/legend.png"
-    },
-    {
-        "id": 26,
-        "name": "EX",
-        "nomePt": "EX",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/ex.png"
-    },
-    {
-        "id": 27,
-        "name": "BREAK",
-        "nomePt": "TURBO",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/break.png"
-    },
-    {
-        "id": 28,
-        "name": "MEGA",
-        "nomePt": "MEGA",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/mega.png"
-    },
-    {
-        "id": 29,
-        "name": "Ancient Trait",
-        "nomePt": "Traços Ancestrais",
-        "image": ""
-    },
-    {
-        "id": 30,
-        "name": "GX",
-        "nomePt": "GX",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/gx.png"
-    },
-    {
-        "id": 31,
-        "name": "Ultra Beast",
-        "nomePt": "Ultracriatura",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/ub.png"
-    },
-    {
-        "id": 32,
-        "name": "Prism Star",
-        "nomePt": "Estrela Prisma",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/stellar_type.png"
-    },
-    {
-        "id": 33,
-        "name": "TAG TEAM",
-        "nomePt": "ALIADOS",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/tag_team.png"
-    },
-    {
-        "id": 34,
-        "name": "Radiant",
-        "nomePt": "Radiante",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/radiant.png"
-    },
-    {
-        "id": 35,
-        "name": "Single Strike",
-        "nomePt": "Golpe Decisivo",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/golpe_decisivo.png"
-    },
-    {
-        "id": 36,
-        "name": "Rapid Strike",
-        "nomePt": "Golpe Fluido",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/golpe_fuido.png"
-    },
-    {
-        "id": 37,
-        "name": "Fusion Strike",
-        "nomePt": "Golpe Fusão",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/fusion.png"
-    },
-    {
-        "id": 38,
-        "name": "V",
-        "nomePt": "V",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/v.png"
-    },
-    {
-        "id": 39,
-        "name": "VMAX",
-        "nomePt": "V-MAX",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/vmax.png"
-    },
-    {
-        "id": 40,
-        "name": "VSTAR",
-        "nomePt": "V-ASTRO",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/v_star.png"
-    },
-    {
-        "id": 41,
-        "name": "V-UNION",
-        "nomePt": "V-UNIÃO",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/v_union.png"
-    },
-    {
-        "id": 42,
-        "name": "Dynamax",
-        "nomePt": "Dynamax",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/dynamax.png"
-    },
-    {
-        "id": 43,
-        "name": "Gigantamax",
-        "nomePt": "Gigantamax",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/gigantamax.png"
-    },
-    {
-        "id": 44,
-        "name": "Eternamax",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/eternamax.png"
-    },
-    {
-        "id": 45,
-        "name": "Terastal",
-        "nomePt": "Terastralizado",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/terasta.png"
-    },
-    {
-        "id": 46,
-        "name": "Future",
-        "nomePt": "Futurista",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/future.png"
-    },
-    {
-        "id": 47,
-        "name": "Ancient",
-        "nomePt": "Ancestral",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/ancient.png"
-    },
-    {
-        "id": 48,
-        "name": "Trainer Gallery",
-        "nomePt": "Galeria de Treinadores",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/trainerart.png"
-    },
-    {
-        "id": 49,
-        "name": "Celebration",
-        "nomePt": "Celebrações",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/celebracoes."
-    },
-    {
-        "id": 50,
-        "name": "RC",
-        "nomePt": "Coleção Radiante",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/radiant_collection.png"
-    },
-    {
-        "id": 51,
-        "name": "Movie",
-        "nomePt": "Filmes",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/movie.png"
-    },
-    {
-        "id": 52,
-        "name": "Rocket",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/team_rocket_logo"
-    },
-    {
-        "id": 53,
-        "name": "Rocket's Secret Machine",
-        "nomePt": "",
-        "image": ""
-    },
-    {
-        "id": 54,
-        "name": "Team Aqua",
-        "nomePt": "Equipe Aqua",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/team_aqua.png"
-    },
-    {
-        "id": 55,
-        "name": "Team Magma",
-        "nomePt": "Equipe Magma",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/team_magma.png"
-    },
-    {
-        "id": 56,
-        "name": "Galactic",
-        "nomePt": "Equipe Galactic",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/team_galactic.png"
-    },
-    {
-        "id": 57,
-        "name": "Team Plasma",
-        "nomePt": "Equipe plasma",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/team_plasma.png"
-    },
-    {
-        "id": 58,
-        "name": "Team Flare Hyper Gear",
-        "nomePt": "Equipamento da equipe Flare",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/team_flare.png"
-    },
-    {
-        "id": 59,
-        "name": "Special Ilustration",
-        "nomePt": "Arte Especial",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/arte_especial.png"
-    },
-    {
-        "id": 60,
-        "name": "Shiny",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/shiny.png"
-    },
-    {
-        "id": 61,
-        "name": "Golden",
-        "nomePt": "Dourada",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/golden.png"
-    },
-    {
-        "id": 62,
-        "name": "Prerelease",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/prerelease.png"
-    },
-    {
-        "id": 63,
-        "name": "Full Art",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/fullart.png"
-    },
-    {
-        "id": 64,
-        "name": "Altered",
-        "nomePt": "Alterada",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/altered.png"
-    },
-    {
-        "id": 65,
-        "name": "Rainbow",
-        "nomePt": "Arco-iris",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/rainbow.png"
-    },
-    {
-        "id": 66,
-        "name": "Liga",
-        "nomePt": "",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/liga.png"
-    },
-    {
-        "id": 67,
-        "name": "ETB",
-        "nomePt": "Promos de Coleção Treinador Av",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/subtypes\/etb.png"
-    },
-    {
-        "id": 68,
-        "name": "Oversized",
-        "nomePt": "Jumbo",
-        "image": ""
-    },
-    {
-        "id": 72,
-        "name": "Trainer's Pokemon",
-        "nomePt": "Pokemon de Treinador",
-        "image": ""
-    },
-    {
-        "id": 73,
-        "name": "Dark",
-        "nomePt": "",
-        "image": ""
-    },
-    {
-        "id": 74,
-        "name": "Light",
-        "nomePt": "",
-        "image": ""
-    },
-    {
-        "id": 75,
-        "name": "Crystal",
-        "nomePt": "",
-        "image": ""
-    },
-    {
-        "id": 76,
-        "name": "Paldean",
-        "nomePt": "",
-        "image": ""
-    }
-]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Basic",
+            "nomePt": "Básico",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/basico.png"
+        },
+        {
+            "id": 2,
+            "name": "Stage 1",
+            "nomePt": "Estágio 1",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/estagio1.png"
+        },
+        {
+            "id": 3,
+            "name": "Stage 2",
+            "nomePt": "Estágio 2",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/estagio2.png"
+        },
+        {
+            "id": 4,
+            "name": "Item",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/item.png"
+        },
+        {
+            "id": 5,
+            "name": "Supporter",
+            "nomePt": "Apoiador",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/treinador.png"
+        },
+        {
+            "id": 6,
+            "name": "Stadium",
+            "nomePt": "Estádio",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/estadio.png"
+        },
+        {
+            "id": 7,
+            "name": "Pokémon Tool",
+            "nomePt": "Ferramenta",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/tool.png"
+        },
+        {
+            "id": 8,
+            "name": "ACE SPEC",
+            "nomePt": "ACE SPEC",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/acespeac.png"
+        },
+        {
+            "id": 9,
+            "name": "Special Energy",
+            "nomePt": "Energia Especial",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/especial.png"
+        },
+        {
+            "id": 10,
+            "name": "Basic Energy",
+            "nomePt": "Energia básica",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/energia_basica.png"
+        },
+        {
+            "id": 11,
+            "name": "Technical Machine",
+            "nomePt": "Máquina Técnica",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/tm.png"
+        },
+        {
+            "id": 12,
+            "name": "Goldenrod Game Corner",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/goldencornergame.png"
+        },
+        {
+            "id": 13,
+            "name": "Baby",
+            "nomePt": "Bebê",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/baby.png"
+        },
+        {
+            "id": 14,
+            "name": "Restored",
+            "nomePt": "Restaurado",
+            "image": ""
+        },
+        {
+            "id": 15,
+            "name": "Star",
+            "nomePt": "Estrela",
+            "image": ""
+        },
+        {
+            "id": 16,
+            "name": "ex",
+            "nomePt": "ex",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/sv_ex.png"
+        },
+        {
+            "id": 17,
+            "name": "Delta species",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/deltaspicies.png"
+        },
+        {
+            "id": 18,
+            "name": "SP",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 19,
+            "name": "Level-Up",
+            "nomePt": "LV.X",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/lv_x.png"
+        },
+        {
+            "id": 24,
+            "name": "Prime",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/prime.png"
+        },
+        {
+            "id": 25,
+            "name": "LEGEND",
+            "nomePt": "LENDA",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/legend.png"
+        },
+        {
+            "id": 26,
+            "name": "EX",
+            "nomePt": "EX",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/ex.png"
+        },
+        {
+            "id": 27,
+            "name": "BREAK",
+            "nomePt": "TURBO",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/break.png"
+        },
+        {
+            "id": 28,
+            "name": "MEGA",
+            "nomePt": "MEGA",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/mega.png"
+        },
+        {
+            "id": 29,
+            "name": "Ancient Trait",
+            "nomePt": "Traços Ancestrais",
+            "image": ""
+        },
+        {
+            "id": 30,
+            "name": "GX",
+            "nomePt": "GX",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/gx.png"
+        },
+        {
+            "id": 31,
+            "name": "Ultra Beast",
+            "nomePt": "Ultracriatura",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/ub.png"
+        },
+        {
+            "id": 32,
+            "name": "Prism Star",
+            "nomePt": "Estrela Prisma",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/stellar_type.png"
+        },
+        {
+            "id": 33,
+            "name": "TAG TEAM",
+            "nomePt": "ALIADOS",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/tag_team.png"
+        },
+        {
+            "id": 34,
+            "name": "Radiant",
+            "nomePt": "Radiante",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/radiant.png"
+        },
+        {
+            "id": 35,
+            "name": "Single Strike",
+            "nomePt": "Golpe Decisivo",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/golpe_decisivo.png"
+        },
+        {
+            "id": 36,
+            "name": "Rapid Strike",
+            "nomePt": "Golpe Fluido",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/golpe_fuido.png"
+        },
+        {
+            "id": 37,
+            "name": "Fusion Strike",
+            "nomePt": "Golpe Fusão",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/fusion.png"
+        },
+        {
+            "id": 38,
+            "name": "V",
+            "nomePt": "V",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/v.png"
+        },
+        {
+            "id": 39,
+            "name": "VMAX",
+            "nomePt": "V-MAX",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/vmax.png"
+        },
+        {
+            "id": 40,
+            "name": "VSTAR",
+            "nomePt": "V-ASTRO",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/v_star.png"
+        },
+        {
+            "id": 41,
+            "name": "V-UNION",
+            "nomePt": "V-UNIÃO",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/v_union.png"
+        },
+        {
+            "id": 42,
+            "name": "Dynamax",
+            "nomePt": "Dynamax",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/dynamax.png"
+        },
+        {
+            "id": 43,
+            "name": "Gigantamax",
+            "nomePt": "Gigantamax",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/gigantamax.png"
+        },
+        {
+            "id": 44,
+            "name": "Eternamax",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/eternamax.png"
+        },
+        {
+            "id": 45,
+            "name": "Terastal",
+            "nomePt": "Terastralizado",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/terasta.png"
+        },
+        {
+            "id": 46,
+            "name": "Future",
+            "nomePt": "Futurista",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/future.png"
+        },
+        {
+            "id": 47,
+            "name": "Ancient",
+            "nomePt": "Ancestral",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/ancient.png"
+        },
+        {
+            "id": 48,
+            "name": "Trainer Gallery",
+            "nomePt": "Galeria de Treinadores",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/trainerart.png"
+        },
+        {
+            "id": 49,
+            "name": "Celebration",
+            "nomePt": "Celebrações",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/celebracoes."
+        },
+        {
+            "id": 50,
+            "name": "RC",
+            "nomePt": "Coleção Radiante",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/radiant_collection.png"
+        },
+        {
+            "id": 51,
+            "name": "Movie",
+            "nomePt": "Filmes",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/movie.png"
+        },
+        {
+            "id": 52,
+            "name": "Rocket",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_rocket_logo"
+        },
+        {
+            "id": 53,
+            "name": "Rocket's Secret Machine",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 54,
+            "name": "Team Aqua",
+            "nomePt": "Equipe Aqua",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_aqua.png"
+        },
+        {
+            "id": 55,
+            "name": "Team Magma",
+            "nomePt": "Equipe Magma",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_magma.png"
+        },
+        {
+            "id": 56,
+            "name": "Galactic",
+            "nomePt": "Equipe Galactic",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_galactic.png"
+        },
+        {
+            "id": 57,
+            "name": "Team Plasma",
+            "nomePt": "Equipe plasma",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_plasma.png"
+        },
+        {
+            "id": 58,
+            "name": "Team Flare Hyper Gear",
+            "nomePt": "Equipamento da equipe Flare",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_flare.png"
+        },
+        {
+            "id": 59,
+            "name": "Special Ilustration",
+            "nomePt": "Arte Especial",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/arte_especial.png"
+        },
+        {
+            "id": 60,
+            "name": "Shiny",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/shiny.png"
+        },
+        {
+            "id": 61,
+            "name": "Golden",
+            "nomePt": "Dourada",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/golden.png"
+        },
+        {
+            "id": 62,
+            "name": "Prerelease",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/prerelease.png"
+        },
+        {
+            "id": 63,
+            "name": "Full Art",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/fullart.png"
+        },
+        {
+            "id": 64,
+            "name": "Altered",
+            "nomePt": "Alterada",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/altered.png"
+        },
+        {
+            "id": 65,
+            "name": "Rainbow",
+            "nomePt": "Arco-iris",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rainbow.png"
+        },
+        {
+            "id": 66,
+            "name": "Liga",
+            "nomePt": "",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/liga.png"
+        },
+        {
+            "id": 67,
+            "name": "ETB",
+            "nomePt": "Promos de Coleção Treinador Av",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/etb.png"
+        },
+        {
+            "id": 68,
+            "name": "Oversized",
+            "nomePt": "Jumbo",
+            "image": ""
+        },
+        {
+            "id": 72,
+            "name": "Trainer's Pokemon",
+            "nomePt": "Pokemon de Treinador",
+            "image": ""
+        },
+        {
+            "id": 73,
+            "name": "Dark",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 74,
+            "name": "Light",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 75,
+            "name": "Crystal",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 76,
+            "name": "Paldean",
+            "nomePt": "",
+            "image": ""
+        }
+    ]
+}

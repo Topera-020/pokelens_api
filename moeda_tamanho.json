@@ -1,20 +1,22 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "Grande",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 2,
-        "name": "Média",
-        "nomePt": null,
-        "image": null
-    },
-    {
-        "id": 3,
-        "name": "Extragrande",
-        "nomePt": null,
-        "image": null
-    }
-]}
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Grande",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 2,
+            "name": "Média",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": 3,
+            "name": "Extragrande",
+            "nomePt": "",
+            "image": ""
+        }
+    ]
+}
