@@ -1,17 +1,19 @@
-{"data": [
-    {
-        "id": "1",
-        "name": "Pokémon",
-        "nomePt": "Pokémon"
-    },
-    {
-        "id": "2",
-        "name": "Trainer",
-        "nomePt": "Treinador"
-    },
-    {
-        "id": "3",
-        "name": "Energy",
-        "nomePt": "Energia"
-    }
-]}
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Pokémon",
+            "nomePt": "Pokémon"
+        },
+        {
+            "id": "2",
+            "name": "Trainer",
+            "nomePt": "Treinador"
+        },
+        {
+            "id": "3",
+            "name": "Energy",
+            "nomePt": "Energia"
+        }
+    ]
+}

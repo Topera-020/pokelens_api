@@ -1,11 +1,5 @@
 {"data": [
     {
-        "id": 0,
-        "name": "Lightning",
-        "nomePt": "Elétrico",
-        "image": null
-    },
-    {
         "id": 1,
         "name": "normal",
         "nomePt": "Normal",

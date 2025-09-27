@@ -1,68 +1,70 @@
-{"data": [
-    {
-        "id": 1,
-        "name": "Grass",
-        "nomePt": "Grama",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Grass.png"
-    },
-    {
-        "id": 2,
-        "name": "Fire",
-        "nomePt": "Fogo",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Fire.png"
-    },
-    {
-        "id": 3,
-        "name": "Water",
-        "nomePt": "Água",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Water.png"
-    },
-    {
-        "id": 4,
-        "name": "Lightning",
-        "nomePt": "Elétrico",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Lightning.png"
-    },
-    {
-        "id": 5,
-        "name": "Psychic",
-        "nomePt": "Psíquico",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Psychic.png"
-    },
-    {
-        "id": 6,
-        "name": "Fighting",
-        "nomePt": "Lutador",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Fighting.png"
-    },
-    {
-        "id": 7,
-        "name": "Darkness",
-        "nomePt": "Escuridão",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Darkness.png"
-    },
-    {
-        "id": 8,
-        "name": "Metal",
-        "nomePt": "Metal",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Metal.png"
-    },
-    {
-        "id": 9,
-        "name": "Colorless",
-        "nomePt": "Incolor",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Colorless.png"
-    },
-    {
-        "id": 10,
-        "name": "Fairy",
-        "nomePt": "Fada",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Fairy.png"
-    },
-    {
-        "id": 11,
-        "name": "Dragon",
-        "nomePt": "Dragão",
-        "image": "https:\/\/raw.githubusercontent.com\/Topera-020\/pokelens_assets\/refs\/heads\/master\/types\/Dragon.png"
-    }
-]}
+{
+    "data": [
+        {
+            "id": "1",
+            "name": "Grass",
+            "nomePt": "Grama",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Grass.png"
+        },
+        {
+            "id": "2",
+            "name": "Fire",
+            "nomePt": "Fogo",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Fire.png"
+        },
+        {
+            "id": "3",
+            "name": "Water",
+            "nomePt": "Água",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Water.png"
+        },
+        {
+            "id": "4",
+            "name": "Lightning",
+            "nomePt": "Elétrico",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Lightning.png"
+        },
+        {
+            "id": "5",
+            "name": "Psychic",
+            "nomePt": "Psíquico",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Psychic.png"
+        },
+        {
+            "id": "6",
+            "name": "Fighting",
+            "nomePt": "Lutador",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Fighting.png"
+        },
+        {
+            "id": "7",
+            "name": "Darkness",
+            "nomePt": "Escuridão",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Darkness.png"
+        },
+        {
+            "id": "8",
+            "name": "Metal",
+            "nomePt": "Metal",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Metal.png"
+        },
+        {
+            "id": "9",
+            "name": "Colorless",
+            "nomePt": "Incolor",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Colorless.png"
+        },
+        {
+            "id": "10",
+            "name": "Fairy",
+            "nomePt": "Fada",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Fairy.png"
+        },
+        {
+            "id": "11",
+            "name": "Dragon",
+            "nomePt": "Dragão",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/types/Dragon.png"
+        }
+    ]
+}
