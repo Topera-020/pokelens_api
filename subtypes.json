@@ -82,13 +82,13 @@
             "id": 14,
             "name": "Restored",
             "nomePt": "Restaurado",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 15,
             "name": "Star",
             "nomePt": "Estrela",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 16,
@@ -106,7 +106,7 @@
             "id": 18,
             "name": "SP",
             "nomePt": "",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 19,
@@ -148,7 +148,7 @@
             "id": 29,
             "name": "Ancient Trait",
             "nomePt": "Traços Ancestrais",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 30,
@@ -268,7 +268,7 @@
             "id": 49,
             "name": "Celebration",
             "nomePt": "Celebrações",
-            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/celebracoes."
+            "image": "https://raw.png"
         },
         {
             "id": 50,
@@ -286,13 +286,13 @@
             "id": 52,
             "name": "Rocket",
             "nomePt": "",
-            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/team_rocket_logo"
+            "image": "https://raw.png"
         },
         {
             "id": 53,
             "name": "Rocket's Secret Machine",
             "nomePt": "",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 54,
@@ -382,37 +382,37 @@
             "id": 68,
             "name": "Oversized",
             "nomePt": "Jumbo",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 72,
             "name": "Trainer's Pokemon",
             "nomePt": "Pokemon de Treinador",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 73,
             "name": "Dark",
             "nomePt": "",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 74,
             "name": "Light",
             "nomePt": "",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 75,
             "name": "Crystal",
             "nomePt": "",
-            "image": ""
+            "image": ".png"
         },
         {
             "id": 76,
             "name": "Paldean",
             "nomePt": "",
-            "image": ""
+            "image": ".png"
         }
     ]
 }
