@@ -1464,6 +1464,25 @@
             "numberID": 0
         },
         {
+            "id": "mep",
+            "language": "en",
+            "name": "Mega Evolution Black Star Promos",
+            "nomePt": null,
+            "seriesId": 18,
+            "printedTotal": 0,
+            "total": 0,
+            "ptcgo": "PR-ME",
+            "releaseDate": "2025/09/26",
+            "symbolImg": "https://images.pokemontcg.io/svp/symbol.png",
+            "logoImg": "https://images.pokemontcg.io/svp/logo.png",
+            "codigoLiga": "MEP",
+            "numeroLiga": 0,
+            "codigoMyp": "PR_ME",
+            "numeroMyp": 0,
+            "formatoLiga": "3",
+            "numberID": 0
+        },
+        {
             "id": "neo1",
             "language": "en",
             "name": "Neo Genesis",

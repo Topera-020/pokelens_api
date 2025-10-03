@@ -82,13 +82,13 @@
             "id": 14,
             "name": "Restored",
             "nomePt": "Restaurado",
-            "image": ".png"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/fossil.png"
         },
         {
             "id": 15,
             "name": "Star",
             "nomePt": "Estrela",
-            "image": ".png"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/star.png"
         },
         {
             "id": 16,
@@ -106,7 +106,7 @@
             "id": 18,
             "name": "SP",
             "nomePt": "",
-            "image": ".png"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/sp.png"
         },
         {
             "id": 19,

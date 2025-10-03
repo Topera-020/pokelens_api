@@ -28,19 +28,19 @@
             "id": "5",
             "name": "Rare Holo",
             "nomePt": "Holo",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rare.png"
         },
         {
             "id": "6",
             "name": "Rare Secret",
             "nomePt": "Secreta",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rare_secret.png"
         },
         {
             "id": "7",
             "name": "Rare Shining",
             "nomePt": "Shining",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rare_secret.png"
         },
         {
             "id": "8",
@@ -124,7 +124,7 @@
             "id": "21",
             "name": "Rare Shiny GX",
             "nomePt": "Brilhante GX",
-            "image": ".png"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/gx.png"
         },
         {
             "id": "22",
@@ -154,7 +154,7 @@
             "id": "26",
             "name": "Rare Holo VSTAR",
             "nomePt": "VSTAR",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/v_star.png"
         },
         {
             "id": "27",
@@ -166,19 +166,19 @@
             "id": "28",
             "name": "Amazing Rare",
             "nomePt": "Amazing",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/amazing_rare.png"
         },
         {
             "id": "29",
             "name": "Hyper Rare",
             "nomePt": "Hiper",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/hyper_rare.png"
         },
         {
             "id": "30",
             "name": "Double Rare",
             "nomePt": "Double",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/doblre_rare.png"
         },
         {
             "id": "31",
@@ -190,7 +190,7 @@
             "id": "32",
             "name": "Ultra Rare",
             "nomePt": "Ultra Rara",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rare.png"
         },
         {
             "id": "33",
@@ -202,11 +202,23 @@
             "id": "35",
             "name": "Shiny Ultra Rare",
             "nomePt": "Brilhante Ultra",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rare.pnghttps://raw.githubuserco"
         },
         {
             "id": "36",
             "name": "Black White Rare",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "37",
+            "name": "Mega Hyper Rare",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "38",
+            "name": "Mega Hyper Rare",
             "nomePt": "",
             "image": ""
         }
