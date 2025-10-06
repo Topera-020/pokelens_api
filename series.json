@@ -1,13 +1,6 @@
 {
     "data": [
         {
-            "id": "0",
-            "name": null,
-            "nomePt": "",
-            "image": "https://images.pokemontcg.io/base1/logo.png",
-            "releaseDate": "1999-01-09"
-        },
-        {
             "id": "1",
             "name": "Base",
             "nomePt": "",
