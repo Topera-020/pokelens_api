@@ -1,6 +1,25 @@
 {
     "data": [
         {
+            "id": "20th-j",
+            "language": "ja",
+            "name": "20th Anniversary Starter Pack",
+            "nomePt": "",
+            "seriesId": null,
+            "printedTotal": 72,
+            "total": 84,
+            "ptcgo": "20th",
+            "releaseDate": "2016-02-27",
+            "symbolImg": "https://static.tcgcollector.com/content/images/3c/16/c0/3c16c000c3a4f52fe6acec1166ede296436aeb51ffbfbcb2aaed9aa07fcd3442.webp",
+            "logoImg": "https://static.tcgcollector.com/content/images/3c/16/c0/3c16c000c3a4f52fe6acec1166ede296436aeb51ffbfbcb2aaed9aa07fcd3442.webp",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 368
+        },
+        {
             "id": "adve-j",
             "language": "ja",
             "name": "ADV Expansion Pack",
@@ -17,7 +36,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 247
         },
         {
             "id": "advp-j",
@@ -36,7 +55,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 279
         },
         {
             "id": "b02-j",
@@ -55,7 +74,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 268
         },
         {
             "id": "b03-j",
@@ -74,7 +93,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 267
         },
         {
             "id": "b04-j",
@@ -93,7 +112,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 266
         },
         {
             "id": "b05-j",
@@ -112,7 +131,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 264
         },
         {
             "id": "b06-j",
@@ -131,7 +150,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 263
         },
         {
             "id": "base1",
@@ -283,7 +302,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 252
         },
         {
             "id": "bp",
@@ -397,7 +416,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 191
         },
         {
             "id": "bw1w-j",
@@ -416,7 +435,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 192
         },
         {
             "id": "bw2",
@@ -454,7 +473,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 186
         },
         {
             "id": "bw3",
@@ -492,7 +511,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 182
         },
         {
             "id": "bw3b-j",
@@ -511,7 +530,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 181
         },
         {
             "id": "bw4",
@@ -549,7 +568,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 174
         },
         {
             "id": "bw5",
@@ -587,7 +606,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 169
         },
         {
             "id": "bw5s-j",
@@ -606,7 +625,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 170
         },
         {
             "id": "bw6",
@@ -644,7 +663,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 166
         },
         {
             "id": "bw6f-j",
@@ -663,7 +682,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 167
         },
         {
             "id": "bw7",
@@ -701,7 +720,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 164
         },
         {
             "id": "bw8",
@@ -739,7 +758,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 158
         },
         {
             "id": "bw9",
@@ -777,7 +796,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 155
         },
         {
             "id": "bwa-j",
@@ -796,7 +815,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 196
         },
         {
             "id": "bwaa-j",
@@ -815,7 +834,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 153
         },
         {
             "id": "bwab-j",
@@ -834,7 +853,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 152
         },
         {
             "id": "bwac-j",
@@ -853,7 +872,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 151
         },
         {
             "id": "bwb-j",
@@ -872,7 +891,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 195
         },
         {
             "id": "bwc-j",
@@ -891,7 +910,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 194
         },
         {
             "id": "bwd-j",
@@ -910,7 +929,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 193
         },
         {
             "id": "bwe-j",
@@ -929,7 +948,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 190
         },
         {
             "id": "bwf-j",
@@ -948,7 +967,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 189
         },
         {
             "id": "bwg-j",
@@ -967,7 +986,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 188
         },
         {
             "id": "bwh-j",
@@ -986,7 +1005,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 187
         },
         {
             "id": "bwio-j",
@@ -1005,7 +1024,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 183
         },
         {
             "id": "bwis-j",
@@ -1024,7 +1043,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 184
         },
         {
             "id": "bwit-j",
@@ -1043,7 +1062,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 185
         },
         {
             "id": "bwj-j",
@@ -1062,7 +1081,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 180
         },
         {
             "id": "bwk-j",
@@ -1081,7 +1100,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 179
         },
         {
             "id": "bwl-j",
@@ -1100,7 +1119,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 178
         },
         {
             "id": "bwmo-j",
@@ -1119,7 +1138,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 175
         },
         {
             "id": "bwms-j",
@@ -1138,7 +1157,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 176
         },
         {
             "id": "bwmt-j",
@@ -1157,7 +1176,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 177
         },
         {
             "id": "bwn-j",
@@ -1176,7 +1195,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 172
         },
         {
             "id": "bwo-j",
@@ -1195,7 +1214,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 171
         },
         {
             "id": "bwo2-j",
@@ -1214,7 +1233,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 168
         },
         {
             "id": "bwp",
@@ -1252,7 +1271,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 273
         },
         {
             "id": "bwq-j",
@@ -1271,7 +1290,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 165
         },
         {
             "id": "bwr-j",
@@ -1290,7 +1309,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 163
         },
         {
             "id": "bws-j",
@@ -1309,7 +1328,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 162
         },
         {
             "id": "bwt-j",
@@ -1328,7 +1347,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 161
         },
         {
             "id": "bwu-j",
@@ -1347,7 +1366,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 160
         },
         {
             "id": "bwv-j",
@@ -1366,7 +1385,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 159
         },
         {
             "id": "bwx-j",
@@ -1385,7 +1404,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 157
         },
         {
             "id": "bwy-j",
@@ -1404,7 +1423,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 156
         },
         {
             "id": "bwz-j",
@@ -1423,7 +1442,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 154
         },
         {
             "id": "cbs-j",
@@ -1442,7 +1461,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 241
         },
         {
             "id": "cel25",
@@ -1499,7 +1518,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 354
         },
         {
             "id": "CGD-H-j",
@@ -1518,7 +1537,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 358
         },
         {
             "id": "CGD-j",
@@ -1537,7 +1556,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 265
         },
         {
             "id": "CGD-K-j",
@@ -1556,7 +1575,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 356
         },
         {
             "id": "CGD-N-j",
@@ -1575,7 +1594,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 359
         },
         {
             "id": "CGD-T-j",
@@ -1594,7 +1613,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 357
         },
         {
             "id": "CGD-Y-j",
@@ -1613,7 +1632,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 355
         },
         {
             "id": "CLF-j",
@@ -1632,7 +1651,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 338
         },
         {
             "id": "CLK-j",
@@ -1651,7 +1670,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 336
         },
         {
             "id": "CLL-j",
@@ -1670,7 +1689,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 337
         },
         {
             "id": "col1",
@@ -1727,7 +1746,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 137
         },
         {
             "id": "cp2-j",
@@ -1746,7 +1765,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 133
         },
         {
             "id": "cp3-j",
@@ -1765,7 +1784,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 123
         },
         {
             "id": "cp4-j",
@@ -1784,7 +1803,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 118
         },
         {
             "id": "cp5-j",
@@ -1803,7 +1822,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 115
         },
         {
             "id": "cp6-j",
@@ -1822,7 +1841,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 114
         },
         {
             "id": "dc1",
@@ -1879,7 +1898,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 217
         },
         {
             "id": "dp0-P-j",
@@ -1898,7 +1917,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 219
         },
         {
             "id": "dp0-Pk-j",
@@ -1917,7 +1936,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 218
         },
         {
             "id": "dp0-T-j",
@@ -1936,7 +1955,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 220
         },
         {
             "id": "dp1",
@@ -1974,7 +1993,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 230
         },
         {
             "id": "dp2",
@@ -2012,7 +2031,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 229
         },
         {
             "id": "dp3",
@@ -2050,7 +2069,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 227
         },
         {
             "id": "dp4",
@@ -2088,7 +2107,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 226
         },
         {
             "id": "dp5",
@@ -2126,7 +2145,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 225
         },
         {
             "id": "dp6",
@@ -2164,7 +2183,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 224
         },
         {
             "id": "dp7",
@@ -2202,7 +2221,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 223
         },
         {
             "id": "dp8-j",
@@ -2221,7 +2240,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 222
         },
         {
             "id": "dpp",
@@ -2259,7 +2278,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 277
         },
         {
             "id": "ds-j",
@@ -2278,7 +2297,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 173
         },
         {
             "id": "dv1",
@@ -2696,7 +2715,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 269
         },
         {
             "id": "fll-j",
@@ -2715,7 +2734,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 242
         },
         {
             "id": "fut20",
@@ -2791,7 +2810,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 238
         },
         {
             "id": "gym1",
@@ -2924,7 +2943,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 233
         },
         {
             "id": "hrt-j",
@@ -2943,7 +2962,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 234
         },
         {
             "id": "hrtf-j",
@@ -2962,7 +2981,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 235
         },
         {
             "id": "hsp",
@@ -3000,7 +3019,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 150
         },
         {
             "id": "ipb-j",
@@ -3019,7 +3038,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 261
         },
         {
             "id": "ipc-j",
@@ -3038,7 +3057,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 255
         },
         {
             "id": "ips-j",
@@ -3057,7 +3076,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 262
         },
         {
             "id": "ipt-j",
@@ -3076,7 +3095,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 256
         },
         {
             "id": "J-p-j",
@@ -3095,7 +3114,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 282
         },
         {
             "id": "l1hg-j",
@@ -3114,7 +3133,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 205
         },
         {
             "id": "l1ss-j",
@@ -3133,7 +3152,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 206
         },
         {
             "id": "l2-j",
@@ -3152,7 +3171,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 199
         },
         {
             "id": "l3-j",
@@ -3171,7 +3190,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 197
         },
         {
             "id": "la-j",
@@ -3190,7 +3209,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 204
         },
         {
             "id": "lb-j",
@@ -3209,7 +3228,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 203
         },
         {
             "id": "lc-j",
@@ -3228,7 +3247,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 202
         },
         {
             "id": "ld-j",
@@ -3247,7 +3266,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 201
         },
         {
             "id": "LEGEND2-S-S-j",
@@ -3266,7 +3285,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 200
         },
         {
             "id": "legp-j",
@@ -3285,7 +3304,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 274
         },
         {
             "id": "ll-j",
@@ -3304,7 +3323,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 198
         },
         {
             "id": "LVM-L-j",
@@ -3323,7 +3342,83 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 364
+        },
+        {
+            "id": "M1L-j",
+            "language": "ja",
+            "name": "Mega Brave",
+            "nomePt": "",
+            "seriesId": 18,
+            "printedTotal": 63,
+            "total": 92,
+            "ptcgo": "M1L",
+            "releaseDate": "2025-08-01",
+            "symbolImg": "https://static.tcgcollector.com/content/images/3c/16/c0/3c16c013338cc6dad088bac26b3863303367f3a3c80ca1a53eac7572a45dffa9.webp",
+            "logoImg": "https://static.tcgcollector.com/content/images/3c/16/c0/3c16c013338cc6dad088bac26b3863303367f3a3c80ca1a53eac7572a45dffa9.webp",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 372
+        },
+        {
+            "id": "M1S-j",
+            "language": "ja",
+            "name": "Mega Symphonia",
+            "nomePt": "",
+            "seriesId": 18,
+            "printedTotal": 63,
+            "total": 92,
+            "ptcgo": "M1S",
+            "releaseDate": "2025-08-01",
+            "symbolImg": "https://static.tcgcollector.com/content/images/62/d9/ca/62d9ca6ff960a242db0eb1ddd1debc24bd297ccf9f3ce169214c027682e879fa.webp",
+            "logoImg": "https://static.tcgcollector.com/content/images/62/d9/ca/62d9ca6ff960a242db0eb1ddd1debc24bd297ccf9f3ce169214c027682e879fa.webp",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 373
+        },
+        {
+            "id": "M2-j",
+            "language": "ja",
+            "name": "Inferno X",
+            "nomePt": "",
+            "seriesId": 18,
+            "printedTotal": 80,
+            "total": 116,
+            "ptcgo": "M2",
+            "releaseDate": "2025-09-26",
+            "symbolImg": "https://static.tcgcollector.com/content/images/71/6c/33/716c33cb093fab094d581791e87cd41e01235a735f267439e6dad66bbc3727c3.webp",
+            "logoImg": "https://static.tcgcollector.com/content/images/dd/51/02/dd51027e0965adba6f9047bc1f214dbe9218a66f7c6443d0a848d67e10431865.webp",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 374
+        },
+        {
+            "id": "MA-j",
+            "language": "ja",
+            "name": "MEGA Premium Trainer Box",
+            "nomePt": "",
+            "seriesId": 18,
+            "printedTotal": 43,
+            "total": 43,
+            "ptcgo": "MA",
+            "releaseDate": "2025-08-01",
+            "symbolImg": "https://static.tcgcollector.com/content/images/25/92/9c/25929c40d2aef422dcf83f4d629e5f8f0effc166c605db3064192870f20f0268.webp",
+            "logoImg": "https://static.tcgcollector.com/content/images/25/92/9c/25929c40d2aef422dcf83f4d629e5f8f0effc166c605db3064192870f20f0268.webp",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 371
         },
         {
             "id": "mcd11",
@@ -3532,7 +3627,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 295
         },
         {
             "id": "mcp-j",
@@ -3551,7 +3646,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 288
         },
         {
             "id": "me1",
@@ -3608,7 +3703,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 232
         },
         {
             "id": "mid-j",
@@ -3627,7 +3722,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 246
         },
         {
             "id": "mif-j",
@@ -3646,7 +3741,26 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 236
+        },
+        {
+            "id": "MP-j",
+            "language": "ja",
+            "name": "MEGA Promos",
+            "nomePt": "",
+            "seriesId": 18,
+            "printedTotal": 13,
+            "total": 13,
+            "ptcgo": "MP",
+            "releaseDate": "2025-08-01",
+            "symbolImg": "https://static.tcgcollector.com/content/images/6b/b3/ce/6bb3ce96ca0e1c1a7ab041ed70980703fb0d87766febd24f509446510c5597f5.webp",
+            "logoImg": "https://static.tcgcollector.com/content/images/6b/b3/ce/6bb3ce96ca0e1c1a7ab041ed70980703fb0d87766febd24f509446510c5597f5.webp",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 370
         },
         {
             "id": "MPS-j",
@@ -3665,7 +3779,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 290
         },
         {
             "id": "MPS08-j",
@@ -3684,7 +3798,26 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 289
+        },
+        {
+            "id": "MsD-j",
+            "language": "ja",
+            "name": "Miscellaneous Decks",
+            "nomePt": "",
+            "seriesId": null,
+            "printedTotal": 73,
+            "total": 73,
+            "ptcgo": "MsD",
+            "releaseDate": "1996-10-15",
+            "symbolImg": "",
+            "logoImg": "",
+            "codigoLiga": "",
+            "numeroLiga": 0,
+            "codigoMyp": "",
+            "numeroMyp": 0,
+            "formatoLiga": "000",
+            "numberID": 367
         },
         {
             "id": "mva-j",
@@ -3703,7 +3836,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 244
         },
         {
             "id": "mym-j",
@@ -3722,7 +3855,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 248
         },
         {
             "id": "neo1",
@@ -3760,7 +3893,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 260
         },
         {
             "id": "neo2",
@@ -3798,7 +3931,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 259
         },
         {
             "id": "neo3",
@@ -3836,7 +3969,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 258
         },
         {
             "id": "neo4",
@@ -3874,7 +4007,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 257
         },
         {
             "id": "np",
@@ -3912,7 +4045,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 339
         },
         {
             "id": "npf2-j",
@@ -3931,7 +4064,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 340
         },
         {
             "id": "npf3-j",
@@ -3950,7 +4083,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 341
         },
         {
             "id": "odfe-j",
@@ -3969,7 +4102,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 231
         },
         {
             "id": "PCG3-S-B-j",
@@ -3988,7 +4121,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 239
         },
         {
             "id": "PCG5-S-j",
@@ -4007,7 +4140,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 237
         },
         {
             "id": "pcgp-j",
@@ -4026,7 +4159,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 278
         },
         {
             "id": "pgo",
@@ -4140,7 +4273,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 280
         },
         {
             "id": "plp-j",
@@ -4159,7 +4292,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 275
         },
         {
             "id": "pop1",
@@ -4349,7 +4482,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 293
         },
         {
             "id": "ppf-j",
@@ -4368,7 +4501,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 294
         },
         {
             "id": "pppp-j",
@@ -4387,7 +4520,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 276
         },
         {
             "id": "ppr-j",
@@ -4406,7 +4539,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 283
         },
         {
             "id": "PSM-j",
@@ -4425,7 +4558,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 292
         },
         {
             "id": "pt1-j",
@@ -4444,7 +4577,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 221
         },
         {
             "id": "pt2-j",
@@ -4463,7 +4596,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 214
         },
         {
             "id": "pt3-j",
@@ -4482,7 +4615,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 213
         },
         {
             "id": "pt4-j",
@@ -4501,7 +4634,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 207
         },
         {
             "id": "pta-j",
@@ -4520,7 +4653,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 216
         },
         {
             "id": "ptb-j",
@@ -4539,7 +4672,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 215
         },
         {
             "id": "ptc-j",
@@ -4558,7 +4691,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 210
         },
         {
             "id": "ptd-j",
@@ -4577,7 +4710,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 212
         },
         {
             "id": "pte-j",
@@ -4596,7 +4729,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 211
         },
         {
             "id": "ptf-j",
@@ -4615,7 +4748,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 209
         },
         {
             "id": "ptg-j",
@@ -4634,7 +4767,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 208
         },
         {
             "id": "qcp-f-j",
@@ -4653,7 +4786,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 326
         },
         {
             "id": "qcp-g-j",
@@ -4672,7 +4805,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 328
         },
         {
             "id": "qcp-l-j",
@@ -4691,7 +4824,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 329
         },
         {
             "id": "qcp-p-j",
@@ -4710,7 +4843,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 330
         },
         {
             "id": "qcp-r-j",
@@ -4729,7 +4862,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 327
         },
         {
             "id": "qcp-w-j",
@@ -4748,7 +4881,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 331
         },
         {
             "id": "rgsb-j",
@@ -4767,7 +4900,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 240
         },
         {
             "id": "rsv10pt5",
@@ -4824,7 +4957,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 245
         },
         {
             "id": "s10a-j",
@@ -4843,7 +4976,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 7
         },
         {
             "id": "s10b-j",
@@ -4862,7 +4995,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 6
         },
         {
             "id": "s10D-j",
@@ -4881,7 +5014,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 9
         },
         {
             "id": "s10P-j",
@@ -4900,7 +5033,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 8
         },
         {
             "id": "s11-j",
@@ -4919,7 +5052,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 4
         },
         {
             "id": "s11a-j",
@@ -4938,7 +5071,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 1
         },
         {
             "id": "s12-j",
@@ -4957,7 +5090,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 297
         },
         {
             "id": "s12a-j",
@@ -4976,7 +5109,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 298
         },
         {
             "id": "s1a-j",
@@ -4995,7 +5128,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 51
         },
         {
             "id": "s1h-j",
@@ -5014,7 +5147,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 53
         },
         {
             "id": "s1w-j",
@@ -5033,7 +5166,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 54
         },
         {
             "id": "s2-j",
@@ -5052,7 +5185,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 50
         },
         {
             "id": "s2a-j",
@@ -5071,7 +5204,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 47
         },
         {
             "id": "s3-j",
@@ -5090,7 +5223,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 46
         },
         {
             "id": "s3a-j",
@@ -5109,7 +5242,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 44
         },
         {
             "id": "s4-j",
@@ -5128,7 +5261,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 43
         },
         {
             "id": "s4a-j",
@@ -5147,7 +5280,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 41
         },
         {
             "id": "s5a-j",
@@ -5166,7 +5299,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 34
         },
         {
             "id": "s5i-j",
@@ -5185,7 +5318,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 37
         },
         {
             "id": "s5r-j",
@@ -5204,7 +5337,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 35
         },
         {
             "id": "s6a-j",
@@ -5223,7 +5356,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 27
         },
         {
             "id": "s6h-j",
@@ -5242,7 +5375,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 32
         },
         {
             "id": "s6k-j",
@@ -5261,7 +5394,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 31
         },
         {
             "id": "s7d-j",
@@ -5280,7 +5413,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 25
         },
         {
             "id": "s7r-j",
@@ -5299,7 +5432,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 24
         },
         {
             "id": "s8-j",
@@ -5318,7 +5451,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 22
         },
         {
             "id": "s8a-B-j",
@@ -5337,7 +5470,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 18
         },
         {
             "id": "s8a-j",
@@ -5356,7 +5489,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 20
         },
         {
             "id": "s8a-P-j",
@@ -5375,7 +5508,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 21
         },
         {
             "id": "s8b-j",
@@ -5394,7 +5527,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 17
         },
         {
             "id": "s9-j",
@@ -5413,7 +5546,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 14
         },
         {
             "id": "s9a-j",
@@ -5432,7 +5565,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 11
         },
         {
             "id": "saf-j",
@@ -5451,7 +5584,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 56
         },
         {
             "id": "sag-j",
@@ -5470,7 +5603,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 58
         },
         {
             "id": "sal-j",
@@ -5489,7 +5622,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 59
         },
         {
             "id": "sar-j",
@@ -5508,7 +5641,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 57
         },
         {
             "id": "saw-j",
@@ -5527,7 +5660,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 60
         },
         {
             "id": "sc2-j",
@@ -5546,7 +5679,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 40
         },
         {
             "id": "scs-c-j",
@@ -5565,7 +5698,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 48
         },
         {
             "id": "scs-g-j",
@@ -5584,7 +5717,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 49
         },
         {
             "id": "sd-j",
@@ -5603,7 +5736,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 45
         },
         {
             "id": "sef-j",
@@ -5622,7 +5755,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 39
         },
         {
             "id": "sek-j",
@@ -5641,7 +5774,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 38
         },
         {
             "id": "sf-j",
@@ -5660,7 +5793,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 36
         },
         {
             "id": "sfp-j",
@@ -5679,7 +5812,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 26
         },
         {
             "id": "sI-j",
@@ -5698,7 +5831,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 16
         },
         {
             "id": "si1",
@@ -5736,7 +5869,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 296
         },
         {
             "id": "sJ-j",
@@ -5755,7 +5888,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 19
         },
         {
             "id": "sK-j",
@@ -5774,7 +5907,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 15
         },
         {
             "id": "sL-j",
@@ -5793,7 +5926,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 3
         },
         {
             "id": "sLD-j",
@@ -5812,7 +5945,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 12
         },
         {
             "id": "sLL-j",
@@ -5831,7 +5964,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 13
         },
         {
             "id": "sM-j",
@@ -5850,7 +5983,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 5
         },
         {
             "id": "sm0-j",
@@ -5869,7 +6002,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 113
         },
         {
             "id": "sm1",
@@ -5907,7 +6040,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 107
         },
         {
             "id": "sm10",
@@ -5945,7 +6078,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 71
         },
         {
             "id": "sm10a-j",
@@ -5964,7 +6097,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 69
         },
         {
             "id": "sm10b-j",
@@ -5983,7 +6116,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 68
         },
         {
             "id": "sm11",
@@ -6021,7 +6154,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 65
         },
         {
             "id": "sm115",
@@ -6059,7 +6192,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 64
         },
         {
             "id": "sm11b-j",
@@ -6078,7 +6211,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 63
         },
         {
             "id": "sm12",
@@ -6116,7 +6249,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 62
         },
         {
             "id": "sm12a-j",
@@ -6135,7 +6268,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 61
         },
         {
             "id": "sm1m-j",
@@ -6154,7 +6287,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 109
         },
         {
             "id": "sm1s-j",
@@ -6173,7 +6306,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 110
         },
         {
             "id": "sm2",
@@ -6211,7 +6344,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 102
         },
         {
             "id": "sm2k-j",
@@ -6230,7 +6363,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 105
         },
         {
             "id": "sm2l-j",
@@ -6249,7 +6382,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 104
         },
         {
             "id": "sm3",
@@ -6287,7 +6420,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 98
         },
         {
             "id": "sm35",
@@ -6325,7 +6458,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 100
         },
         {
             "id": "sm3n-j",
@@ -6344,7 +6477,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 99
         },
         {
             "id": "sm4",
@@ -6382,7 +6515,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 95
         },
         {
             "id": "sm4a-j",
@@ -6401,7 +6534,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 97
         },
         {
             "id": "sm4s-j",
@@ -6420,7 +6553,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 96
         },
         {
             "id": "sm5",
@@ -6458,7 +6591,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 90
         },
         {
             "id": "sm5m-j",
@@ -6477,7 +6610,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 91
         },
         {
             "id": "sm5s-j",
@@ -6496,7 +6629,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 92
         },
         {
             "id": "sm6",
@@ -6534,7 +6667,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 88
         },
         {
             "id": "sm6a-j",
@@ -6553,7 +6686,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 87
         },
         {
             "id": "sm6b-j",
@@ -6572,7 +6705,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 86
         },
         {
             "id": "sm7",
@@ -6610,7 +6743,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 85
         },
         {
             "id": "sm75",
@@ -6648,7 +6781,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 84
         },
         {
             "id": "sm7b-j",
@@ -6667,7 +6800,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 82
         },
         {
             "id": "sm8",
@@ -6705,7 +6838,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 81
         },
         {
             "id": "sm8a-j",
@@ -6724,7 +6857,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 80
         },
         {
             "id": "sm8b-j",
@@ -6743,7 +6876,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 79
         },
         {
             "id": "sm9",
@@ -6781,7 +6914,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 76
         },
         {
             "id": "sm9a-j",
@@ -6800,7 +6933,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 75
         },
         {
             "id": "sm9b-j",
@@ -6819,7 +6952,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 73
         },
         {
             "id": "sma",
@@ -6857,7 +6990,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 112
         },
         {
             "id": "smb-j",
@@ -6876,7 +7009,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 111
         },
         {
             "id": "smc-j",
@@ -6895,7 +7028,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 106
         },
         {
             "id": "smd-j",
@@ -6914,7 +7047,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 101
         },
         {
             "id": "sme-j",
@@ -6933,7 +7066,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 94
         },
         {
             "id": "smf-j",
@@ -6952,7 +7085,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 93
         },
         {
             "id": "smg-j",
@@ -6971,7 +7104,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 89
         },
         {
             "id": "smh-j",
@@ -6990,7 +7123,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 83
         },
         {
             "id": "smi-j",
@@ -7009,7 +7142,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 78
         },
         {
             "id": "smj-j",
@@ -7028,7 +7161,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 77
         },
         {
             "id": "smk-j",
@@ -7047,7 +7180,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 74
         },
         {
             "id": "sml-j",
@@ -7066,7 +7199,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 72
         },
         {
             "id": "smm-j",
@@ -7085,7 +7218,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 70
         },
         {
             "id": "smn-j",
@@ -7104,7 +7237,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 66
         },
         {
             "id": "smp",
@@ -7142,7 +7275,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 271
         },
         {
             "id": "smp1-j",
@@ -7161,7 +7294,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 108
         },
         {
             "id": "smp2-j",
@@ -7180,7 +7313,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 67
         },
         {
             "id": "sN-j",
@@ -7199,7 +7332,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 10
         },
         {
             "id": "snpn-j",
@@ -7218,7 +7351,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 127
         },
         {
             "id": "snpr-j",
@@ -7237,7 +7370,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 128
         },
         {
             "id": "sO-j",
@@ -7256,7 +7389,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 300
         },
         {
             "id": "sp1-j",
@@ -7275,7 +7408,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 52
         },
         {
             "id": "sp2-j",
@@ -7294,7 +7427,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 42
         },
         {
             "id": "sp3-j",
@@ -7313,7 +7446,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 33
         },
         {
             "id": "sp4-j",
@@ -7332,7 +7465,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 28
         },
         {
             "id": "sp5-j",
@@ -7351,7 +7484,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 23
         },
         {
             "id": "sp6-j",
@@ -7370,7 +7503,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 2
         },
         {
             "id": "spe-j",
@@ -7389,7 +7522,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 249
         },
         {
             "id": "spt-j",
@@ -7408,7 +7541,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 55
         },
         {
             "id": "sv-p-j",
@@ -7427,7 +7560,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 299
         },
         {
             "id": "sv1",
@@ -7484,7 +7617,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 363
         },
         {
             "id": "SV11B-j",
@@ -7503,7 +7636,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 365
         },
         {
             "id": "SV11W-j",
@@ -7522,7 +7655,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 366
         },
         {
             "id": "sv1a-j",
@@ -7541,7 +7674,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 307
         },
         {
             "id": "sv1s-j",
@@ -7560,7 +7693,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 301
         },
         {
             "id": "sv1v-j",
@@ -7579,7 +7712,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 302
         },
         {
             "id": "sv2",
@@ -7617,7 +7750,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 310
         },
         {
             "id": "sv2d-j",
@@ -7636,7 +7769,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 308
         },
         {
             "id": "sv2p-j",
@@ -7655,7 +7788,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 309
         },
         {
             "id": "sv3",
@@ -7693,7 +7826,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 314
         },
         {
             "id": "sv3a-j",
@@ -7712,7 +7845,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 317
         },
         {
             "id": "sv3pt5",
@@ -7769,7 +7902,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 323
         },
         {
             "id": "sv4k-j",
@@ -7788,7 +7921,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 321
         },
         {
             "id": "sv4m-j",
@@ -7807,7 +7940,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 322
         },
         {
             "id": "sv4pt5",
@@ -7864,7 +7997,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 342
         },
         {
             "id": "sv5k-j",
@@ -7883,7 +8016,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 333
         },
         {
             "id": "sv5m-j",
@@ -7902,7 +8035,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 332
         },
         {
             "id": "sv6",
@@ -7940,7 +8073,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 343
         },
         {
             "id": "SV6a-j",
@@ -7959,7 +8092,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 344
         },
         {
             "id": "sv6pt5",
@@ -8016,7 +8149,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 345
         },
         {
             "id": "SV7a-j",
@@ -8035,7 +8168,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 349
         },
         {
             "id": "sv8",
@@ -8073,7 +8206,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 350
         },
         {
             "id": "SV8a-j",
@@ -8092,7 +8225,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 352
         },
         {
             "id": "sv8pt5",
@@ -8149,7 +8282,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 353
         },
         {
             "id": "SV9A-j",
@@ -8168,7 +8301,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 360
         },
         {
             "id": "SVAL-j",
@@ -8187,7 +8320,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 305
         },
         {
             "id": "SVAM-j",
@@ -8206,7 +8339,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 303
         },
         {
             "id": "SVAW-j",
@@ -8225,7 +8358,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 304
         },
         {
             "id": "SVB-j",
@@ -8244,7 +8377,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 306
         },
         {
             "id": "svc-j",
@@ -8263,7 +8396,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 311
         },
         {
             "id": "svd-j",
@@ -8282,7 +8415,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 313
         },
         {
             "id": "sve",
@@ -8320,7 +8453,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 318
         },
         {
             "id": "svem-j",
@@ -8339,7 +8472,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 319
         },
         {
             "id": "svf-j",
@@ -8358,7 +8491,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 316
         },
         {
             "id": "svg-j",
@@ -8377,7 +8510,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 325
         },
         {
             "id": "svhk-j",
@@ -8396,7 +8529,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 335
         },
         {
             "id": "svhm-j",
@@ -8415,7 +8548,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 334
         },
         {
             "id": "SVK-j",
@@ -8434,7 +8567,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 346
         },
         {
             "id": "SVLN-j",
@@ -8453,7 +8586,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 347
         },
         {
             "id": "SVLS-j",
@@ -8472,7 +8605,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 348
         },
         {
             "id": "SVM-j",
@@ -8491,7 +8624,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 351
         },
         {
             "id": "svmg2-j",
@@ -8510,7 +8643,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 29
         },
         {
             "id": "svmi-j",
@@ -8529,7 +8662,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 30
         },
         {
             "id": "SVOD-j",
@@ -8548,7 +8681,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 361
         },
         {
             "id": "SVOM-j",
@@ -8567,7 +8700,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 362
         },
         {
             "id": "svp",
@@ -8605,7 +8738,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 312
         },
         {
             "id": "swsh1",
@@ -9042,7 +9175,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 270
         },
         {
             "id": "T-p-j",
@@ -9061,7 +9194,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 281
         },
         {
             "id": "tk-xy-b",
@@ -9346,7 +9479,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 250
         },
         {
             "id": "unp-j",
@@ -9365,7 +9498,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 284
         },
         {
             "id": "uns-j",
@@ -9384,7 +9517,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 243
         },
         {
             "id": "vm1-j",
@@ -9403,7 +9536,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 287
         },
         {
             "id": "vm2-j",
@@ -9422,7 +9555,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 286
         },
         {
             "id": "vm3-j",
@@ -9441,7 +9574,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 285
         },
         {
             "id": "vs-j",
@@ -9460,7 +9593,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 254
         },
         {
             "id": "VSDeoxys-j",
@@ -9479,7 +9612,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 291
         },
         {
             "id": "wcp-j",
@@ -9498,7 +9631,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 228
         },
         {
             "id": "wcs23-j",
@@ -9517,7 +9650,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 315
         },
         {
             "id": "web-j",
@@ -9536,7 +9669,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 253
         },
         {
             "id": "wfs-j",
@@ -9555,7 +9688,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 251
         },
         {
             "id": "xy-j",
@@ -9574,7 +9707,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 103
         },
         {
             "id": "xy0",
@@ -9650,7 +9783,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 119
         },
         {
             "id": "xy11",
@@ -9688,7 +9821,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 116
         },
         {
             "id": "xy11f-j",
@@ -9707,7 +9840,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 117
         },
         {
             "id": "xy12",
@@ -9745,7 +9878,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 148
         },
         {
             "id": "xy1y-j",
@@ -9764,7 +9897,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 149
         },
         {
             "id": "xy2",
@@ -9802,7 +9935,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 145
         },
         {
             "id": "xy3",
@@ -9840,7 +9973,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 146
         },
         {
             "id": "xy30y-j",
@@ -9859,7 +9992,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 147
         },
         {
             "id": "xy3r-j",
@@ -9878,7 +10011,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 143
         },
         {
             "id": "xy4",
@@ -9916,7 +10049,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 142
         },
         {
             "id": "xy5",
@@ -9954,7 +10087,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 138
         },
         {
             "id": "xy5t-j",
@@ -9973,7 +10106,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 139
         },
         {
             "id": "xy6",
@@ -10011,7 +10144,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 135
         },
         {
             "id": "xy7",
@@ -10049,7 +10182,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 134
         },
         {
             "id": "xy8",
@@ -10087,7 +10220,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 126
         },
         {
             "id": "xy8r-j",
@@ -10106,7 +10239,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 129
         },
         {
             "id": "xy9",
@@ -10144,7 +10277,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 124
         },
         {
             "id": "xya-j",
@@ -10163,7 +10296,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 144
         },
         {
             "id": "xyb-j",
@@ -10182,7 +10315,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 141
         },
         {
             "id": "xybsp-j",
@@ -10201,7 +10334,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 122
         },
         {
             "id": "xyc-j",
@@ -10220,7 +10353,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 140
         },
         {
             "id": "xyd-j",
@@ -10239,7 +10372,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 136
         },
         {
             "id": "xye-j",
@@ -10258,7 +10391,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 132
         },
         {
             "id": "xyf-j",
@@ -10277,7 +10410,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 125
         },
         {
             "id": "xyg-j",
@@ -10296,7 +10429,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 121
         },
         {
             "id": "xyh-j",
@@ -10315,7 +10448,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 120
         },
         {
             "id": "xyp",
@@ -10353,7 +10486,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 272
         },
         {
             "id": "xyps-j",
@@ -10372,7 +10505,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 131
         },
         {
             "id": "xyss-j",
@@ -10391,7 +10524,7 @@
             "codigoMyp": "",
             "numeroMyp": 0,
             "formatoLiga": "3",
-            "numberID": 0
+            "numberID": 130
         },
         {
             "id": "zsv10pt5",
