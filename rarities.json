@@ -159,8 +159,8 @@
         {
             "id": "27",
             "name": "Trainer Gallery Rare Holo",
-            "nomePt": "Trainer Gallery",
-            "image": ""
+            "nomePt": "Galeria de Treinador",
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/trainerart.png"
         },
         {
             "id": "28",
@@ -184,7 +184,7 @@
             "id": "31",
             "name": "Illustration Rare",
             "nomePt": "Ilustração",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/arte_especial.png"
         },
         {
             "id": "32",
@@ -196,7 +196,7 @@
             "id": "33",
             "name": "Special Illustration Rare",
             "nomePt": "Ilustração Especial",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/arte_especial.png"
         },
         {
             "id": "35",

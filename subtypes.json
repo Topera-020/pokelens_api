@@ -148,7 +148,7 @@
             "id": 29,
             "name": "Ancient Trait",
             "nomePt": "Traços Ancestrais",
-            "image": ".png"
+            "image": ""
         },
         {
             "id": 30,
@@ -268,7 +268,7 @@
             "id": 49,
             "name": "Celebration",
             "nomePt": "Celebrações",
-            "image": "raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/celebracoes.png"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/celebracoes.png"
         },
         {
             "id": 50,
