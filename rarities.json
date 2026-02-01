@@ -202,61 +202,25 @@
             "id": "35",
             "name": "Shiny Ultra Rare",
             "nomePt": "Brilhante Ultra",
-            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/rare.pnghttps://raw.githubuserco"
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/ultra_sy.png"
         },
         {
             "id": "36",
             "name": "Black White Rare",
             "nomePt": "",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/black_wite.png"
         },
         {
             "id": "37",
             "name": "Mega Hyper Rare",
             "nomePt": "",
-            "image": ""
-        },
-        {
-            "id": "38",
-            "name": "MEGA_ATTACK_RARE",
-            "nomePt": "",
-            "image": ""
-        },
-        {
-            "id": "39",
-            "name": "MEGA_ATTACK_RARE",
-            "nomePt": "",
-            "image": ""
-        },
-        {
-            "id": "40",
-            "name": "MEGA_ATTACK_RARE",
-            "nomePt": "",
-            "image": ""
-        },
-        {
-            "id": "41",
-            "name": "MEGA_ATTACK_RARE",
-            "nomePt": "",
-            "image": ""
-        },
-        {
-            "id": "42",
-            "name": "MEGA_ATTACK_RARE",
-            "nomePt": "",
-            "image": ""
-        },
-        {
-            "id": "43",
-            "name": "MEGA_ATTACK_RARE",
-            "nomePt": "",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/mega_hiper.png"
         },
         {
             "id": "44",
-            "name": "MEGA_ATTACK_RARE",
+            "name": "MEGA ATTACK RARE",
             "nomePt": "",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/Topera-020/pokelens_assets/refs/heads/master/subtypes/mega_ataque.png"
         }
     ]
 }
