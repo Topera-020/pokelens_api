@@ -215,6 +215,48 @@
             "name": "Mega Hyper Rare",
             "nomePt": "",
             "image": ""
+        },
+        {
+            "id": "38",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "39",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "40",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "41",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "42",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "43",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
+        },
+        {
+            "id": "44",
+            "name": "MEGA_ATTACK_RARE",
+            "nomePt": "",
+            "image": ""
         }
     ]
 }

@@ -3744,6 +3744,25 @@
             "numberID": 0
         },
         {
+            "id": "me2pt5",
+            "language": "en",
+            "name": "Ascended Heroes",
+            "nomePt": "Herois Excelsos",
+            "seriesId": 18,
+            "printedTotal": 217,
+            "total": 295,
+            "ptcgo": "ASC",
+            "releaseDate": "2026/01/30",
+            "symbolImg": "https://images.scrydex.com/pokemon/me2pt5-symbol/symbol",
+            "logoImg": "https://images.scrydex.com/pokemon/me2pt5-logo/logo",
+            "codigoLiga": "ASC",
+            "numeroLiga": "217",
+            "codigoMyp": "ASC",
+            "numeroMyp": 217,
+            "formatoLiga": "3",
+            "numberID": 0
+        },
+        {
             "id": "mep",
             "language": "en",
             "name": "Mega Evolution Promos",
